@@ -1,29 +1,1353 @@
 [
   {
-    "Question": "1. 'కవిత్రయం' అని ఎవరిని అంటారు.",
-    "A": "నన్నయ, తిక్కన, ఎఱ్ఱన",
-    "B": "పాల్కురికి సోమన, పండితారాధ్యులు, మారన",
-    "C": "నన్నయ, తిక్కన, మారన",
-    "D": "పోతన, శ్రీనాథుడు, తిక్కన",
-    "Answer": "నన్నయ, తిక్కన, ఎఱ్ఱన",
-    "Explanation": "నన్నయ, తిక్కన, ఎఱ్ఱన కలసి 'కవిత్రయం'గా ప్రసిద్ధి."
+    "Question": "వికాస సూత్రాల ప్రకారం క్రింది వానిలో సరికానిది",
+    "A": "వికాసాన్ని ప్రాగుక్తీకరించగలం。",
+    "B": "వికాసంలో అన్ని దశలలో ఒకే రకంగా ఉంటుంది。",
+    "C": "వికాసంలో వైయక్తిక భేదాలు ఉంటాయి。",
+    "D": "వికాసం అవిచ్ఛిన్నంగా సాగుతుంది",
+    "Answer": "వికాసంలో అన్ని దశలలో ఒకే రకంగా ఉంటుంది。",
+    "Explanation": "వికాసం అన్ని దశలలో ఒకే రకంగా ఉండదు, ప్రతి దశలో వేగం, నాణ్యత మారుతాయి。"
   },
   {
-    "Question": "2. కింది వాటిలో గుఱ్ఱం జాషువా రచన కానిది",
-    "A": "గబ్బిలం",
-    "B": "ఫిరదౌసి",
-    "C": "స్వప్న కథ",
-    "D": "గంగిరెద్దు",
-    "Answer": "ఫిరదౌసి",
-    "Explanation": "గుఱ్ఱం జాషువా 'గబ్బిలం', 'స్వప్న కథ', 'గంగిరెద్దు' రచించాడు. 'ఫిరదౌసి' ఆయనది కాదు."
+    "Question": "స్త్రీ, పురుషులలో గౌణ లైంగిక లక్షణాలు అభివృద్ధి చెందే దశ",
+    "A": "ఉత్తర బాల్య",
+    "B": "యవ్వనారంభ",
+    "C": "పూర్వ వయోజన",
+    "D": "ఉత్తర కౌమార",
+    "Answer": "యవ్వనారంభ",
+    "Explanation": "స్త్రీ, పురుషులలో ద్వితీయ లైంగిక లక్షణాలు అభివృద్ధి చెందే దశ **యవ్వనారంభ** (Puberty)。"
   },
   {
-    "Question": "3. సామాన్య ప్రజల భాషలో కవిత్వం రాసిన టి. కృష్ణమూర్తి యాదవ్ రచనలు",
-    "A": "రాగమాల, మా ఊరు",
-    "B": "తొక్కుడు బండ, శబ్నం",
-    "C": "నేతాజి, బాపూజీ",
-    "D": "తృణకంకణం, స్నేహలత",
-    "Answer": "రాగమాల, మా ఊరు",
-    "Explanation": "టి. కృష్ణమూర్తి యాదవ్ సామాన్య భాషలో రాసినవి 'రాగమాల', 'మా ఊరు'."
+    "Question": "‘Scaffolding' అనే పదాన్ని ఉపయోగించిన వారు",
+    "A": "పియాజే",
+    "B": "కోల్బర్గ్",
+    "C": "వైగాట్స్కీ",
+    "D": "నోమ్ చామ్ స్కీ",
+    "Answer": "వైగాట్స్కీ",
+    "Explanation": "'Scaffolding' (తాత్కాలిక సహాయం) అనే భావనను **వైగాట్స్కీ** (Vygotsky) ప్రవేశపెట్టారు。"
+  },
+  {
+    "Question": "బందూరా ప్రకారం “అనుకరణ అభ్యసన”లో మొదటి సోపానం",
+    "A": "ధారణ",
+    "B": "అవధానం",
+    "C": "నిష్పాదన",
+    "D": "పునర్బలనం",
+    "Answer": "అవధానం",
+    "Explanation": "బందూరా అనుకరణ అభ్యసనంలో మొదటి సోపానం **అవధానం** (Attention)。"
+  },
+  {
+    "Question": "కింది వానిలో కౌమార దశ లక్షణం",
+    "A": "ఉద్వేగ అస్థిరత లేకపోవడం",
+    "B": "సంఖ్య భావన ఏర్పడటం",
+    "C": "నాయకారాధన",
+    "D": "ప్రజ్ఞా వికాసం మందకొడిగా జరగడం",
+    "Answer": "నాయకారాధన",
+    "Explanation": "**నాయకారాధన** (Hero worship) అనేది కౌమార దశ (Adolescence) యొక్క లక్షణం。"
+  },
+  {
+    "Question": "పెళ్లి అనే అంశమును గూర్చి ఆలోచిస్తున్నపుడు అప్రయత్నం గానే పెళ్లి పందిరి, బంధువులు మొ॥ గుర్తుకు రావడం",
+    "A": "సమైక్య ఆలోచన",
+    "B": "విభిన్న ఆలోచన",
+    "C": "నిర్ధేశిత ఆలోచన",
+    "D": "సంసర్గ ఆలోచన",
+    "Answer": "సంసర్గ ఆలోచన",
+    "Explanation": "ఒక అంశాన్ని ఆలోచించినప్పుడు దానికి సంబంధించిన ఇతర అంశాలు అనుకోకుండా గుర్తుకు రావడాన్ని **సంసర్గ ఆలోచన** (Associative thinking) అంటారు。"
+  },
+  {
+    "Question": "పీటర్ సాండిఫర్డ్ ప్రకారం మూర్తిమత్వాన్ని నిర్ధారించే బౌద్ధిక సామర్థ్యం",
+    "A": "స్మృతి",
+    "B": "ఆలోచన",
+    "C": "ప్రజ్ఞ",
+    "D": "సృజనాత్మకత",
+    "Answer": "ప్రజ్ఞ",
+    "Explanation": "పీటర్ సాండిఫర్డ్ ప్రకారం మూర్తిమత్వాన్ని నిర్ధారించే బౌద్ధిక సామర్థ్యం **ప్రజ్ఞ** (Intelligence)。"
+  },
+  {
+    "Question": "సరళ సైకిల్ తొక్కడంలో మంచి అనుభవం ఉంది. ఆమె మోటర్ సైకిల్ నడపడంలో ఈ అనుభవం ఉపయోగపడింది. దీనికి కారణం",
+    "A": "ధనాత్మక బదిలీ",
+    "B": "ఋణాత్మక బదిలీ",
+    "C": "శూన్య బదిలీ",
+    "D": "ద్విపార్శ బదిలీ",
+    "Answer": "ధనాత్మక బదిలీ",
+    "Explanation": "ఒక సందర్భంలోని అభ్యసనం మరొక సందర్భంలో సహాయపడితే దాన్ని **ధనాత్మక బదిలీ** (Positive transfer) అంటారు。"
+  },
+  {
+    "Question": "నిరక్షరాస్యులకు నిర్వహించే పరీక్ష",
+    "A": "ఆర్మీ జనరల్ క్లాసిఫికేషన్ పరీక్ష",
+    "B": "భాటియా ప్రజ్ఞామాపని",
+    "C": "వేష్లర్ పిల్లల ప్రజ్ఞామాపని",
+    "D": "వేష్లర్ వయోజనుల ప్రజ్ఞామాపని",
+    "Answer": "భాటియా ప్రజ్ఞామాపని",
+    "Explanation": "నిరక్షరాస్యులకు నిర్వహించే పరీక్షల్లో **భాటియా ప్రజ్ఞామాపని** (Bhatia intelligence test) ఒకటి。"
+  },
+  {
+    "Question": "'చికిత్సా పద్ధతి' అని ఈ పద్ధతికి మరోపేరు",
+    "A": "వ్యక్తి అధ్యయన పద్ధతి",
+    "B": "ప్రయోగ పద్ధతి",
+    "C": "పరిచ్ఛేదన ఉపగమం",
+    "D": "అనుధైర్ఘ్య ఉపగమం",
+    "Answer": "వ్యక్తి అధ్యయన పద్ధతి",
+    "Explanation": "**వ్యక్తి అధ్యయన పద్ధతి** (Case study method) ని 'చికిత్సా పద్ధతి' (Clinical method) అని కూడా అంటారు。"
+  },
+  {
+    "Question": "క్రింది వానిలో మానసిక చలనాత్మక రంగానికి చెందినది",
+    "A": "సహజీకరణ",
+    "B": "గ్రహించడం",
+    "C": "ప్రతిస్పందించడం",
+    "D": "మూల్యాంకనం",
+    "Answer": "సహజీకరణ",
+    "Explanation": "బ్లూమ్స్ వర్గీకరణలో **సహజీకరణ** (Naturalization) అనేది మానసిక చలనాత్మక రంగానికి (Psychomotor domain) చెందినది。"
+  },
+  {
+    "Question": "మూడు సంవత్సరాల వయస్సులోపు పిల్లలలో ఏర్పడే భావన",
+    "A": "రంగు భావన",
+    "B": "స్థల భావన",
+    "C": "ఆకార భావన",
+    "D": "సమయ భావన",
+    "Answer": "ఆకార భావన",
+    "Explanation": "మూడు సంవత్సరాల వయస్సులోపు పిల్లలలో **ఆకార భావన** (Shape concept) ఏర్పడుతుంది。"
+  },
+  {
+    "Question": "నీడను చూసి దయ్యమని భావించుట",
+    "A": "భ్రమ",
+    "B": "హైపోమానియా",
+    "C": "విభ్రమ",
+    "D": "పెరినాయియా",
+    "Answer": "భ్రమ",
+    "Explanation": "బాహ్య ఉద్దీపన ఉండి, దానిని తప్పుగా గ్రహించడాన్ని **భ్రమ** (Illusion) అంటారు。"
+  },
+  {
+    "Question": "మెండల్ సూత్రాలను ప్రయోగపూర్వకంగా నిర్వహించి గుర్తుంచుకోవడం అనేది ఈ రకమైన స్మృతి",
+    "A": "దీర్ఘ కాలిక స్మృతి",
+    "B": "తార్మిక స్మృతి",
+    "C": "క్రియాత్మక స్మృతి",
+    "D": "నిష్క్రియాత్మక స్మృతి",
+    "Answer": "క్రియాత్మక స్మృతి",
+    "Explanation": "ఏదైనా పనిని చేసి లేదా ప్రయోగపూర్వకంగా నేర్చుకుని గుర్తుంచుకోవడం **క్రియాత్మక స్మృతి** (Active memory) కి చెందుతుంది。"
+  },
+  {
+    "Question": "మొత్తం పరిస్థితికి ప్రాముఖ్యత నిచ్చిన అభ్యసన బదలాయింపు సిద్ధాంతం'",
+    "A": "నియత క్రమశిక్షణ సిద్ధాంతం",
+    "B": "సమరూప మూలకాల సిద్ధాంతం",
+    "C": "ట్రాన్స్ పొజిషన్స్ సిద్ధాంతం",
+    "D": "సామాన్యీకరణ సిద్ధాంతం",
+    "Answer": "ట్రాన్స్ పొజిషన్స్ సిద్ధాంతం",
+    "Explanation": "గెస్టాల్ట్ వాదుల **ట్రాన్స్ పొజిషన్స్ సిద్ధాంతం** (Theory of Transposition) మొత్తం పరిస్థితికి ప్రాముఖ్యతనిస్తుంది。"
+  },
+  {
+    "Question": "సాంఘిక అభ్యసన సిద్ధాంతమునకు వర్తించనిది",
+    "A": "అనుకరణ ద్వారా అభ్యసనం",
+    "B": "పరిశీలన ద్వారా అభ్యసనం",
+    "C": "అనుభవపూర్వక అభ్యసనం",
+    "D": "నమూనా అభ్యసనం",
+    "Answer": "అనుభవపూర్వక అభ్యసనం",
+    "Explanation": "సాంఘిక అభ్యసన సిద్ధాంతం అనుకరణ, పరిశీలన, నమూనా అభ్యసనంపై ఆధారపడి ఉంటుంది。 **అనుభవపూర్వక అభ్యసనం** ఈ సిద్ధాంతానికి నేరుగా వర్తించదు。"
+  },
+  {
+    "Question": "'అభ్యసనం'నకు సంబంధించి సరియైన నిర్వచనం",
+    "A": "అభ్యసనం స్థిరమైనది",
+    "B": "అభ్యసనం గమ్యాన్ని నిర్దేశించి ఉంటుంది",
+    "C": "అభ్యసనంలో వైయక్తిక బేధాలుండవు",
+    "D": "అభ్యసనం తాత్కాలిక మార్పు",
+    "Answer": "అభ్యసనం గమ్యాన్ని నిర్దేశించి ఉంటుంది",
+    "Explanation": "**అభ్యసనం గమ్యాన్ని నిర్దేశించి ఉంటుంది** (Learning is goal directed) అనేది సరైన నిర్వచనం。"
+  },
+  {
+    "Question": "ప్రయత్నాల సంఖ్య పెరిగే కొలదీ అభ్యసనంలో కనబడే తప్పుల సంఖ్య నిష్పాదన క్రమేణా తగ్గే సందర్భంలో ఏర్పడే అభ్యసన వక్రరేఖ",
+    "A": "ఆరోహణ",
+    "B": "అవరోహణ",
+    "C": "లాక్షణిక",
+    "D": "S' రకపు",
+    "Answer": "అవరోహణ",
+    "Explanation": "ప్రయత్నాల సంఖ్య పెరిగే కొలదీ తప్పుల సంఖ్య తగ్గుతూ పోతే ఏర్పడే వక్రరేఖ **అవరోహణ** (Negatively accelerated) వక్రరేఖ。"
+  },
+  {
+    "Question": "“శిశువులో మానసిక శారీరక పరిపక్వత పొందే కొద్దీ భావ ప్రకటనలో పరిపక్వత ఏర్పడుతుందని” చెప్పినవారు",
+    "A": "మెక్లిలాండ్",
+    "B": "మైకెవర్",
+    "C": "జర్సిల్డ్",
+    "D": "క్రో & క్రో",
+    "Answer": "జర్సిల్డ్",
+    "Explanation": "పై నిర్వచనాన్ని చెప్పినవారు **జర్సిల్డ్** (Jersild)。"
+  },
+  {
+    "Question": "దండనను తప్పించుకోవడం కోసం నేర్చుకోవడం అనేది",
+    "A": "సాధన ప్రేరణ",
+    "B": "సృజనాత్మక ప్రేరణ",
+    "C": "అంతర్గత ప్రేరణ",
+    "D": "బహిర్గత ప్రేరణ",
+    "Answer": "బహిర్గత ప్రేరణ",
+    "Explanation": "దండనను తప్పించుకోవడం లేదా బహుమతి కోసం నేర్చుకోవడం **బహిర్గత ప్రేరణ** (Extrinsic motivation) కిందకు వస్తుంది。"
+  },
+  {
+    "Question": "టర్నర్ సిండ్రోమ్ అనేది",
+    "A": "పరిసర కారకం",
+    "B": "చలన కారకం",
+    "C": "శారీరక కారకం",
+    "D": "జన్యుపరమైన కారకం",
+    "Answer": "జన్యుపరమైన కారకం",
+    "Explanation": "టర్నర్ సిండ్రోమ్ (Turner syndrome) అనేది ఒక **జన్యుపరమైన కారకం** (Genetic factor)。"
+  },
+  {
+    "Question": "'.txt' ఫైల్ ఫార్మట్ అర్థం",
+    "A": "Place text file",
+    "B": "text map file",
+    "C": "text XML file",
+    "D": "Place text XML file",
+    "Answer": "Add Score",
+    "Explanation": "ఈ ప్రశ్నకు సమాధానం ఇవ్వబడిన కీలో 'Add Score'గా ఉంది。 'txt' అనేది సాధారణంగా **Text** ఫైల్ ఫార్మట్ ను సూచిస్తుంది。"
+  },
+  {
+    "Question": "'NEP - 2020' ప్రకారం విద్యా స్థాయిలు",
+    "A": "5+3+4+3",
+    "B": "3+5+3+4",
+    "C": "5+3+3+4",
+    "D": "5+4+3+3",
+    "Answer": "5+3+3+4",
+    "Explanation": "NEP-2020 ప్రకారం విద్యా స్థాయిలు **5+3+3+4** (Foundation, Preparatory, Middle, Secondary stages)。"
+  },
+  {
+    "Question": "అంతర్జాతీయ బాలల హక్కుల పరిరక్షణ దినం",
+    "A": "నవంబరు 14",
+    "B": "నవంబరు 20",
+    "C": "నవంబరు 9",
+    "D": "నవంబరు 11",
+    "Answer": "నవంబరు 20",
+    "Explanation": "అంతర్జాతీయ బాలల హక్కుల పరిరక్షణ దినం (International Child Right Protection day) **నవంబరు 20**。"
+  },
+  {
+    "Question": "RTE-2009 ప్రకారం 'ఉచిత నిర్బంధ విద్యకు\" హక్కు కల్పించే సెక్షన్",
+    "A": "సెక్షన్ 02",
+    "B": "సెక్షన్ 03",
+    "C": "సెక్షన్ 06",
+    "D": "సెక్షన్ 01",
+    "Answer": "సెక్షన్ 03",
+    "Explanation": "RTE-2009 లో 'ఉచిత నిర్బంధ విద్యకు' హక్కు కల్పించేది **సెక్షన్ 03**。"
+  },
+  {
+    "Question": "హైపోగ్లైసీమియా ఈ వైకల్యంనకు దారి తీస్తుంది。",
+    "A": "అభ్యసన వైకల్యం",
+    "B": "మానసిక వైకల్యం",
+    "C": "శ్రవణ వైకల్యం",
+    "D": "చలనాత్మక వైకల్యం",
+    "Answer": "అభ్యసన వైకల్యం",
+    "Explanation": "హైపోగ్లైసీమియా (Hypoglycemia - తక్కువ రక్త చక్కెర స్థాయి) **అభ్యసన వైకల్యం** (Learning disability)నకు దారితీసే అవకాశం ఉంది。"
+  },
+  {
+    "Question": "రవి శారీరక వయస్సు 10 సంవత్సరాలు, మానసిక వయస్సు 12 సంవత్సరాలు అయిన రవి I.Q ఎంత?",
+    "A": "100",
+    "B": "120",
+    "C": "140",
+    "D": "160",
+    "Answer": "120",
+    "Explanation": "I.Q. = (మానసిక వయస్సు / శారీరక వయస్సు) x 100。 I.Q. = (12/10) x 100 = 120"
+  },
+  {
+    "Question": "'MOOC's': i. ఒకేసారి ఎక్కువ మంది అభ్యసించవచ్చు ii. ఆన్లైన్లో ఉచితంగా కోర్సులు అందుబాటులో ఉంటాయి",
+    "A": "‘i' మాత్రమే వాస్తవం",
+    "B": "‘ii' మాత్రమే వాస్తవం",
+    "C": "i, ii అవాస్తవం",
+    "D": "i మరియు ii కూడా వాస్తవం",
+    "Answer": "i మరియు ii కూడా వాస్తవం",
+    "Explanation": "**MOOC** (Massive Open Online Course) అంటే ఎక్కువ మంది ఒకేసారి ఆన్లైన్లో ఉచితంగా కోర్సులు అభ్యసించవచ్చు, కావున i మరియు ii కూడా వాస్తవం。"
+  },
+  {
+    "Question": "TaRL",
+    "A": "Technology Aided Rural in Languages",
+    "B": "Teachers and Rural People in Laboratory",
+    "C": "Teaching at Right Level",
+    "D": "Training at Rural Level",
+    "Answer": "Teaching at Right Level",
+    "Explanation": "**TaRL** అనగా **Teaching at Right Level**。"
+  },
+  {
+    "Question": "“The Process of Education” అనే పుస్తక రచయిత",
+    "A": "బ్రూనర్",
+    "B": "వైగాట్స్కీ",
+    "C": "థార్న్ డైక్",
+    "D": "పియాజే",
+    "Answer": "బ్రూనర్",
+    "Explanation": "“The Process of Education” పుస్తకాన్ని రచించినవారు **బ్రూనర్** (Bruner)。"
+  },
+  {
+    "Question": "ఈస్టిండియా కంపెనీ వలన చేతివృత్తుల పని వారిలో వచ్చిన మార్పు",
+    "A": "కంపెనీ కోసం ఉత్పత్తి చేసే కూలీలు అయ్యారు。",
+    "B": "తమ ఉత్పత్తులు ఎక్కువ ధరకు అమ్మి లాభాలు గడించారు。",
+    "C": "ఉత్పత్తిదారులుగా కాకుండా కొనుగోలుదారులుగా మారారు。",
+    "D": "కంపెనీ వారి ఉత్పత్తులను అమ్మే వారుగా మారారు。",
+    "Answer": "కంపెనీ కోసం ఉత్పత్తి చేసే కూలీలు అయ్యారు。",
+    "Explanation": "గద్యంలో, 'వృత్తి కారులు స్వేచ్ఛను కోల్పోయి **కంపెనీ కోసం ఉత్పత్తిచేసే కూలీలుగా మారిపోయారు**' అని స్పష్టంగా ఉంది。"
+  },
+  {
+    "Question": "పంచతంత్ర ప్రతులపై అధ్యయనం చేసి స్వరూపాలను నిర్ణయించింది ఎవరు? (సరికానిది)",
+    "A": "వివిధ దేశాలలో పంచతంత్ర వ్యాప్తిని గురించి బెయిన్ఫే కృషి చేశాడు。",
+    "B": "థియోడార్ బెయిన్ఫే, యోహాన్నెస్ హెర్టెల్లు పంచతంత్రాన్ని గూర్చి కృషి చేశారు。",
+    "C": "పంచతంత్రం 50 భాషల్లోకి అనువదించబడింది。",
+    "D": "వివిధ పంచతంత్ర ప్రతులపై అధ్యయనం చేసి స్వరూపాలను నిర్ణయించింది బెయిన్ఫే",
+    "Answer": "వివిధ పంచతంత్ర ప్రతులపై అధ్యయనం చేసి స్వరూపాలను నిర్ణయించింది బెయిన్ఫే",
+    "Explanation": "వివిధ పంచతంత్ర ప్రతులను పరిశీలించి, వాటి స్వరూపాలను నిర్ణయించింది యోహాన్నెస్ **హెర్టెల్**。 ఎంపిక (D) లో 'నిర్ణయించింది బెయిన్ఫే' అని ఉంది, ఇది సరికానిది。"
+  },
+  {
+    "Question": "'అలయక సొలయక మకరితో పోరాడినది’ (పద్యం ఆధారంగా)",
+    "A": "సింహము",
+    "B": "గజము",
+    "C": "వ్యాఘ్రము",
+    "D": "జంబుకము",
+    "Answer": "గజము",
+    "Explanation": "పద్యంలో 'కరి' (ఏనుగు/గజము) మకరి (మొసలి) తో పోరాడింది అని ఉంది。"
+  },
+  {
+    "Question": "సుమతీ శతకం ప్రకారం, మానధనుడు ఆత్మధృతి చెడి హీనుడిని ఆశ్రయించడం అనేది, దేనిలో ఏనుగు మెయి దాచినట్లుగా పోల్చారు?",
+    "A": "ఏనుగు",
+    "B": "శరీరము",
+    "C": "కుంచము నీళ్ళు",
+    "D": "పాము పడగ",
+    "Answer": "కుంచము నీళ్ళు",
+    "Explanation": "మానధనుడు హీనుడిని ఆశ్రయించడం అనేది 'మానెడు జలముల లోపల' (**కుంచము నీళ్లలో**) ఏనుగు శరీరాన్ని దాచినట్లుగా పోల్చబడింది。"
+  },
+  {
+    "Question": "ద్విపద రచనకు శ్రీకారం చుట్టడానికి, “శ్రీకరంబుగ నారసింహులకరుణ...” అని ప్రార్థించిన కవయిత్రి",
+    "A": "తాళ్ళపాక తిమ్మక్క",
+    "B": "తరిగొండ వెంగమాంబ",
+    "C": "ఆత్కూరి మొల్ల",
+    "D": "పసుపులేటి రంగాజమ్మ",
+    "Answer": "తరిగొండ వెంగమాంబ",
+    "Explanation": "ఈ వాక్యాలు **తరిగొండ వెంగమాంబ** తన ద్విపద రచనను ప్రారంభించిన సందర్భంలోనివి。"
+  },
+  {
+    "Question": "కింది పద్య పాదాలలో సరైన క్రమాన్ని గుర్తించండి。\nఎ. నీతడేల గలుగు నిహముపరము\nబి. రాజు చేతి కత్తి రక్తంబు వర్షించు\nసి. ఆతడేల గలుగు యావత్ప్రపంచంబు\nడి. సుకవి చేతికలము సుధలు కురియు",
+    "A": "డి, బి, సి, ఎ",
+    "B": "బి, డి, సి, ఎ",
+    "C": "బి, డి, ఎ, సి",
+    "D": "డి, బి, ఎ, సి",
+    "Answer": "డి, బి, సి, ఎ",
+    "Explanation": "సరైన క్రమం (డి, బి, సి, ఎ): సుకవి చేతికలము సుధలు కురియు, రాజు చేతి కత్తి రక్తంబు వర్షించు, ఆతడేల గలుగు యావత్ప్రపంచంబు, నీతడేల గలుగు నిహముపరము。"
+  },
+  {
+    "Question": "కింది వాటిలో 'సహానుభూతి' ఇతివృత్తంగా గల పాఠ్యాంశం",
+    "A": "పొడుపు విడుపు",
+    "B": "మా ఊరి ఏరు",
+    "C": "తొలి పండగ",
+    "D": "మంచి బాలుడు",
+    "Answer": "మంచి బాలుడు",
+    "Explanation": "**మంచి బాలుడు** పాఠ్యాంశం ఇతివృత్తం 'సహానుభూతి' (Empathy)。"
+  },
+  {
+    "Question": "మన జాతీయ చిహ్నాన్ని ఈ స్థూపం నుంచి స్వీకరించారు。",
+    "A": "సాంచీ",
+    "B": "అమరావతి",
+    "C": "సారానాధ్",
+    "D": "ఏలేశ్వరం",
+    "Answer": "సారానాధ్",
+    "Explanation": "భారతదేశ జాతీయ చిహ్నాన్ని **సారానాధ్** లోని అశోక స్తంభం నుంచి స్వీకరించారు。"
+  },
+  {
+    "Question": "మాతృభాషను నిరాదరించడం సరికాదు. వాడగలిగిన ప్రతి చోటా మాతృభాషనే వాడదాం అని చెప్పడం ఉద్దేశంగా గల పాఠం",
+    "A": "సమదృష్టి",
+    "B": "నాటి చదువు",
+    "C": "అక్షరం",
+    "D": "మమకారం",
+    "Answer": "మమకారం",
+    "Explanation": "మాతృభాష ప్రాముఖ్యత మరియు దానిని వాడాల్సిన అవసరాన్ని ఉద్దేశించిన పాఠం **మమకారం**。"
+  },
+  {
+    "Question": "కింది వానిలో సర్వనామపదం ద్వితీయావిభక్తి రూపం",
+    "A": "మిమ్మల్ని",
+    "B": "వాటికి",
+    "C": "నా యొక్క",
+    "D": "నీ కొరకు",
+    "Answer": "మిమ్మల్ని",
+    "Explanation": "**మిమ్మల్ని** ('మీరు' + ని) అనేది ద్వితీయా విభక్తి ప్రత్యయంతో కూడిన సర్వనామ రూపం。"
+  },
+  {
+    "Question": "‘కుఠారము' అనగా",
+    "A": "కత్తి",
+    "B": "గొడ్డలి",
+    "C": "గద",
+    "D": "బల్లెము",
+    "Answer": "గొడ్డలి",
+    "Explanation": "కుఠారము (Kuṭhāramu) అంటే **గొడ్డలి** (Axe)。"
+  },
+  {
+    "Question": "'అశ్వం' పదానికి పర్యాయ పదాలు",
+    "A": "గుర్రం, బిడాలం",
+    "B": "శ్వానం, కుర్కురం",
+    "C": "అర్వము, ఎక్కిరింత",
+    "D": "వ్యాఘ్రం, హయము",
+    "Answer": "అర్వము, ఎక్కిరింత",
+    "Explanation": "అశ్వం (గుర్రం) పదానికి పర్యాయపదాలు **అర్వము** మరియు **ఎక్కిరింత**。"
+  },
+  {
+    "Question": "'ఆవులిస్తే పేగులు లెక్క పెట్టినట్లు' అన్నది",
+    "A": "పొడుపుకథ",
+    "B": "సామెత",
+    "C": "జాతీయం",
+    "D": "శబ్దపల్లవం",
+    "Answer": "సామెత",
+    "Explanation": "**ఆవులిస్తే పేగులు లెక్క పెట్టినట్లు** అనేది ఒక లోకోక్తి, అనగా **సామెత** (Proverb)。"
+  },
+  {
+    "Question": "‘ఉత్సాహం' - నానార్థాలు",
+    "A": "ఉత్కచం, ఔక్షకం",
+    "B": "ధర్మం - ప్రయత్నం",
+    "C": "ప్రయత్నం - సంతోషం",
+    "D": "సంబరం - న్యాయం",
+    "Answer": "ప్రయత్నం - సంతోషం",
+    "Explanation": "ఉత్సాహం పదానికి **ప్రయత్నం**, **సంతోషం** అనేవి నానార్థాలు。"
+  },
+  {
+    "Question": "'ఓగిరం' - పదానికి ప్రకృతి",
+    "A": "ఒయ్యారం",
+    "B": "ఉగ్రము",
+    "C": "వేగిరం",
+    "D": "ఆహారం",
+    "Answer": "ఆహారం",
+    "Explanation": "ఓగిరం అనేది **ఆహారం** అనే ప్రకృతి పదానికి వికృతి。"
+  },
+  {
+    "Question": "తిలోదకాలివ్వడం - జాతీయం వాడే సందర్భం",
+    "A": "సంబంధం తెంచుకోవడం",
+    "B": "నదిలో స్నానం చేయడం",
+    "C": "త్రాగే నీరు ఇవ్వడం",
+    "D": "అందరూ కలిసి తిలలు పంచడం",
+    "Answer": "సంబంధం తెంచుకోవడం",
+    "Explanation": "**తిలోదకాలివ్వడం** అనే జాతీయం **సంబంధం తెంచుకోవడం** లేదా వదిలేయడం అనే అర్థంలో వాడబడుతుంది。"
+  },
+  {
+    "Question": "ఆ,ఈ,ఏ అనే సర్వనామాలను ఇలా అంటారు。",
+    "A": "ఔపవిభక్తికము",
+    "B": "ఆమ్రేడితము",
+    "C": "త్రికము",
+    "D": "ద్రుతము",
+    "Answer": "త్రికము",
+    "Explanation": "**ఆ, ఈ, ఏ** అనే వాటిని **త్రికము** అని అంటారు。"
+  },
+  {
+    "Question": "\"సంపాతి ఎగురుతున్నాడు” అనేది",
+    "A": "అకర్మక వాక్యం",
+    "B": "సకర్మక వాక్యం",
+    "C": "క్రియారహిత వాక్యం",
+    "D": "సంక్లిష్ట వాక్యం",
+    "Answer": "అకర్మక వాక్యం",
+    "Explanation": "**ఎగురుతున్నాడు** అనే క్రియకు కర్మ అవసరం లేదు, కావున ఇది **అకర్మక వాక్యం** (Intransitive sentence)。"
+  },
+  {
+    "Question": "ఏ పద్యానికి అదే స్వతంత్రభావం కలిగి ఉంటే అది",
+    "A": "కావ్యం",
+    "B": "పురాణం",
+    "C": "దండకం",
+    "D": "ముక్తకం",
+    "Answer": "ముక్తకం",
+    "Explanation": "ఒక పద్యమే ఒక స్వతంత్రమైన, సంపూర్ణమైన భావాన్ని తెలియజేస్తే దాన్ని **ముక్తకం** అంటారు。"
+  },
+  {
+    "Question": "కింది వానిలో సరైనది。",
+    "A": "రాజెక్కడ - అత్వసంధి",
+    "B": "మీరెవరు - ఉత్వసంధి",
+    "C": "వంటాముదం - సవర్ణదీర్ఘసంధి",
+    "D": "తూగుటుయ్యాల - ద్విరుక్తటకారసంధి",
+    "Answer": "ఉత్వసంధి",
+    "Explanation": "**మీరెవరు** (మీరు + ఎవరు) అనేది **ఉత్వసంధి**కి ఉదాహరణ。"
+  },
+  {
+    "Question": "‘పదధ్వనులు’ - సరైన విగ్రహవాక్యం",
+    "A": "పదముల కొరకు ధ్వనులు",
+    "B": "పదముల యొక్క ధ్వనులు",
+    "C": "పదములందు ధ్వనులు",
+    "D": "పదముల చేత ధ్వనులు",
+    "Answer": "పదముల యొక్క ధ్వనులు",
+    "Explanation": "ఈ విగ్రహవాక్యం షష్ఠీ తత్పురుష సమాసానికి చెందుతుంది。 **‘యొక్క’** అనేది షష్ఠీ విభక్తి ప్రత్యయం。"
+  },
+  {
+    "Question": "“నాయనా! వర్థిల్లు” ఈ వాక్యం",
+    "A": "ఆశీరర్థకం",
+    "B": "ఆశ్చర్యార్థకం",
+    "C": "అనుమత్యర్థకం",
+    "D": "హేత్వర్థకం",
+    "Answer": "ఆశీరర్థకం",
+    "Explanation": "**ఆశీరర్థక వాక్యం** అనేది ఎదుటివారికి శుభం కలగాలని, మేలు జరగాలని కోరుతూ లేదా దీవిస్తూ చెప్పే వాక్యం。 'వర్థిల్లు' అనేది ఆశీర్వదించే క్రియ。"
+  },
+  {
+    "Question": "చంపకమాల పద్యంలో మొత్తం 'జగణము'ల సంఖ్య",
+    "A": "12",
+    "B": "13",
+    "C": "16",
+    "D": "15",
+    "Answer": "16",
+    "Explanation": "చంపకమాల పద్య లక్షణాలు: నజభజజజర。 ఇందులో 4 జగణాలు (న-జ-భ-జ-జ-జ-ర) ఉన్నాయి。 మొత్తం 4 పాదాలు కాబట్టి, జగణాల సంఖ్య: 4 పాదాలు x 4 జగణాలు/పాదము = 16 జగణాలు。"
+  },
+  {
+    "Question": "‘చినుకులు ముత్యాల వలె రాలుతున్నాయి’ అన్న వాక్యంలోని అలంకారం",
+    "A": "అతిశయోక్తి",
+    "B": "వృత్త్యనుప్రాస",
+    "C": "రూపక",
+    "D": "ఉపమా",
+    "Answer": "ఉపమా",
+    "Explanation": "ఈ వాక్యంలో ఉపమేయం (చినుకులు), ఉపమానం (ముత్యాలు) మరియు ఉపమావాచకం (**వలె**) ఉన్నాయి。 ఉపమానంతో ఉపమేయాన్ని పోల్చడం జరిగింది కాబట్టి ఇది **ఉపమా అలంకారం**。"
+  },
+  {
+    "Question": "నిర్ణీత అంశం లేదా విషయాన్ని బోధించిన తరువాత విద్యార్థుల్లో ఆశిస్తున్న ప్రవర్తనా మార్పును ఏమంటాము",
+    "A": "బోధన లక్ష్యం",
+    "B": "బోధనాప్రణాళిక",
+    "C": "విద్యా ప్రణాళిక",
+    "D": "సంస్థాగత ప్రణాళిక",
+    "Answer": "బోధన లక్ష్యం",
+    "Explanation": "**బోధన లక్ష్యం (Instructional Objective)** అనేది ఒక నిర్దిష్ట పీరియడ్‌లో లేదా అంశాన్ని బోధించిన తర్వాత విద్యార్థి ప్రవర్తనలో ఆశించే స్పష్టమైన, కొలవదగిన మార్పు。 ఇది సాధారణ విద్యా లక్ష్యాల నుండి ఉద్భవించిన స్వల్పకాలిక లక్ష్యం。"
+  },
+  {
+    "Question": "“తిక్కనకు గల బిరుదు ఆదికవి” ఇది",
+    "A": "భాషాదోషం",
+    "B": "సమస్వర రాహిత్యం",
+    "C": "భావదోషం",
+    "D": "వ్యాకరణ దోషం",
+    "Answer": "భావదోషం",
+    "Explanation": "తెలుగులో **ఆదికవి** బిరుదు నన్నయకు ఉంది, తిక్కనకు కాదు。 వాక్యం వ్యాకరణపరంగా సరైనదే అయినప్పటికీ, **చారిత్రక విషయం (భావం)** లో తప్పు ఉంది。 కాబట్టి ఇది **భావదోషం**。"
+  },
+  {
+    "Question": "“అందరికీ విద్య” అందించాలని మన రాజ్యాంగంలో పేర్కొన్న ఆర్టికల్ 。",
+    "A": "42వ ఆర్టికల్",
+    "B": "43వ ఆర్టికల్",
+    "C": "44వ ఆర్టికల్",
+    "D": "45వ ఆర్టికల్",
+    "Answer": "45వ ఆర్టికల్",
+    "Explanation": "భారత రాజ్యాంగంలో, **ఆర్టికల్ 45** (రాజ్య విధాన నిర్దేశక సూత్రాలు-DPSP) రాష్ట్రాలు అన్నిటికీ తప్పనిసరిగా, ఉచిత విద్యను అందించాలని పేర్కొంది。"
+  },
+  {
+    "Question": "పాఠ్యబోధనా కార్యక్రమంతో పాటు పాఠశాలలో నిర్వహించే ఇతర విద్యా సంబంధ కార్యకలాపాలనేమంటారు。",
+    "A": "పాఠ్య కార్యక్రమాలు",
+    "B": "సహపాఠ్య కార్యక్రమాలు",
+    "C": "వయోజన విద్యా కార్యక్రమాలు",
+    "D": "సహపాఠ్యేతర కార్యక్రమాలు",
+    "Answer": "సహపాఠ్య కార్యక్రమాలు",
+    "Explanation": "పాఠ్యబోధనతో పాటు విద్యార్థుల సమగ్రాభివృద్ధికి పాఠశాలలో నిర్వహించే విద్యకు సంబంధించిన కార్యకలాపాలను **సహపాఠ్య కార్యక్రమాలు (Co-curricular activities)** అంటారు。"
+  },
+  {
+    "Question": "“ఒక వస్తువును లేదా ఉత్పత్తిని దాని ముఖ్య లక్షణాలను వివరిస్తూ ప్రయోజనాలను నొక్కి చూపిస్తూ బహిరంగంగా చూపించినట్లయితే” అది",
+    "A": "నమూనా",
+    "B": "ప్రణాళిక",
+    "C": "ప్రదర్శన",
+    "D": "బోర్డు",
+    "Answer": "ప్రదర్శన",
+    "Explanation": "ముఖ్య లక్షణాలు మరియు ప్రయోజనాలను వివరిస్తూ ఒక వస్తువును లేదా ఉత్పత్తిని బహిరంగంగా చూపించడాన్ని **ప్రదర్శన (Demonstration)** అంటారు。 ఇది ఒక బోధనా పద్ధతి。"
+  },
+  {
+    "Question": "బోధనానంతరం విద్యార్థులు ఆర్జించిన సామర్థ్యాలను గుర్తించడానికి ఉపయోగపడే నికష",
+    "A": "పూర్వ నికష",
+    "B": "మధ్య నికష",
+    "C": "క్షేత్ర నికష",
+    "D": "ఉత్తర నికష",
+    "Answer": "ఉత్తర నికష",
+    "Explanation": "**ఉత్తర నికష (Post-test)** ను ఒక నిర్దిష్ట అంశాన్ని బోధించిన **తరువాత** నిర్వహిస్తారు。 ఇది బోధన వల్ల విద్యార్థుల్లో కలిగిన అభ్యసన ఫలితాలను మరియు సామర్థ్యాలను అంచనా వేయడానికి ఉపయోగిస్తారు。"
+  },
+  {
+    "Question": "Identify the grammatically correct sentence.",
+    "A": "This is most unique dress.",
+    "B": "This is the unique dress.",
+    "C": "This is the more unique dress.",
+    "D": "This is very unique dress.",
+    "Answer": "This is the unique dress.",
+    "Explanation": "The word 'unique' is an absolute adjective, meaning one of a kind. While grammatically purists prefer no modifier or article, in common usage and testing, 'the unique dress' is considered acceptable, making it the intended correct answer。"
+  },
+  {
+    "Question": "Identify the correct verb form for the sentence: The girls _________ waiting for you.",
+    "A": "is",
+    "B": "was",
+    "C": "be",
+    "D": "are",
+    "Answer": "are",
+    "Explanation": "The plural subject 'The girls' requires the plural present continuous verb form, **are**。"
+  },
+  {
+    "Question": "Identify the term for someone who studies insects:",
+    "A": "Entomologist",
+    "B": "Ornithologist",
+    "C": "Biologist",
+    "D": "Geologist",
+    "Answer": "Entomologist",
+    "Explanation": "An **Entomologist** studies insects。"
+  },
+  {
+    "Question": "Identify the modal verb used to show ability:",
+    "A": "will",
+    "B": "might",
+    "C": "should",
+    "D": "could",
+    "Answer": "could",
+    "Explanation": "**Could** is the modal verb used to express past ability。"
+  },
+  {
+    "Question": "Choose the correctly capitalized name of a specific place:",
+    "A": "london",
+    "B": "London",
+    "C": "LONDON",
+    "D": "LonDon",
+    "Answer": "London",
+    "Explanation": "Proper nouns, such as the name of a city, require capitalization。"
+  },
+  {
+    "Question": "The following detail is NOT usually included in the early life section of a biographical sketch:",
+    "A": "family background",
+    "B": "education",
+    "C": "major accomplishments",
+    "D": "formative experiences",
+    "Answer": "major accomplishments",
+    "Explanation": "**Major accomplishments** are typically detailed in the main or later sections of a biography。"
+  },
+  {
+    "Question": "Choose the sentence that is NOT an example of the present tense:",
+    "A": "She runs every morning",
+    "B": "He will be travelling next week.",
+    "C": "I am eating lunch.",
+    "D": "They have been studying for two hours.",
+    "Answer": "He will be travelling next week.",
+    "Explanation": "This sentence uses the future continuous tense ('will be travelling')。"
+  },
+  {
+    "Question": "By the time we arrived, they _________ (eat) dinner. Choose the correct verb form for the past perfect tense:",
+    "A": "eat",
+    "B": "ate",
+    "C": "have eaten",
+    "D": "had eaten",
+    "Answer": "had eaten",
+    "Explanation": "The past perfect tense ('had eaten') is used for an action completed before another point in the past ('we arrived')。"
+  },
+  {
+    "Question": "Please close the door. Choose the type of sentence",
+    "A": "Interrogative",
+    "B": "Declarative",
+    "C": "Exclamatory",
+    "D": "Imperative",
+    "Answer": "Imperative",
+    "Explanation": "An **Imperative sentence** expresses a command or request。"
+  },
+  {
+    "Question": "The meeting was cancelled due to the storm. Choose the correct transformation of the simple sentence into a complex sentence.",
+    "A": "The meeting was cancelled, and the storm was severe.",
+    "B": "The storm caused the meeting to be cancelled.",
+    "C": "The meeting was cancelled because there was a storm.",
+    "D": "The meeting was cancelled but the storm was not severe.",
+    "Answer": "The meeting was cancelled because there was a storm.",
+    "Explanation": "A **complex sentence** uses a subordinating conjunction (like **because**) to join an independent clause with a dependent clause。"
+  },
+  {
+    "Question": "Choose the correct term synonymous with a main clause",
+    "A": "Compound clause",
+    "B": "Independent clause",
+    "C": "Dependent clause",
+    "D": "Subordinate clause",
+    "Answer": "Independent clause",
+    "Explanation": "A **main clause** is capable of standing alone as a complete sentence, making it an **Independent clause**。"
+  },
+  {
+    "Question": "She loves to travel. _________ she has visited over 20 countries. Choose the option that fits the blank.",
+    "A": "Consequently",
+    "B": "Although",
+    "C": "For example",
+    "D": "However",
+    "Answer": "For example",
+    "Explanation": "**For example** introduces a specific illustration that supports the preceding general statement。"
+  },
+  {
+    "Question": "Choose the correct sequence of the words in which they occur in a dictionary. i. floor ii. fled iii. family iv. found",
+    "A": "i, iii, ii, iv",
+    "B": "iv, i, iii, ii",
+    "C": "iii, ii, i, iv",
+    "D": "ii, i, iv, iii",
+    "Answer": "iii, ii, i, iv",
+    "Explanation": "Alphabetical order: **fa**mily (iii), **fle**d (ii), **flo**or (i), **fou**nd (iv) - so the sequence is iii, ii, i, iv。"
+  },
+  {
+    "Question": "Choose the correct spelling of the word.",
+    "A": "ridiculous",
+    "B": "rediculous",
+    "C": "ridecules",
+    "D": "rideculous",
+    "Answer": "ridiculous",
+    "Explanation": "The correct spelling is **ridiculous**。"
+  },
+  {
+    "Question": "Select the example where the indefinite article is used to denote a class:",
+    "A": "A rose is a beautiful flower.",
+    "B": "Birds of a feather flock together",
+    "C": "They were of a size",
+    "D": "Our shirts are of a size.",
+    "Answer": "A rose is a beautiful flower.",
+    "Explanation": "The indefinite article 'A' is used to represent the entire class of roses。"
+  },
+  {
+    "Question": "He bought his friend _________ him to the party. Choose the correct preposition that fits the blank.",
+    "A": "along with",
+    "B": "apart form",
+    "C": "by means of",
+    "D": "by way of",
+    "Answer": "along with",
+    "Explanation": "**Along with** means 'together with,' indicating the friend accompanied him to the party。"
+  },
+  {
+    "Question": "Seven had been quite upset about Mr. Nath's gaunt appearance. Choose the synonym that means \"upset\".",
+    "A": "happy",
+    "B": "angry",
+    "C": "distressed",
+    "D": "calm",
+    "Answer": "distressed",
+    "Explanation": "**Upset** means worried or troubled, which is synonymous with **distressed**。"
+  },
+  {
+    "Question": "Einstein saw in her an ally against the philistines those people in his family and at the university with whom he was constantly at odds. Choose the antonym of the word \"constantly\"",
+    "A": "steady",
+    "B": "inconsistent",
+    "C": "persistent",
+    "D": "continuous",
+    "Answer": "inconsistent",
+    "Explanation": "**Constantly** means continuously. The best antonym is **inconsistent**。"
+  },
+  {
+    "Question": "The following is the indirect form of: He said, \"The horse died at night.\"",
+    "A": "He said that the horse has died at night.",
+    "B": "He said that the horse dies at night\"",
+    "C": "He said that the horse was died at night.",
+    "D": "He said that the horse had died at night.",
+    "Answer": "He said that the horse had died at night.",
+    "Explanation": "In reported speech, Past Simple ('died') shifts to **Past Perfect** ('had died')。"
+  },
+  {
+    "Question": "He managed to _________ all his fears and doubts and gave a stellar performance. Choose the correct phrasal verb that fits the blank.",
+    "A": "get away with",
+    "B": "hold out",
+    "C": "get over",
+    "D": "look forward to",
+    "Answer": "get over",
+    "Explanation": "**Get over** means to overcome a problem or difficulty。"
+  },
+  {
+    "Question": "Mohan had a three-hour journey yesterday. Choose the meaning of the underlined phrase:",
+    "A": "a journey that started at 3 o' clock",
+    "B": "a journey that started three hours ago",
+    "C": "a journey that takes three hours.",
+    "D": "a journey that starts after every three hours",
+    "Answer": "a journey that takes three hours.",
+    "Explanation": "**Three-hour** is a compound adjective indicating the duration of the journey。"
+  },
+  {
+    "Question": "I'm not sure if I want to go. Choose the interjection that best fits the blank.",
+    "A": "Yay",
+    "B": "Ouch",
+    "C": "Wow",
+    "D": "Um",
+    "Answer": "Um",
+    "Explanation": "**Um** is used to express hesitation or uncertainty。"
+  },
+  {
+    "Question": "Hindi serves as a _________ in India. Choose the option that fits the blank. (Based on the passage provided in the source)",
+    "A": "Regional language",
+    "B": "Foreign language",
+    "C": "Lingua franca",
+    "D": "Ancient script",
+    "Answer": "Lingua franca",
+    [cite_start]"Explanation": "The passage states Hindi 'serves as a **lingua franca**' [cite: 1113]。"
+  },
+  {
+    "Question": "Identify the regional languages mentioned in the passage: (Based on the passage provided in the source)",
+    "A": "Tamil, Urdu, Punjabi",
+    "B": "Tamil, Bengali, Marathi",
+    "C": "Bengali, Kannada, Telugu",
+    "D": "Marathi, Punjabi, Assamese",
+    "Answer": "Tamil, Bengali, Marathi",
+    [cite_start]"Explanation": "The passage lists 'regional languages like **Tamil, Bengali, and Marathi**' [cite: 1113]。"
+  },
+  {
+    "Question": "Identify the skill that is primarily speech and involves expressing feelings and obtaining information",
+    "A": "Listening",
+    "B": "Writing",
+    "C": "Reading",
+    "D": "Speaking",
+    "Answer": "Speaking",
+    "Explanation": "**Speaking** is the productive language skill involving speech used for expressing feelings and obtaining information。"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. Writing involves producing sentences in a specific order, linking them in certain ways, and it is called a _________。",
+    "A": "a productive skill",
+    "B": "a cognitive skill",
+    "C": "a receptive skill",
+    "D": "a passive skill",
+    "Answer": "a productive skill",
+    "Explanation": "**Writing** (and speaking) is classified as a **productive skill** as it involves producing language。"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. Dr. West's Method prioritises developing _________ skills as a foundation for active work in speaking and writing.",
+    "A": "listening",
+    "B": "speaking",
+    "C": "reading",
+    "D": "writing",
+    "Answer": "reading",
+    "Explanation": "Dr. West's method, the New Method, prioritizes developing **reading** skills。"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. Micro-teaching minimizes the complexities of _________ classroom teaching。",
+    "A": "actual",
+    "B": "hypothetical",
+    "C": "simplified",
+    "D": "theoretical",
+    "Answer": "actual",
+    "Explanation": "Micro-teaching minimizes the complexities of **actual** classroom teaching by scaling down the class size and time。"
+  },
+  {
+    "Question": "Identify a key challenge in English language teaching in India。",
+    "A": "Plentiful qualified teachers",
+    "B": "Excellent infrastructure",
+    "C": "Promoting mother tongue education",
+    "D": "Strong political support for English",
+    "Answer": "Promoting mother tongue education",
+    "Explanation": "The priority given to **promoting mother tongue education** can sometimes present a challenge in English Language Teaching, depending on policy implementation and resource allocation。"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. The _________ aspect of English deals with speech, sounds, pronunciation and spelling。",
+    "A": "Phonetic",
+    "B": "Semantic",
+    "C": "Graphic",
+    "D": "Structural",
+    "Answer": "Phonetic",
+    "Explanation": "The **Phonetic** aspect is concerned with the sounds of speech and their representation, which includes pronunciation and spelling。"
+  },
+  {
+    "Question": "ఒక కుంభాకార షడ్భుజిలోని బాహ్యకోణాల మొత్తం",
+    "A": "540°",
+    "B": "360°",
+    "C": "720°",
+    "D": "180°",
+    "Answer": "360°",
+    "Explanation": "ఏదైనా కుంభాకార బహుభుజిలోని (Hexagon, Pentagon etc.) బాహ్యకోణాల మొత్తం ఎల్లప్పుడూ 360° ఉంటుంది。"
+  },
+  {
+    "Question": "2¹⁰ x 3⁵ x 25² / 9² x 5⁵ x 4⁵ యొక్క విలువ",
+    "A": "3/5",
+    "B": "5/3",
+    "C": "3/4",
+    "D": "5/4",
+    "Answer": "3/5",
+    "Explanation": "2¹⁰ x 3⁵ x (5²)² / (3²)² x 5⁵ x (2²)⁵ = 2¹⁰ x 3⁵ x 5⁴ / 3⁴ x 5⁵ x 2¹⁰ = 2^(10-10) x 3^(5-4) x 5^(4-5) = 2⁰ x 3¹ x 5⁻¹ = 1 x 3 x (1/5) = 3/5"
+  },
+  {
+    "Question": "ఒక డజను జెల్ పెన్నుల ధర ₹180 మరియు 8 బాల్ పెన్నుల ధర ₹56. ఒక జెల్ పెన్ను ధర మరియు ఒక బాల్ పెన్ ధరల నిష్పత్తి",
+    "A": "7:15",
+    "B": "15:7",
+    "C": "25:7",
+    "D": "7:25",
+    "Answer": "15:7",
+    "Explanation": "ఒక జెల్ పెన్ను ధర = ₹180 / 12 = ₹15. ఒక బాల్ పెన్ను ధర = ₹56 / 8 = ₹7. నిష్పత్తి: 15 : 7。"
+  },
+  {
+    "Question": "ఒక దీర్ఘచతురస్ర పొడవు వెడల్పులు వరుసగా 2m + 3 మరియు 3m - 4 అయితే దీర్ఘచతురస్ర వైశాల్యం",
+    "A": "6m² - m - 12",
+    "B": "6m² + m + 12",
+    "C": "6m² - m + 12",
+    "D": "6m² + m - 12",
+    "Answer": "6m² + m - 12",
+    "Explanation": "దీర్ఘచతురస్ర వైశాల్యం = పొడవు x వెడల్పు = (2m + 3) x (3m - 4) = 6m² - 8m + 9m - 12 = 6m² + m - 12。"
+  },
+  {
+    "Question": "- 2801 మరియు – 1567 మధ్య గల పూర్ణసంఖ్యల సంఖ్య",
+    "A": "1234",
+    "B": "1233",
+    "C": "1324",
+    "D": "1344",
+    "Answer": "1233",
+    "Explanation": "రెండు సంఖ్యల 'a' మరియు 'b' మధ్య గల పూర్ణసంఖ్యల సంఖ్య (a > b అయినప్పుడు) a - b - 1 అవుతుంది。 (-1567) - (-2801) - 1 = -1567 + 2801 - 1 = 1234 - 1 = 1233。"
+  },
+  {
+    "Question": "రెండు సమాంతర రేఖలను ఒక తిర్యగ్రేఖ ఖండించుచున్నది. ఆ తిర్యగ్రేఖకు ఒకే వైపున ఉండుటకు సాధ్యమగు ఒక జత అంతర కోణాలను గుర్తించండి。",
+    "A": "40°, 50°",
+    "B": "30°, 60°",
+    "C": "135°, 45°",
+    "D": "140°, 50°",
+    "Answer": "135°, 45°",
+    "Explanation": "తిర్యగ్రేఖకు ఒకే వైపున ఉండే అంతర కోణాల మొత్తం 180° అవుతుంది。 135° + 45° = 180°。"
+  },
+  {
+    "Question": "ఒక వృత్తం 12 సమాన సెక్టార్లుగా విభజించబడింది. అందులో 2 సెక్టార్లు ఎరుపు, 6 సెక్టార్లు నీలం మరియు 4 సెక్టార్లు ఆకుపచ్చగా గుర్తించబడినవి. చక్రాన్ని తిప్పినపుడు ఆకుపచ్చని సెక్టార్ పొందే సంభావ్యత",
+    "A": "1/6",
+    "B": "1/2",
+    "C": "1/3",
+    "D": "1",
+    "Answer": "1/3",
+    "Explanation": "ఆకుపచ్చ సెక్టార్ల సంఖ్య = 4。 మొత్తం సెక్టార్ల సంఖ్య = 12。 సంభావ్యత = 4/12 = 1/3。"
+  },
+  {
+    "Question": "1/x మరియు 1/y లు విలోమానుపాతంలో ఉంటే x మరియు y లు",
+    "A": "అనులోమానుపాతంలో ఉంటాయి",
+    "B": "విలోమానుపాతంలో ఉంటాయి",
+    "C": "ఏ అనుపాతంలోనూ ఉండవు",
+    "D": "సందర్భాన్ని బట్టి ఒక్కోసారి అనులోమానుపాతంలోనూ, ఒక్కోసారి విలోమానుపాతంలోనూ ఉంటాయి。",
+    "Answer": "విలోమానుపాతంలో ఉంటాయి",
+    "Explanation": "1/x మరియు 1/y విలోమానుపాతంలో ఉంటే, (1/x) x (1/y) = k (స్థిరం)。 కాబట్టి, xy = 1/k (స్థిరం)。 రెండు రాశుల లబ్ధం స్థిరంగా ఉంటే అవి విలోమానుపాతంలో ఉంటాయి。"
+  },
+  {
+    "Question": "(99.6)² - (0.4)² =",
+    "A": "0.992",
+    "B": "9.92",
+    "C": "992",
+    "D": "9920",
+    "Answer": "9920",
+    "Explanation": "a² - b² = (a + b)(a - b) సూత్రం ఉపయోగించగా: (99.6 + 0.4)(99.6 - 0.4) = (100) x (99.2) = 9920。"
+  },
+  {
+    "Question": "2/5 మరియు 1/3 సంఖ్యల వ్యుత్రమాల మొత్తం",
+    "A": "11/15",
+    "B": "11/2",
+    "C": "17/6",
+    "D": "17/5",
+    "Answer": "11/2",
+    "Explanation": "2/5 వ్యుత్క్రమం = 5/2。 1/3 వ్యుత్క్రమం = 3。 మొత్తం = 5/2 + 3/1 = (5 + 6)/2 = 11/2。"
+  },
+  {
+    "Question": "2.1 సెం.మీ వ్యాసార్ధం కలిగిన వృత్తాకార ఫలకం యొక్క పరిధి (సెం.మీ.లలో)",
+    "A": "1.32",
+    "B": "132",
+    "C": "0.132",
+    "D": "13.2",
+    "Answer": "13.2",
+    "Explanation": "వృత్త పరిధి C = 2 x π x r。 C = 2 x (22/7) x 2.1 = 13.2 సెం.మీ。"
+  },
+  {
+    "Question": "₹240కి కొనుగోలు చేసిన ఒక చొక్కా ₹200కి అమ్మబడింది. అయిన నష్టశాతం",
+    "A": "16 2/3",
+    "B": "16 1/3",
+    "C": "20",
+    "D": "25",
+    "Answer": "16 2/3",
+    "Explanation": "నష్టం = ₹40。 నష్టశాతం = (40 / 240) x 100 = 1/6 x 100 = 16 2/3%"
+  },
+  {
+    "Question": "ఒక ఘనాకార గది లోపలి కొలతలు 11మీ x 4మీ x 3మీ అయిన ఆ గది ఘన పరిమాణం (ఘ.మీ. లలో)",
+    "A": "134",
+    "B": "143",
+    "C": "123",
+    "D": "132",
+    "Answer": "132",
+    "Explanation": "ఘన పరిమాణం = 11 x 4 x 3 = 132 ఘ.మీ。"
+  },
+  {
+    "Question": "దత్తాంశం 10, 7, 9, 8, 8, 7, 11 యొక్క బాహుళకము",
+    "A": "7",
+    "B": "8",
+    "C": "7.5",
+    "D": "7, 8",
+    "Answer": "7, 8",
+    "Explanation": "7 (రెండు సార్లు), 8 (రెండు సార్లు) పునరావృతమయ్యాయి。 దత్తాంశంలో అత్యధిక సార్లు పునరావృతమయ్యే విలువలు బాహుళకాలు。"
+  },
+  {
+    "Question": "కీర్తన కాకినాడ చేరుటకు 3 గం॥లు ప్రయాణించింది. తిరిగి ఇంటిని చేరుటకు 145 ని॥లు ప్రయాణించింది మొత్తం ప్రయాణించిన సమయం",
+    "A": "4గం 45ని",
+    "B": "3గం 25ని",
+    "C": "5గం 25ని",
+    "D": "5గం 45ని",
+    "Answer": "5గం 25ని",
+    "Explanation": "మొదటి ప్రయాణ సమయం = 3 గంటలు。 145 నిమిషాలు = 2 గంటల 25 నిమిషాలు。 మొత్తం సమయం = 3 గంటలు + 2 గంటల 25 నిమిషాలు = 5 గంటల 25 నిమిషాలు。"
+  },
+  {
+    "Question": "n³ = 1331 అయితే n విలువ",
+    "A": "11",
+    "B": "13",
+    "C": "17",
+    "D": "21",
+    "Answer": "11",
+    "Explanation": "11 x 11 x 11 = 1331。 కాబట్టి n = 11。"
+  },
+  {
+    "Question": "18080037 సంఖ్య యొక్క విస్తరణ రూపం",
+    "A": "(1 x 10⁷) + (8 x 10⁶) + (8 x 10⁴) + (3 x 10³) + (7 x 10)",
+    "B": "(1 x 10⁸) + (8 x 10⁷) + (8 x 10⁴) + (3 x 10²) + (7 x 10)",
+    "C": "(1 x 10⁸) + (8 x 10⁷) + (8 x 10⁵) + (3 x 10²) + (7)",
+    "D": "(1 x 10⁷) + (8 x 10⁶) + (8 x 10⁴) + (3 x 10) + (7)",
+    "Answer": "(1 x 10⁷) + (8 x 10⁶) + (8 x 10⁴) + (3 x 10) + (7)",
+    "Explanation": "18,080,037 = (1 x 10⁷) + (8 x 10⁶) + (8 x 10⁴) + (3 x 10) + (7) 。"
+  },
+  {
+    "Question": "అర్జున్ ప్రస్తుత వయస్సు అతని కొడుకు ప్రస్తుత వయస్సుకి మూడురెట్లు. 10 సంవత్సరాల క్రితం అతని వయస్సు కొడుకు వయస్సుకు 5 రెట్లు అయితే అర్జున్ కొడుకు ప్రస్తుత వయస్సు (సం॥లలో)",
+    "A": "60",
+    "B": "50",
+    "C": "20",
+    "D": "10",
+    "Answer": "20",
+    "Explanation": "కొడుకు వయస్సు x, అర్జున్ వయస్సు 3x。 10 సం。 క్రితం: 3x - 10 = 5(x - 10)。 x = 20 సం॥లు。"
+  },
+  {
+    "Question": "ఒక వస్తువు ప్రకటన వెల ₹800. దుకాణదారుడు ప్రకటన వెలపై 10% రుసుము ఇచ్చినప్పటికీ 20% లాభం పొందితే ఆ వస్తువును దుకాణదారుడు కొన్న వెల (రూ. లలో)",
+    "A": "576",
+    "B": "600",
+    "C": "720",
+    "D": "560",
+    "Answer": "600",
+    "Explanation": "అమ్మిన వెల (SP) = 800 - (10% x 800) = ₹720。 కొన్న వెల (CP) = 720 / 1.2 = ₹600。"
+  },
+  {
+    "Question": "అనంత్ ఒక టీస్టాలు 15లీ 25 మి.లీల పాలు అమ్ముతాడు. టీ స్టాల్లోని వ్యక్తి టీ చేయుటకు 7లీ 300 మి.లీ పాలు వినియోగిస్తే, క్యాన్లో మిగిలిన పాలు",
+    "A": "8L 275ml",
+    "B": "7L 725ml",
+    "C": "8L 325ml",
+    "D": "7L 325ml",
+    "Answer": "7L 725ml",
+    "Explanation": "మిగిలిన పాలు = 15 లీ 25 మి.లీ - 7 లీ 300 మి.లీ = 7 లీ 725 మి.లీ。"
+  },
+  {
+    "Question": "2, 4, 8, 1 అంకెలలో ప్రతీ అంకెను కేవలం ఒక్కసారి మాత్రమే వినియోగించి వ్రాయగల 4 అంకెల సంఖ్యలు ఎన్ని?",
+    "A": "24",
+    "B": "18",
+    "C": "12",
+    "D": "6",
+    "Answer": "24",
+    "Explanation": "4 విభిన్న అంకెలను ఉపయోగించి ఏర్పరిచే సంఖ్యల సంఖ్య 4! = 24。"
+  },
+  {
+    "Question": "[ (x + 2y)² - 8xy / x - 2y ] x (x + 2y) =",
+    "A": "(x + 2y)",
+    "B": "(x - 2y)",
+    "C": "x² - 4y²",
+    "D": "x² + 4y²",
+    "Answer": "x² - 4y²",
+    "Explanation": "[ (x² - 4xy + 4y²) / (x - 2y) ] x (x + 2y) = [ (x - 2y)² / (x - 2y) ] x (x + 2y) = (x - 2y) x (x + 2y) = x² - 4y²。"
+  },
+  {
+    "Question": "ఒక సమాంతర చతుర్భుజ ఆసన్న కోణాలు సమానమైన ఆ కోణాలు",
+    "A": "90°, 90°",
+    "B": "45°, 45°",
+    "C": "45°, 90°",
+    "D": "50°, 50°",
+    "Answer": "90°, 90°",
+    "Explanation": "ఆసన్న కోణాల మొత్తం 180°。 అవి సమానం అయితే, ప్రతి కోణం 90° అవుతుంది。"
+  },
+  {
+    "Question": "త్రిభుజం ABC లోని భుజాల కొలతలు AB, BC మరియు CA అయితే",
+    "A": "AB + BC > AC",
+    "B": "AC + AB < BC",
+    "C": "AB - BC > AC",
+    "D": "AB + BC + CA = 0",
+    "Answer": "AB + BC > AC",
+    "Explanation": "త్రిభుజ అసమానత్వ నియమం ప్రకారం, ఏ రెండు భుజాల మొత్తమైనా మూడవ భుజం కంటే ఎక్కువగా ఉండాలి。"
+  },
+  {
+    "Question": "క్రింది వానిలో నిగమన ఉపగమం యొక్క గుణం కానిది",
+    "A": "ఇది ఉపాధ్యాయుల, విద్యార్థుల కాలాన్ని, శ్రమను ఆదా చేస్తుంది。",
+    "B": "ప్రాథమిక స్థాయి బోధనకు ఇది తగిన పద్ధతి",
+    "C": "ఇది విద్యార్థులలో జ్ఞాపకశక్తిని పెంపొందిస్తుంది",
+    "D": "అభ్యాసం, ఆవర్తనం, అనుబంధ కార్యక్రమాలకు ఈ పద్ధతిలో అవకాశం ఉంటుంది。",
+    "Answer": "ప్రాథమిక స్థాయి బోధనకు ఇది తగిన పద్ధతి",
+    "Explanation": "నిగమన ఉపగమం (Deductive approach) ఉన్నత స్థాయి బోధనకు తగిన పద్ధతి, ప్రాథమిక స్థాయికి కాదు。"
+  },
+  {
+    "Question": "“విద్యార్ధులు తమ నిజ జీవిత సన్నివేశాలను అంచనావేయడం, ఊహాసామర్ధ్యాలను అభివృద్ధి పరుచుకొనేలా తయారు చేయడం” అనేది",
+    "A": "ప్రయోజన విలువ",
+    "B": "సాంస్కృతిక విలువ",
+    "C": "క్రమశిక్షణ విలువ",
+    "D": "కళాత్మక విలువ",
+    "Answer": "ప్రయోజన విలువ",
+    "Explanation": "నిజ జీవిత సన్నివేశాలను అంచనా వేయడం అనేది గణితం యొక్క **ప్రయోజన విలువ (Utilitarian value)**కి సంబంధించినది。"
+  },
+  {
+    "Question": "కింది వానిలో ఏది స్పష్టీకరణము",
+    "A": "చతుర్భుజ లక్షణాలను ప్రదర్శించుట",
+    "B": "త్రిభుజ వైశాల్య సూత్ర ఆవిష్కరణను విశదపరచుట",
+    "C": "(a+b)² = a² + 2ab + b² ను నిరూపించుట",
+    "D": "దీర్ఘచతురస్ర వైశాల్య సూత్రాన్ని విద్యార్థి జ్ఞాప్తికి తెచ్చుకొనుట",
+    "Answer": "దీర్ఘచతురస్ర వైశాల్య సూత్రాన్ని విద్యార్థి జ్ఞాప్తికి తెచ్చుకొనుట",
+    "Explanation": "**స్పష్టీకరణం (Specification)** అనేది బోధనానంతరం విద్యార్థులలో ఆశించే **నిర్దిష్ట ప్రవర్తనా మార్పు**。 'జ్ఞాప్తికి తెచ్చుకొనుట' అనేది జ్ఞాన రంగానికి చెందిన ఒక స్పష్టీకరణం。"
+  },
+  {
+    "Question": "ఆనంద్ అనే ఒక 6వ తరగతి విద్యార్ధి, తనకివ్వబడిన సమస్యను మరింత స్పష్టంగా అర్థం చేసుకోవడానికి మరలా తన సొంత మాటలలో రాసుకోవడం అనేది",
+    "A": "పున:ప్రవచన పద్ధతి",
+    "B": "విశ్లేషణ పద్ధతి",
+    "C": "సాదృశాల పద్ధతి",
+    "D": "ఆధారాల పద్ధతి",
+    "Answer": "పున:ప్రవచన పద్ధతి",
+    "Explanation": "**పున:ప్రవచన పద్ధతి (Restatement method)** లో, సమస్యను బాగా అర్థం చేసుకోవడానికి విద్యార్థి దానిని తన సొంత పదాలలో తిరిగి రాస్తాడు。"
+  },
+  {
+    "Question": "“పాఠశాలలో విద్యార్థుల అభ్యసనం పాఠశాల బయటి జీవితం (నిజ జీవితం) తో ముడిపడి ఉండాలి” అని సిఫార్సు చేసినది",
+    "A": "NCF - 2005",
+    "B": "RTE - 2009",
+    "C": "APSCF-2011",
+    "D": "NEP - 2020",
+    "Answer": "NCF - 2005",
+    "Explanation": "**జాతీయ పాఠ్యప్రణాళికా చట్రం - 2005 (NCF - 2005)** యొక్క ప్రధాన సిఫార్సులలో ఒకటి, అభ్యసనాన్ని బడి బయటి జీవితంతో అనుసంధానించడం。"
+  },
+  {
+    "Question": "‘గణిత పేటిక’లో ఉండే ప్రధాన సామాగ్రి\na. ఘనాకార కడ్డీలు\nb. నేపియర్ పట్టీలు\nc. టాన్ గ్రామ్\nd. భిన్నాల చట్రం\ne. మాజిక్ స్క్వేర్స్",
+    "A": "a, b, c",
+    "B": "b, c, d",
+    "C": "a, b, e",
+    "D": "a, b, d",
+    "Answer": "a, b, d",
+    "Explanation": "**గణిత పేటిక (Mathematics kit)** లో **ఘనాకార కడ్డీలు**, **నేపియర్ పట్టీలు** మరియు **భిన్నాల చట్రం** ముఖ్యమైన సామాగ్రి。"
+  },
+  {
+    "Question": "క్రింది వానిలో అతి పెద్ద పరిమాణం",
+    "A": "1001 మి.మీ",
+    "B": "101 సెం.మీ",
+    "C": "1.1 మీ",
+    "D": "0.001 కి.మీ",
+    "Answer": "1.1 మీ",
+    "Explanation": "అన్నింటిని మీటర్లలోకి మార్చగా: 1001 మి.మీ = 1.001 మీ, 101 సెం.మీ = 1.01 మీ, 0.001 కి.మీ = 1 మీ。 అతి పెద్దది **1.1 మీ**。"
+  },
+ [
+  {
+    "Question": "విద్యుత్ అయస్కాంత ఫలితం పై ఆధారపడి పనిచేసే పరికరం",
+    "A": "విద్యుత్ హీటర్",
+    "B": "విద్యుత్ బల్బ్",
+    "C": "విద్యుత్ గంట",
+    "D": "విద్యుత్ పొయ్యి",
+    "Answer": "విద్యుత్ గంట",
+    "Explanation": "విద్యుత్ గంట (Electric bell) **విద్యుత్ అయస్కాంత ఫలితం** (electromagnetism) పై ఆధారపడి పనిచేస్తుంది。"
+  },
+  {
+    "Question": "ధ్వని తీవ్రతకు ప్రమాణం",
+    "A": "హెర్జ్(Hz)",
+    "B": "డిసిబెల్(dB)",
+    "C": "క్యాలరీ (cal)",
+    "D": "క్యూబిక్ సెం.మీ (cc)",
+    "Answer": "డిసిబెల్(dB)",
+    "Explanation": "ధ్వని తీవ్రత లేదా బిగ్గరను కొలవడానికి ఉపయోగించే ప్రమాణం **డిసిబెల్ (dB)**。"
+  },
+  {
+    "Question": "వాహనాలలో పెట్రోలు, డీజిల్లకు ప్రత్యామ్నాయంగా వాడదగిన ఇంధనం",
+    "A": "ద్రవ నైట్రోజన్",
+    "B": "ఆల్కహాల్",
+    "C": "సి.ఎన్.జి",
+    "D": "బయోగ్యాస్",
+    "Answer": "సి.ఎన్.జి",
+    "Explanation": "పెట్రోలు, డీజిల్‌లకు ప్రత్యామ్నాయంగా, పర్యావరణ అనుకూలమైన ఇంధనంగా **CNG (Compressed Natural Gas)** విస్తృతంగా ఉపయోగించబడుతోంది。"
+  },
+  {
+    "Question": "ఇద్దరు విద్యార్థులు ఇచ్చిన ఈ ప్రకటనలను చదివి సరైన ఐచ్ఛికాన్ని ఎంచుకోండి。 హర్ష: మెరుపుల వల్ల నత్రజని స్థాపన జరుగుతుంది。 వర్ష: రైజోబియం అనే బాక్టీరియా నత్రజని స్థాపన చేస్తుంది。",
+    "A": "ఇద్దరూ తప్పు",
+    "B": "ఇద్దరూ ఒప్పు",
+    "C": "హర్ష ఒప్పు, వర్ష తప్పు",
+    "D": "హర్ష తప్పు, వర్ష ఒప్పు",
+    "Answer": "ఇద్దరూ ఒప్పు",
+    "Explanation": "వాతావరణంలో మెరుపుల ద్వారా మరియు **రైజోబియం** వంటి బాక్టీరియాల ద్వారా కూడా నత్రజని స్థాపన (Nitrogen Fixation) జరుగుతుంది。 కాబట్టి రెండు ప్రకటనలు సరైనవే。"
+  },
+  {
+    "Question": "క్రింది వానిలో ఉభయాహారులను గుర్తించండి。 a) ఎలుక b) తోడేలు c) కోడి d) ఎలుగుబంటు",
+    "A": "a, b మరియు c",
+    "B": "b, c మరియు d",
+    "C": "a, c మరియు d",
+    "D": "a, b మరియు d",
+    "Answer": "a, c మరియు d",
+    "Explanation": "ఉభయాహారులు (Omnivores) అంటే మొక్కలు మరియు మాంసం రెండింటినీ తినే జీవులు。 ఎలుక (a), కోడి (c), మరియు ఎలుగుబంటు (d) ఉభయాహారులు。 తోడేలు మాంసాహారి。"
+  },
+  {
+    "Question": "“సిట్రస్ కాంకర్” వ్యాధి జనకం",
+    "A": "బాక్టీరియా",
+    "B": "వైరస్",
+    "C": "శిలీంధ్రం",
+    "D": "ప్రోటోజోవా",
+    "Answer": "బాక్టీరియా",
+    "Explanation": "సిట్రస్ కాంకర్ (Citrus Canker) అనే మొక్కల వ్యాధి **బాక్టీరియా** వల్ల కలుగుతుంది。"
+  },
+  {
+    "Question": "అవాయు శ్వాసక్రియ జరుపనివి",
+    "A": "ఈస్ట్లు",
+    "B": "మానవ కండరాలు",
+    "C": "బాక్టీరియాలు",
+    "D": "మొలకెత్తే విత్తనాలు",
+    "Answer": "మొలకెత్తే విత్తనాలు",
+    "Explanation": "ఈస్ట్లు, కండరాలు మరియు బాక్టీరియాలలో అవాయు శ్వాసక్రియ జరుగుతుంది。 కానీ **మొలకెత్తే విత్తనాలు** సాధారణంగా ఆక్సిజన్ అవసరమయ్యే వాయు శ్వాసక్రియను జరుపుతాయి。"
+  },
+  {
+    "Question": "కప్పలో రూప విక్రియను నియంత్రించే హార్మోన్",
+    "A": "ఇన్సులిన్",
+    "B": "పెరుగుదల హార్మోన్",
+    "C": "అడ్రినలిన్",
+    "D": "థైరాక్సిన్",
+    "Answer": "థైరాక్సిన్",
+    "Explanation": "కప్పల లార్వా (టాడ్‌పోల్) దశ నుండి వయోజన కప్పగా మారే **రూప విక్రియ (metamorphosis)** ప్రక్రియను **థైరాక్సిన్** హార్మోన్ నియంత్రిస్తుంది。"
+  },
+  {
+    "Question": "వాతావరణ మార్పులపై ప్రజలకు అవగాహన కల్పించి, 2018లో ఐక్యరాజ్య సమితిలో వాతావరణ మార్పు పై ప్రసంగించిన స్వీడన్కు చెందిన పర్యావరణవేత్త",
+    "A": "వంగరీమాతై",
+    "B": "గ్రెటా థన్బర్గ్",
+    "C": "డేవిడ్ బ్రోవర్",
+    "D": "రేచల్కార్సన్",
+    "Answer": "గ్రెటా థన్బర్గ్",
+    "Explanation": "స్వీడన్‌కు చెందిన పర్యావరణవేత్త **గ్రెటా థన్బర్గ్** 2018లో ఐక్యరాజ్య సమితిలో వాతావరణ మార్పులపై ప్రసంగించారు。"
+  },
+  {
+    "Question": "కుమ్మరి ఎండిన కుండలను దీనిలో కాల్చుతాడు",
+    "A": "కుంపటి",
+    "B": "ఓవెన్",
+    "C": "గ్రిల్",
+    "D": "కొలిమి",
+    "Answer": "కొలిమి",
+    "Explanation": "కుమ్మరి ఎండిన కుండలను గట్టిపడటానికి **కొలిమి (kiln)** లో కాల్చుతాడు。"
+  },
+  {
+    "Question": "నృత్య కళాకారులు భావాలను వ్యక్తీకరించుటకు వీటిని ఉపయోగిస్తారు",
+    "A": "ముద్రలు",
+    "B": "ఎమోజీలు",
+    "C": "చిత్రాలు",
+    "D": "పదాలు",
+    "Answer": "ముద్రలు",
+    "Explanation": "నృత్య కళాకారులు శాస్త్రీయ నృత్యాలలో భావాలను మరియు కథను వ్యక్తీకరించడానికి **ముద్రలు (Mudras)** లేదా హస్త సంజ్ఞలను ఉపయోగిస్తారు。"
+  },
+  {
+    "Question": "గణ రాజ్యాలను జయించిన రాజవంశం",
+    "A": "మౌర్య",
+    "B": "శుంగ",
+    "C": "కణ్వ",
+    "D": "గుప్త",
+    "Answer": "గుప్త",
+    "Explanation": "ప్రాచీన భారతదేశంలో గణతంత్ర రాజ్యాలను (గణ రాజ్యాలు) జయించి, సామ్రాజ్యంలో విలీనం చేసిన రాజవంశాలలో **గుప్త** రాజవంశం ముఖ్యమైనది。"
+  },
+  {
+    "Question": "‘పక్షి ఖండం’ అని దీనిని పిలుస్తారు。",
+    "A": "దక్షిణ అమెరికా",
+    "B": "ఆస్ట్రేలియా",
+    "C": "ఉత్తర అమెరికా",
+    "D": "అంటార్కిటికా",
+    "Answer": "దక్షిణ అమెరికా",
+    "Explanation": "పక్షుల యొక్క గొప్ప వైవిధ్యం మరియు సంఖ్య కారణంగా **దక్షిణ అమెరికా** ను 'పక్షి ఖండం' అని పిలుస్తారు。"
+  },
+  {
+    "Question": "భారత రాజ్యాంగ సభకు సంబంధించి సరికాని అంశాన్ని గుర్తించండి。",
+    "A": "బ్రిటీష్ ప్రావిన్స్ల నుండి 292 మంది సభ్యులు ఎన్నికయ్యారు。",
+    "B": "స్వదేశీ సంస్థానాల నుంచి 93 మంది సభ్యులు సిఫార్సు చేయబడ్డారు。",
+    "C": "భారత రాజ్యాంగ సభ సభ్యులలో 28 మంది షెడ్యూల్డ్ కులానికి చెందినవారు",
+    "D": "భారత రాజ్యాంగ సభ మొత్తం సభ్యుల సంఖ్య - 389",
+    "Answer": "భారత రాజ్యాంగ సభ సభ్యులలో 28 మంది షెడ్యూల్డ్ కులానికి చెందినవారు",
+    "Explanation": "రాజ్యాంగ సభకు సంబంధించి, 28 మంది షెడ్యూల్డ్ కులానికి చెందినవారు మాత్రమే ఉన్నారు అనే ప్రకటన సరికానిది。 రాజ్యాంగ సభ మొత్తం సభ్యుల సంఖ్య 389。"
+  },
+  {
+    "Question": "“స్త్రీ పురుషతుల్నా” అనే పుస్తకాన్ని వ్రాసినవారు。",
+    "A": "పండిత రమాబాయి",
+    "B": "తారాబాయి షిండే",
+    "C": "బేగం రోకేయా శఖావత్ హుస్సేన్",
+    "D": "సావిత్రిబాయి ఫూలే",
+    "Answer": "తారాబాయి షిండే",
+    "Explanation": "“స్త్రీ పురుషతుల్నా” అనే పుస్తకాన్ని వ్రాసినవారు **తారాబాయి షిండే**。"
+  },
+  {
+    "Question": "దక్కన్ పీఠభూమికి సంబంధించి సరైన అంశాలను గుర్తించండి。 a. దక్కన్ పీఠభూమి అగ్ని పర్వత మూలానికి చెందినది b. రాయలసీమలోని అధిక భాగం దక్కన్ పీఠభూమికి చెందినది c. లావా పీఠభూములు ఒండ్రు నేలలకి ప్రసిద్ధి d. దక్కన్ పీఠభూమి లావా పీఠభూమి",
+    "A": "a, b, c",
+    "B": "a, c, d",
+    "C": "a, b, d",
+    "D": "a, b, c, d",
+    "Answer": "a, b, d",
+    "Explanation": "దక్కన్ పీఠభూమి అగ్ని పర్వత మూలానికి చెందింది (a) మరియు ఇది లావా పీఠభూమి (d)。 రాయలసీమలోని అధిక భాగం దీని కిందకు వస్తుంది (b)。 లావా పీఠభూములు నల్లరేగడి నేలలకు (Black soil) ప్రసిద్ధి, ఒండ్రు నేలలకు కాదు (c సరికానిది)。"
+  },
+  {
+    "Question": "“విధి నిర్వహణ వల్లనే అసలైన హక్కులు సంక్రమిస్తాయి” అని చెప్పినవారు",
+    "A": "మహాత్మా గాంధీ",
+    "B": "బి.ఆర్. అంబేద్కర్",
+    "C": "జవహర్లాల్ నెహ్రూ",
+    "D": "బాబూ రాజేంద్రప్రసాద్",
+    "Answer": "మహాత్మా గాంధీ",
+    "Explanation": "“విధి నిర్వహణ వల్లనే అసలైన హక్కులు సంక్రమిస్తాయి” అనే సిద్ధాంతం **మహాత్మా గాంధీ**కి దగ్గరగా ఉంటుంది。"
+  },
+  {
+    "Question": "ఈ పరిశ్రమ అభివృద్ధి చెందుతున్న పరిశ్రమల (సన్రైస్ ఇండస్ట్రీస్) క్రిందకు రాదు",
+    "A": "ఆరోగ్యరంగం",
+    "B": "ఆతిథ్యరంగం",
+    "C": "ఇనుము - ఉక్కు",
+    "D": "వైజ్ఞానికరంగం",
+    "Answer": "ఇనుము - ఉక్కు",
+    "Explanation": "అభివృద్ధి చెందుతున్న పరిశ్రమలు (Sunrise Industries) అంటే వేగంగా పెరుగుతున్న కొత్త సాంకేతిక ఆధారిత రంగాలు。 **ఇనుము - ఉక్కు** పరిశ్రమ ఒక సాంప్రదాయ, ప్రాథమిక పరిశ్రమ。"
+  },
+  {
+    "Question": "అక్బర్ తన సామ్రాజ్యాన్ని ఈ క్రింది విధంగా విభజించారు。",
+    "A": "పరగణాలు - సర్కారులు - సుభాలు",
+    "B": "సర్కారులు - సుభాలు - పరగణాలు",
+    "C": "సుభాలు - పరగణాలు - సర్కారులు",
+    "D": "సుభాలు- సర్కారులు - పరగణాలు",
+    "Answer": "సుభాలు- సర్కారులు - పరగణాలు",
+    "Explanation": "అక్బర్ తన సామ్రాజ్యాన్ని పరిపాలనా సౌలభ్యం కోసం **సుభాలు** (Subas), **సర్కారులు** (Sarkars), మరియు **పరగణాలు** (Paraganas) గా విభజించారు。"
+  },
+  {
+    "Question": "అమరలింగేశ్వరస్వామి దేవాలయం ఈ నది ఒడ్డున కలదు",
+    "A": "గోదావరి",
+    "B": "పెన్నా",
+    "C": "కృష్ణ",
+    "D": "మహానది",
+    "Answer": "కృష్ణ",
+    "Explanation": "అమరలింగేశ్వరస్వామి దేవాలయం (అమరావతి) **కృష్ణ** నది ఒడ్డున కలదు。"
+  },
+  {
+    "Question": "సుస్థిరాభివృద్ధి లక్ష్యాలలో 5వది",
+    "A": "నాణ్యమైన విద్య",
+    "B": "మంచి ఆరోగ్యం మరియు క్షేమం",
+    "C": "పరిశుభ్రమైన నీరు మరియు పారిశుద్ధ్యం",
+    "D": "లింగ సమానత్వం",
+    "Answer": "లింగ సమానత్వం",
+    "Explanation": "సుస్థిరాభివృద్ధి లక్ష్యాలు (SDGs) 17లో, 5వ లక్ష్యం **లింగ సమానత్వం** (Gender Equality)。"
+  },
+  {
+    "Question": "హేలీ తోక చుక్క చివరిసారిగా ఈ సంవత్సరంలో కనిపించింది。",
+    "A": "1986",
+    "B": "1988",
+    "C": "1992",
+    "D": "1999",
+    "Answer": "1986",
+    "Explanation": "హేలీ తోక చుక్క (Halley's Comet) చివరిసారిగా **1986** లో కనిపించింది。"
+  },
+  {
+    "Question": "బొడ్డు పొన్న వృక్షము ఈ అడవులలో పెరుగుతుంది。",
+    "A": "మడ అడవులు",
+    "B": "ఆకురాల్చు అడవులు",
+    "C": "సతతహరిత అడవులు",
+    "D": "పర్వత ప్రాంత అడవులు",
+    "Answer": "మడ అడవులు",
+    "Explanation": "బొడ్డు పొన్న వృక్షం వంటివి సాధారణంగా తీర ప్రాంతాలలో పెరిగే **మడ అడవులు** (Mangrove forests) లో కనిపిస్తాయి。"
+  },
+  {
+    "Question": "క్రింది వానిలో విజ్ఞాన శాస్త్రవేత్త లక్షణం కానిది",
+    "A": "ఒక పరిస్థితిని వివరించిన తర్వాత, ఆ పరిస్థితి, ఫలితం ఎలా వచ్చాయో విశదీకరిస్తాడు。",
+    "B": "సత్యం పట్ల ఉన్న తన దృక్పధాన్ని మార్చుకోవడానికి తగిన ఆధారాలు లభించినపుడు తన అభిప్రాయాన్ని మార్చుకుంటాడు。",
+    "C": "ఏదైనా నిర్ణయాన్ని అంత్య నిర్ణయంగా అంగీకరిస్తాడు",
+    "D": "విమర్శనాత్మాక వైఖరి కలిగి ఉంటాడు。",
+    "Answer": "ఏదైనా నిర్ణయాన్ని అంత్య నిర్ణయంగా అంగీకరిస్తాడు",
+    "Explanation": "ఒక విజ్ఞాన శాస్త్రవేత్త ఎల్లప్పుడూ కొత్త ఆధారాల కోసం చూస్తాడు మరియు తమ నిర్ణయాలను మారుస్తాడు。 ఏదైనా నిర్ణయాన్ని **అంత్య నిర్ణయంగా అంగీకరించడం** అనేది శాస్త్రీయ వైఖరి కాదు。"
+  },
+  {
+    "Question": "తరిగిపోయే, మరియు తరగని శక్తి వనరులు, వాటి ఉపయోగం పై ఫ్లోచార్ట్ తయారు చేయమని ఉపాధ్యాయుడు విద్యార్థులకు సూచించాడు. ఇది ఏ విద్యాప్రమాణానికి చెందుతుంది",
+    "A": "పట నైపుణ్యం",
+    "B": "సమాచార నైపుణ్యాలు - ప్రాజెక్ట్ పని",
+    "C": "ప్రయోగాలు మరియు క్షేత్ర పరిశీలనలు",
+    "D": "విషయావగాహన",
+    "Answer": "పట నైపుణ్యం",
+    "Explanation": "ఒక **ఫ్లోచార్ట్** ను తయారు చేయమని సూచించడం అనేది సమాచారాన్ని గ్రాఫికల్‌గా చూపించే **పట నైపుణ్యం (Drawing skills)** అనే విద్యా ప్రమాణానికి చెందుతుంది。"
+  },
+  {
+    "Question": "నమూనాలు, మాదిరులు, వస్తువులు, తోలు బొమ్మల లాంటి బోధనా సాధనములు ఈకోవకు చెందుతాయి。",
+    "A": "రేఖా చిత్ర సాధనాలు",
+    "B": "త్రిమితీయ సాధనాలు",
+    "C": "శ్రవణ సాధనాలు",
+    "D": "కృత్యాత్మక సాధనాలు",
+    "Answer": "త్రిమితీయ సాధనాలు",
+    "Explanation": "నమూనాలు, మాదిరులు, వస్తువులు వంటివి భౌతికంగా, మూడు కోణాలలో ఉండే బోధనా సాధనాలు కాబట్టి, వాటిని **త్రిమితీయ సాధనాలు (3-D aids)** అంటారు。"
+  },
+  {
+    "Question": "జాతీయ నూతన విద్యా విధానం - 1986 గుర్తించిన 10 మౌలిక విద్యా ప్రణాళికా రంగాలకు సంబంధం లేనిది",
+    "A": "లింగ సమానత్వం",
+    "B": "పర్యావరణ పరిరక్షణ",
+    "C": "సామాజిక అవరోధాల తొలగింపు",
+    "D": "అశాస్త్రీయ ధోరణి",
+    "Answer": "అశాస్త్రీయ ధోరణి",
+    "Explanation": "జాతీయ నూతన విద్యా విధానం (NEP) 1986, **అశాస్త్రీయ ధోరణి** (Unscientific tendency) ని తొలగించాలని లక్ష్యంగా పెట్టుకుంది, కానీ ఇది 10 మౌలిక ప్రణాళికా రంగాలలో భాగం కాదు。"
+  },
+  {
+    "Question": "పాఠశాల వాతావరణంలోకి తీసుకువచ్చిన జీవిత అంశమే ప్రాజెక్ట్” అని నిర్వచించినది",
+    "A": "కిల్పాట్రిక్",
+    "B": "స్టీవెన్సన్",
+    "C": "బిల్లార్డ్",
+    "D": "బైనింగ్ మరియు బైనింగ్",
+    "Answer": "బిల్లార్డ్",
+    "Explanation": "“పాఠశాల వాతావరణంలోకి తీసుకువచ్చిన జీవిత అంశమే ప్రాజెక్ట్” అని నిర్వచించినది **బిల్లార్డ్**。"
+  },
+  {
+    "Question": "క్షేత్ర పర్యటనలో 3వ సోపానం",
+    "A": "ప్రణాళిక",
+    "B": "సన్నాహం",
+    "C": "అమలు చేయటం",
+    "D": "మూల్యాంకనం",
+    "Answer": "అమలు చేయటం",
+    "Explanation": "క్షేత్ర పర్యటనలో సోపానాలు వరుసగా: 1. ప్రణాళిక, 2. సన్నాహం, 3. **అమలు చేయటం (Implementation)**, 4. మూల్యాంకనం。"
   }
 ]
