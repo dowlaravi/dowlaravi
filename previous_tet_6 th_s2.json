@@ -744,7 +744,7 @@
     "C": "Lingua franca",
     "D": "Ancient script",
     "Answer": "Lingua franca",
-   "Explanation": "The passage states Hindi 'serves as a **lingua franca**'"
+   "Explanation": "The passage states Hindi 'serves as a **lingua franca**"
   },
   {
     "Question": "Identify the regional languages mentioned in the passage: (Based on the passage provided in the source)",
@@ -753,7 +753,7 @@
     "C": "Bengali, Kannada, Telugu",
     "D": "Marathi, Punjabi, Assamese",
     "Answer": "Tamil, Bengali, Marathi",
-   "Explanation": "The passage lists 'regional languages like **Tamil, Bengali, and Marathi**'"
+   "Explanation": "The passage lists 'regional languages like **Tamil, Bengali, and Marathi**"
   },
   {
     "Question": "Identify the skill that is primarily speech and involves expressing feelings and obtaining information",
@@ -1351,4 +1351,5 @@
     "Explanation": "క్షేత్ర పర్యటనలో సోపానాలు వరుసగా: 1. ప్రణాళిక, 2. సన్నాహం, 3. **అమలు చేయటం (Implementation)**, 4. మూల్యాంకనం。"
   }
 ]
+
 
