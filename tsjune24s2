@@ -1,0 +1,1307 @@
+[
+ {
+  "Question": "ఒక అంశాన్ని బోధించే వివిధ దశలలో వివిధ పరికరాలు మరియు పద్ధతులను ఉపయోగించే ఉపాధ్యాయుడు ఉపయోగిస్తున్నది",
+  "A": "ఉద్దీపన వైవిధ్యం",
+  "B": "ప్రతిస్పందన వైవిధ్యం",
+  "C": "బహుమతులు మరియు శిక్షలు",
+  "D": "పునర్బలన షెడ్యూల్స్",
+  "Answer": "ఉద్దీపన వైవిధ్యం",
+  "Explanation": "తరగతి గదిలో విద్యార్థుల అవధానాన్ని ఆకర్షించడానికి మరియు నిలుపుకోవడానికి ఉపాధ్యాయుడు వివిధ పద్ధతులు మరియు పరికరాలను మార్చడాన్ని ఉద్దీపన వైవిధ్యం (Stimulus Variation) అంటారు."
+ },
+ {
+  "Question": "ఈ దశను బోధనా ప్రక్రియ ముగింపు అని కూడా అంటారు",
+  "A": "పోస్ట్-యాక్టివ్",
+  "B": "ప్రీ-యాక్టివ్",
+  "C": "ఇంటర్-యాక్టివ్",
+  "D": "పరిచయ దశ",
+  "Answer": "పోస్ట్-యాక్టివ్",
+  "Explanation": "బోధనా ప్రక్రియలో పోస్ట్-యాక్టివ్ (Post-active) దశ అనేది మూల్యాంకనం మరియు ఫలితాల విశ్లేషణకు సంబంధించినది, కాబట్టి దీనిని ముగింపు దశగా పరిగణిస్తారు."
+ },
+ {
+  "Question": "ప్రయోగశాలలో విద్యార్థులకు సైన్స్ ప్రయోగాలు చేయడం నేర్పడానికి కింది వాటిలో ఉత్తమ అభ్యసన పద్ధతి",
+  "A": "మేధోమథనం",
+  "B": "పరిశోధన ఆధారిత విధానం",
+  "C": "సహకార అభ్యసనం",
+  "D": "పరిశీలనా అభ్యసనం",
+  "Answer": "పరిశోధన ఆధారిత విధానం",
+  "Explanation": "సైన్స్ ప్రయోగాలు నేర్చుకోవడానికి స్వయంగా చేసి చూడటం ముఖ్యం, కాబట్టి పరిశోధన ఆధారిత విధానం (Enquiry based approach) అత్యంత అనుకూలమైనది."
+ },
+ {
+  "Question": "కింది వాటిలో ఒకటి సమ్మిళిత అభ్యాసానికి పాఠశాల యొక్క 'సాంఘీక పరిసరాన్ని' సిద్ధం చేయడానికి సంబంధించినది",
+  "A": "వ్యక్తిగతీకరించిన విద్యా కార్యక్రమాలను తయారు చేయడం",
+  "B": "విద్యా ప్రణాళిక అనుకూలతలు",
+  "C": "భౌతిక సదుపాయాలలో మార్పులు",
+  "D": "ప్రిన్సిపాల్, ఉపాధ్యాయులు మరియు పిల్లల వైఖరిలో మార్పు",
+  "Answer": "ప్రిన్సిపాల్, ఉపాధ్యాయులు మరియు పిల్లల వైఖరిలో మార్పు",
+  "Explanation": "సమ్మిళిత విద్యలో సామాజిక వాతావరణం బాగుండాలంటే పాఠశాల సిబ్బంది మరియు విద్యార్థుల వైఖరిలో సానుకూల మార్పు అవసరం."
+ },
+ {
+  "Question": "ఉచిత మరియు నిర్బంధ విద్యకు పిల్లల హక్కు చట్టం, 2009 లోని ఈ విభాగం పాఠ్యప్రణాళిక మరియు మూల్యాంకన విధానాల కోసం ప్రభుత్వం ద్వారా తగిన విద్యా విషయక అథారిటీని పేర్కొనడానికి వీలు కల్పిస్తుంది.",
+  "A": "30",
+  "B": "29",
+  "C": "28",
+  "D": "27",
+  "Answer": "29",
+  "Explanation": "RTE చట్టం 2009 లోని సెక్షన్ 29 పాఠ్యప్రణాళిక మరియు మూల్యాంకన విధానాలను రూపొందించడానికి విద్యా విషయక అథారిటీని నియమించే అధికారాలను వివరిస్తుంది."
+ },
+ {
+  "Question": "'మదింపు' కు సంబంధించిన సరైన స్టేట్మెంట్ను గుర్తించండి",
+  "A": "బోధనను మెరుగుపరచడంలో మదింపులకు ఎటువంటి పాత్ర లేదు.",
+  "B": "మదింపులు తప్పులు లేకుండా ఉంటాయి.",
+  "C": "మదింపు అనేది గడించిన అభ్యసనం యొక్క మాపన ప్రక్రియను సూచిస్తుంది.",
+  "D": "మదింపు మరియు మూల్యాంకనం రెండూ ఒకటే",
+  "Answer": "మదింపు అనేది గడించిన అభ్యసనం యొక్క మాపన ప్రక్రియను సూచిస్తుంది.",
+  "Explanation": "మదింపు (Assessment) అనేది విద్యార్థి ఎంతవరకు నేర్చుకున్నాడో కొలవడానికి ఉపయోగించే ప్రక్రియ."
+ },
+ {
+  "Question": "ఐక్యరాజ్యసమితి బాలల హక్కుల సదస్సుకు భారతదేశం ఏ సంవత్సరంలో అంగీకరించింది?",
+  "A": "నవంబర్, 1992",
+  "B": "డిసెంబర్, 1992",
+  "C": "అక్టోబర్, 1992",
+  "D": "సెప్టెంబర్, 1992",
+  "Answer": "డిసెంబర్, 1992",
+  "Explanation": "భారతదేశం 1992 డిసెంబర్ 11న ఐక్యరాజ్యసమితి బాలల హక్కుల కన్వెన్షన్ (UNCRC) ను ఆమోదించింది."
+ },
+ {
+  "Question": "పాఠశాల అభ్యసన వనరు కింద ఈ క్రింది వాటిలో ఒకదాన్ని పరిగణించవచ్చు",
+  "A": "తల్లిదండ్రుల మద్దతు",
+  "B": "అభ్యాసకుడి ప్రజ్ఞ",
+  "C": "బోధనా విధానం",
+  "D": "సామాజిక డిమాండ్లు",
+  "Answer": "బోధనా విధానం",
+  "Explanation": "పాఠశాల పరిధిలో బోధనా విధానం (Instructional approach) అనేది అభ్యసన వనరుగా లేదా ప్రక్రియగా పరిగణించబడుతుంది."
+ },
+ {
+  "Question": "ఒక నిర్దిష్ట రాష్ట్రం పదవ తరగతి విద్యార్థులు పదవ తరగతి తర్వాత ఏ కోర్సును ఎంచుకోవాలో మార్గనిర్దేశం చేయడానికి ఒక ఏజెన్సీని నియమించింది. అలాంటి మార్గదర్శకత్వం",
+  "A": "విద్యా సంబంధ",
+  "B": "ఔద్యోగిక",
+  "C": "క్లయింట్ కేంద్రీకృత",
+  "D": "మానసిక",
+  "Answer": "విద్యా సంబంధ",
+  "Explanation": "చదువు సంబంధిత కోర్సులను ఎంచుకోవడంలో ఇచ్చే సలహాలను విద్యా సంబంధ మార్గదర్శకత్వం (Educational Guidance) అంటారు."
+ },
+ {
+  "Question": "ఈ క్రింది వాటిలో బ్రూనర్ ప్రతిపాదించిన ఆవిష్కరణ అభ్యసనాన్ని పెంపొందించడానికి మార్గదర్శకాన్ని గుర్తించండి",
+  "A": "సహజమైన అంచనాలను అనుమతించక పోవడం",
+  "B": "అమూర్త నుండి మూర్త భావనలకు వెళ్లడం",
+  "C": "కృత్యాలను పెద్ద సమూహాలలో నిర్వహించడం",
+  "D": "కొత్త విషయం యొక్క ప్రాథమిక నిర్మాణాన్ని నొక్కి చెప్పడం",
+  "Answer": "కొత్త విషయం యొక్క ప్రాథమిక నిర్మాణాన్ని నొక్కి చెప్పడం",
+  "Explanation": "బ్రూనర్ ప్రకారం, విషయ నిర్మాణం (Structure of knowledge) అర్థం చేసుకోవడం ఆవిష్కరణ అభ్యసనానికి ముఖ్యం."
+ },
+ {
+  "Question": "వికాసం యొక్క ఈ క్రింది సూత్రాలను వాటి అంతర్భావాలతో సరిపోల్చండి: A) వికాసం సాధారణం నుండి నిర్దిష్ట ప్రతిస్పందనలకు సాగుతుంది B) పరస్పర సంబంధ సూత్రం C) వికాసంను ప్రాగుక్తీకరించవచ్చు D) శిరః పాదాభిముఖ వికాస సూత్రం",
+  "A": "A-ii, B-i, C-iv, D-iii",
+  "B": "A-iii, B-i, C-iv, D-ii",
+  "C": "A-i, B-ii, C-iii, D-iv",
+  "D": "A-iv, B-i, C-iii, D-ii",
+  "Answer": "A-ii, B-i, C-iv, D-iii",
+  "Explanation": "శిరః పాదాభిముఖ (Cephalocaudal) అంటే తల నుండి కాళ్ళ వరకు (శిశువులు మెడ నిలపడం మొదలు). సాధారణం నుండి నిర్దిష్ట అంటే 'ఆమ్' అని పిలవడం నుండి కచ్చితమైన పేర్లు వాడటం వంటివి."
+ },
+ {
+  "Question": "కింది స్టేట్మెంట్లను చదివి సరైన సమాధానాన్ని గుర్తించండి: A) యుక్తవయస్సుకు చేరుకోవడం మరియు పరిణతి చెందడం సార్వత్రికంగా ఒకే కాలానికి కట్టుబడి ఉండదు B) కౌమారదశ పరిధి ఒక దేశాన్నుంచి మరొక దేశానికి భిన్నంగా ఉంటుంది",
+  "A": "A మరియు B రెండు స్టేట్మెంట్లు సరైనవి మరియు A, B కి సరైన వివరణను అందించదు",
+  "B": "A మరియు B రెండు స్టేట్మెంట్లు సరైనవి మరియు A, B కి సరైన వివరణను అందిస్తుంది.",
+  "C": "స్టేట్మెంట్ A సరైనది B సరికాదు.",
+  "D": "A మరియు B రెండు స్టేట్మెంట్లు సరికావు",
+  "Answer": "A మరియు B రెండు స్టేట్మెంట్లు సరైనవి మరియు A, B కి సరైన వివరణను అందిస్తుంది.",
+  "Explanation": "కౌమారదశ అనేది సాంస్కృతిక మరియు భౌగోళిక పరిస్థితులపై ఆధారపడి మారుతుంది, కాబట్టి ఇది సార్వత్రికంగా ఒకేలా ఉండదు."
+ },
+ {
+  "Question": "భావోద్వేగ అనుభవాలు మన శరీరంలోని కింది వ్యవస్థలలో వేటిని ప్రభావితం చేస్తాయి? A) ప్రసరణ B) శ్వాసకోశ C) జీర్ణక్రియ",
+  "A": "A, B & C",
+  "B": "A & C మాత్రమే",
+  "C": "B & C మాత్రమే",
+  "D": "A & B మాత్రమే",
+  "Answer": "A, B & C",
+  "Explanation": "తీవ్రమైన భావోద్వేగాలు గుండె కొట్టుకునే వేగం (ప్రసరణ), శ్వాస వేగం (శ్వాసకోశ) మరియు ఆకలి/జీర్ణక్రియను ప్రభావితం చేస్తాయి."
+ },
+ {
+  "Question": "వేదాంత్ మత్స్యకారుల పిల్లలైన తన స్నేహితులతో పోలిస్తే చేపలు పట్టలేకపోతున్నాడు. ఈ వ్యత్యాసానికి కారణం:",
+  "A": "ప్రజ్ఞ",
+  "B": "సంస్కృతి",
+  "C": "ఆలోచన",
+  "D": "వయసు",
+  "Answer": "సంస్కృతి",
+  "Explanation": "మత్స్యకారుల పిల్లలు వారి సంస్కృతి మరియు వాతావరణం ద్వారా ఆ నైపుణ్యాన్ని సహజంగా నేర్చుకున్నారు, వేదాంత్ కు ఆ సాంస్కృతిక నేపథ్యం లేదు."
+ },
+ {
+  "Question": "కుమార్ ఒక సంవత్సరం వయసున్న బాలుడు. అతని తల్లి అతనికి క్రమానుసారం ఆహారం పెట్టదు. ఎరిక్సన్ ప్రకారం, పిల్లవాడు ఈ భావనను పెంచుకోవచ్చు:",
+  "A": "అపరాధ భావన",
+  "B": "సంశయం",
+  "C": "అపనమ్మకం",
+  "D": "న్యూనత",
+  "Answer": "అపనమ్మకం",
+  "Explanation": "ఎరిక్సన్ మొదటి దశ (నమ్మకం vs అపనమ్మకం) ప్రకారం, అవసరాలు తీరకపోతే శిశువులో అపనమ్మకం (Mistrust) ఏర్పడుతుంది."
+ },
+ {
+  "Question": "హేమ లేచి వెళ్ళిపోతే పసికందు ఏడవడం ప్రారంభించింది. పియాజె ప్రకారం పసికందులో ఈ భావన అభివృద్ధి చెందింది:",
+  "A": "గ్రహించడం",
+  "B": "వివేచనం",
+  "C": "అహంకేంద్రవాదం",
+  "D": "వస్తు స్థిరత్వం",
+  "Answer": "వస్తు స్థిరత్వం",
+  "Explanation": "వస్తు స్థిరత్వం (Object permanence) అంటే కంటికి కనిపించకపోయినా వస్తువు/మనిషి ఉన్నారని గ్రహించడం. ఇక్కడ ఆ భావన ఇంకా పూర్తిగా స్థిరపడకపోవడం లేదా తల్లి ఉనికిని వెతకడం దీనికి సంబంధించింది."
+ },
+ {
+  "Question": "కింది వాటిలో ఏది 'ఆలోచన'ను ప్రతిబింబించదు?",
+  "A": "లక్ష్యాన్ని ఏర్పరచుకోవడం",
+  "B": "మానసిక కృత్యం",
+  "C": "యాంత్రిక చర్య",
+  "D": "ప్రతీకాత్మక కృత్యం",
+  "Answer": "యాంత్రిక చర్య",
+  "Explanation": "ఆలోచన అనేది మానసిక ప్రక్రియ. యాంత్రిక చర్య (Mechanical act) అలవాటుగా చేసేది, ఇందులో లోతైన ఆలోచన ఉండదు."
+ },
+ {
+  "Question": "'అంతర్వర్తనుడు' మరియు 'బహిర్వర్తనుడు' అనే పదాలు దీని రకాలను వర్ణించే పదాలు",
+  "A": "ఆలోచన",
+  "B": "ప్రజ్ఞ",
+  "C": "సాధన",
+  "D": "మూర్తిమత్వం",
+  "Answer": "మూర్తిమత్వం",
+  "Explanation": "కార్ల్ జంగ్ మూర్తిమత్వాన్ని (Personality) అంతర్వర్తనులు (Introverts) మరియు బహిర్వర్తనులు (Extroverts) గా వర్గీకరించారు."
+ },
+ {
+  "Question": "చారు బాధలో ఉన్నప్పుడు చిన్ననాటి బొమ్మను కౌగిలించుకుని నిద్రపోవడం ఏ రక్షక తంత్రం?",
+  "A": "దమనం",
+  "B": "ప్రతిగమనం",
+  "C": "హేతుకీకరణం",
+  "D": "పరిహారం",
+  "Answer": "ప్రతిగమనం",
+  "Explanation": "ప్రతిగమనం (Regression) అంటే ఒత్తిడి సమయంలో చిన్నపిల్లల ప్రవర్తన లేదా పూర్వపు దశకు వెళ్ళడం."
+ },
+ {
+  "Question": "ఒక లక్షణాన్ని 5 పాయింట్ల డిగ్రీలలో (అతి నిమ్న నుండి అతి అధిక వరకు) సూచించే సాధనం:",
+  "A": "శోధిక",
+  "B": "ప్రశ్నావళి",
+  "C": "నిర్ధారణ మాపని",
+  "D": "సంఘటన రచనాత్మక రికార్డ్",
+  "Answer": "నిర్ధారణ మాపని",
+  "Explanation": "ఒక లక్షణం యొక్క స్థాయిని కొలవడానికి ఉపయోగించే స్కేల్ ను నిర్ధారణ మాపని (Rating scale) అంటారు."
+ },
+ {
+  "Question": "అభ్యసనానికి సంబంధించిన స్టేట్ మెంట్ నుండి చేయలేని తీర్మానం:",
+  "A": "అభ్యసనం ఎల్లప్పుడూ సానుకూలంగా ఉంటుంది",
+  "B": "అభ్యసనం నిరంతరంగా ఉంటుంది.",
+  "C": "అభ్యసనం సార్వత్రికమైనది",
+  "D": "అభ్యసనం అనేది సమగ్ర ప్రక్రియ.",
+  "Answer": "అభ్యసనం ఎల్లప్పుడూ సానుకూలంగా ఉంటుంది",
+  "Explanation": "అభ్యసనం ఎప్పుడూ సానుకూలంగా ఉండకపోవచ్చు, చెడు అలవాట్లు నేర్చుకోవడం కూడా అభ్యసనమే. ఇది ప్రతికూలంగా కూడా ఉండవచ్చు."
+ },
+ {
+  "Question": "ఒక వ్యక్తి తన తల్లిని సంతోషపెట్టడానికి అధికారి కావాలని అనుకుని విజయం సాధించాడు. అతను దేనితో ప్రభావితమయ్యాడు?",
+  "A": "అభ్యసన సామగ్రి",
+  "B": "ఉపాధ్యాయుడు",
+  "C": "జీతం",
+  "D": "లక్ష్యం",
+  "Answer": "లక్ష్యం",
+  "Explanation": "అతను పెట్టుకున్న గమ్యం లేదా లక్ష్యం (Goal) అతనికి ప్రేరణనిచ్చింది."
+ },
+ {
+  "Question": "థార్న్డైక్ యొక్క ఈ అభ్యసన నియమం అభ్యసనం లో పునరావృతం యొక్క అవసరాన్ని నొక్కి చెబుతుంది",
+  "A": "సంసిద్ధత నియమం",
+  "B": "అభ్యాస నియమం",
+  "C": "ఫలిత నియమం",
+  "D": "సారూప్యత నియమం",
+  "Answer": "అభ్యాస నియమం",
+  "Explanation": "అభ్యాస నియమం (Law of Exercise) ప్రకారం, ఏదైనా విషయాన్ని పదేపదే చేయడం (పునరావృతం) వల్ల అభ్యసనం బలపడుతుంది."
+ },
+ {
+  "Question": "శాస్త్రీయ నిబంధన సిద్ధాంతంలో అయత్న సిద్ద స్వాస్థ్యం (Spontaneous recovery) దేనిని సూచిస్తుంది?",
+  "A": "అణచివేయబడింది తప్ప మర్చిపోబడలేదు",
+  "B": "శాశ్వతంగా మర్చిపోబడింది.",
+  "C": "నమ్యమైనది",
+  "D": "చేతనమైనది",
+  "Answer": "అణచివేయబడింది తప్ప మర్చిపోబడలేదు",
+  "Explanation": "ప్రతిస్పందన తిరిగి కనిపించడం అంటే అది తాత్కాలికంగా అణచివేయబడిందే తప్ప పూర్తిగా మర్చిపోబడలేదని అర్థం."
+ },
+ {
+  "Question": "స్కిన్నర్ ప్రకారం, మెరుగైన నిష్పాదనను సాధించడానికి ఏ పునర్బలన షెడ్యూల్స్ వాడాలి?",
+  "A": "స్థిర విరామ మరియు స్థిర నిష్పత్తి",
+  "B": "చరశీల మరియు నిరంతర",
+  "C": "నిరంతర మరియు చరశీల",
+  "D": "స్థిర నిష్పత్తి మరియు స్థిర విరామ",
+  "Answer": "నిరంతర మరియు చరశీల",
+  "Explanation": "ప్రారంభంలో నిరంతర పునర్బలనం (Continuous reinforcement) మరియు తరువాత చరశీల పునర్బలనం (Variable reinforcement) ఇవ్వడం ఉత్తమ ఫలితాలనిస్తుంది."
+ },
+ {
+  "Question": "వైగోట్స్కీ ప్రకారం పిల్లలు తమలో తాము మాట్లాడుకోవడం (Self-talk) వికాసంలో దీని పాత్రను సూచిస్తుంది",
+  "A": "విద్య",
+  "B": "సమవయస్కులు",
+  "C": "జ్ఞానవంతులైన ఇతరులు",
+  "D": "భాష",
+  "Answer": "భాష",
+  "Explanation": "వైగోట్స్కీ ప్రకారం భాష అనేది కేవలం భావ వ్యక్తీకరణకే కాకుండా ఆలోచనను క్రమబద్ధీకరించడానికి కూడా ఉపయోగపడుతుంది."
+ },
+ {
+  "Question": "ఈ రంగంలో అభ్యసనం ఎక్కువగా శారీరక మరియు చలన వికాసానికి సంబంధించిన నైపుణ్యాలకు సంబంధించినది",
+  "A": "సంజ్ఞానాత్మక",
+  "B": "చలనాత్మక",
+  "C": "భావావేశ",
+  "D": "సాంఘీక",
+  "Answer": "చలనాత్మక",
+  "Explanation": "చలనాత్మక రంగం (Conative/Psychomotor domain) శారీరక కదలికలు మరియు నైపుణ్యాలకు సంబంధించినది."
+ },
+ {
+  "Question": "బహుమతులు పొందడానికి ఎక్కువ సమాజ సేవ చేసే వ్యక్తి ప్రేరణ",
+  "A": "బహిర్వర్తనమైనది",
+  "B": "అంతర్వర్తనమైనది",
+  "C": "సహజమైనది",
+  "D": "భావోద్వేగమైనది",
+  "Answer": "బహిర్వర్తనమైనది",
+  "Explanation": "బాహ్య బహుమతుల కోసం చేసే పని బహిర్వర్తన ప్రేరణ (Extrinsic motivation) కిందకు వస్తుంది."
+ },
+ {
+  "Question": "కిరిట్ '970123876' నంబర్ను '970 123 876' అని గుర్తుంచుకున్నాడు. ఈ పద్ధతి:",
+  "A": "వల్లెవేయడం",
+  "B": "రాగయుక్తం",
+  "C": "సమూహీకరణం",
+  "D": "పునరావృతం",
+  "Answer": "సమూహీకరణం",
+  "Explanation": "పెద్ద సంఖ్యను చిన్న చిన్న ముక్కలుగా విభజించి గుర్తుంచుకోవడాన్ని సమూహీకరణం (Chunking/Grouping) అంటారు."
+ },
+ {
+  "Question": "అభ్యసన బదలాయింపు యొక్క విద్యాసంబంధ అంతర్భావం:",
+  "A": "ద్విపార్శ్వంగా మాత్రమే",
+  "B": "సానుకూలంగా మాత్రమే",
+  "C": "ప్రతికూలంగా మాత్రమే",
+  "D": "సానుకూలంగా లేదా ప్రతికూలంగా",
+  "Answer": "సానుకూలంగా లేదా ప్రతికూలంగా",
+  "Explanation": "ఒక సందర్భంలో నేర్చుకున్నది మరొక సందర్భానికి సహాయపడవచ్చు (సానుకూల) లేదా ఆటంకం కలిగించవచ్చు (ప్రతికూల)."
+ },
+ {
+  "Question": "'కొఱగాని' అంటే అర్థం",
+  "A": "ప్రయోజనం ఉన్న",
+  "B": "ప్రయోజనం లేని",
+  "C": "తెలివి ఉన్న",
+  "D": "సమున్నత",
+  "Answer": "ప్రయోజనం లేని",
+  "Explanation": "తెలుగులో 'కొఱగాని' అంటే పనికిరాని లేదా ప్రయోజనం లేని అని అర్థం."
+ },
+ {
+  "Question": "కొఱగాని కొడుకు చేసే పని",
+  "A": "చెప్పిన పనిని సక్రమంగా చేస్తాడు.",
+  "B": "చెరుకు తీపిని రుచి చూస్తాడు",
+  "C": "తండ్రికి వెన్నుదన్నుగా ఉంటాడు.",
+  "D": "తండ్రిలోని మంచి గుణాలను పాడుజేస్తాడు.",
+  "Answer": "తండ్రిలోని మంచి గుణాలను పాడుజేస్తాడు.",
+  "Explanation": "పద్యం ప్రకారం, కొఱగాని కొడుకు తండ్రి గుణాలను చెడగొడతాడు."
+ },
+ {
+  "Question": "ఈ పద్యంలోని “వెన్ను' ను ఎవరితో పోల్చారు?",
+  "A": "తండ్రితో",
+  "B": "కొడుకుతో",
+  "C": "తీపితో",
+  "D": "సుమతితో",
+  "Answer": "కొడుకుతో",
+  "Explanation": "పద్యంలో చెరుకు గడకు పుట్టిన వెన్ను (కంకి) ఎలా చెడగొడుతుందో, కొఱగాని కొడుకు అలానే అని పోల్చారు."
+ },
+ {
+  "Question": "చెరుకు గడలోని తీపిని చెడగొట్టినది ఎవరు?",
+  "A": "కొడుకు",
+  "B": "తండ్రి",
+  "C": "వెన్ను",
+  "D": "చెరుకు తుద",
+  "Answer": "వెన్ను",
+  "Explanation": "చెరుకు తుదలో పుట్టిన వెన్ను మొత్తం చెరుకు తీపిని పాడుచేస్తుంది."
+ },
+ {
+  "Question": "'పూర్ణానుస్వారం' అంటే",
+  "A": "ద్విత్వం",
+  "B": "విసర్గ",
+  "C": "నిండుసున్న",
+  "D": "అరసున్న",
+  "Answer": "నిండుసున్న",
+  "Explanation": "వ్యాకరణంలో పూర్ణానుస్వారం అంటే నిండు సున్నా (O)."
+ },
+ {
+  "Question": "పలుకుకు అలంకారంగా ఉండేవి ఏవి?",
+  "A": "కావ్య భాషా పదాలు",
+  "B": "గ్రాంథిక భాషా పదాలు",
+  "C": "ప్రాంతీయ మాండలికాలు",
+  "D": "నుడికారాలు",
+  "Answer": "నుడికారాలు",
+  "Explanation": "గద్యం ప్రకారం, తెలంగాణ నుడికారాలు మాటకు చమత్కారంగా, పలుకుకు అలంకారంగా ఉంటాయి."
+ },
+ {
+  "Question": "తెలంగాణ వాక్యంలోని వరుస",
+  "A": "కర్త, కర్మ, క్రియ",
+  "B": "కర్మ, కర్త, క్రియ",
+  "C": "కర్మ, క్రియ, కర్త",
+  "D": "క్రియ, కర్త, కర్మ",
+  "Answer": "కర్త, కర్మ, క్రియ",
+  "Explanation": "తెలుగు వాక్య నిర్మాణం సాధారణంగా కర్త-కర్మ-క్రియ (Subject-Object-Verb) వరుసలో ఉంటుంది."
+ },
+ {
+  "Question": "తెలంగాణ భాష సజీవతకు కారణం",
+  "A": "ద్రావిడ భాషా పదాలు",
+  "B": "నిఘంటు పూర్వ రూపాలు",
+  "C": "జాతీయాలు, సామెతలు",
+  "D": "నాద మాధురీ పదాలు",
+  "Answer": "జాతీయాలు, సామెతలు",
+  "Explanation": "గద్యం ప్రకారం, అద్భుతమైన జాతీయాలు మరియు సామెతలతో తెలంగాణ తెలుగు సజీవంగా ఉంది."
+ },
+ {
+  "Question": "'శివకేశవులు' సమాసం",
+  "A": "బహువ్రీహి సమాసం",
+  "B": "ద్విగు సమాసం",
+  "C": "ద్వంద్వ సమాసం",
+  "D": "రూపక సమాసం",
+  "Answer": "ద్వంద్వ సమాసం",
+  "Explanation": "శివకేశవులు అంటే శివుడు మరియు కేశవుడు - రెండు నామవాచకాలు కలిసి ఉన్నాయి కాబట్టి ఇది ద్వంద్వ సమాసం."
+ },
+ {
+  "Question": "సంధిలోని మొదటి పదాన్ని ....... అంటారు.",
+  "A": "పూర్వ పదం",
+  "B": "పూర్వోత్తర పదం",
+  "C": "ఉత్తర పదం",
+  "D": "ఆదేశ పదం",
+  "Answer": "పూర్వ పదం",
+  "Explanation": "సంధిలో మొదటి పదాన్ని పూర్వ పదం అంటారు, రెండవ పదాన్ని పర పదం లేదా ఉత్తర పదం అంటారు."
+ },
+ {
+  "Question": "'కపిల్ దేవ్ వేగంగా బంతిని వేసేవాడు' - వాక్యంలో గుణాన్ని తెలిపే పదం",
+  "A": "బంతిని",
+  "B": "కపిల్ దేవ్",
+  "C": "చేసేవాడు",
+  "D": "వేగంగా",
+  "Answer": "వేగంగా",
+  "Explanation": "క్రియ (బౌలింగ్) ఎలా జరుగుతుందో (గుణాన్ని/విశేషణాన్ని) తెలిపే పదం 'వేగంగా'."
+ },
+ {
+  "Question": "'బస్సు' – ఏ పదం",
+  "A": "సరళ పదం",
+  "B": "సంయుక్త పదం",
+  "C": "ద్విత్వ పదం",
+  "D": "సంక్లిష్ట పదం",
+  "Answer": "ద్విత్వ పదం",
+  "Explanation": "ఒకే హల్లుకు అదే హల్లు ఒత్తుగా వస్తే దానిని ద్విత్వ పదం అంటారు (స్ + స్ = స్స)."
+ },
+ {
+  "Question": "\"శభాష్\" అని కవి ప్రతిభను రాజు మెచ్చుకున్నాడు - ఈ వాక్యంలో అవ్యయాన్ని తెలిపే పదం",
+  "A": "కవి",
+  "B": "ప్రతిభ",
+  "C": "రాజు",
+  "D": "శభాష్",
+  "Answer": "శభాష్",
+  "Explanation": "లింగ, వచన, విభక్తి లేని పదాలను అవ్యయాలు అంటారు. 'శభాష్' అనేది అవ్యయం."
+ },
+ {
+  "Question": "'సింగిడి' పదానికి అర్థం.",
+  "A": "సంపద",
+  "B": "ఇంద్రధనుస్సు",
+  "C": "వేదిక",
+  "D": "గుర్తు",
+  "Answer": "ఇంద్రధనుస్సు",
+  "Explanation": "తెలంగాణ మాండలికంలో 'సింగిడి' అంటే ఇంద్రధనుస్సు అని అర్థం."
+ },
+ {
+  "Question": "'కాలము' పదానికి నానార్థం కానిది",
+  "A": "సమయం",
+  "B": "చావు",
+  "C": "నలుపు",
+  "D": "అశుభం",
+  "Answer": "అశుభం",
+  "Explanation": "కాలము అంటే సమయం, మరణం (చావు), నలుపు అనే అర్థాలు ఉన్నాయి. అశుభం అనేది నానార్థం కాదు."
+ },
+ {
+  "Question": "'కళత్రం' పదానికి పర్యాయపదం",
+  "A": "అక్క",
+  "B": "అమ్మ",
+  "C": "భార్య",
+  "D": "చెల్లి",
+  "Answer": "భార్య",
+  "Explanation": "కళత్రం అంటే భార్య అని అర్థం."
+ },
+ {
+  "Question": "'సిగ' కు ప్రకృతి",
+  "A": "సెగ",
+  "B": "శిఖ",
+  "C": "కసి",
+  "D": "సిరి",
+  "Answer": "శిఖ",
+  "Explanation": "శిఖ అనే సంస్కృత పదానికి వికృతి రూపం సిగ."
+ },
+ {
+  "Question": "‘సందిట్లో సడేమియా' అనేది",
+  "A": "సామెత",
+  "B": "జాతీయం",
+  "C": "పొడుపు కథ",
+  "D": "జంటపదబంధం",
+  "Answer": "సామెత",
+  "Explanation": "ఇది తెలుగులో ప్రసిద్ధమైన సామెత."
+ },
+ {
+  "Question": "'యాసంగి' పంట చేతికి వచ్చే కాలం",
+  "A": "నవంబర్ - డిసెంబర్",
+  "B": "ఫిబ్రవరి – మార్చి",
+  "C": "ఏప్రిల్ - మే",
+  "D": "మార్చి – ఏప్రిల్",
+  "Answer": "మార్చి – ఏప్రిల్",
+  "Explanation": "రబీ పంటను తెలంగాణలో యాసంగి అంటారు, ఇది వేసవి (మార్చి-ఏప్రిల్) లో చేతికి వస్తుంది."
+ },
+ {
+  "Question": "'పిరం' అంటే",
+  "A": "కఠినం",
+  "B": "ఎక్కువ ధర",
+  "C": "గొడవ",
+  "D": "వేడి",
+  "Answer": "ఎక్కువ ధర",
+  "Explanation": "తెలంగాణలో 'పిరం' అంటే ధర ఎక్కువగా ఉండటం (Costly/Dear)."
+ },
+ {
+  "Question": "'మహాంధ్రోదయం' ఎవరి రచన",
+  "A": "దాశరథి కృష్ణమాచార్యులు",
+  "B": "వానమామలై వరదాచార్యులు",
+  "C": "సి.నారాయణ రెడ్డి",
+  "D": "సామల సదాశివ",
+  "Answer": "దాశరథి కృష్ణమాచార్యులు",
+  "Explanation": "మహాంధ్రోదయం దాశరథి కృష్ణమాచార్యులు గారి రచన."
+ },
+ {
+  "Question": "పాల్కురికి సోమనాథుని శతకం",
+  "A": "సుమతీ శతకం",
+  "B": "వృషాధిప శతకం",
+  "C": "నారాయణ శతకం",
+  "D": "సర్వేశ్వర శతకం",
+  "Answer": "వృషాధిప శతకం",
+  "Explanation": "పాల్కురికి సోమనాథుడు రాసిన ప్రసిద్ధ శతకం వృషాధిప శతకం."
+ },
+ {
+  "Question": "క్రింది వాటిలో పక్కివేంకట నరసింహ కవి రచన ఏది?",
+  "A": "భాస్కర శతకం",
+  "B": "ప్రభుతనయ శతకం",
+  "C": "కుమారీ శతకం",
+  "D": "బాల నృసింహ శతకం",
+  "Answer": "కుమారీ శతకం",
+  "Explanation": "పక్కి వేంకట నరసింహ కవి రాసిన శతకం 'కుమారీ శతకం'."
+ },
+ {
+  "Question": "'అర్రెమి'తో సంబంధం ఉన్న పండుగ",
+  "A": "దీపావళి",
+  "B": "వినాయక చవితి",
+  "C": "బతుకమ్మ",
+  "D": "సంక్రాంతి",
+  "Answer": "దీపావళి",
+  "Explanation": "గిరిజన ప్రాంతాల్లో దీపావళిని అర్రెమి లేదా ఇలాంటి పేర్లతో పిలుస్తారు."
+ },
+ {
+  "Question": "మాతృభాషలోనే విద్యాబోధన జరగాలని సూచించిన కమిషన్లను సరైన సంవత్సరాలతో జతపరచండి: A) రాధాకృష్ణన్ కమీషన్, B) మొదలియార్ కమీషన్, C) భారత జాతీయ సమైక్యతా సమితి, D) కొఠారి విద్యా కమీషన్",
+  "A": "A-iv, B-iii, C-i, D-ii",
+  "B": "A-ii, B-iii, C-iv, D-i",
+  "C": "A-iv, B-i, C-ii, D-iii",
+  "D": "A-iii, B-iv, C-i, D-ii",
+  "Answer": "A-iii, B-iv, C-i, D-ii",
+  "Explanation": "రాధాకృష్ణన్ కమీషన్ (1948), మొదలియార్ కమీషన్ (1952), సమైక్యతా సమితి (1962), కొఠారి కమీషన్ (1964-66)."
+ },
+ {
+  "Question": "క్షుణ్ణపఠనం- \"ఇది ఒక కావ్యాన్ని గాని, వ్యాసాన్ని గాని ఆమూలాగ్రంగా... పఠించడం\" అని అన్నవారు",
+  "A": "గొడవర్తి సూర్యానారాయణ",
+  "B": "వై.కె. బ్రహ్మానందం",
+  "C": "కొంపల్లి ఆంజనేయ శాస్త్రి",
+  "D": "రామచంద్రుని వేంకట శేషయ్య",
+  "Answer": "గొడవర్తి సూర్యానారాయణ",
+  "Explanation": "ఈ నిర్వచనాన్ని ఇచ్చింది గొడవర్తి సూర్యానారాయణ."
+ },
+ {
+  "Question": "కృత్యాధార పద్ధతిని, మన భారతదేశంలో మొదట ప్రస్తావించినది",
+  "A": "గోపాలకృష్ణ గోఖలే కమిటి",
+  "B": "కొఠారి కమీషన్",
+  "C": "మొదలియార్ కమీషన్",
+  "D": "రాధాకృష్ణన్ కమీషన్",
+  "Answer": "కొఠారి కమీషన్",
+  "Explanation": "భారతదేశంలో కృత్యాధార పద్ధతి (Activity based learning) ని కొఠారి కమీషన్ సిఫార్సు చేసింది."
+ },
+ {
+  "Question": "పాఠ్యప్రణాళికలోని అంశాలను, బోధనాభ్యసన కార్యకలాపాల ద్వారా నిర్వహించడానికి నిర్ణయించినది",
+  "A": "పాఠశాల సంచిక గ్రంథం",
+  "B": "పరామర్శ గ్రంథం",
+  "C": "పాఠ్య గ్రంథం",
+  "D": "మూల గ్రంథం",
+  "Answer": "పాఠ్య గ్రంథం",
+  "Explanation": "పాఠ్య ప్రణాళికను అమలు చేయడానికి తరగతి గదిలో ఉపయోగించే ప్రధాన వనరు పాఠ్య పుస్తకం."
+ },
+ {
+  "Question": "క్రింది సమూహాలలో కేవలం దృశ్య బోధనోపకరణాలు కలిగినది.",
+  "A": "స్లయడ్స్, పత్రికలు, రేడియో",
+  "B": "పత్రికలు, చార్టులు, టెలివిజన్",
+  "C": "సినిమా, నల్లబల్ల, తోలుబొమ్మలు",
+  "D": "నల్లబల్ల, ఛాయాచిత్రాలు, నమూనాలు",
+  "Answer": "నల్లబల్ల, ఛాయాచిత్రాలు, నమూనాలు",
+  "Explanation": "రేడియో (శ్రవణ), టీవీ (దృశ్య-శ్రవణ), సినిమా (దృశ్య-శ్రవణ). నల్లబల్ల, ఫోటోలు, మోడల్స్ అన్నీ కేవలం చూసేవి (దృశ్య)."
+ },
+ {
+  "Question": "బోధనాభ్యసన ప్రక్రియల ద్వారా విద్యార్థి ప్రవర్తనలో వచ్చిన ప్రవర్తనా మార్పుల మొత్తాలను తెలిపేది",
+  "A": "నికష",
+  "B": "మూల్యాంకనం",
+  "C": "గ్రేడింగ్",
+  "D": "లఘు పరీక్ష",
+  "Answer": "మూల్యాంకనం",
+  "Explanation": "విద్యార్థి యొక్క సమగ్ర ప్రవర్తన మార్పును అంచనా వేసే ప్రక్రియను మూల్యాంకనం (Evaluation) అంటారు."
+ },
+ {
+  "Question": "Cities attract people from rural areas by offering",
+  "A": "higher-paying jobs and a low-cost living.",
+  "B": "lower -paying jobs and an improved quality of life.",
+  "C": "higher-paying jobs and pollution free life.",
+  "D": "higher-paying jobs and an improved quality of life.",
+  "Answer": "higher-paying jobs and an improved quality of life.",
+  "Explanation": "According to the passage, cities offer higher-paying white-collar jobs and better living standards."
+ },
+ {
+  "Question": "Based on the reading of the passage, choose the INCORRECT statement.",
+  "A": "Urban life creates opportunities for social mobility, overcoming birth constraints.",
+  "B": "Most jobs in urban areas are white-collar roles that provide lower salaries.",
+  "C": "City life is usually more convenient, with easy access to almost everything one requires.",
+  "D": "As agriculture evolves into industry, agriculture jobs reduce, and manufacturing positions expand.",
+  "Answer": "Most jobs in urban areas are white-collar roles that provide lower salaries.",
+  "Explanation": "The passage states white-collar positions offer *higher* salaries, making this statement incorrect."
+ },
+ {
+  "Question": "The given passage is about",
+  "A": "opportunities of employment in agriculture.",
+  "B": "types of employment.",
+  "C": "industrialization impact on environment.",
+  "D": "employment opportunities in urban areas and its impact on life.",
+  "Answer": "employment opportunities in urban areas and its impact on life.",
+  "Explanation": "The passage focuses on urbanization, job opportunities in cities, and the resulting lifestyle changes."
+ },
+ {
+  "Question": "Identify the meaning of the word 'transition'.",
+  "A": "Stagnation",
+  "B": "Transformation",
+  "C": "Remission",
+  "D": "standstill",
+  "Answer": "Transformation",
+  "Explanation": "Transition means a process of changing from one state to another, similar to transformation."
+ },
+ {
+  "Question": "As per the passage, access to better job opportunities brings",
+  "A": "improved transportation.",
+  "B": "pollution free life.",
+  "C": "economic instability.",
+  "D": "migration to rural areas.",
+  "Answer": "improved transportation.",
+  "Explanation": "The passage lists benefits like improved healthcare, education, and transportation networks."
+ },
+ {
+  "Question": "Pick correctly spelt word.",
+  "A": "Adjasent",
+  "B": "Absense",
+  "C": "Adversary",
+  "D": "Acquiant",
+  "Answer": "Adversary",
+  "Explanation": "Adversary is spelled correctly. Others are Adjacent, Absence, Acquaint."
+ },
+ {
+  "Question": "Identify correctly punctuated sentence.",
+  "A": "The child cried \"Help!. Help!\"",
+  "B": "The child cried, \"Help! Help!\"",
+  "C": "The child cried, help! help!",
+  "D": "The child cried, 'Help, help\"",
+  "Answer": "The child cried, \"Help! Help!\"",
+  "Explanation": "Standard direct speech punctuation requires a comma before the quote and quotes around the spoken words."
+ },
+ {
+  "Question": "Choose the meaningful sentence.",
+  "A": "The reforms that we need are the ones that can raise actually our sustainable term long growth rate.",
+  "B": "The sustainable reforms that we need are the ones that can actually raise our long term rate growth.",
+  "C": "The reforms we need that are the ones that can actually raise our sustainable long term growth rate.",
+  "D": "The reforms that we need are the ones that can actually raise our sustainable long term growth rate.",
+  "Answer": "The reforms that we need are the ones that can actually raise our sustainable long term growth rate.",
+  "Explanation": "Option 4 has the correct word order and syntax."
+ },
+ {
+  "Question": "Some volcanoes appear similar to those formed from the ___ of thick, viscous lavas on Earth. Complete the sentence with correct option.",
+  "A": "collusion",
+  "B": "erosion",
+  "C": "eruption",
+  "D": "implosion",
+  "Answer": "eruption",
+  "Explanation": "Volcanoes are formed by the 'eruption' of lava."
+ },
+ {
+  "Question": "He believes that sinners are redeemed by their faith in God. Identify the synonym of the word 'redeem'.",
+  "A": "save",
+  "B": "punish",
+  "C": "abandon",
+  "D": "neglect",
+  "Answer": "save",
+  "Explanation": "Redeem in a religious context means to save or absolve from sin."
+ },
+ {
+  "Question": "The science of measuring time in fixed periods and of dating events and epochs and arranging them in the order of occurrence is called",
+  "A": "Bibliography.",
+  "B": "Chronology.",
+  "C": "Cosmology",
+  "D": "Ethnology",
+  "Answer": "Chronology.",
+  "Explanation": "Chronology is the science of arranging events in their order of occurrence in time."
+ },
+ {
+  "Question": "He said to her. \"Why didn't you go today?\" Identify the indirect speech.",
+  "A": "He asked her why she had not gone that day.",
+  "B": "He said to her why she don't go that day.",
+  "C": "He asked her not to go that day.",
+  "D": "He asked her why she did not go today.",
+  "Answer": "He asked her why she had not gone that day.",
+  "Explanation": "In indirect speech, 'said' becomes 'asked', 'didn't' (past simple) becomes 'had not gone' (past perfect), and 'today' becomes 'that day'."
+ },
+ {
+  "Question": "The manager made the customers ___ longer than usual.",
+  "A": "to waited",
+  "B": "waits",
+  "C": "to waiting",
+  "D": "wait",
+  "Answer": "wait",
+  "Explanation": "The causative verb 'make' is followed by the base form of the verb (make someone do something)."
+ },
+ {
+  "Question": "Identify the part with an error in the given sentence. Both he as well as I (A) / are going to (B) / Hyderabad to buy (C) / a new car. (D)",
+  "A": "A",
+  "B": "B",
+  "C": "C",
+  "D": "D",
+  "Answer": "A",
+  "Explanation": "The correct conjunction pair is 'Both... and', not 'Both... as well as'. It should be 'Both he and I'."
+ },
+ {
+  "Question": "She's been trying to ___ the support of other committee members. Complete the sentence with correct option.",
+  "A": "explicit",
+  "B": "illicit",
+  "C": "ilicit",
+  "D": "elicit",
+  "Answer": "elicit",
+  "Explanation": "'Elicit' means to draw out or obtain (a response/support). 'Illicit' means illegal."
+ },
+ {
+  "Question": "He lives in a large house. Identify 'adjective' in the sentence.",
+  "A": "He",
+  "B": "lives",
+  "C": "large",
+  "D": "house",
+  "Answer": "large",
+  "Explanation": "'Large' describes the noun 'house', so it is an adjective."
+ },
+ {
+  "Question": "The doctor will be back ___ a few minutes. Complete the sentence with correct option.",
+  "A": "of",
+  "B": "in",
+  "C": "at",
+  "D": "with",
+  "Answer": "in",
+  "Explanation": "'In a few minutes' is the standard prepositional phrase indicating time duration until an event."
+ },
+ {
+  "Question": "It was raining very hard and he had a very large umbrella to ___ the rain-drops. Complete the sentence with correct option.",
+  "A": "keep off",
+  "B": "kept off",
+  "C": "put down",
+  "D": "put off",
+  "Answer": "keep off",
+  "Explanation": "'Keep off' means to prevent from touching or affecting."
+ },
+ {
+  "Question": "Choose the meaning of the idiom 'Cry for the moon' is",
+  "A": "to win a victory.",
+  "B": "to come out successfully.",
+  "C": "to limit someone's ability to do.",
+  "D": "to wish for something impossible.",
+  "Answer": "to wish for something impossible.",
+  "Explanation": "Crying for the moon means asking for something that is extremely difficult or impossible to get."
+ },
+ {
+  "Question": "One who walks on foot is called",
+  "A": "paediatrician",
+  "B": "pedestrian",
+  "C": "pauper",
+  "D": "peddler",
+  "Answer": "pedestrian",
+  "Explanation": "A pedestrian is a person walking along a road or in a developed area."
+ },
+ {
+  "Question": "The government conceded the right to establish independent trade unions. The meaning of the word 'concede' is",
+  "A": "disallow",
+  "B": "deny",
+  "C": "assent",
+  "D": "refute",
+  "Answer": "assent",
+  "Explanation": "Concede means to admit or agree to something (assent/yield)."
+ },
+ {
+  "Question": "Your mother is an officer, ___ ? Choose the correct option to complete the sentence.",
+  "A": "isn't she",
+  "B": "is she",
+  "C": "won't she",
+  "D": "doesn't she",
+  "Answer": "isn't she",
+  "Explanation": "For a positive statement with 'is', the question tag is negative 'isn't she'."
+ },
+ {
+  "Question": "Arrange the following to make a meaningful sentence. P: Living in harmony means Q: and solving problems R: kindly and peacefully. S: accepting differences",
+  "A": "P, Q, S, R",
+  "B": "P, R, S, Q",
+  "C": "P, Q, R, S",
+  "D": "P, S, Q, R",
+  "Answer": "P, S, Q, R",
+  "Explanation": "Living in harmony means accepting differences and solving problems kindly and peacefully."
+ },
+ {
+  "Question": "This question is ___ than the last one. Choose correct form to complete the sentence.",
+  "A": "hardest",
+  "B": "harder",
+  "C": "hard",
+  "D": "more harder",
+  "Answer": "harder",
+  "Explanation": "Comparative degree of 'hard' is 'harder' when comparing two things."
+ },
+ {
+  "Question": "The following one is NOT a targeted discourse at the primary level of Telangana State Board.",
+  "A": "Profile",
+  "B": "Slogans",
+  "C": "Rhymes/Songs",
+  "D": "Poster",
+  "Answer": "Profile",
+  "Explanation": "Profiles are usually introduced at a slightly higher level, while slogans, rhymes, and posters are common primary level discourses."
+ },
+ {
+  "Question": "Features of language known as 'Design features' coined by",
+  "A": "Noam Chomsky.",
+  "B": "Roman Jacobson.",
+  "C": "CF Hockett.",
+  "D": "Edward Sapir.",
+  "Answer": "CF Hockett.",
+  "Explanation": "Charles F. Hockett identified the 'design features' of language."
+ },
+ {
+  "Question": "The following one is NOT an advantage of Language Laboratory.",
+  "A": "Interactive Learning",
+  "B": "Pronunciation Practice",
+  "C": "Individualized Learning",
+  "D": "Unlimited Feedback on Non-Verbal Communication",
+  "Answer": "Unlimited Feedback on Non-Verbal Communication",
+  "Explanation": "Language labs focus on audio/verbal skills; they cannot provide feedback on non-verbal cues like body language effectively."
+ },
+ {
+  "Question": "Identify the sub-skill of Listening.",
+  "A": "Articulating stress patterns within words.",
+  "B": "Retrieving information stated in the passage.",
+  "C": "Understanding attitudinal and conceptual meaning.",
+  "D": "Expressing information explicitly.",
+  "Answer": "Understanding attitudinal and conceptual meaning.",
+  "Explanation": "Listening involves understanding not just words but the speaker's attitude and underlying concepts."
+ },
+ {
+  "Question": "Read the following two statements about the \"Bridging the Gap Activity\" given in the initial pages of Class V English Textbook of Telangana State Board. Statement A: The pictures given for bridging activities are meant for classroom interaction in order to equip the children to acquire basic language competencies. Statement B: The pictures given for bridging activities are given to expose the children to the primary discourses. i.e., description, conversation, and story writing.",
+  "A": "Only the statement A is correct.",
+  "B": "Only the statement B is correct.",
+  "C": "The statements A and B are incorrect.",
+  "D": "The statements A and B are correct.",
+  "Answer": "The statements A and B are correct.",
+  "Explanation": "Bridging activities in Telangana textbooks serve both purposes: generating interaction and introducing discourses."
+ },
+ {
+  "Question": "The best approach in a multilingual classroom is",
+  "A": "allowing students to use their home languages alongside the language of instruction.",
+  "B": "focusing solely on the schools primary language of instruction.",
+  "C": "ignoring the students' native languages.",
+  "D": "avoiding bilingual dictionaries.",
+  "Answer": "allowing students to use their home languages alongside the language of instruction.",
+  "Explanation": "Using the mother tongue as a resource (translanguaging) is the best approach in multilingual education."
+ },
+ {
+  "Question": "ఈ క్రింది సంఖ్యలలో ఏది 36 చే భాగించబడదు?",
+  "A": "5472",
+  "B": "1296",
+  "C": "2448",
+  "D": "9944",
+  "Answer": "9944",
+  "Explanation": "36 చే భాగించబడాలంటే ఆ సంఖ్య 9 మరియు 4 చే నిశ్శేషంగా భాగించబడాలి. 9944 లో అంకెల మొత్తం 26, ఇది 9 చే భాగించబడదు."
+ },
+ {
+  "Question": "ఒక వృత్తంలో వరుసగా వ్యాసం మరియు వ్యాసార్థంనకు గల నిష్పత్తి",
+  "A": "3:1",
+  "B": "2:3",
+  "C": "2:1",
+  "D": "3:2",
+  "Answer": "2:1",
+  "Explanation": "వ్యాసం = 2 x వ్యాసార్థం. కాబట్టి నిష్పత్తి 2:1."
+ },
+ {
+  "Question": "24మీ x 18మీ x 9మీ కొలతలు కలిగిన లోహపు దీర్ఘ ఘనాన్ని కరిగించి తయారు చేయగల 6మీ భుజం గల ఘనాల సంఖ్య",
+  "A": "18",
+  "B": "24",
+  "C": "14",
+  "D": "16",
+  "Answer": "18",
+  "Explanation": "దీర్ఘ ఘన ఘనపరిమాణం = 24*18*9 = 3888. ఘనం ఘనపరిమాణం = 6*6*6 = 216. సంఖ్య = 3888/216 = 18."
+ },
+ {
+  "Question": "240 = 2 power x into 3 power y into 5 power z అయితే x+y+z=",
+  "A": "8",
+  "B": "6",
+  "C": "10",
+  "D": "12",
+  "Answer": "6",
+  "Explanation": "240 యొక్క ప్రధాన కారణాంకాలు = 2*2*2*2*3*5 = 2^4 * 3^1 * 5^1. x=4, y=1, z=1. x+y+z = 6."
+ },
+ {
+  "Question": "0.26666 =",
+  "A": "4/26",
+  "B": "13/50",
+  "C": "4/15",
+  "D": "1/3",
+  "Answer": "4/15",
+  "Explanation": "0.266... = (26-2)/90 = 24/90 = 4/15."
+ },
+ {
+  "Question": "ప్రకటన ధర ₹960 కలిగిన వస్తువుపై 15% తగ్గింపు ఎంత?",
+  "A": "₹152",
+  "B": "₹164",
+  "C": "144",
+  "D": "132",
+  "Answer": "144",
+  "Explanation": "960 లో 15% = (15/100) * 960 = 144."
+ },
+ {
+  "Question": "విజయ దశమి పండుగ కోసం అక్టోబర్ 18న మధ్యాహ్నం 12 గంటలకు ఒక పాఠశాల మూసివేయబడింది. సెలవుల తర్వాత, అక్టోబర్ 30న ఉదయం 9 గంటలకు పాఠశాల తెరవబడింది. అప్పుడు, విజయ దశమి పండుగ కోసం పాఠశాల మూసివేయబడిన సమయం (గంటలలో)",
+  "A": "309",
+  "B": "285",
+  "C": "288",
+  "D": "306",
+  "Answer": "285",
+  "Explanation": "అక్టోబర్ 18 (12 గంటలు) + 19 నుండి 29 వరకు (11 రోజులు * 24 = 264) + అక్టోబర్ 30 (9 గంటలు). మొత్తం = 12+264+9 = 285 గంటలు."
+ },
+ {
+  "Question": "6 సంఖ్యల సగటు 18. వాటిలో ఐదు సంఖ్యలు 18, 25, 13, 16 మరియు 21 అయిన, ఆరవ సంఖ్య",
+  "A": "15",
+  "B": "14",
+  "C": "16",
+  "D": "13",
+  "Answer": "15",
+  "Explanation": "మొత్తం = 6 * 18 = 108. 5 సంఖ్యల మొత్తం = 18+25+13+16+21 = 93. 6వ సంఖ్య = 108 - 93 = 15."
+ },
+ {
+  "Question": "2, 4, 8, ... సంఖ్యల శ్రేణిలో 10వ పదం",
+  "A": "2048",
+  "B": "1864",
+  "C": "1512",
+  "D": "1024",
+  "Answer": "1024",
+  "Explanation": "ఇది గుణశ్రేణి. a=2, r=2. 10వ పదం = a * r^(n-1) = 2 * 2^9 = 2^10 = 1024."
+ },
+ {
+  "Question": "[1.6 divided by (32/15)] + [(0/6) divided by (3/5)] =",
+  "A": "1.75",
+  "B": "0.75",
+  "C": "1 and 2/15",
+  "D": "2/5",
+  "Answer": "0.75",
+  "Explanation": "1.6 / (32/15) = 1.6 * 15 / 32 = 24 / 32 = 0.75. రెండవ భాగం 0. మొత్తం 0.75."
+ },
+ {
+  "Question": "2, 3, 4, 5, 6 మరియు 7 లతో భాగించినప్పుడు వరుసగా 1, 2, 3, 4, 5 మరియు 0 (సున్నా) శేషంగా మిగిలే అతి చిన్న సంఖ్య ఏది?",
+  "A": "258",
+  "B": "179",
+  "C": "211",
+  "D": "119",
+  "Answer": "119",
+  "Explanation": "సంఖ్య 7 తో నిశ్శేషంగా భాగించబడాలి. ఇచ్చిన ఆప్షన్లలో 119 మాత్రమే 7 తో పోతుంది. 119 ని 2 తో భాగిస్తే శేషం 1, అలాగే మిగతావి సరిపోతాయి."
+ },
+ {
+  "Question": "36% =",
+  "A": "360",
+  "B": "3.60",
+  "C": "0.36",
+  "D": "3600",
+  "Answer": "0.36",
+  "Explanation": "36% = 36/100 = 0.36."
+ },
+ {
+  "Question": "దీర్ఘచతురస్రాకారంలో ఉన్న ఒక పార్కు చుట్టుకొలత 98మీ. మరియు దాని కర్ణము పొడవు 41మీ. ఆ పార్కు యొక్క వైశాల్యం(చ.మీ.లలో)",
+  "A": "369",
+  "B": "360",
+  "C": "441",
+  "D": "389",
+  "Answer": "360",
+  "Explanation": "2(l+b)=98 => l+b=49. l^2+b^2=41^2=1681. (l+b)^2 = l^2+b^2+2lb => 49^2 = 1681 + 2lb => 2401 = 1681 + 2lb => 2lb = 720 => lb = 360."
+ },
+ {
+  "Question": "ఒక త్రిభుజం యొక్క రెండు భుజాల పొడవుల మొత్తం ఎల్లప్పుడూ",
+  "A": "మూడవ భుజంలో సగం",
+  "B": "మూడవ భుజం కంటే ఎక్కువ",
+  "C": "మూడవ భుజానికి సమానం",
+  "D": "మూడవ భుజం కన్నా తక్కువ",
+  "Answer": "మూడవ భుజం కంటే ఎక్కువ",
+  "Explanation": "త్రిభుజ అసమానత సిద్ధాంతం ప్రకారం, ఏ రెండు భుజాల మొత్తమైనా మూడవ భుజం కంటే ఎక్కువగా ఉండాలి."
+ },
+ {
+  "Question": "ఈ క్రింది వాక్యాలలో ఏది సరైనది?",
+  "A": "-14 > -10",
+  "B": "-14 > 1",
+  "C": "-14 < -20",
+  "D": "-14 < -10",
+  "Answer": "-14 < -10",
+  "Explanation": "రుణ సంఖ్యలలో చిన్న విలువ పెద్దదిగా ఉంటుంది. -14 అనేది -10 కంటే చిన్నది."
+ },
+ {
+  "Question": "వార్షికంగా 12% సాధారణ వడ్డీ రేటుతో ఎన్ని సంవత్సరాలలో ₹4000 మొత్తంపై వడ్డీ ₹1920 అవుతుంది?",
+  "A": "3 1/2",
+  "B": "3",
+  "C": "4",
+  "D": "5",
+  "Answer": "4",
+  "Explanation": "I = PTR/100 => 1920 = (4000 * T * 12) / 100 => 1920 = 480T => T = 4."
+ },
+ {
+  "Question": "క్రింది వానిలో బహుముఖి ఏది?",
+  "A": "పట్టకం",
+  "B": "శంఖువు",
+  "C": "గోళం",
+  "D": "స్థూపం",
+  "Answer": "పట్టకం",
+  "Explanation": "పట్టకం (Prism) అనేది బహుముఖి (Polyhedron). మిగతావి వక్రతలాలను కలిగి ఉంటాయి."
+ },
+ {
+  "Question": "1 ఘనపు సెంటీమీటర్ నీటి బరువు 1 గ్రాము అయితే, 1.75 కిలో లీటర్ల నీటి బరువు కిలోగ్రాములలో ఎంత?",
+  "A": "1.75",
+  "B": "175",
+  "C": "1750",
+  "D": "17500",
+  "Answer": "1750",
+  "Explanation": "1 కిలో లీటరు = 1000 లీటర్లు = 1000 కిలోగ్రాములు (సాంద్రత 1 అనుకుంటే). 1.75 KL = 1750 kg."
+ },
+ {
+  "Question": "306.85 + 2.603 + 32.057 - 1.406 =",
+  "A": "341.104",
+  "B": "341.109",
+  "C": "339.109",
+  "D": "340.104",
+  "Answer": "340.104",
+  "Explanation": "కూడిక: 341.51. తీసివేత: 341.51 - 1.406 = 340.104."
+ },
+ {
+  "Question": "రెండు వరుస బేసి సంఖ్యల క.సా.గు.",
+  "A": "వానిలో గరిష్ట బేసి సంఖ్య",
+  "B": "వాని లబ్దము",
+  "C": "వానిలో కనిష్ట బేసి సంఖ్య",
+  "D": "వాని బేధం",
+  "Answer": "వాని లబ్దము",
+  "Explanation": "వరుస బేసి సంఖ్యలకు ఉమ్మడి కారణాంకాలు ఉండవు (1 తప్ప), కాబట్టి వాటి క.సా.గు వాటి లబ్దమే అవుతుంది (ఉదా: 3, 5 -> 15)."
+ },
+ {
+  "Question": "క్రింది వానిలో కనిష్ట ప్రధాన సంఖ్య ఏది?",
+  "A": "2",
+  "B": "0",
+  "C": "3",
+  "D": "1",
+  "Answer": "2",
+  "Explanation": "అతి చిన్న మరియు ఏకైక సరి ప్రధాన సంఖ్య 2."
+ },
+ {
+  "Question": "క్రింది వానిలో ఏ ఇంగ్లీష్ అక్షరం రెండూ సౌష్ఠవ అక్షాలను కలిగి ఉంటుంది?",
+  "A": "E",
+  "B": "L",
+  "C": "H",
+  "D": "K",
+  "Answer": "H",
+  "Explanation": "'H' అక్షరానికి నిలువు మరియు అడ్డ సౌష్ఠవ రేఖలు ఉంటాయి."
+ },
+ {
+  "Question": "1/3 మరియు 4/7 ల మధ్యలో ఉన్న భిన్నము",
+  "A": "5/21",
+  "B": "3/7",
+  "C": "13/21",
+  "D": "2/3",
+  "Answer": "3/7",
+  "Explanation": "1/3 = 0.33, 4/7 = 0.57. 3/7 = 0.42 (ఇది మధ్యలో ఉంది). 5/21 = 0.23 (బయట), 13/21 = 0.61 (బయట), 2/3 = 0.66 (బయట)."
+ },
+ {
+  "Question": "x+y=26 మరియు x-y=12 అయితే 3x-4y=",
+  "A": "29",
+  "B": "26",
+  "C": "27",
+  "D": "30",
+  "Answer": "29",
+  "Explanation": "2x = 38 => x=19. y=7. 3(19) - 4(7) = 57 - 28 = 29."
+ },
+ {
+  "Question": "కింది గణిత బోధనా పద్ధతులకు (A) వాటి విధానాల (B) తో జతపరచండి: A) ఆగమన పద్ధతి, B) నిగమన పద్ధతి, C) ప్రయోగశాల పద్దతి, D) అన్వేషణా పద్ధతి.",
+  "A": "A-iii, B-i, C-iv, D-ii",
+  "B": "A-i, B-iv, C-ii, D-iii",
+  "C": "A-i, B-iii, C-ii, D-iv",
+  "D": "A-iv, B-i, C-ii, D-iii",
+  "Answer": "A-iii, B-i, C-iv, D-ii",
+  "Explanation": "ఆగమన (Inductive) - ఉదాహరణల నుండి సూత్రానికి (iii). నిగమన (Deductive) - సూత్రం నుండి ఉదాహరణకు (i). ప్రయోగశాల - ఆచరణాత్మక (iv). అన్వేషణ (Heuristic) - కనుగొనడం (ii)."
+ },
+ {
+  "Question": "మంచి గణిత పాఠ్యపుస్తకం యొక్క ముఖ్య లక్షణాలు",
+  "A": "A, B & C మాత్రమే",
+  "B": "A, C & D మాత్రమే",
+  "C": "A, B & D మాత్రమే",
+  "D": "A, B, C & D",
+  "Answer": "A, B, C & D",
+  "Explanation": "మంచి పుస్తకంలో స్పష్టత, పజిల్స్, సరళం నుండి క్లిష్టం, మరియు దృశ్య అభ్యసనం అన్నీ ఉండాలి."
+ },
+ {
+  "Question": "గణితంలో వినోదం మరియు అభ్యసనం రెండింటి అనుభవాలు కల్పించే కార్యకలాపాలు: A) ఎక్కువ సమస్యలు చేయడం B) కథలు చదవడం C) పజిల్స్ D) కాపీ చేయడం",
+  "A": "A & D మాత్రమే",
+  "B": "B & C మాత్రమే",
+  "C": "A, C & D మాత్రమే",
+  "D": "A, B, C & D",
+  "Answer": "B & C మాత్రమే",
+  "Explanation": "కథలు మరియు పజిల్స్ వినోదాన్ని ఇస్తాయి. కాపీ చేయడం, ఏకరీతి సమస్యలు విసుగు పుట్టిస్తాయి."
+ },
+ {
+  "Question": "పాఠశాలలో గణిత వనరుల యొక్క ముఖ్య ఉద్దేశ్యం:",
+  "A": "పాఠశాలను అలంకరించడం మరియు విద్యార్థులను ఆకర్షించడం",
+  "B": "విద్యార్థులను అలసిపోయేలా మరియు విసుగు చెందేలా చేయడం",
+  "C": "విద్యార్థులు గణితాన్ని ఆనందంతో నేర్చుకోవడంలో సహాయపడటం",
+  "D": "ఇంటిపనిని మరింత కష్టతరం చేయడం",
+  "Answer": "విద్యార్థులు గణితాన్ని ఆనందంతో నేర్చుకోవడంలో సహాయపడటం",
+  "Explanation": "గణిత వనరులు (Math resources) అభ్యసనాన్ని సులభతరం చేయడానికి మరియు ఆసక్తికరంగా మార్చడానికి ఉపయోగిస్తారు."
+ },
+ {
+  "Question": "ఇది పాఠ్య పథక రచనలో హెర్బార్టియన్ సోపానం కాదు:",
+  "A": "దృశ్యీకరణ",
+  "B": "విషయ విశదీకరణ",
+  "C": "అన్వయం",
+  "D": "సన్నాహం",
+  "Answer": "దృశ్యీకరణ",
+  "Explanation": "హెర్బార్టియన్ సోపానాలు: సన్నాహం, సమర్పణ, పోలిక, సాధారణీకరణ, అన్వయం, పునశ్చరణ. దృశ్యీకరణ (Visualisation) ఇందులో భాగం కాదు."
+ },
+ {
+  "Question": "లోప నిర్ధారణ మూల్యాంకనం ఈ క్రింది వాటిలో సహాయపడుతుంది:",
+  "A": "విద్యార్థులకు గ్రేడులు ఇవ్వడానికి",
+  "B": "గణితాన్ని నేర్చుకోవడంలో విద్యార్థి ఇబ్బంది పడుతున్న అంశాలను గుర్తించడానికి",
+  "C": "విద్యార్థులు భవిష్యత్తులో సరియైన వృత్తిని ఎంచుకోవడానికి మార్గదర్శనం చేయడానికి",
+  "D": "పై తరగతికి ప్రమోట్ చేయడానికి",
+  "Answer": "గణితాన్ని నేర్చుకోవడంలో విద్యార్థి ఇబ్బంది పడుతున్న అంశాలను గుర్తించడానికి",
+  "Explanation": "Diagnostic assessment ముఖ్య ఉద్దేశం అభ్యసనలో లోపాలను గుర్తించడం."
+ },
+ {
+  "Question": "గీత తన సోదరుడి చిగుళ్ళ నుండి సులభంగా రక్తం కారుతుందని గమనించింది. అతని ఆహారంలో ఈ విటమిన్ లోపించి ఉండవచ్చు",
+  "A": "విటమిన్ A",
+  "B": "విటమిన్ D",
+  "C": "విటమిన్ B",
+  "D": "విటమిన్ C",
+  "Answer": "విటమిన్ C",
+  "Explanation": "చిగుళ్ళ నుండి రక్తం కారడం (Scurvy) విటమిన్ C లోపం వల్ల వస్తుంది."
+ },
+ {
+  "Question": "NECC పూర్తి రూపం",
+  "A": "నేషనల్ ఎక్స్పోర్ట్ కోఆర్డినేషన్ కౌన్సిల్",
+  "B": "నేషనల్ ఎనర్జీ కన్జర్వేషన్ కౌన్సిల్",
+  "C": "నేషనల్ ఎడ్యుకేషన్ కోఆర్డినేషన్ కౌన్సిల్",
+  "D": "నేషనల్ ఎగ్ కోఆర్డినేషన్ కమిటీ",
+  "Answer": "నేషనల్ ఎగ్ కోఆర్డినేషన్ కమిటీ",
+  "Explanation": "NECC అంటే National Egg Coordination Committee."
+ },
+ {
+  "Question": "వేరుశనగలో టిక్కా తెగులు వ్యాధి వీటి వల్ల వస్తుంది:",
+  "A": "బాక్టీరియా",
+  "B": "వైరస్",
+  "C": "నెమటోడ్",
+  "D": "శిలీంధ్రాలు",
+  "Answer": "శిలీంధ్రాలు",
+  "Explanation": "టిక్కా తెగులు (Tikka disease) శిలీంధ్రాల (Fungi) వల్ల వస్తుంది."
+ },
+ {
+  "Question": "కింది వ్యాఖ్య లను చదివి సరైన సమాధానం ఎంచుకోండి: వ్యాఖ్య I : ఫ్లూ ఒక ప్రమాదకరమైన స్వల్పకాలిక వ్యాధి. వ్యాఖ్య II : బోదకాలు ఒక దీర్ఘకాలిక వ్యాధి.",
+  "A": "వ్యాఖ్య I మరియు వ్యాఖ్య II రెండూ సరైనవి",
+  "B": "వ్యాఖ్య I మరియు వ్యాఖ్య II రెండూ సరికానివి.",
+  "C": "వ్యాఖ్య I మాత్రమే సరైనది",
+  "D": "వ్యాఖ్య II మాత్రమే సరైనది",
+  "Answer": "వ్యాఖ్య I మరియు వ్యాఖ్య II రెండూ సరైనవి",
+  "Explanation": "ఫ్లూ తక్కువ కాలం ఉంటుంది (Acute), బోదకాలు జీవితకాలం ఉంటుంది (Chronic)."
+ },
+ {
+  "Question": "కింది వాటిలో తుఫాను ప్రభావం కానిది ఏది?",
+  "A": "భారీ వర్షపాతం మరియు వరదలు",
+  "B": "తుఫాను హెచ్చరిక వ్యవస్థలు",
+  "C": "తుఫాను ఉప్పెన",
+  "D": "పంటలు మరియు ఆస్తికి నష్టం",
+  "Answer": "తుఫాను హెచ్చరిక వ్యవస్థలు",
+  "Explanation": "తుఫాను హెచ్చరిక వ్యవస్థ అనేది తుఫాను ప్రభావాన్ని తగ్గించడానికి చేసే ఏర్పాటు, ఇది తుఫాను వల్ల కలిగే నష్టం కాదు."
+ },
+ {
+  "Question": "కింది వాటిలో సాంప్రదాయేతర వాయు వనరును గుర్తించండి:",
+  "A": "సహజ వాయువు",
+  "B": "కోల్ బెడ్ మీథేన్",
+  "C": "సంపీడిత సహజ వాయువు (CNG)",
+  "D": "ద్రవీకృత పెట్రోలియం వాయువు (LPG)",
+  "Answer": "కోల్ బెడ్ మీథేన్",
+  "Explanation": "Coal bed Methane అనేది సాంప్రదాయేతర (Non-conventional) శక్తి వనరు."
+ },
+ {
+  "Question": "కాలిన గాయాలకు చికిత్స చేయడానికి కింది వాటిలో ఏది సరైన ప్రథమ చికిత్స దశ కాదు?",
+  "A": "బొబ్బలను ఎప్పుడూ చిదమకుండా ఉండడం",
+  "B": "కాలిన భాగాన్ని 15-20 నిమిషాలు చల్లటి నీటి ప్రవాహం కింద ఉంచడం",
+  "C": "కాలిన ప్రాంతానికి నేరుగా మంచును రాయడం",
+  "D": "కాలిన గాయాలు తీవ్రంగా ఉంటే, జాగ్రత్తగా ఆయింట్మెంట్ రాయడం",
+  "Answer": "కాలిన ప్రాంతానికి నేరుగా మంచును రాయడం",
+  "Explanation": "కాలిన గాయాలపై నేరుగా ఐస్ పెట్టకూడదు, ఇది కణజాలాన్ని మరింత దెబ్బతీస్తుంది."
+ },
+ {
+  "Question": "పట్టు మరియు పత్తి గురించి సరైన వ్యాఖ్యను గుర్తించండి:",
+  "A": "పట్టులో ప్రధానంగా ప్రోటీన్లు ఉంటాయి, పత్తిలో ప్రధానంగా కార్బోహైడ్రేట్లు ఉంటాయి.",
+  "B": "పట్టులో ప్రధానంగా కార్బోహైడ్రేట్లు ఉంటాయి, పత్తిలో ప్రధానంగా ప్రోటీన్లు ఉంటాయి.",
+  "C": "పట్టు మరియు పత్తి రెండూ ప్రధానంగా ప్రోటీన్లను కలిగి ఉంటాయి.",
+  "D": "పట్టు మరియు పత్తి రెండూ ప్రధానంగా కార్బోహైడ్రేట్లను కలిగి ఉంటాయి.",
+  "Answer": "పట్టులో ప్రధానంగా ప్రోటీన్లు ఉంటాయి, పత్తిలో ప్రధానంగా కార్బోహైడ్రేట్లు ఉంటాయి.",
+  "Explanation": "పట్టు జంతు సంబంధిత నార (ప్రోటీన్), పత్తి వృక్ష సంబంధిత నార (సెల్యులోజ్/కార్బోహైడ్రేట్)."
+ },
+ {
+  "Question": "కింది వాటిలో, వారి వృత్తిపరమైన దుస్తులలో భాగంగా 'ఆప్రాన్లు' ధరించే నిపుణులను గుర్తించండి. A) వైద్యులు B) న్యాయవాదులు C) చెఫ్లు D) పోలీసులు",
+  "A": "A & C మాత్రమే",
+  "B": "B & D మాత్రమే",
+  "C": "A & B మాత్రమే",
+  "D": "A, B, C & D",
+  "Answer": "A & C మాత్రమే",
+  "Explanation": "డాక్టర్లు మరియు వంటవాళ్ళు (Chefs) ఆప్రాన్లను ధరిస్తారు."
+ },
+ {
+  "Question": "కింది శరీర భాగాలలో వేటి మధ్య మృదులాస్థి ఉంటుంది? A) పక్కటెముకలు మరియు ఉరోస్థి మధ్య B) వెన్నుపాము యొక్క వెన్నుపూసల మధ్య",
+  "A": "A మాత్రమే",
+  "B": "B మాత్రమే",
+  "C": "A మరియు B రెండూ",
+  "D": "A కాదు మరియు B కాదు",
+  "Answer": "A మరియు B రెండూ",
+  "Explanation": "మృదులాస్థి (Cartilage) పక్కటెముకలను రొమ్ము ఎముకకు కలుపుతుంది మరియు వెన్నుపూసల మధ్య డిస్కులలో ఉంటుంది."
+ },
+ {
+  "Question": "నీటి కాలుష్యానికి ఉష్ణం కారణమని ఎందుకు భావిస్తారు?",
+  "A": "ఇది నీటిని త్వరగా గడ్డకట్టేలా చేస్తుంది.",
+  "B": "ఇది నీటిలో ఆక్సిజన్ పరిమాణాన్ని పెంచుతుంది.",
+  "C": "ఇది నీటిలో ఆక్సిజన్ పరిమాణాన్ని తగ్గిస్తుంది",
+  "D": "ఇది నీటిని మంచుగా మారుస్తుంది. సూక్ష్మక్రిములను చంపుతుంది",
+  "Answer": "ఇది నీటిలో ఆక్సిజన్ పరిమాణాన్ని తగ్గిస్తుంది",
+  "Explanation": "నీటి ఉష్ణోగ్రత పెరిగితే అందులో కరిగిన ఆక్సిజన్ (Dissolved Oxygen) స్థాయిలు తగ్గుతాయి, ఇది జలచరాలకు హానికరమని ఉష్ణ కాలుష్యం అంటారు."
+ },
+ {
+  "Question": "మనం భూమి ఉపరితలం నుండి దూరంగా వెళ్ళే కొద్దీ, గాలి ఇలా మారుతుంది:",
+  "A": "మరింత వేడిగా",
+  "B": "మరింత చల్లగా",
+  "C": "మరింత తేమ ఎక్కువగా",
+  "D": "మరింత దట్టంగా",
+  "Answer": "మరింత చల్లగా",
+  "Explanation": "ఎత్తుకు వెళ్ళే కొద్దీ ఉష్ణోగ్రత తగ్గుతుంది (Normal Lapse Rate)."
+ },
+ {
+  "Question": "హైదరాబాద్ లో నివసిస్తున్న ప్రణవి ట్రెక్కింగ్ కోసం కాంచనజంగ శిఖరాన్ని సందర్శించాలనుకుంటుంది. కాంచన జంగ శిఖరాన్ని చేరుకోవడానికి ప్రణవి ఈ రాష్ట్రాన్ని సందర్శించాలి.",
+  "A": "పశ్చిమ బెంగాల్",
+  "B": "ఉత్తరాఖండ్",
+  "C": "అస్సాం",
+  "D": "సిక్కిం",
+  "Answer": "సిక్కిం",
+  "Explanation": "కాంచనజంగ పర్వతం సిక్కిం రాష్ట్రంలో ఉంది."
+ },
+ {
+  "Question": "రెండు కాంటూర్ రేఖల మధ్య దూరం దేనిపై ఆధారపడి ఉంటుంది",
+  "A": "ఆ ప్రదేశం యొక్క పటము",
+  "B": "భూస్వరూపం",
+  "C": "వాలు యొక్క స్వభావం",
+  "D": "నీటి లభ్యత",
+  "Answer": "వాలు యొక్క స్వభావం",
+  "Explanation": "వాలు నిటారుగా ఉంటే కాంటూర్ రేఖలు దగ్గరగా ఉంటాయి, వాలు తక్కువగా ఉంటే దూరంగా ఉంటాయి."
+ },
+ {
+  "Question": "నైరుతి రుతుపవనాల వేసవి సమయంలో తెలంగాణలోని ఈ ప్రాంతంలో భారీ వర్షాలు కురుస్తాయి",
+  "A": "ఉత్తర మరియు తూర్పు ప్రాంతాలు",
+  "B": "దక్షిణ మరియు పశ్చిమ ప్రాంతాలు",
+  "C": "ఉత్తర మరియు దక్షిణ ప్రాంతాలు",
+  "D": "దక్షిణ మరియు తూర్పు ప్రాంతాలు",
+  "Answer": "ఉత్తర మరియు తూర్పు ప్రాంతాలు",
+  "Explanation": "తెలంగాణలో ఉత్తర మరియు తూర్పు జిల్లాలు (ఉదా: ఆదిలాబాద్, ఖమ్మం) ఎక్కువ వర్షపాతం పొందుతాయి."
+ },
+ {
+  "Question": "1917లో మహాత్మా గాంధీ దీనిని ప్రారంభించారు:",
+  "A": "ఖైరా నిరసన ఉద్యమం",
+  "B": "సత్యాగ్రహ ఉద్యమం",
+  "C": "చంపారన్ ఉద్యమం",
+  "D": "క్విట్ ఇండియా ఉద్యమం",
+  "Answer": "చంపారన్ ఉద్యమం",
+  "Explanation": "1917లో బీహార్ లోని చంపారన్ లో గాంధీజీ తన మొదటి సత్యాగ్రహాన్ని (చంపారన్ ఉద్యమం) ప్రారంభించారు."
+ },
+ {
+  "Question": "హైదరాబాద్ చివరి నిజాం మీర్ ఉస్మాన్ అలీ ఖాన్ కాలంలో నిజాం సాగర్, అలీ సాగర్ వంటి నీటి పారుదల ప్రాజెక్టులను ఈ ప్రసిద్ధ ఇంజనీర్ రూపొందించారు.",
+  "A": "సర్ M. విశ్వేశ్వరయ్య",
+  "B": "నవాబ్ అలీ నవాజ్ జంగ్",
+  "C": "సర్ ఆర్థర్ కాటన్",
+  "D": "మీర్ వహిద్ అలీ",
+  "Answer": "నవాబ్ అలీ నవాజ్ జంగ్",
+  "Explanation": "నవాబ్ అలీ నవాజ్ జంగ్ బహదూర్ నిజాం కాలంలో చీఫ్ ఇంజనీర్ గా అనేక ప్రాజెక్టులను రూపొందించారు."
+ },
+ {
+  "Question": "1929 నుండి, నల్గొండ, పిల్లలమర్రి, కరీంనగర్ మొదలైన ప్రదేశాలలో రైతు సంఘాలు దేనికి వ్యతిరేకంగా స్థాపించబడ్డాయి",
+  "A": "పటేళ్లు, పట్వారీలు మరియు దేశ్ముఖ్ల దోపిడీకి",
+  "B": "అహ్మదాబాద్ టెక్స్టైల్ వర్కర్స్ ఆందోళన",
+  "C": "నిజాం ద్వారా ప్రజా న్యాయస్థానాల నిర్వహణ",
+  "D": "చట్టవిరుద్ధమైన భూస్వామ్య విధులు, వెట్టి",
+  "Answer": "చట్టవిరుద్ధమైన భూస్వామ్య విధులు, వెట్టి",
+  "Explanation": "ఆంధ్ర మహాసభ మరియు రైతు సంఘాలు ప్రధానంగా వెట్టి చాకిరి మరియు భూస్వామ్య దోపిడీకి వ్యతిరేకంగా పోరాడాయి."
+ },
+ {
+  "Question": "ఈ క్రింది వారిలో ఒకరు 1946 లో ఏర్పడిన రాజ్యాంగ సభలో మహిళా సభ్యురాలు కాదు",
+  "A": "సరోజినీ నాయుడు",
+  "B": "హంసా మెహతా",
+  "C": "కాదంబినీ గంగూలీ",
+  "D": "దుర్గాబాయి దేశ్ముఖ్",
+  "Answer": "కాదంబినీ గంగూలీ",
+  "Explanation": "సరోజినీ నాయుడు, హంసా మెహతా, దుర్గాబాయి దేశ్ముఖ్ రాజ్యాంగ సభ సభ్యులు. కాదంబినీ గంగూలీ స్వాతంత్రానికి ముందే మరణించారు."
+ },
+ {
+  "Question": "1977లో లోక్సభ ఎన్నికలలో జనతా పార్టీ ప్రజలకు వాగ్దానం చేస్తూ అధికారంలోకి వచ్చింది",
+  "A": "ప్రజాస్వామ్య పునరుద్ధరణ మరియు నిరంకుశ పాలన నుండి విముక్తి",
+  "B": "జాతీయ అత్యవసర పరిస్థితిలో జైలు శిక్ష అనుభవించిన ముఖ్యమైన నాయకులందరిని విడుదల చేయడం",
+  "C": "ప్రజలందరికీ సమానంగా సంపద పంపిణీ చేయడం",
+  "D": "ప్రాథమిక హక్కుల పరిరక్షణ",
+  "Answer": "ప్రజాస్వామ్య పునరుద్ధరణ మరియు నిరంకుశ పాలన నుండి విముక్తి",
+  "Explanation": "ఎమర్జెన్సీ తర్వాత జరిగిన ఎన్నికల్లో 'ప్రజాస్వామ్యాన్ని కాపాడండి' అనే నినాదంతో జనతా పార్టీ గెలిచింది."
+ },
+ {
+  "Question": "బాలల స్నేహపూర్వక విధానాల ద్వారా లైంగిక నేరాల నుండి పిల్లలను రక్షించడానికి ఉద్దేశించిన ఒక సమగ్ర చట్టం",
+  "A": "POCSO Act",
+  "B": "నిర్భయ యాక్ట్",
+  "C": "శారదా యాక్ట్",
+  "D": "బాల కార్మిక చట్టం",
+  "Answer": "POCSO Act",
+  "Explanation": "POCSO (Protection of Children from Sexual Offences) Act, 2012 పిల్లలను లైంగిక నేరాల నుండి రక్షించడానికి వచ్చింది."
+ },
+ {
+  "Question": "ఈ సంవత్సరంలో భారతదేశంలోని అన్ని రాష్ట్ర ప్రభుత్వాలు జమీందారీ వ్యవస్థను రద్దు చేయడానికి చట్టాన్ని ఆమోదించాయి",
+  "A": "1955-56",
+  "B": "1950-51",
+  "C": "1948-49",
+  "D": "1952-53",
+  "Answer": "1955-56",
+  "Explanation": "మొదటి పంచవర్ష ప్రణాళిక ముగిసే నాటికి (1956) చాలా రాష్ట్రాలు జమీందారీ రద్దు చట్టాలను ఆమోదించాయి."
+ },
+ {
+  "Question": "రాజు వయస్సు 18 సంవత్సరాలు. అతని ఎత్తు మరియు శరీర బరువులు వరుసగా 1.55 మీటర్లు మరియు 45 కిలోలు. అప్పుడు, అతని BMI",
+  "A": "22.5",
+  "B": "18.73",
+  "C": "29.03",
+  "D": "20.5",
+  "Answer": "18.73",
+  "Explanation": "BMI = బరువు (kg) / ఎత్తు^2 (m). 45 / (1.55 * 1.55) = 45 / 2.4025 = 18.73."
+ },
+ {
+  "Question": "భారత రాజ్యాంగం పని హక్కును ఈ క్రింది వాటిలో ప్రస్తావించింది",
+  "A": "ప్రాథమిక విధులు",
+  "B": "ప్రాథమిక హక్కులు",
+  "C": "ఆదేశ సూత్రాలు",
+  "D": "భారత రాజ్యాంగ పీఠిక",
+  "Answer": "ఆదేశ సూత్రాలు",
+  "Explanation": "ఆర్టికల్ 41 (ఆదేశ సూత్రాలు) ప్రకారం, ప్రభుత్వం పని హక్కు కల్పించడానికి ప్రయత్నించాలి."
+ },
+ {
+  "Question": "కింది వ్యాఖ్యలను జాగ్రత్తగా చదవండి. వ్యాఖ్య (I): EVS లో ఇతివృత్తాలు - కుటుంబం, ఆటలు, జంతువులు, మొక్కలు, సమాజం, ఆశ్రయం, ఆహారం, ప్రయాణం మరియు చరిత్ర. వ్యాఖ్య (II): EVS యొక్క ఇతివృత్తాలు పిల్లల జీవితానికి సంబంధించినవై ఉంటాయి.",
+  "A": "I మరియు II రెండూ సరైనవి",
+  "B": "I మాత్రమే సరైనది",
+  "C": "II మాత్రమే సరైనది",
+  "D": "I మరియు II రెండూ సరికానివి",
+  "Answer": "I మరియు II రెండూ సరైనవి",
+  "Explanation": "NCERT ప్రకారం EVS ఇతివృత్తాలు (Themes) పిల్లల పరిసరాలకు సంబంధించినవి (కుటుంబం, ఆహారం, నీరు, ఆశ్రయం, ప్రయాణం, మనం చేసే పనులు)."
+ }
+]
