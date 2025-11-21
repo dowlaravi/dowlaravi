@@ -540,6 +540,123 @@
   "Explanation": "కరపత్రాలు మరియు గోడపత్రికలు కంటితో చూసి తెలుసుకునేవి, కాబట్టి అవి దృశ్యోపకరణాలు."
  },
  {
+  "Question": "గణిత బోధనలో విశ్లేషణ పద్ధతి (Analytic method) లక్షణం:",
+  "A": "...",
+  "B": "సమస్యను పరిష్కరించేటప్పుడు అనుసరించే ప్రతి దశకు తార్కికతను ఇస్తుంది",
+  "C": "...",
+  "D": "...",
+  "Answer": "సమస్యను పరిష్కరించేటప్పుడు అనుసరించే ప్రతి దశకు తార్కికతను ఇస్తుంది",
+  "Explanation": "విశ్లేషణ పద్ధతిలో ప్రతి స్టెప్ కు 'ఎందుకు' అనే కారణాన్ని అన్వేషిస్తారు, తార్కిక వివరణ ఇస్తారు."
+ },
+ {
+  "Question": "Among the following, identify the perennial rivers / కింది వాటిలో, శాశ్వత నదులను గుర్తించండి",
+  "A": "The Krishna and the Godavari / కృష్ణ మరియు గోదావరి",
+  "B": "The Thunga bhadra and the Mahanadi / తుంగభద్ర మరియు మహానది",
+  "C": "The Narmada and the Tapati / నర్మద మరియు తపతి",
+  "D": "The Yamuna and the Sutlez / యమునా మరియు సట్లెజ్",
+  "Answer": "The Yamuna and the Sutlez / యమునా మరియు సట్లెజ్",
+  "Explanation": "హిమాలయాల నుండి పుట్టే నదులైన యమునా మరియు సట్లెజ్ నదులు మంచు కరగడం వల్ల సంవత్సరం పొడవునా నీటి ప్రవాహాన్ని కలిగి ఉంటాయి, కావున ఇవి శాశ్వత నదులు (జీవ నదులు). మిగిలినవి వర్షాధార నదులు."
+ },
+ {
+  "Question": "On the surface of this, the maximum evaporation and the cloud formation takes place / ఈ ఉపరితలంపై గరిష్ట బాష్పీభవనం మరియు మేఘాల నిర్మాణం జరుగుతుంది",
+  "A": "Mountains / పర్వతాలు",
+  "B": "Oceans and seas / మహా సముద్రాలు మరియు సముద్రాలు",
+  "C": "Plateaus / పీఠభూములు",
+  "D": "Deserts / ఎడారులు",
+  "Answer": "Oceans and seas / మహా సముద్రాలు మరియు సముద్రాలు",
+  "Explanation": "భూమి ఉపరితలంలో ఎక్కువ భాగం నీటితో (సముద్రాలు) నిండి ఉండటం వల్ల, సూర్యరశ్మికి అధిక మొత్తంలో బాష్పీభవనం (Evaporation) ఇక్కడే జరిగి మేఘాలు ఏర్పడతాయి."
+ },
+ {
+  "Question": "Towards the close of the summer season, pre-monsoon showers are common especially in Kerala and Karnataka, which help for the / వేసవి కాలం ముగిసే సమయానికి, కేరళ మరియు కర్ణాటకలో కురిసే జల్లులు దీనికి సహాయపడతాయి",
+  "A": "Undertaking of agricultural activities by the farmers / రైతుల వ్యవసాయ పనులకు",
+  "B": "Destruction of mango fruit / మామిడి పండ్ల నాశనానికి",
+  "C": "Early ripening of mangoes / మామిడి పండ్లు త్వరగా పండటానికి",
+  "D": "Destruction of Paddy crop / వరి పంట నాశనానికి",
+  "Answer": "Early ripening of mangoes / మామిడి పండ్లు త్వరగా పండటానికి",
+  "Explanation": "కేరళ మరియు కర్ణాటక రాష్ట్రాలలో వేసవి చివరలో కురిసే వర్షాలను 'మామిడి జల్లులు' (Mango Showers) అంటారు. ఇవి మామిడి కాయలు త్వరగా పండటానికి దోహదపడతాయి."
+ },
+ {
+  "Question": "Who among the following was credited with the initial introduction of the Ryotwari system in the Madras Presidency? / మద్రాస్ ప్రెసిడెన్సీలో రైత్వారీ వ్యవస్థను మొదట ప్రవేశపెట్టిన ఘనత ఈ క్రింది వారిలో ఎవరికి దక్కుతుంది?",
+  "A": "Lord Cornwallis",
+  "B": "Thomas Munro / థామస్ మున్రో",
+  "C": "Charles Metcalfe",
+  "D": "Lord William Bentinck",
+  "Answer": "Thomas Munro / థామస్ మున్రో",
+  "Explanation": "సర్ థామస్ మున్రో మద్రాస్ ప్రెసిడెన్సీలో రైత్వారీ భూమి శిస్తు విధానాన్ని రూపొందించి అమలు చేశారు. ఇందులో రైతులు నేరుగా ప్రభుత్వానికి పన్ను చెల్లించేవారు."
+ },
+ {
+  "Question": "Public Distribution System is the most important step taken by the Government of India towards / ప్రజా పంపిణీ వ్యవస్థ, భారత ప్రభుత్వం తీసుకున్న ముఖ్యమైన చర్య:",
+  "A": "ensuring food security to all the people / ప్రజలందరికీ ఆహార భద్రత కల్పించడం",
+  "B": "systematic distribution of food to all the people of the country especially who are below poverty line",
+  "C": "supplying of food material to all the people at free of cost",
+  "D": "ensuring food security only to the people who are in below poverty line",
+  "Answer": "ensuring food security to all the people / ప్రజలందరికీ ఆహార భద్రత కల్పించడం",
+  "Explanation": "భారతదేశంలో ప్రజా పంపిణీ వ్యవస్థ (PDS) యొక్క విస్తృత లక్ష్యం దేశ ప్రజలందరికీ ఆహార భద్రతను (Food Security) అందించడం, ఆకలిని నిర్మూలించడం."
+ },
+ {
+  "Question": "The money deposited in this account CANNOT be withdrawn from the bank as and when required by the depositor / ఈ ఖాతాలో జమ చేసిన డబ్బును డిపాజిట్ దారుడు గడువు తీరేవరకు వెనక్కి తీసుకోలేడు",
+  "A": "Saving Bank Account / సేవింగ్స్ ఖాతా",
+  "B": "Current Account / కరెంట్ ఖాతా",
+  "C": "Fixed Deposit / ఫిక్స్డ్ డిపాజిట్",
+  "D": "Small Savings Account / చిన్న పొదుపు ఖాతా",
+  "Answer": "Fixed Deposit / ఫిక్స్డ్ డిపాజిట్",
+  "Explanation": "ఫిక్స్డ్ డిపాజిట్ (Term Deposit) ఖాతాలో డబ్బును ఒక నిర్ణీత కాల వ్యవధికి (గడువుకు) జమ చేస్తారు. ఆ గడువు ముగిసే వరకు సాధారణంగా డబ్బును వెనక్కి తీసుకోలేరు."
+ },
+ {
+  "Question": "During the first 20 years of the Indian National Congress, the congress was led by these leaders / భారత జాతీయ కాంగ్రెస్ మొదటి 20 సంవత్సరాలు, ఈ నాయకుల నాయకత్వంలో ఉంది",
+  "A": "Democrats / డెమోక్రాట్లు",
+  "B": "Extremist Nationalists / అతివాద జాతీయవాదులు",
+  "C": "Moderate Nationalists / మితవాద జాతీయవాదులు",
+  "D": "Gandhians / గాంధేయవాదులు",
+  "Answer": "Moderate Nationalists / మితవాద జాతీయవాదులు",
+  "Explanation": "1885 నుండి 1905 వరకు (మొదటి 20 ఏళ్లు) భారత జాతీయ కాంగ్రెస్ 'మితవాదుల' (Moderates) ఆధ్వర్యంలో నడిచింది. వీరు బ్రిటిష్ వారితో చర్చల ద్వారా సంస్కరణలు కోరుకున్నారు."
+ },
+ {
+  "Question": "Who among the following was called as 'Sahaja Kavi'? / కింది వారిలో ఎవరిని 'సహజ కవి' అని పిలుస్తారు?",
+  "A": "Nannayya / నన్నయ",
+  "B": "Tikkanna / తిక్కన",
+  "C": "Pothana / పోతన",
+  "D": "Errana / ఎర్రన",
+  "Answer": "Pothana / పోతన",
+  "Explanation": "ఆంధ్ర మహాభాగవతాన్ని రచించిన బమ్మెర పోతన గారికి పాండిత్యం సహజంగా అబ్బిందని భావించి 'సహజ కవి' అనే బిరుదు ఇవ్వబడింది."
+ },
+ {
+  "Question": "Kandariya Mahadeva Temple was constructed by this dynasty ruler / కందారియ మహాదేవ ఆలయాన్ని ఈ రాజవంశ రాజులు నిర్మించారు",
+  "A": "Chalukyas of Badami / బాదామి చాళుక్యులు",
+  "B": "Saluva Dynasty ruler / సాలువ వంశ రాజులు",
+  "C": "Chola Dynasty ruler / చోళ వంశ రాజులు",
+  "D": "Chandela Dynasty ruler / చందేలులు",
+  "Answer": "Chandela Dynasty ruler / చందేలులు",
+  "Explanation": "ఖజురహోలోని ప్రసిద్ధ కందారియ మహాదేవ ఆలయాన్ని మధ్య భారతదేశాన్ని పాలించిన చందేల (Chandela) రాజవంశస్తులు నిర్మించారు."
+ },
+ {
+  "Question": "In state of Telangana the Bill becomes an Act when / తెలంగాణ రాష్ట్రంలో ఒక బిల్లు చట్టంగా మారుతుంది ఎప్పుడు?",
+  "A": "the bill is passed in the State Legislative Assembly only",
+  "B": "the bill is passed in the State Legislative Assembly and the State Legislative Council only",
+  "C": "the bill is passed in the State Legislative Assembly and the State Legislative Council and after the approval of the State Governor / శాసనసభ మరియు శాసన మండలి ఆమోదించి, గవర్నర్ ఆమోదం పొందిన తర్వాత",
+  "D": "When the bill is approved by the Governor and the Chief Secretary",
+  "Answer": "the bill is passed in the State Legislative Assembly and the State Legislative Council and after the approval of the State Governor / శాసనసభ మరియు శాసన మండలి ఆమోదించి, గవర్నర్ ఆమోదం పొందిన తర్వాత",
+  "Explanation": "తెలంగాణలో ద్విసభలు (అసెంబ్లీ మరియు కౌన్సిల్) ఉన్నాయి. బిల్లు రెండు సభలలో ఆమోదం పొందిన తర్వాత గవర్నర్ సంతకం (ఆమోదం) చేస్తేనే అది చట్టంగా మారుతుంది."
+ },
+ {
+  "Question": "The Parliament of India alone is empowered to make laws on this subject / ఈ విషయంపై చట్టాలు చేసే అధికారం భారత పార్లమెంటుకు మాత్రమే ఉంది",
+  "A": "Irrigation, Police and Health / నీటిపారుదల, పోలీస్ మరియు ఆరోగ్యం",
+  "B": "Education / విద్య",
+  "C": "Money and Banking / మనీ మరియు బ్యాంకింగ్",
+  "D": "Factories or Industries / కర్మాగారాలు",
+  "Answer": "Money and Banking / మనీ మరియు బ్యాంకింగ్",
+  "Explanation": "ద్రవ్యం (Money) మరియు బ్యాంకింగ్ అనేవి కేంద్ర జాబితా (Union List) లోని అంశాలు. కాబట్టి వీటిపై చట్టాలు చేసే అధికారం కేవలం భారత పార్లమెంటుకు మాత్రమే ఉంటుంది."
+ },
+ {
+  "Question": "The festival of Moharram is celebrated commemorating / మొహర్రం పండుగను దీనికి గుర్తుగా జరుపుకుంటారు",
+  "A": "the battle of Karbala in which the grandson of Prophet Mohammed was killed / ప్రవక్త మహమ్మద్ మనవడి త్యాగానికి గుర్తుగా",
+  "B": "the birth of Prophet Mohammed",
+  "C": "the day on which the holy book Quran is written",
+  "D": "The day in which the heroes of Karbala won the war",
+  "Answer": "the battle of Karbala in which the grandson of Prophet Mohammed was killed / ప్రవక్త మహమ్మద్ మనవడి త్యాగానికి గుర్తుగా",
+  "Explanation": "మొహర్రం పండుగను కర్బలా యుద్ధంలో మహమ్మద్ ప్రవక్త మనవడైన ఇమామ్ హుస్సేన్ అమరవీరుడైన దానికి (Martyrdom) గుర్తుగా సంతాప దినంగా జరుపుకుంటారు."
+ }, 
+{
   "Question": "పూర్ణసంఖ్యలకు సంబంధించిన వ్యాఖ్యలు:\n(A) 2025 ఋణ పూర్ణసంఖ్యల లబ్దం ఋణ పూర్ణసంఖ్య అవుతుంది.\n(B) ఒక ఋణ పూర్ణసంఖ్యను మరొక ఋణ పూర్ణసంఖ్యచే భాగించగా భాగఫలం ఋణ సంఖ్య వస్తుంది.",
   "A": "A సరైనది మరియు B సరికానిది",
   "B": "A సరికానిది మరియు B సరైనది",
@@ -763,267 +880,6 @@
   "D": "సామాజిక విలువ",
   "Answer": "క్రమశిక్షణా విలువ",
   "Explanation": "మెదడుకు శిక్షణ ఇవ్వడం, తార్కిక ఆలోచన పెంపొందించడం 'క్రమశిక్షణా విలువ' (Disciplinary Value) కిందకు వస్తుంది."
- },
- {
-  "Question": "గణిత బోధనలో విశ్లేషణ పద్ధతి (Analytic method) లక్షణం:",
-  "A": "...",
-  "B": "సమస్యను పరిష్కరించేటప్పుడు అనుసరించే ప్రతి దశకు తార్కికతను ఇస్తుంది",
-  "C": "...",
-  "D": "...",
-  "Answer": "సమస్యను పరిష్కరించేటప్పుడు అనుసరించే ప్రతి దశకు తార్కికతను ఇస్తుంది",
-  "Explanation": "విశ్లేషణ పద్ధతిలో ప్రతి స్టెప్ కు 'ఎందుకు' అనే కారణాన్ని అన్వేషిస్తారు, తార్కిక వివరణ ఇస్తారు."
- },
- {
-  "Question": "హెర్బార్షియన్ పాఠ్య ప్రణాళికలో 'ముగింపు కార్యకలాపాల' ప్రాముఖ్యత:",
-  "A": "బోధించిన పాఠంలోని ముఖ్య అంశాలను తిరిగి సంగ్రహించడం (Recap)",
-  "B": "...",
-  "C": "...",
-  "D": "...",
-  "Answer": "బోధించిన పాఠంలోని ముఖ్య అంశాలను తిరిగి సంగ్రహించడం (Recap)",
-  "Explanation": "ముగింపు దశలో ఉపాధ్యాయుడు పాఠం యొక్క సారాంశాన్ని పునశ్చరణ చేస్తాడు."
- },
- {
-  "Question": "దశాంశ భిన్నాలలో అవగాహనను 'నూతన పరిస్థితులకు' వర్తింపజేయడానికి (Application) ఉదాహరణ:",
-  "A": "...",
-  "B": "...",
-  "C": "పొడవు, బరువు, కరెన్సీ వంటి కొలతలను దశాంశ రూపంలో వ్యక్తపరచడం",
-  "D": "...",
-  "Answer": "పొడవు, బరువు, కరెన్సీ వంటి కొలతలను దశాంశ రూపంలో వ్యక్తపరచడం",
-  "Explanation": "నిజ జీవిత పరిస్థితుల్లో (కొలతలు) గణిత జ్ఞానాన్ని వాడటం అనువర్తనం (Application) అవుతుంది."
- },
- {
-  "Question": "గణిత పాఠ్యపుస్తకం ఉపాధ్యాయుడికి ఎలా సహాయపడుతుంది?",
-  "A": "బోధనా ప్రణాళికలకు",
-  "B": "సమయం ఆదా",
-  "C": "స్వీయ అధ్యయన ప్రోత్సాహం",
-  "D": "పైవన్నీ",
-  "Answer": "పైవన్నీ",
-  "Explanation": "పాఠ్యపుస్తకం ఉపాధ్యాయునికి ప్రణాళిక, సమయం ఆదా మరియు విద్యార్థులకు గైడ్ గా ఉపయోగపడుతుంది."
- },
- {
-  "Question": "రూబ్రిక్స్ (Rubrics) ఉపయోగం:",
-  "A": "సామర్థ్యాల స్థాయిని తెలుసుకోవడానికి",
-  "B": "పనులు కేటాయించడానికి",
-  "C": "...",
-  "D": "...",
-  "Answer": "సామర్థ్యాల స్థాయిని తెలుసుకోవడానికి",
-  "Explanation": "రూబ్రిక్స్ ద్వారా విద్యార్థి ఏ స్థాయిలో ఉన్నాడో తెలుసుకోవచ్చు మరియు తగిన అసైన్మెంట్లు ఇవ్వవచ్చు."
- },
- {
-  "Question": "ఒక గ్రామంలో, చాలా మందికి గొంతు వాపు (Swollen necks) ఉంది. దీనికి ప్రధాన కారణం?",
-  "A": "అయోడిన్ లోపం",
-  "B": "వ్యాయామం లేకపోవడం",
-  "C": "ఎక్కువ పాలు తాగడం",
-  "D": "కారంగా ఉండే ఆహారం",
-  "Answer": "అయోడిన్ లోపం",
-  "Explanation": "ఆహారంలో అయోడిన్ లోపం వల్ల థైరాయిడ్ గ్రంథి వాచి, గొంతు వాపు (Goiter) వస్తుంది."
- },
- {
-  "Question": "కింది వాటిలో సముద్ర చేపను గుర్తించండి:",
-  "A": "టునా (Tuna)",
-  "B": "కాట్లా",
-  "C": "రోహు",
-  "D": "మృగల్",
-  "Answer": "టునా (Tuna)",
-  "Explanation": "టునా అనేది సముద్ర చేప. మిగిలినవి (కాట్లా, రోహు, మృగల్) మంచినీటి చేపలు."
- },
- {
-  "Question": "'లైలా' (Lyla) అనేది కింది వాటిలో ఏ సహజ దృగ్విషయం పేరు?",
-  "A": "భూకంపం",
-  "B": "సునామీ",
-  "C": "తుఫాను (Cyclone)",
-  "D": "వరద",
-  "Answer": "తుఫాను (Cyclone)",
-  "Explanation": "'లైలా' అనేది 2010లో బంగాళాఖాతంలో ఏర్పడిన ఒక తుఫాను పేరు."
- },
- {
-  "Question": "కింది మొక్కలలో, ఏ మొక్కకు పూలు ఉండవు?",
-  "A": "గడ్డి",
-  "B": "మొక్కజొన్న",
-  "C": "మిరప",
-  "D": "ఫెర్న్ (Fern)",
-  "Answer": "ఫెర్న్ (Fern)",
-  "Explanation": "ఫెర్న్ పుష్పించని మొక్క (Cryptogam). మిగిలినవన్నీ పుష్పించే మొక్కలు."
- },
- {
-  "Question": "గాలి ఈ దిశలో పీడనాన్ని కలిగిస్తుంది.",
-  "A": "ఊర్ధ్వదిశ",
-  "B": "నిమ్నదిశ",
-  "C": "ప్రక్కలకు",
-  "D": "పైవన్నీ (A, B & C)",
-  "Answer": "పైవన్నీ (A, B & C)",
-  "Explanation": "గాలి అన్ని దిశలలోనూ (All directions) పీడనాన్ని కలిగిస్తుంది."
- },
- {
-  "Question": "కొత్త సహజ వనరులను సృష్టించడం సాధ్యం కాదు. కాబట్టి మనం:",
-  "A": "...",
-  "B": "...",
-  "C": "...",
-  "D": "సహజ వనరులను సక్రమ మరియు సుస్థిరమైన మార్గంలో ఉపయోగించాలి",
-  "Answer": "సహజ వనరులను సక్రమ మరియు సుస్థిరమైన మార్గంలో ఉపయోగించాలి",
-  "Explanation": "వనరులు పరిమితం కాబట్టి వాటిని పొదుపుగా మరియు సుస్థిరంగా (Sustainable) వాడాలి."
- },
- {
-  "Question": "భూకంపం సమయంలో భూమి కంపనాలను కొలవడానికి దేనిని ఉపయోగిస్తారు?",
-  "A": "థర్మామీటర్",
-  "B": "బారోమీటర్",
-  "C": "రిక్టర్ స్కేల్ (Richter Scale)",
-  "D": "ఎనిమోమీటర్",
-  "Answer": "రిక్టర్ స్కేల్ (Richter Scale)",
-  "Explanation": "భూకంప తీవ్రతను 'రిక్టర్ స్కేల్' పై కొలుస్తారు."
- },
- {
-  "Question": "గొర్రె ఉన్నిలో ప్రధానంగా ఉండే ప్రోటీన్:",
-  "A": "కొల్లాజెన్",
-  "B": "కెరాటిన్",
-  "C": "ఎలాస్టిన్",
-  "D": "కేసిన్",
-  "Answer": "కెరాటిన్",
-  "Explanation": "వెంట్రుకలు, గోర్లు మరియు ఉన్నిలో ఉండే ప్రోటీన్ 'కెరాటిన్'."
- },
- {
-  "Question": "పత్తి ఫైబర్ను విత్తనాల నుండి వేరు చేసే ప్రక్రియ:",
-  "A": "స్పిన్నింగ్",
-  "B": "జిన్నింగ్ (Ginning)",
-  "C": "నేయడం",
-  "D": "కార్డింగ్",
-  "Answer": "జిన్నింగ్ (Ginning)",
-  "Explanation": "పత్తి గింజలను దూది నుండి వేరుచేయడాన్ని 'జిన్నింగ్' అంటారు."
- },
- {
-  "Question": "మానవులలో ఉండే మెడ ఎముకల సంఖ్య జిరాఫీలతో పోలిస్తే:",
-  "A": "తక్కువ",
-  "B": "ఎక్కువ",
-  "C": "సమానం",
-  "D": "రెండు రెట్లు",
-  "Answer": "సమానం",
-  "Explanation": "దాదాపు అన్ని క్షీరదాలలో (మానవులు మరియు జిరాఫీలతో సహా) మెడ ఎముకల (Cervical vertebrae) సంఖ్య 7 గా ఉంటుంది."
- },
- {
-  "Question": "Peptic ulcer is caused due to: / పెప్టిక్ అల్సర్ ఈ క్రింది కారణాల వల్ల వస్తుంది:",
-  "A": "Viral infection / వైరల్ ఇన్ఫెక్షన్",
-  "B": "Bacterial infection by Helicobacter pylori / హెలికోబాక్టర్ పైలోరీ బాక్టీరియా ద్వారా ఇన్ఫెక్షన్",
-  "C": "Lack of water intake / నీరు తీసుకోకపోవడం",
-  "D": "Low blood sugar / రక్తంలో చక్కెర తక్కువగా ఉండటం",
-  "Answer": "Bacterial infection by Helicobacter pylori / హెలికోబాక్టర్ పైలోరీ బాక్టీరియా ద్వారా ఇన్ఫెక్షన్",
-  "Explanation": "పెప్టిక్ అల్సర్ అనేది ప్రధానంగా 'హెలికోబాక్టర్ పైలోరీ' అనే బాక్టీరియా వల్ల కడుపులో లేదా చిన్న పేగులో ఏర్పడే పుండు. ఇది కలుషిత ఆహారం లేదా నీటి ద్వారా వ్యాపిస్తుంది."
- },
- {
-  "Question": "Match the following blood components with their other names:\nBlood Components:\nA) Platelets\nB) Red blood cells\nC) White blood cells\n\nOther Names:\ni) Erythrocytes\nii) Leucocytes\niii) Thrombocytes",
-  "A": "A-iii, B-i, C-ii",
-  "B": "A-ii, B-iii, C-i",
-  "C": "A-i, B-ii, C-iii",
-  "D": "A-iii, B-ii, C-i",
-  "Answer": "A-iii, B-i, C-ii",
-  "Explanation": "శాస్త్రీయ నామాల ప్రకారం: ప్లేట్‌లెట్లను థ్రాంబోసైట్లు (Thrombocytes) అని, ఎర్ర రక్త కణాలను ఎరిథ్రోసైట్లు (Erythrocytes) అని, తెల్ల రక్త కణాలను ల్యూకోసైట్లు (Leucocytes) అని పిలుస్తారు."
- },
- {
-  "Question": "Among the following, identify the perennial rivers / కింది వాటిలో, శాశ్వత నదులను గుర్తించండి",
-  "A": "The Krishna and the Godavari / కృష్ణ మరియు గోదావరి",
-  "B": "The Thunga bhadra and the Mahanadi / తుంగభద్ర మరియు మహానది",
-  "C": "The Narmada and the Tapati / నర్మద మరియు తపతి",
-  "D": "The Yamuna and the Sutlez / యమునా మరియు సట్లెజ్",
-  "Answer": "The Yamuna and the Sutlez / యమునా మరియు సట్లెజ్",
-  "Explanation": "హిమాలయాల నుండి పుట్టే నదులైన యమునా మరియు సట్లెజ్ నదులు మంచు కరగడం వల్ల సంవత్సరం పొడవునా నీటి ప్రవాహాన్ని కలిగి ఉంటాయి, కావున ఇవి శాశ్వత నదులు (జీవ నదులు). మిగిలినవి వర్షాధార నదులు."
- },
- {
-  "Question": "On the surface of this, the maximum evaporation and the cloud formation takes place / ఈ ఉపరితలంపై గరిష్ట బాష్పీభవనం మరియు మేఘాల నిర్మాణం జరుగుతుంది",
-  "A": "Mountains / పర్వతాలు",
-  "B": "Oceans and seas / మహా సముద్రాలు మరియు సముద్రాలు",
-  "C": "Plateaus / పీఠభూములు",
-  "D": "Deserts / ఎడారులు",
-  "Answer": "Oceans and seas / మహా సముద్రాలు మరియు సముద్రాలు",
-  "Explanation": "భూమి ఉపరితలంలో ఎక్కువ భాగం నీటితో (సముద్రాలు) నిండి ఉండటం వల్ల, సూర్యరశ్మికి అధిక మొత్తంలో బాష్పీభవనం (Evaporation) ఇక్కడే జరిగి మేఘాలు ఏర్పడతాయి."
- },
- {
-  "Question": "Towards the close of the summer season, pre-monsoon showers are common especially in Kerala and Karnataka, which help for the / వేసవి కాలం ముగిసే సమయానికి, కేరళ మరియు కర్ణాటకలో కురిసే జల్లులు దీనికి సహాయపడతాయి",
-  "A": "Undertaking of agricultural activities by the farmers / రైతుల వ్యవసాయ పనులకు",
-  "B": "Destruction of mango fruit / మామిడి పండ్ల నాశనానికి",
-  "C": "Early ripening of mangoes / మామిడి పండ్లు త్వరగా పండటానికి",
-  "D": "Destruction of Paddy crop / వరి పంట నాశనానికి",
-  "Answer": "Early ripening of mangoes / మామిడి పండ్లు త్వరగా పండటానికి",
-  "Explanation": "కేరళ మరియు కర్ణాటక రాష్ట్రాలలో వేసవి చివరలో కురిసే వర్షాలను 'మామిడి జల్లులు' (Mango Showers) అంటారు. ఇవి మామిడి కాయలు త్వరగా పండటానికి దోహదపడతాయి."
- },
- {
-  "Question": "Who among the following was credited with the initial introduction of the Ryotwari system in the Madras Presidency? / మద్రాస్ ప్రెసిడెన్సీలో రైత్వారీ వ్యవస్థను మొదట ప్రవేశపెట్టిన ఘనత ఈ క్రింది వారిలో ఎవరికి దక్కుతుంది?",
-  "A": "Lord Cornwallis",
-  "B": "Thomas Munro / థామస్ మున్రో",
-  "C": "Charles Metcalfe",
-  "D": "Lord William Bentinck",
-  "Answer": "Thomas Munro / థామస్ మున్రో",
-  "Explanation": "సర్ థామస్ మున్రో మద్రాస్ ప్రెసిడెన్సీలో రైత్వారీ భూమి శిస్తు విధానాన్ని రూపొందించి అమలు చేశారు. ఇందులో రైతులు నేరుగా ప్రభుత్వానికి పన్ను చెల్లించేవారు."
- },
- {
-  "Question": "Public Distribution System is the most important step taken by the Government of India towards / ప్రజా పంపిణీ వ్యవస్థ, భారత ప్రభుత్వం తీసుకున్న ముఖ్యమైన చర్య:",
-  "A": "ensuring food security to all the people / ప్రజలందరికీ ఆహార భద్రత కల్పించడం",
-  "B": "systematic distribution of food to all the people of the country especially who are below poverty line",
-  "C": "supplying of food material to all the people at free of cost",
-  "D": "ensuring food security only to the people who are in below poverty line",
-  "Answer": "ensuring food security to all the people / ప్రజలందరికీ ఆహార భద్రత కల్పించడం",
-  "Explanation": "భారతదేశంలో ప్రజా పంపిణీ వ్యవస్థ (PDS) యొక్క విస్తృత లక్ష్యం దేశ ప్రజలందరికీ ఆహార భద్రతను (Food Security) అందించడం, ఆకలిని నిర్మూలించడం."
- },
- {
-  "Question": "The money deposited in this account CANNOT be withdrawn from the bank as and when required by the depositor / ఈ ఖాతాలో జమ చేసిన డబ్బును డిపాజిట్ దారుడు గడువు తీరేవరకు వెనక్కి తీసుకోలేడు",
-  "A": "Saving Bank Account / సేవింగ్స్ ఖాతా",
-  "B": "Current Account / కరెంట్ ఖాతా",
-  "C": "Fixed Deposit / ఫిక్స్డ్ డిపాజిట్",
-  "D": "Small Savings Account / చిన్న పొదుపు ఖాతా",
-  "Answer": "Fixed Deposit / ఫిక్స్డ్ డిపాజిట్",
-  "Explanation": "ఫిక్స్డ్ డిపాజిట్ (Term Deposit) ఖాతాలో డబ్బును ఒక నిర్ణీత కాల వ్యవధికి (గడువుకు) జమ చేస్తారు. ఆ గడువు ముగిసే వరకు సాధారణంగా డబ్బును వెనక్కి తీసుకోలేరు."
- },
- {
-  "Question": "During the first 20 years of the Indian National Congress, the congress was led by these leaders / భారత జాతీయ కాంగ్రెస్ మొదటి 20 సంవత్సరాలు, ఈ నాయకుల నాయకత్వంలో ఉంది",
-  "A": "Democrats / డెమోక్రాట్లు",
-  "B": "Extremist Nationalists / అతివాద జాతీయవాదులు",
-  "C": "Moderate Nationalists / మితవాద జాతీయవాదులు",
-  "D": "Gandhians / గాంధేయవాదులు",
-  "Answer": "Moderate Nationalists / మితవాద జాతీయవాదులు",
-  "Explanation": "1885 నుండి 1905 వరకు (మొదటి 20 ఏళ్లు) భారత జాతీయ కాంగ్రెస్ 'మితవాదుల' (Moderates) ఆధ్వర్యంలో నడిచింది. వీరు బ్రిటిష్ వారితో చర్చల ద్వారా సంస్కరణలు కోరుకున్నారు."
- },
- {
-  "Question": "Who among the following was called as 'Sahaja Kavi'? / కింది వారిలో ఎవరిని 'సహజ కవి' అని పిలుస్తారు?",
-  "A": "Nannayya / నన్నయ",
-  "B": "Tikkanna / తిక్కన",
-  "C": "Pothana / పోతన",
-  "D": "Errana / ఎర్రన",
-  "Answer": "Pothana / పోతన",
-  "Explanation": "ఆంధ్ర మహాభాగవతాన్ని రచించిన బమ్మెర పోతన గారికి పాండిత్యం సహజంగా అబ్బిందని భావించి 'సహజ కవి' అనే బిరుదు ఇవ్వబడింది."
- },
- {
-  "Question": "Kandariya Mahadeva Temple was constructed by this dynasty ruler / కందారియ మహాదేవ ఆలయాన్ని ఈ రాజవంశ రాజులు నిర్మించారు",
-  "A": "Chalukyas of Badami / బాదామి చాళుక్యులు",
-  "B": "Saluva Dynasty ruler / సాలువ వంశ రాజులు",
-  "C": "Chola Dynasty ruler / చోళ వంశ రాజులు",
-  "D": "Chandela Dynasty ruler / చందేలులు",
-  "Answer": "Chandela Dynasty ruler / చందేలులు",
-  "Explanation": "ఖజురహోలోని ప్రసిద్ధ కందారియ మహాదేవ ఆలయాన్ని మధ్య భారతదేశాన్ని పాలించిన చందేల (Chandela) రాజవంశస్తులు నిర్మించారు."
- },
- {
-  "Question": "In state of Telangana the Bill becomes an Act when / తెలంగాణ రాష్ట్రంలో ఒక బిల్లు చట్టంగా మారుతుంది ఎప్పుడు?",
-  "A": "the bill is passed in the State Legislative Assembly only",
-  "B": "the bill is passed in the State Legislative Assembly and the State Legislative Council only",
-  "C": "the bill is passed in the State Legislative Assembly and the State Legislative Council and after the approval of the State Governor / శాసనసభ మరియు శాసన మండలి ఆమోదించి, గవర్నర్ ఆమోదం పొందిన తర్వాత",
-  "D": "When the bill is approved by the Governor and the Chief Secretary",
-  "Answer": "the bill is passed in the State Legislative Assembly and the State Legislative Council and after the approval of the State Governor / శాసనసభ మరియు శాసన మండలి ఆమోదించి, గవర్నర్ ఆమోదం పొందిన తర్వాత",
-  "Explanation": "తెలంగాణలో ద్విసభలు (అసెంబ్లీ మరియు కౌన్సిల్) ఉన్నాయి. బిల్లు రెండు సభలలో ఆమోదం పొందిన తర్వాత గవర్నర్ సంతకం (ఆమోదం) చేస్తేనే అది చట్టంగా మారుతుంది."
- },
- {
-  "Question": "The Parliament of India alone is empowered to make laws on this subject / ఈ విషయంపై చట్టాలు చేసే అధికారం భారత పార్లమెంటుకు మాత్రమే ఉంది",
-  "A": "Irrigation, Police and Health / నీటిపారుదల, పోలీస్ మరియు ఆరోగ్యం",
-  "B": "Education / విద్య",
-  "C": "Money and Banking / మనీ మరియు బ్యాంకింగ్",
-  "D": "Factories or Industries / కర్మాగారాలు",
-  "Answer": "Money and Banking / మనీ మరియు బ్యాంకింగ్",
-  "Explanation": "ద్రవ్యం (Money) మరియు బ్యాంకింగ్ అనేవి కేంద్ర జాబితా (Union List) లోని అంశాలు. కాబట్టి వీటిపై చట్టాలు చేసే అధికారం కేవలం భారత పార్లమెంటుకు మాత్రమే ఉంటుంది."
- },
- {
-  "Question": "The festival of Moharram is celebrated commemorating / మొహర్రం పండుగను దీనికి గుర్తుగా జరుపుకుంటారు",
-  "A": "the battle of Karbala in which the grandson of Prophet Mohammed was killed / ప్రవక్త మహమ్మద్ మనవడి త్యాగానికి గుర్తుగా",
-  "B": "the birth of Prophet Mohammed",
-  "C": "the day on which the holy book Quran is written",
-  "D": "The day in which the heroes of Karbala won the war",
-  "Answer": "the battle of Karbala in which the grandson of Prophet Mohammed was killed / ప్రవక్త మహమ్మద్ మనవడి త్యాగానికి గుర్తుగా",
-  "Explanation": "మొహర్రం పండుగను కర్బలా యుద్ధంలో మహమ్మద్ ప్రవక్త మనవడైన ఇమామ్ హుస్సేన్ అమరవీరుడైన దానికి (Martyrdom) గుర్తుగా సంతాప దినంగా జరుపుకుంటారు."
  },
  {
   "Question": "పెప్టిక్ అల్సర్ (Peptic ulcer) ఈ క్రింది కారణాల వల్ల వస్తుంది",
