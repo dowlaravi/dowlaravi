@@ -609,7 +609,7 @@
     "C": "Only sentence A is correct.",
     "D": "Only sentence B is correct.",
     "Answer": "3",
-    "Explanation": "Sentence A is grammatically correct. Sentence B is incorrect ("has being worn" is not a valid construction; "black and a white" implies two shirts)."
+    "Explanation": "Sentence A is grammatically correct. Sentence B is incorrect (has being worn is not a valid construction; black and a white implies two shirts)."
   },
   {
     "Question": "Identify the part with an error in the given sentence. The farmer grazes (A) / cattles on this meadow (B) / during the summer months. (C) / (D)",
@@ -617,7 +617,7 @@
     "B": "B",
     "C": "C",
     "D": "D",
-    "Answer": "2",
+    "Answer": "B",
     "Explanation": "The word \"cattle\" is already plural; there is no word \"cattles\". The error is in part B."
   },
   {
@@ -654,7 +654,7 @@
     "C": "has left",
     "D": "will have left",
     "Answer": "2",
-    "Explanation": "The past perfect tense (\"had left\") is used to describe an action completed before another past action ("reached")."
+    "Explanation": "The past perfect tense (\had left\) is used to describe an action completed before another past action (reached)."
   },
   {
     "Question": "The article ______ several experts on the subject. Pick the correct option to fill in the blank.",
