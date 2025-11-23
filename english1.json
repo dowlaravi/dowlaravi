@@ -1,0 +1,272 @@
+[
+  {
+    "Question": "Identify the type of sentence: \"Had I known the truth, I would not have made that promise.\"",
+    "A": "First Conditional",
+    "B": "Second Conditional",
+    "C": "Third Conditional",
+    "D": "Mixed Conditional",
+    "Answer": "Third Conditional",
+    "Explanation": "This sentence expresses an unreal situation in the past and its hypothetical result in the past. The structure 'Had + Subject + Past Participle, Subject + Would + Have + Past Participle' is characteristic of the Third Conditional."
+  },
+  {
+    "Question": "Choose the correct phrase to complete the sentence: 'The committee, along with its chairman, __________ to publish the annual report next week.'",
+    "A": "are planning",
+    "B": "is planning",
+    "C": "have planned",
+    "D": "plan",
+    "Answer": "is planning",
+    "Explanation": "The verb must agree with the subject 'The committee'. Phrases like 'along with', 'as well as', 'in addition to', etc., do not change the number of the subject. 'Committee' is singular in this context."
+  },
+  {
+    "Question": "Identify the figure of speech in the line: 'The wind whispered secrets through the ancient trees.'",
+    "A": "Simile",
+    "B": "Metaphor",
+    "C": "Personification",
+    "D": "Hyperbole",
+    "Answer": "Personification",
+    "Explanation": "Personification is giving human qualities or actions to non-human things. 'Whispered' is a human action attributed to 'the wind'."
+  },
+  {
+    "Question": "Statement A: 'Unnecessary' is correctly spelled.\nStatement B: The prefix 'un-' is added to the root word 'necessary' to form the antonym.\nChoose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "The spelling 'unnecessary' is correct, and the common prefix 'un-' (meaning 'not') is used to negate the meaning of 'necessary'."
+  },
+  {
+    "Question": "Match the Phrasal Verbs with their Meanings: (I) Put up with (P) Tolerate (II) Turn down (Q) Refuse or reject (III) Call off (R) Cancel (IV) Look up to (S) Respect and admire",
+    "A": "I-Q, II-P, III-R, IV-S",
+    "B": "I-P, II-Q, III-R, IV-S",
+    "C": "I-R, II-S, III-P, IV-Q",
+    "D": "I-S, II-R, III-Q, IV-P",
+    "Answer": "I-P, II-Q, III-R, IV-S",
+    "Explanation": "'Put up with' means to tolerate. 'Turn down' means to refuse. 'Call off' means to cancel. 'Look up to' means to respect."
+  },
+  {
+    "Question": "Which of the following sentences is in the Passive Voice?",
+    "A": "The author is writing a new novel.",
+    "B": "A new novel is being written by the author.",
+    "C": "The author has written many successful books.",
+    "D": "The novel was published last year.",
+    "Answer": "A new novel is being written by the author.",
+    "Explanation": "The Passive Voice structure is: Object + form of 'to be' + Past Participle + (by + Subject). Option B fits this structure (is being written)."
+  },
+  {
+    "Question": "Change the following sentence into Reported Speech: He said, 'I finished my homework an hour ago.'",
+    "A": "He said that he finished his homework an hour before.",
+    "B": "He said that he had finished his homework an hour ago.",
+    "C": "He said that he had finished his homework an hour before.",
+    "D": "He said he finished his homework an hour ago.",
+    "Answer": "He said that he had finished his homework an hour before.",
+    "Explanation": "In Reported Speech, Simple Past ('finished') changes to Past Perfect ('had finished'), and 'ago' changes to 'before' or 'earlier'."
+  },
+  {
+    "Question": "Identify the subordinate clause in the following sentence: 'Although it was raining heavily, they decided to go for a walk.'",
+    "A": "Although it was raining heavily",
+    "B": "they decided to go for a walk",
+    "C": "it was raining heavily",
+    "D": "to go for a walk",
+    "Answer": "Although it was raining heavily",
+    "Explanation": "A subordinate (or dependent) clause cannot stand alone as a complete sentence and is introduced by a subordinating conjunction ('Although')."
+  },
+  {
+    "Question": "Choose the antonym for the word **'Oblivious'**.",
+    "A": "Unaware",
+    "B": "Heedless",
+    "C": "Conscious",
+    "D": "Forgetful",
+    "Answer": "Conscious",
+    "Explanation": "'Oblivious' means unaware or unmindful. 'Conscious' (or 'aware/mindful') is the opposite."
+  },
+  {
+    "Question": "Fill in the blank with the most appropriate preposition: 'She confided __________ her best friend about the secret.'",
+    "A": "on",
+    "B": "at",
+    "C": "in",
+    "D": "with",
+    "Answer": "in",
+    "Explanation": "The verb 'confide' is commonly followed by the preposition 'in' when meaning to tell someone a secret or private matter."
+  },
+  {
+    "Question": "Identify the word that has a different sound for the underlined letter(s):",
+    "A": "F**oo**d",
+    "B": "T**oo**k",
+    "C": "C**oo**l",
+    "D": "M**oo**n",
+    "Answer": "T**oo**k",
+    "Explanation": "In 'Food', 'Cool', and 'Moon', the 'oo' sound is a long 'u' sound /uː/ (as in 'boot'). In 'Took', the 'oo' sound is a short 'u' sound /ʊ/ (as in 'put')."
+  },
+  {
+    "Question": "Statement A: 'Cattle' is an example of a noun that is singular in form but plural in meaning.\nStatement B: Collective nouns like 'family', 'team', and 'jury' can be treated as either singular or plural depending on the context.\nChoose the correct option:",
+    "A": "A is true, but B is false.",
+    "B": "Both A and B are true.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "'Cattle' is always used with a plural verb (e.g., 'The cattle are grazing'). Collective nouns can take singular verbs when the group acts as a single unit, or plural verbs when the members act individually."
+  },
+  {
+    "Question": "Which of the following options contains an example of a **Non-Finite Verb**?",
+    "A": "He is running in the park.",
+    "B": "She wanted to swim in the ocean.",
+    "C": "The children play every evening.",
+    "D": "They ran the marathon last year.",
+    "Answer": "She wanted to swim in the ocean.",
+    "Explanation": "A non-finite verb does not change its form according to the subject or tense. 'To swim' is an infinitive, which is a type of non-finite verb. 'Running', 'play', and 'ran' are finite verbs."
+  },
+  {
+    "Question": "The word 'government' is an example of which type of noun?",
+    "A": "Common Noun",
+    "B": "Proper Noun",
+    "C": "Abstract Noun",
+    "D": "Collective Noun",
+    "Answer": "Collective Noun",
+    "Explanation": "A Collective Noun names a group of people or things regarded as a unit (e.g., committee, army, government, audience, class)."
+  },
+  {
+    "Question": "Identify the part of speech of the word **'fast'** in the sentence: 'The runner can run **fast**.'",
+    "A": "Adjective",
+    "B": "Noun",
+    "C": "Adverb",
+    "D": "Verb",
+    "Answer": "Adverb",
+    "Explanation": "Here, 'fast' modifies the verb 'run' by describing the manner in which the runner runs, thus acting as an adverb."
+  },
+  {
+    "Question": "Choose the sentence with the correct use of Articles (a/an/the):",
+    "A": "The honesty is the best policy.",
+    "B": "She gave me an one-rupee coin.",
+    "C": "Mount Everest is the highest peak in the world.",
+    "D": "A elephant is a huge animal.",
+    "Answer": "Mount Everest is the highest peak in the world.",
+    "Explanation": "C is correct: 'the highest' is used before a superlative degree adjective. A is wrong ('honesty' is an abstract noun). B is wrong (pronunciation of 'one-rupee' starts with a consonant sound, so 'a' is used). D is wrong (pronunciation of 'elephant' starts with a vowel sound, so 'an' is used)."
+  },
+  {
+    "Question": "Fill in the blank with the appropriate modal auxiliary verb: 'You __________ touch that wire; it’s highly dangerous.'",
+    "A": "should not",
+    "B": "may not",
+    "C": "need not",
+    "D": "must not",
+    "Answer": "must not",
+    "Explanation": "'Must not' is used to express a strong prohibition or command, which is appropriate for a serious danger like touching a highly dangerous wire."
+  },
+  {
+    "Question": "Identify the primary function of a **Theme** in a piece of literature.",
+    "A": "To describe the setting of the story.",
+    "B": "To highlight the main conflict.",
+    "C": "To convey the central idea, lesson, or message.",
+    "D": "To introduce the main characters.",
+    "Answer": "To convey the central idea, lesson, or message.",
+    "Explanation": "The theme is the underlying meaning, central idea, or universal truth that the author explores in the work."
+  },
+  {
+    "Question": "Match the word parts with their classification: (I) Bio (P) Suffix (II) Logy (Q) Root Word (III) Pre (R) Prefix",
+    "A": "I-Q, II-P, III-R",
+    "B": "I-R, II-P, III-Q",
+    "C": "I-P, II-Q, III-R",
+    "D": "I-Q, II-R, III-P",
+    "Answer": "I-Q, II-P, III-R",
+    "Explanation": "'Bio' (life) is a root word. 'Logy' (study of) is a suffix. 'Pre' (before) is a prefix."
+  },
+  {
+    "Question": "Choose the correct punctuation for the sentence: 'Alas the warrior has fallen'",
+    "A": "Alas, the warrior has fallen.",
+    "B": "Alas! The warrior has fallen.",
+    "C": "Alas, the warrior has fallen!",
+    "D": "Alas! the warrior has fallen!",
+    "Answer": "Alas! The warrior has fallen.",
+    "Explanation": "'Alas' is an interjection expressing grief or pity and should be followed by an exclamation mark. The rest of the sentence is a simple declarative statement."
+  },
+  {
+    "Question": "What does **Skimming** primarily involve in reading comprehension?",
+    "A": "Reading every word carefully for detailed understanding.",
+    "B": "Reading to find specific pieces of information.",
+    "C": "Reading quickly to grasp the main idea or general overview.",
+    "D": "Reading aloud to improve pronunciation.",
+    "Answer": "Reading quickly to grasp the main idea or general overview.",
+    "Explanation": "Skimming is a fast reading technique used to get the gist, main idea, or general impression of a text."
+  },
+  {
+    "Question": "Statement A: **Intensive Reading** focuses on extracting detailed information and often involves dictionary use. Statement B: **Extensive Reading** is for pleasure and overall comprehension, covering long texts, often without immediate recall being the goal.\nChoose the correct option:",
+    "A": "A is true, but B is false.",
+    "B": "Both A and B are true.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "Intensive reading is detailed, careful study of a short text, while Extensive reading is fast, fluent reading of longer material for pleasure and general understanding."
+  },
+  {
+    "Question": "Which of the following is NOT a major principle of Language Teaching?",
+    "A": "Principle of Motivation",
+    "B": "Principle of Habit Formation",
+    "C": "Principle of Isolation",
+    "D": "Principle of Correlation with life",
+    "Answer": "Principle of Isolation",
+    "Explanation": "The Principle of Isolation (teaching language items in isolation) is generally avoided; language is better taught in context and correlation with real-life situations and other subjects."
+  },
+  {
+    "Question": "The process of 'Correction' in teaching English aims to:",
+    "A": "Punish the student for mistakes.",
+    "B": "Provide immediate feedback and promote self-correction.",
+    "C": "Exclusively focus on grammatical errors.",
+    "D": "Always be done by the teacher without student involvement.",
+    "Answer": "Provide immediate feedback and promote self-correction.",
+    "Explanation": "Correction should be constructive, aiming to help the learner understand and rectify their errors, encouraging them to become autonomous learners."
+  },
+  {
+    "Question": "Which method of teaching English focuses on establishing a direct association between words/phrases and their meaning in the target language without the use of the mother tongue?",
+    "A": "Grammar Translation Method (GTM)",
+    "B": "Bilingual Method",
+    "C": "Direct Method",
+    "D": "Structural Approach",
+    "Answer": "Direct Method",
+    "Explanation": "The Direct Method (or Natural Method) emphasizes direct association, using the target language (English) exclusively in the classroom, banning the mother tongue."
+  },
+  {
+    "Question": "Match the Language Skill with its Nature: (I) Listening (P) Productive Skill (II) Speaking (Q) Receptive Skill (III) Reading (R) Graphic Receptive Skill (IV) Writing (S) Graphic Productive Skill",
+    "A": "I-Q, II-P, III-R, IV-S",
+    "B": "I-P, II-Q, III-S, IV-R",
+    "C": "I-Q, II-P, III-S, IV-R",
+    "D": "I-R, II-S, III-P, IV-Q",
+    "Answer": "I-Q, II-P, III-R, IV-S",
+    "Explanation": "Listening and Reading are Receptive (receiving/understanding). Speaking and Writing are Productive (producing/expressing). Reading/Writing are graphic (print/visual) skills, while Listening/Speaking are aural/oral."
+  },
+  {
+    "Question": "A good English textbook should ideally have:",
+    "A": "Mostly translation exercises.",
+    "B": "Content that is culturally irrelevant to the students.",
+    "C": "Gradation and sequencing of language items.",
+    "D": "Only focus on teaching grammar rules explicitly.",
+    "Answer": "Gradation and sequencing of language items.",
+    "Explanation": "Gradation (arranging content from simple to complex) and sequencing (order of presentation) are crucial principles for effective language learning, ensuring a systematic and manageable progression."
+  },
+  {
+    "Question": "Statement A: **Remedial Teaching** is necessary for all students in a class. Statement B: The goal of Remedial Teaching is to bring slower learners up to a level where they can cope with the rest of the class.\nChoose the correct option:",
+    "A": "A is true, but B is false.",
+    "B": "Both A and B are true.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "A is false, but B is true.",
+    "Explanation": "Remedial teaching is specifically for students who lag behind or face learning difficulties, not for all students. Its goal is to correct their specific weaknesses and bridge learning gaps."
+  },
+  {
+    "Question": "Which technique involves the teacher presenting a sentence pattern repeatedly for the students to imitate and practice, characteristic of the Audio-Lingual Method?",
+    "A": "Role Play",
+    "B": "Memorization",
+    "C": "Drilling (Pattern Practice)",
+    "D": "Debate",
+    "Answer": "Drilling (Pattern Practice)",
+    "Explanation": "Drilling, or Pattern Practice, is a key technique in the Audio-Lingual Method, where students repeat and substitute parts of model sentences to form habits and internalize sentence structures."
+  },
+  {
+    "Question": "Continuous and Comprehensive Evaluation (CCE) in English Language Teaching involves assessing:",
+    "A": "Only the student's performance in end-of-term written exams.",
+    "B": "Only the student's speaking skills and oral performance.",
+    "C": "Both scholastic (academic) and co-scholastic (life skills, attitude) aspects of a student's growth.",
+    "D": "Only the teacher's ability to teach grammar.",
+    "Answer": "Both scholastic (academic) and co-scholastic (life skills, attitude) aspects of a student's growth.",
+    "Explanation": "CCE is a school-based evaluation that covers all aspects of a student's development—scholastic (subject areas) and co-scholastic (non-subject areas like attitude, values, skills, etc.)."
+  }
+]
