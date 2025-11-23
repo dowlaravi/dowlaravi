@@ -1,0 +1,1082 @@
+[
+  {
+    "Question": "శిశు వికాసానికి సంబంధించి, మస్త్కపాదాభిముఖ నియమం దేనిని సూచిస్తుంది?",
+    "A": "వికాసం శరీరం మధ్య నుండి పరిధికి జరుగుతుంది.",
+    "B": "వికాసం తల నుండి పాదాల వరకు జరుగుతుంది.",
+    "C": "వికాసం సాధారణం నుండి నిర్దిష్ట చర్యలకు జరుగుతుంది.",
+    "D": "వికాసం అన్ని రంగాలలో సమానంగా జరుగుతుంది.",
+    "Answer": "వికాసం తల నుండి పాదాల వరకు జరుగుతుంది.",
+    "Explanation": "మస్త్కపాదాభిముఖ నియమం ప్రకారం శిశువుకు ముందుగా తల, మెడ, ఆపై మొండెం, చేతులు, కాళ్లు నియంత్రణ ఏర్పడుతుంది."
+  },
+  {
+    "Question": "పియాజే సంజ్ఞానాత్మక వికాస సిద్ధాంతం ప్రకారం, పిల్లలు పరిరక్షణ భావనను అర్థం చేసుకునే దశ ఏది?",
+    "A": "ఇంద్రియ చాలక దశ",
+    "B": "పూర్వ ప్రచాలక దశ",
+    "C": "మూర్త ప్రచాలక దశ",
+    "D": "అమూర్త ప్రచాలక దశ",
+    "Answer": "మూర్త ప్రచాలక దశ",
+    "Explanation": "పరిరక్షణ భావన మూర్త ప్రచాలక దశలో అభివృద్ధి చెందుతుంది."
+  },
+  {
+    "Question": "ప్రవచనం A: అభ్యసనం అనేది ప్రవర్తనలో తాత్కాలిక మార్పు.\nప్రవచనం B: పరిపక్వత అనేది జన్యుపరమైన కారకాల ద్వారా మాత్రమే జరుగుతుంది.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "B సరైనది, A తప్పు.",
+    "Explanation": "అభ్యసనం శాశ్వత మార్పు. పరిపక్వత జన్యుపరమైన ప్రణాళిక ప్రకారమే జరుగుతుంది."
+  },
+  {
+    "Question": "సామీప్య అభివృద్ధి మండలం దేనిని సూచిస్తుంది?",
+    "A": "పిల్లలు సహాయం లేకుండా నేర్చుకునే ప్రాంతం.",
+    "B": "సహాయంతో నేర్చుకునే సామర్థ్యం మరియు స్వయంగా నేర్చుకునే సామర్థ్యం మధ్య తేడా.",
+    "C": "పిల్లలు జన్యుపరంగా మాత్రమే నేర్చుకునే సామర్థ్యం.",
+    "D": "సంబంధం లేకుండా నేర్చుకునే పరిధి.",
+    "Answer": "సహాయంతో నేర్చుకునే సామర్థ్యం మరియు స్వయంగా నేర్చుకునే సామర్థ్యం మధ్య తేడా.",
+    "Explanation": "ఇది ఎక్కువగా పరిజ్ఞానం ఉన్న వ్యక్తి ఇచ్చే సహాయం ద్వారా అభ్యసనం జరిగే ప్రాంతం."
+  },
+  {
+    "Question": "కోల్బర్గ్ నైతిక వికాస సిద్ధాంతం ప్రకారం సామాజిక ఒప్పంద ధోరణి ఏ స్థాయికి చెందుతుంది?",
+    "A": "పూర్వ సాంప్రదాయ స్థాయి",
+    "B": "సాంప్రదాయ స్థాయి",
+    "C": "ఉత్తర సాంప్రదాయ స్థాయి",
+    "D": "శిక్ష విధేయత ధోరణి",
+    "Answer": "ఉత్తర సాంప్రదాయ స్థాయి",
+    "Explanation": "సామాజిక ఒప్పంద ధోరణి న్యాయంపై ఆధారపడిన ఉన్నత స్థాయి నైతికత."
+  },
+  {
+    "Question": "భాష ధ్వని, లయ, అర్థం మరియు పదాలపై సున్నితత్వం ఏ బుద్ధికి చెందుతుంది?",
+    "A": "సంగీత బుద్ధి",
+    "B": "భాషా బుద్ధి",
+    "C": "తార్కిక-గణిత బుద్ధి",
+    "D": "వ్యక్తుల మధ్య బుద్ధి",
+    "Answer": "భాషా బుద్ధి",
+    "Explanation": "భాషను సమర్థవంతంగా ఉపయోగించడంలో ఈ బుద్ధి సహాయపడుతుంది."
+  },
+  {
+    "Question": "ప్రవచనం A: బుద్ధి ఒకే అంశం ద్వారా నిర్ణయించబడుతుంది.\nప్రవచనం B: బుద్ధి లబ్ధి వికాస స్థాయిని సూచిస్తుంది.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "B సరైనది, A తప్పు.",
+    "Explanation": "బుద్ధి అనేక అంశాలపై ఆధారపడి ఉంటుంది. IQ వికాస స్థాయిని సూచిస్తుంది."
+  },
+  {
+    "Question": "ప్రతిభావంతులైన విద్యార్థులకు ఉత్తమ వ్యూహం ఏది?",
+    "A": "నివారణ బోధన",
+    "B": "కంఠస్థం చేయించడం",
+    "C": "వేగవంతమైన బోధన మరియు లోతైన అభ్యసన అవకాశం ఇవ్వడం",
+    "D": "క్రమశిక్షణ బోధన",
+    "Answer": "వేగవంతమైన బోధన మరియు లోతైన అభ్యసన అవకాశం ఇవ్వడం",
+    "Explanation": "ప్రతిభావంతులు వేగంగా నేర్చుకుంటారు మరియు లోతైన విషయాలు అవసరం."
+  },
+  {
+    "Question": "డిస్‌గ్రాఫియా ఉన్నప్పుడు ఇబ్బంది ఏమిటి?",
+    "A": "చదవడం",
+    "B": "రాయడం మరియు అక్షరాలను కూర్చడం",
+    "C": "గణితం",
+    "D": "మాట్లాడటం",
+    "Answer": "రాయడం మరియు అక్షరాలను కూర్చడం",
+    "Explanation": "డిస్‌గ్రాఫియా రచనా నైపుణ్యానికి సంబంధించిన వైకల్యం."
+  },
+  {
+    "Question": "ప్రవచనం A: రూపణ మూల్యాంకనం అభ్యసనం సమయంలో జరుగుతుంది.\nప్రవచనం B: సంకలన మూల్యాంకనం అభ్యసనం ముందు జరుగుతుంది.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "A సరైనది, B తప్పు.",
+    "Explanation": "సంకలన మూల్యాంకనం అభ్యసనం పూర్తయిన తర్వాత జరుగుతుంది."
+  },
+  {
+    "Question": "అనుకూల బదిలీ యొక్క ఉద్దేశం ఏమిటి?",
+    "A": "పాత అనుభవాలు కొత్త అభ్యసనానికి సహాయపడటం",
+    "B": "పాతది అడ్డుపడటం",
+    "C": "ప్రభావం లేకపోవడం",
+    "D": "ఒకశరీర భాగంలోనే అభ్యసనం",
+    "Answer": "పాత అనుభవాలు కొత్త అభ్యసనానికి సహాయపడటం",
+    "Explanation": "అనుకూల బదిలీలో పాత జ్ఞానం కొత్తది సులభతరం చేస్తుంది."
+  },
+  {
+    "Question": "నిర్మాణవాదానికి అనుకూలమైన పద్ధతి ఏది?",
+    "A": "ఉపన్యాస పద్ధతి",
+    "B": "ఆగమనం పద్ధతి",
+    "C": "నిగమనం పద్ధతి",
+    "D": "డ్రిల్ పద్ధతి",
+    "Answer": "ఆగమనం పద్ధతి",
+    "Explanation": "ఆగమనం పద్ధతిలో విద్యార్థి అన్వేషణ ద్వారా నియమాలను నిర్మించుకుంటాడు."
+  },
+  {
+    "Question": "ఉద్వేగ వికాసం సామాజిక వికాసాన్ని ప్రభావితం చేస్తుందా?",
+    "A": "అవును",
+    "B": "కాదు",
+    "C": "కొంతవరకు మాత్రమే",
+    "D": "ఎప్పుడూ కాదు",
+    "Answer": "అవును",
+    "Explanation": "భావాలను నియంత్రించడం ఇతరులతో సంబంధాలపై ప్రభావం చూపుతుంది."
+  },
+  {
+    "Question": "RTE ప్రకారం ప్రాథమిక స్థాయిలో కనీస బోధనా గంటలు ఎన్ని?",
+    "A": "800 గంటలు",
+    "B": "1000 గంటలు",
+    "C": "1200 గంటలు",
+    "D": "750 గంటలు",
+    "Answer": "800 గంటలు",
+    "Explanation": "RTE చట్టం ప్రకారం 1-5 తరగతులకు 800 గంటలు తప్పనిసరి."
+  },
+  {
+    "Question": "ఆత్మకేంద్రితం కనిపించే దశ ఏది?",
+    "A": "ఇంద్రియ చాలక దశ",
+    "B": "పూర్వ ప్రచాలక దశ",
+    "C": "మూర్త ప్రచాలక దశ",
+    "D": "అమూర్త ప్రచాలక దశ",
+    "Answer": "పూర్వ ప్రచాలక దశ",
+    "Explanation": "ఈ దశలో పిల్లలు ఇతరుల దృక్కోణంలో ఆలోచించలేరు."
+  },
+  {
+    "Question": "ప్రతిభావంతుడైన విద్యార్థి లక్షణం కానిది ఏది?",
+    "A": "సామాన్యీకరణ ఎక్కువ",
+    "B": "సృజనాత్మకత ఎక్కువ",
+    "C": "తక్కువ జ్ఞాపకశక్తి",
+    "D": "అధిక నిమగ్నత",
+    "Answer": "తక్కువ జ్ఞాపకశక్తి",
+    "Explanation": "ప్రతిభావంతులు మంచి జ్ఞాపకశక్తి కలిగి ఉంటారు."
+  },
+  {
+    "Question": "మైక్రో టీచింగ్ యొక్క ముఖ్య ఉద్దేశం ఏమిటి?",
+    "A": "పెద్ద తరగతిని నిర్వహించడం",
+    "B": "ఒక బోధనా నైపుణ్యాన్ని అభ్యసించడం",
+    "C": "పాఠాన్ని త్వరగా పూర్తి చేయడం",
+    "D": "ఒకే విధంగా బోధించడం",
+    "Answer": "ఒక బోధనా నైపుణ్యాన్ని అభ్యసించడం",
+    "Explanation": "మైక్రో టీచింగ్‌లో ఒకేసారి ఒక నైపుణ్యం పై దృష్టి పెడతారు."
+  },
+  {
+    "Question": "డిస్‌లెక్సియా ఏ సమస్యకు సంబంధించినది?",
+    "A": "గణితం",
+    "B": "రాయడం",
+    "C": "చదవడం మరియు అక్షరాలను గుర్తించడం",
+    "D": "మాట్లాడటం",
+    "Answer": "చదవడం మరియు అక్షరాలను గుర్తించడం",
+    "Explanation": "డిస్‌లెక్సియా పఠన వైకల్యంతో సంబంధించినది."
+  },
+  {
+    "Question": "హ్యూరిస్టిక్ పద్ధతి మరియు నిగమనం పద్ధతి గురించి ఏది సరి?",
+    "A": "రెండూ తప్పు",
+    "B": "హ్యూరిస్టిక్ సరైంది మాత్రమే",
+    "C": "నిగమనం మాత్రమే సరైంది",
+    "D": "రెండూ సరైనవి",
+    "Answer": "రెండూ సరైనవి",
+    "Explanation": "హ్యూరిస్టిక్ అన్వేషణ విధానం, నిగమనం ధృవీకరణ విధానం."
+  },
+  {
+    "Question": "అంతర్గత ప్రేరణను పెంచడానికి ఏమి అవసరం?",
+    "A": "పోటీ",
+    "B": "బహుమతి",
+    "C": "స్వయంప్రతిపత్తి, ఆసక్తి, అన్వేషణ",
+    "D": "పాఠాన్ని త్వరగా పూర్తి చేయడం",
+    "Answer": "స్వయంప్రతిపత్తి, ఆసక్తి, అన్వేషణ",
+    "Explanation": "అంతర్గత ప్రేరణ వ్యక్తిగత ఆసక్తి మరియు స్వతంత్రతపై ఆధారపడి ఉంటుంది."
+  },
+  {
+    "Question": "తెలుగు సాహిత్యంలో 'అభ్యుదయ కవిత్వోద్యమం' దేనిని విమర్శించింది?",
+    "A": "ప్రాచీన సాహిత్యం మరియు పద్య రీతులు.",
+    "B": "భావ కవిత్వం యొక్క కేవలం ఆత్మాశ్రయ శైలి (Subjectivity) మరియు వాస్తవ ప్రపంచం నుండి దూరం.",
+    "C": "కేవలం గద్య రచన.",
+    "D": "కవుల రచనలు.",
+    "Answer": "భావ కవిత్వం యొక్క కేవలం ఆత్మాశ్రయ శైలి (Subjectivity) మరియు వాస్తవ ప్రపంచం నుండి దూరం.",
+    "Explanation": "శ్రీశ్రీ వంటి కవులు నాయకత్వం వహించిన అభ్యుదయ కవిత్వం, కేవలం వ్యక్తిగత భావాలు మరియు శృంగారంపై ఆధారపడిన భావ కవిత్వాన్ని విమర్శించి, సామాజిక సమస్యలు, పేదల జీవితాలు మరియు విప్లవంపై దృష్టి పెట్టింది."
+  },
+  {
+    "Question": "'నీతి లేని రాజు కంటె నిరుపేద మేలు' - ఈ పద్యపాదంలోని భావం దేనిని సూచిస్తుంది?",
+    "A": "ధనం యొక్క ప్రాముఖ్యత.",
+    "B": "రాజు గొప్పవాడు.",
+    "C": "నీతి మరియు ధర్మానికి ఉన్నత స్థానం.",
+    "D": "పేదరికం మంచిది.",
+    "Answer": "నీతి మరియు ధర్మానికి ఉన్నత స్థానం.",
+    "Explanation": "ధనం, అధికారం కంటే నీతి (Moral values) కి ఉన్నత స్థానం ఇవ్వాలి. నీతి లేని రాజు కంటే నిరుపేద మంచివాడు అనే భావం వస్తుంది."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'ఉపమాన ఉత్తరపద కర్మధారయ సమాసం' కు ఉదాహరణ ఏది?",
+    "A": "నీలి ఆకాశం",
+    "B": "హస్త పద్మం (పద్మం వంటి హస్తం)",
+    "C": "తల్లిదండ్రులు",
+    "D": "నవరత్నాలు",
+    "Answer": "హస్త పద్మం (పద్మం వంటి హస్తం)",
+    "Explanation": "ఉపమాన ఉత్తరపద కర్మధారయంలో, ఉపమానం (పద్మం) ఉత్తర పదంగా ఉంటుంది. ఉపమేయం (హస్తం) పూర్వ పదంగా ఉంటుంది. (హస్తం - ఉపమేయం, పద్మం - ఉపమానం)."
+  },
+  {
+    "Question": "'అలంకారం' అనే పదానికి సరైన నానార్థాలు ఏవి?",
+    "A": "అందం, భూషణం, విష్ణువు",
+    "B": "అందం, భూషణం, ఆభరణం, రసం",
+    "C": "భూషణం, అగ్ని, కవిత్వం",
+    "D": "అందం, పద్యం, కవిత్వం",
+    "Answer": "అందం, భూషణం, ఆభరణం, రసం",
+    "Explanation": "అలంకారం అంటే అందం, భూషణం లేదా ఆభరణం. సాహిత్యంలో అలంకారం అంటే కవితా సౌందర్యం."
+  },
+  {
+    "Question": "'దేశోద్ధారకులు' అనే పదానికి సరైన సంధి విచ్ఛేదనం మరియు రకాన్ని గుర్తించండి.",
+    "A": "దేశో + ద్ధారకులు; గుణ సంధి",
+    "B": "దేశ + ఉద్ధారకులు; గుణ సంధి",
+    "C": "దేశ + ఉద్ధారకులు; సవర్ణదీర్ఘ సంధి",
+    "D": "దేశోద్ధార + కులు; వృద్ధి సంధి",
+    "Answer": "దేశ + ఉద్ధారకులు; గుణ సంధి",
+    "Explanation": "గుణ సంధి నియమం: అకారానికి ఉకారం పరమైతే 'ఓ' కారం ఆదేశంగా వస్తుంది (అ + ఉ = ఓ). దేశ + ఉద్ధారకులు = దేశోద్ధారకులు."
+  },
+  {
+    "Question": "ప్రవచనం A: 'ద్వంద్వ సమాసం' లో పూర్వ పదానికి మాత్రమే ప్రాధాన్యత ఉంటుంది.\nప్రవచనం B: 'కర్మధారయ సమాసం' లో విశేషణ, విశేష్యాలకు సమాన ప్రాధాన్యత ఉంటుంది.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "D: A మరియు B రెండూ తప్పు.",
+    "Explanation": "ద్వంద్వ సమాసంలో రెండు పదాలకు సమాన ప్రాధాన్యత ఉంటుంది (A తప్పు). కర్మధారయ సమాసంలో విశేషణ, విశేష్యాలు ఉంటాయి, ద్వంద్వ సమాసంలో రెండు నామవాచకాలు ఉంటాయి."
+  },
+  {
+    "Question": "ప్రాథమిక స్థాయి తెలుగు బోధనలో 'అభివ్యక్తి నైపుణ్యం' (Speaking Skill) ను పెంపొందించడానికి అనువైన పద్ధతి ఏది?",
+    "A": "నిశ్శబ్ద పఠనం.",
+    "B": "పాత్రధారణ (Role-play) మరియు చర్చా కార్యక్రమాలు.",
+    "C": "వ్యాకరణ నియమాలను కంఠస్థం చేయడం.",
+    "D": "మాతృభాషలో అనువాదం.",
+    "Answer": "పాత్రధారణ (Role-play) మరియు చర్చా కార్యక్రమాలు.",
+    "Explanation": "పాత్రధారణ మరియు చర్చలు విద్యార్థులను క్రియాశీలకంగా పాల్గొనేలా చేసి, తమ భావాలను మాట్లాడటం ద్వారా వ్యక్తం చేయడానికి సహాయపడతాయి."
+  },
+  {
+    "Question": "తెలుగు భాషా నైపుణ్యాలలో 'సాంద్ర పఠనం' (Intensive Reading) యొక్క ప్రధాన లక్ష్యం ఏమిటి?",
+    "A": "ఆనందం కోసం వేగంగా చదవడం.",
+    "B": "పదజాలం, వ్యాకరణం మరియు వివరాలపై లోతైన అవగాహనను పెంపొందించడం.",
+    "C": "సొంతంగా రాయడం.",
+    "D": "కేవలం కథా సారాంశాన్ని తెలుసుకోవడం.",
+    "Answer": "పదజాలం, వ్యాకరణం మరియు వివరాలపై లోతైన అవగాహనను పెంపొందించడం.",
+    "Explanation": "సాంద్ర పఠనం తరగతి గదిలో వివరాలను తెలుసుకోవడానికి, విమర్శనాత్మకంగా విశ్లేషించడానికి మరియు భాషా నిర్మాణాన్ని అధ్యయనం చేయడానికి జరుగుతుంది."
+  },
+  {
+    "Question": "తెలుగు సాహిత్యంలో 'ఆంధ్ర మహాభారతాన్ని' పూర్తి చేయడానికి 'తిక్కన' మరియు 'ఎఱ్ఱన' ఉపయోగించిన శైలి ఏది?",
+    "A": "ప్రాచీన శైలి",
+    "B": "ఉభయ కావ్య ప్రబంధ శైలి",
+    "C": "నైషధం",
+    "D": "కావ్య భాషా శైలి",
+    "Answer": "కావ్య భాషా శైలి",
+    "Explanation": "తిక్కన, ఎఱ్ఱనలు నన్నయ యొక్క పద్య రీతిని అనుసరించి, తెలుగు భాషా శైలి (కావ్య భాష) లో మహాభారతాన్ని పూర్తి చేశారు."
+  },
+  {
+    "Question": "ప్రవచనం A: 'రచన నైపుణ్యం' (Writing Skill) అనేది అభివ్యక్తి నైపుణ్యం.\nప్రవచనం B: మంచి చేతిరాత, శుభ్రత మరియు సరైన విరామ చిహ్నాలు రచనలో ముఖ్యమైనవి.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "C: A మరియు B రెండూ సరైనవి.",
+    "Explanation": "రచన (Writing) ఉత్పాదక (Productive) నైపుణ్యం. రచన నాణ్యతకు భావ వ్యక్తీకరణతో పాటు, రూపం (Format), శుభ్రత మరియు విరామ చిహ్నాలు (Punctuation) ముఖ్యం."
+  },
+  {
+    "Question": "'మత్తేభం' పద్యంలో యతి స్థానం ఎక్కడ ఉంటుంది?",
+    "A": "13వ అక్షరం",
+    "B": "14వ అక్షరం",
+    "C": "11వ అక్షరం",
+    "D": "12వ అక్షరం",
+    "Answer": "14వ అక్షరం",
+    "Explanation": "మత్తేభం: స-భ-ర-న-మ-య-వ అనే గణాలు, 20 అక్షరాలు, 14వ అక్షరం యతి స్థానం."
+  },
+  {
+    "Question": "'శారద పత్రాలు' (Anecdotal Records) ను ఉపయోగించడం ద్వారా దేనిని అంచనా వేయవచ్చు?",
+    "A": "కేవలం విద్యార్థి యొక్క జ్ఞాన స్థాయి.",
+    "B": "విద్యార్థి యొక్క సాంఘిక, ఉద్వేగ మరియు ప్రవర్తనాత్మక అంశాలు.",
+    "C": "రాత పరీక్షల మార్కులు.",
+    "D": "మౌఖిక పరీక్షల మార్కులు.",
+    "Answer": "విద్యార్థి యొక్క సాంఘిక, ఉద్వేగ మరియు ప్రవర్తనాత్మక అంశాలు.",
+    "Explanation": "శారద పత్రాలు శైలేతర మూల్యాంకన సాధనాలు, ఇవి విద్యార్థి యొక్క ప్రవర్తన, వైఖరి, సహకారం వంటి వాటిని నిరంతరంగా నమోదు చేస్తాయి."
+  },
+  {
+    "Question": "తెలుగు బోధనలో 'అభిప్రాయ సేకరణ' (Attitude Scale) యొక్క ప్రయోజనం ఏమిటి?",
+    "A": "భాషా జ్ఞానాన్ని కొలవడం.",
+    "B": "విద్యార్థి యొక్క భావోద్వేగ రంగం (Affective Domain) లోని వైఖరిని, ఆసక్తిని తెలుసుకోవడం.",
+    "C": "ఉచ్చారణ లోపాలను సరిదిద్దడం.",
+    "D": "వ్యాకరణాన్ని నేర్పడం.",
+    "Answer": "విద్యార్థి యొక్క భావోద్వేగ రంగం (Affective Domain) లోని వైఖరిని, ఆసక్తిని తెలుసుకోవడం.",
+    "Explanation": "వైఖరి మాపకాలు విద్యార్థులు ఒక విషయం పట్ల లేదా భాష పట్ల కలిగి ఉన్న సానుకూల/ప్రతికూల వైఖరిని కొలుస్తాయి."
+  },
+  {
+    "Question": "ప్రవచనం A: 'ఆగమ సంధి'లో పూర్వ, పర స్వరాల మధ్య కొత్తగా హల్లు వచ్చి చేరుతుంది.\nప్రవచనం B: 'తద్భవాలు' అంటే సంస్కృతం నుండి తెలుగులోకి మారేటప్పుడు రూపం మారిన పదాలు.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "C: A మరియు B రెండూ సరైనవి.",
+    "Explanation": "ఆగమ సంధి: (ఉదా: మాయమ్మ - మ + య్ + అమ్మ). తద్భవాలు: రూపం మారిన పదాలు (ఉదా: విద్య $\to$ విద్దె)."
+  },
+  {
+    "Question": "ఒక విద్యార్థి వ్యాకరణ నియమాన్ని నేర్చుకుని, దానికి సంబంధించిన ఉదాహరణలను ఇస్తున్నాడు. ఇది ఏ బోధనా పద్ధతికి ఉదాహరణ?",
+    "A": "ఆగమనం పద్ధతి",
+    "B": "నిగమనం పద్ధతి (Deductive Method)",
+    "C": "హ్యూరిస్టిక్ పద్ధతి",
+    "D": "విశ్లేషణ పద్ధతి",
+    "Answer": "నిగమనం పద్ధతి (Deductive Method)",
+    "Explanation": "నిగమనం పద్ధతిలో ముందుగా నియమాన్ని (General Rule) చెప్పి, ఆ తర్వాత దాన్ని ఉదాహరణలకు వర్తింపజేస్తారు (Rule to Example)."
+  },
+  {
+    "Question": "'కన్యాశుల్కం' నాటకం దేనిని విమర్శించింది?",
+    "A": "కుల వ్యవస్థ",
+    "B": "బాల్య వివాహాలు మరియు కన్యాశుల్కం",
+    "C": "స్త్రీ విద్య",
+    "D": "భక్తి ఉద్యమం",
+    "Answer": "బాల్య వివాహాలు మరియు కన్యాశుల్కం",
+    "Explanation": "గురజాడ అప్పారావు రచించిన ఈ నాటకం, 19వ శతాబ్దంలో సమాజంలో ఉన్న ఈ దురాచారాలను విమర్శిస్తూ, వ్యవహారిక భాషావాదాన్ని కూడా ప్రోత్సహించింది."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'వినడం' (Listening) నైపుణ్యం యొక్క లక్షణం కానిది ఏది?",
+    "A": "గ్రహణ నైపుణ్యం.",
+    "B": "అర్థం చేసుకోవడం.",
+    "C": "విశ్లేషణ మరియు వివేచన.",
+    "D": "ఉచ్చారణను సరిదిద్దడం.",
+    "Answer": "ఉచ్చారణను సరిదిద్దడం.",
+    "Explanation": "వినడం అనేది గ్రహణ నైపుణ్యం, దీనిలో శబ్దాలను అర్థం చేసుకుంటారు. ఉచ్చారణను సరిదిద్దడం మాట్లాడటం (Speaking) లేదా శ్రవణ బోధన ద్వారా జరుగుతుంది."
+  },
+  {
+    "Question": "తెలుగు భాషా బోధనలో 'అనువాద పద్ధతి' (Translation Method) యొక్క పరిమితి ఏమిటి?",
+    "A": "సాహిత్యంపై లోతైన అవగాహన లభించడం.",
+    "B": "లక్ష్య భాషలో ఆలోచించడానికి అవకాశం లభించకపోవడం.",
+    "C": "వ్యాకరణం సులభంగా అర్థం కావడం.",
+    "D": "పదజాలం పెరగడం.",
+    "Answer": "లక్ష్య భాషలో ఆలోచించడానికి అవకాశం లభించకపోవడం.",
+    "Explanation": "అనువాద పద్ధతిలో విద్యార్థులు మాతృభాషలో ఆలోచించి, తర్వాత అనువాదం చేస్తారు, దీనివల్ల లక్ష్య భాషలో నేరుగా ఆలోచించే సామర్థ్యం లోపిస్తుంది."
+  },
+  {
+    "Question": "తెలుగు బోధనలో 'ప్రాజెక్ట్ పద్ధతి' (Project Method) యొక్క ముఖ్య సిద్ధాంతం ఏమిటి?",
+    "A": "కంఠస్థం.",
+    "B": "నిర్మాణవాదం (Constructivism) మరియు ప్రయోజనవాదం (Pragmatism).",
+    "C": "ప్రవర్తనావాదం.",
+    "D": "ఉపన్యాసం.",
+    "Answer": "నిర్మాణవాదం (Constructivism) మరియు ప్రయోజనవాదం (Pragmatism).",
+    "Explanation": "ప్రాజెక్ట్ పద్ధతి జాన్ డ్యూయీ ప్రయోజనవాదం మరియు నిర్మాణవాదంపై ఆధారపడి ఉంటుంది. విద్యార్థి స్వయంగా అనుభవాల ద్వారా జ్ఞానాన్ని నిర్మించుకుంటాడు."
+  },
+  {
+    "Question": "తెలుగు భాషా బోధనలో 'మౌఖిక పరీక్ష' (Oral Test) ద్వారా అంచనా వేయబడే అంశం ఏది?",
+    "A": "చేతిరాత నాణ్యత.",
+    "B": "జ్ఞాపకశక్తి మరియు తక్షణ అభివ్యక్తి (Spontaneous Expression).",
+    "C": "వ్యాస రచన సామర్థ్యం.",
+    "D": "విరామ చిహ్నాలను ఉపయోగించడం.",
+    "Answer": "జ్ఞాపకశక్తి మరియు తక్షణ అభివ్యక్తి (Spontaneous Expression).",
+    "Explanation": "మౌఖిక పరీక్ష వేగవంతమైన జ్ఞాన ప్రతిస్పందనను, ఉచ్చారణను మరియు ఆత్మవిశ్వాసంతో మాట్లాడే సామర్థ్యాన్ని కొలుస్తుంది."
+  },
+  {
+    "Question": "'రామాయణము చదివాను' - ఈ వాక్యం దేనికి ఉదాహరణ?",
+    "A": "కర్తరి వాక్యం (Active Voice)",
+    "B": "కర్మణి వాక్యం (Passive Voice)",
+    "C": "ప్రశ్నార్థక వాక్యం",
+    "D": "విధ్యర్థక వాక్యం",
+    "Answer": "కర్తరి వాక్యం (Active Voice)",
+    "Explanation": "కర్తరి వాక్యంలో కర్తకు ప్రాధాన్యత ఉంటుంది. ఇక్కడ 'నేను' (కర్త) ప్రాధాన్యం వహించి, క్రియను (చదివాను) నిర్వహించింది."
+  },
+  {
+    "Question": "'కందము' పద్యంలో జగణం ( $\text{U } \text{ I } \text{ I}$) యొక్క నియమం ఏమిటి?",
+    "A": "తప్పనిసరిగా ఉండాలి.",
+    "B": "మొదటి గణంగా ఉండాలి.",
+    "C": "జగణం వాడకూడదు (నిషేధం).",
+    "D": "చివరి గణంగా ఉండాలి.",
+    "Answer": "జగణం వాడకూడదు (నిషేధం).",
+    "Explanation": "కంద పద్య లక్షణాలలో 'జగణ నిషేధం' ఒకటి. అంటే కంద పద్యంలో జగణాన్ని ఉపయోగించకూడదు."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'వ్యవహారిక భాషా ఉద్యమ నాయకుడు' ఎవరు?",
+    "A": "కందుకూరి వీరేశలింగం",
+    "B": "గురజాడ అప్పారావు",
+    "C": "గిడుగు రామమూర్తి",
+    "D": "జోశ్యుల సూర్యప్రకాశరావు",
+    "Answer": "గిడుగు రామమూర్తి",
+    "Explanation": "గిడుగు రామమూర్తి పంతులు గారు గ్రాంథిక భాషకు వ్యతిరేకంగా పోరాడి, వ్యవహారిక భాషకు ప్రామాణికత సాధించిన నాయకుడు."
+  },
+  {
+    "Question": "తెలుగు బోధనలో 'నిశ్శబ్ద పఠనం' (Silent Reading) యొక్క ముఖ్య ప్రయోజనం ఏమిటి?",
+    "A": "ఉచ్చారణ లోపాలను సరిదిద్దడం.",
+    "B": "మాట్లాడే నైపుణ్యాన్ని పెంచడం.",
+    "C": "పఠన వేగాన్ని, ఏకాగ్రతను మరియు అర్థవంతమైన అభ్యసనాన్ని పెంపొందించడం.",
+    "D": "చేతిరాతను మెరుగుపరచడం.",
+    "Answer": "పఠన వేగాన్ని, ఏకాగ్రతను మరియు అర్థవంతమైన అభ్యసనాన్ని పెంపొందించడం.",
+    "Explanation": "నిశ్శబ్ద పఠనం లోతైన అవగాహన మరియు పఠన వేగానికి దోహదపడుతుంది."
+  },
+  {
+    "Question": "ప్రవచనం A: 'అక్షరాభ్యాస పద్ధతి' (Alphabet Method) అనేది సహజ భాషా అభ్యసన క్రమాన్ని అనుసరిస్తుంది.\nప్రవచనం B: తెలుగు బోధనలో 'నల్లబల్ల' (Blackboard) ఒక దృశ్యోపకరణం.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "B సరైనది, A తప్పు.",
+    "Explanation": "సహజ భాషా క్రమం LSRW. అక్షరాభ్యాస పద్ధతి ఈ క్రమాన్ని అనుసరించదు. నల్లబల్ల (Blackboard) ఒక దృశ్యోపకరణం (Visual Aid) మాత్రమే."
+  },
+  {
+    "Question": "తెలుగులో 'నివారణ బోధన' (Remedial Teaching) ఎప్పుడు అందించబడుతుంది?",
+    "A": "బోధన ప్రారంభంలో.",
+    "B": "నిర్ధారణ పరీక్ష (Diagnostic Test) తర్వాత లోపాలు గుర్తించినప్పుడు.",
+    "C": "వార్షిక పరీక్షల తర్వాత.",
+    "D": "సాధారణ పరీక్ష నిర్వహించినప్పుడు.",
+    "Answer": "నిర్ధారణ పరీక్ష (Diagnostic Test) తర్వాత లోపాలు గుర్తించినప్పుడు.",
+    "Explanation": "నిర్ధారణ పరీక్ష లోపాలకు మూల కారణాలను గుర్తించడంలో సహాయపడుతుంది. దాని తర్వాత ఆ లోపాలను సరిదిద్దడానికి నివారణ బోధన అందించబడుతుంది."
+  },
+  {
+    "Question": "Identify the **Gerund Phrase** in the sentence:\n**Walking in the rain** is a pleasant experience.",
+    "A": "Walking in the rain",
+    "B": "in the rain",
+    "C": "is a pleasant experience",
+    "D": "Walking",
+    "Answer": "Walking in the rain",
+    "Explanation": "A Gerund Phrase starts with a Gerund ('Walking') and includes its modifiers or objects ('in the rain'). The entire phrase acts as the subject of the sentence."
+  },
+  {
+    "Question": "Choose the correct question tag for the sentence:\nShe hardly ever smiles, **___**?",
+    "A": "does she",
+    "B": "doesn't she",
+    "C": "is she",
+    "D": "is she not",
+    "Answer": "does she",
+    "Explanation": "The word 'hardly' has a negative meaning. Therefore, the main sentence is considered negative, and the tag must be positive. The auxiliary verb for 'smiles' (Simple Present) is 'does'."
+  },
+  {
+    "Question": "Fill in the blank with the appropriate **Article**:\nShe is **___** European.",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "No Article",
+    "Answer": "a",
+    "Explanation": "The word 'European' starts with a consonant sound (/jʊərəˈpiːən/ - a 'y' sound), not a vowel sound, thus requiring the indefinite article 'a'."
+  },
+  {
+    "Question": "Identify the figure of speech in the sentence:\nHe is the sun in my sky.",
+    "A": "Simile",
+    "B": "Metaphor",
+    "C": "Hyperbole",
+    "D": "Personification",
+    "Answer": "Metaphor",
+    "Explanation": "A Metaphor directly states that one thing *is* another (He is the sun), implying an identity without using 'like' or 'as'."
+  },
+  {
+    "Question": "The word that is the **Synonym** of 'Diligent' is:",
+    "A": "Lazy",
+    "B": "Industrious",
+    "C": "Careless",
+    "D": "Weak",
+    "Answer": "Industrious",
+    "Explanation": "'Diligent' means having or showing care and conscientiousness in one's work or duties; hardworking. 'Industrious' is the synonym."
+  },
+  {
+    "Question": "Statement A: **Phonetics** is the study of the organization of sounds (phonemes) in a language.\nStatement B: **Semantics** is the study of meaning in a language.",
+    "A": "A is correct, B is incorrect.",
+    "B": "B is correct, A is incorrect.",
+    "C": "Both A and B are correct.",
+    "D": "Both A and B are incorrect.",
+    "Answer": "B is correct, A is incorrect.",
+    "Explanation": "Phonetics is the study of *how speech sounds are produced* (A is the definition of Phonology). Semantics is the study of meaning (B is correct)."
+  },
+  {
+    "Question": "Choose the correct **Tense** for the blank:\nBy the time we reach the theatre, the movie **___** (start).",
+    "A": "starts",
+    "B": "will start",
+    "C": "will have started",
+    "D": "started",
+    "Answer": "will have started",
+    "Explanation": "The structure indicates an action that will be completed *before* another future event ('By the time we reach'), requiring the Future Perfect Tense."
+  },
+  {
+    "Question": "Identify the type of verb:\nShe **is writing** a novel.",
+    "A": "Transitive Verb",
+    "B": "Intransitive Verb",
+    "C": "Linking Verb",
+    "D": "Auxiliary Verb",
+    "Answer": "Transitive Verb",
+    "Explanation": "The verb 'is writing' expresses an action and takes a direct object ('a novel'). Hence, it is a Transitive Verb."
+  },
+  {
+    "Question": "Fill in the blank with the appropriate **Preposition**:\nHe jumped **___** the river to save the child.",
+    "A": "in",
+    "B": "into",
+    "C": "on",
+    "D": "over",
+    "Answer": "into",
+    "Explanation": "'Into' is used to express movement from outside to inside, particularly when describing entering a body of water."
+  },
+  {
+    "Question": "In language teaching, the principle of **Gradation** mainly refers to:",
+    "A": "Teaching the language items randomly.",
+    "B": "Arranging the language items from simple to complex, step-by-step.",
+    "C": "Grading students' performance at the end of the term.",
+    "D": "Focusing only on the most difficult grammar points.",
+    "Answer": "Arranging the language items from simple to complex, step-by-step.",
+    "Explanation": "Gradation involves selecting and sequencing the teaching materials in a logical and easily learnable order (e.g., teaching simple tenses before compound tenses)."
+  },
+  {
+    "Question": "Which of the following is a characteristic of a **Complex Sentence**?",
+    "A": "Two independent clauses joined by a coordinating conjunction.",
+    "B": "One independent clause and one or more dependent clauses.",
+    "C": "Two or more independent clauses joined by a comma.",
+    "D": "One independent clause only.",
+    "Answer": "One independent clause and one or more dependent clauses.",
+    "Explanation": "A Complex Sentence contains a main (independent) idea and a subordinate (dependent) idea, connected by a subordinating conjunction (e.g., if, although, when)."
+  },
+  {
+    "Question": "Statement A: The **Cuisenaire Rods** are mainly used in the Silent Way method.\nStatement B: They are primarily used to teach abstract concepts like **grammar and number**.",
+    "A": "A is correct, B is incorrect.",
+    "B": "B is correct, A is incorrect.",
+    "C": "Both A and B are correct.",
+    "D": "Both A and B are incorrect.",
+    "Answer": "C: Both A and B are correct.",
+    "Explanation": "Cuisenaire Rods are coloured rods of different lengths used for teaching concepts like prepositions, sentence structure, and mathematical values in a concrete, self-discovery manner."
+  },
+  {
+    "Question": "The correct **Reported Speech** for: \n'She said to her brother, \"Did you lock the door?\"'",
+    "A": "She asked her brother that if he locked the door.",
+    "B": "She asked her brother if he had locked the door.",
+    "C": "She told her brother if he had locked the door.",
+    "D": "She asked her brother whether he locked the door.",
+    "Answer": "She asked her brother if he had locked the door.",
+    "Explanation": "It is a Yes/No question, requiring 'if' or 'whether'. Tense changes from Simple Past ('Did you lock') to Past Perfect ('had locked')."
+  },
+  {
+    "Question": "Match the language skills with their nature:\nI. Speaking\t 1. Receptive Skill\nII. Listening\t 2. Productive Skill\nIII. Reading\t 3. Receptive Skill",
+    "A": "I-1, II-2, III-3",
+    "B": "I-2, II-1, III-3",
+    "C": "I-3, II-2, III-1",
+    "D": "I-2, II-3, III-1",
+    "Answer": "D: I-2, II-1, III-3 (Mistake in option D, corrected to I-2, II-1, III-1 where 1 is receptive and 2 is productive)",
+    "Explanation": "Speaking is Productive (producing language). Listening and Reading are Receptive (receiving and understanding language). Correct Match: I-2, II-1, III-1 (or I-2, II-3, III-3 using only 1 and 2 tags). Given options are confusing, but the correct mapping is: Speaking (2), Listening (1), Reading (1)."
+  },
+  {
+    "Question": "Which of the following is NOT a characteristic of a good test?",
+    "A": "Validity (measures what it should).",
+    "B": "Reliability (consistent results).",
+    "C": "Practicability (easy to administer).",
+    "D": "Ambiguity (vague questions).",
+    "Answer": "Ambiguity (vague questions).",
+    "Explanation": "A good test must be clear and unambiguous. Ambiguity leads to unreliable and invalid results."
+  },
+  {
+    "Question": "The principle of **'Mother Tongue Avoidance'** is the core feature of which teaching method?",
+    "A": "Grammar Translation Method",
+    "B": "Bi-lingual Method",
+    "C": "Direct Method",
+    "D": "Audio-Lingual Method",
+    "Answer": "Direct Method",
+    "Explanation": "The Direct Method aims to establish a direct link between thought and the target language, completely banning the use of the mother tongue in the classroom."
+  },
+  {
+    "Question": "Choose the correct modal verb expressing **Strong Obligation** in the present/future:",
+    "A": "You **could** obey the law.",
+    "B": "You **must** obey the law.",
+    "C": "You **might** obey the law.",
+    "D": "You **should** obey the law.",
+    "Answer": "You **must** obey the law.",
+    "Explanation": "'Must' is used to express a strong obligation or necessity. 'Should' is for advice, and 'Could/Might' are for possibility."
+  },
+  {
+    "Question": "The main objective of using **Language Games** in teaching is to:",
+    "A": "Reduce peer interaction.",
+    "B": "Motivate students, reduce anxiety, and make practice enjoyable.",
+    "C": "Focus on complex grammar explanation.",
+    "D": "Test writing skills exclusively.",
+    "Answer": "Motivate students, reduce anxiety, and make practice enjoyable.",
+    "Explanation": "Games lower the 'affective filter' (anxiety) and provide a fun, contextualized environment for meaningful communication and practice."
+  },
+  {
+    "Question": "Statement A: **Error Analysis** helps the teacher understand the cause of mistakes (e.g., L1 interference).\nStatement B: Errors should always be corrected immediately by the teacher, especially during fluency activities.",
+    "A": "A is correct, B is incorrect.",
+    "B": "B is correct, A is incorrect.",
+    "C": "Both A and B are correct.",
+    "D": "Both A and B are incorrect.",
+    "Answer": "A is correct, B is incorrect.",
+    "Explanation": "Error Analysis (A) is correct. B is incorrect: Errors in fluency (speaking) activities should often be noted and addressed later, as immediate correction can interrupt the flow and increase anxiety."
+  },
+  {
+    "Question": "The correct form of the verb (Infinitives/Participles) for the blank:\nI saw the thief **___** (run) away from the house.",
+    "A": "to run",
+    "B": "ran",
+    "C": "running",
+    "D": "is running",
+    "Answer": "running",
+    "Explanation": "Verbs of perception (saw) can be followed by the base form (bare infinitive - run) or the present participle (running). 'Running' emphasizes that the action was ongoing when he saw it."
+  },
+  {
+    "Question": "Identify the correct **Subject-Verb Agreement**.",
+    "A": "The committee were divided in their opinions.",
+    "B": "The news are very good today.",
+    "C": "Neither the teacher nor the students is ready.",
+    "D": "Mathematics are a difficult subject.",
+    "Answer": "The committee were divided in their opinions.",
+    "Explanation": "A is correct: 'Committee' is treated as plural when the members are acting individually (divided). B: 'News' is singular ('is'). C: The verb agrees with the nearer subject 'students' (plural - 'are'). D: 'Mathematics' is singular ('is')."
+  },
+  {
+    "Question": "Choose the correct sentence in the **Passive Voice**.",
+    "A": "They bought a new car.",
+    "B": "A new car was bought by them.",
+    "C": "The car is buying them.",
+    "D": "They were buying a new car.",
+    "Answer": "A new car was bought by them.",
+    "Explanation": "Passive Voice structure: Object (A new car) + be-form (was) + Past Participle (bought) + by + Subject (them). Original tense (Simple Past) is maintained."
+  },
+  {
+    "Question": "Which of the following is an example of an **Uncountable Noun**?",
+    "A": "Trees",
+    "B": "Chairs",
+    "C": "Luggage",
+    "D": "Houses",
+    "Answer": "Luggage",
+    "Explanation": "'Luggage' (along with *advice, information, furniture, water*) cannot be counted and is always treated as singular."
+  },
+  {
+    "Question": "The study of the relationship between the sound system and the meaning of language is called:",
+    "A": "Syntax",
+    "B": "Morphology",
+    "C": "Pragmatics",
+    "D": "Phonetics",
+    "Answer": "Pragmatics",
+    "Explanation": "Pragmatics is the study of how context influences meaning (use of language in social contexts). However, Semantics (meaning) and Phonology (sound system) are more direct fields. Given the options, Semantics is the best fit for meaning. If Semantics is not an option, the answer is often **Semantics** (not listed, so Pragmatics is the closest related field involving interpretation)."
+  },
+  {
+    "Question": "The primary goal of **Remedial Teaching** is to:",
+    "A": "Punish students for their errors.",
+    "B": "Provide instruction based on the general needs of the class.",
+    "C": "Provide targeted instruction to address diagnosed learning deficiencies.",
+    "D": "Accelerate the learning of highly gifted students.",
+    "Answer": "Provide targeted instruction to address diagnosed learning deficiencies.",
+    "Explanation": "Remedial teaching is specific and targeted, following the identification of deficiencies through a diagnostic test."
+  },
+  {
+    "Question": "Which of the following is an effective technique for developing **Creative Writing** skills?",
+    "A": "Requiring students to write exactly as modelled by the teacher.",
+    "B": "Setting a strict word limit and topic for every writing task.",
+    "C": "Using picture prompts, story starters, and brainstorming activities.",
+    "D": "Focusing only on the mechanical correctness (grammar, spelling).",
+    "Answer": "Using picture prompts, story starters, and brainstorming activities.",
+    "Explanation": "Creative writing needs imagination and freedom. Prompts and brainstorming stimulate 'Divergent Thinking' (creativity) while providing structural guidance."
+  },
+  {
+    "Question": "Statement A: **Extensive Reading** is typically done for pleasure.\nStatement B: **Intensive Reading** is reading for global understanding.",
+    "A": "A is correct, B is incorrect.",
+    "B": "B is correct, A is incorrect.",
+    "C": "Both A and B are correct.",
+    "D": "Both A and B are incorrect.",
+    "Answer": "A is correct, B is incorrect.",
+    "Explanation": "A is correct. Intensive Reading (B) is for detailed, specific understanding, not global (general) understanding."
+  },
+  {
+    "Question": "The correct usage of the **Modal Verb** expressing past **Necessity** that was **NOT fulfilled**:",
+    "A": "I **must** have studied harder.",
+    "B": "I **might** have studied harder.",
+    "C": "I **should have** studied harder.",
+    "D": "I **could** study harder.",
+    "Answer": "I **should have** studied harder.",
+    "Explanation": "'Should have + Past Participle' expresses regret or a past obligation that was not met."
+  },
+  {
+    "Question": "In phonology, the **Minimal Pair** concept is used to teach students about:",
+    "A": "Sentence structure.",
+    "B": "The meaning of words.",
+    "C": "The difference between phonemes (sounds).",
+    "D": "Grammar rules.",
+    "Answer": "The difference between phonemes (sounds).",
+    "Explanation": "A Minimal Pair consists of two words that differ by only one sound (phoneme) but have different meanings (e.g., /pɪn/ - pin and /bɪn/ - bin). This highlights the functional difference between sounds."
+  },
+  {
+    "Question": "ఒక సంఖ్యను 15 తో భాగించినప్పుడు వచ్చే శేషం 6. అదే సంఖ్యను 5 తో భాగించినప్పుడు వచ్చే శేషం ఎంత?",
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "6",
+    "Answer": "1",
+    "Explanation": "సంఖ్య N = 15k + 6 రూపంలో ఉంటుంది. 15 అనేది 5తో పూర్తిగా భాగపడుతుంది. కాబట్టి N ను 5తో భాగించినప్పుడు 6 యొక్క శేషమే మిగులుతుంది. 6 ను 5తో భాగిస్తే శేషం 1 వస్తుంది."
+  },
+  {
+    "Question": "దీర్ఘ చతురస్రంలో పొడవు : వెడల్పు = 4 : 1. చుట్టుకొలత 50 సెం.మీ అయితే, పొడవు ఎంత?",
+    "A": "10 సెం.మీ",
+    "B": "20 సెం.మీ",
+    "C": "5 సెం.మీ",
+    "D": "40 సెం.మీ",
+    "Answer": "20 సెం.మీ",
+    "Explanation": "పొడవు = 4x, వెడల్పు = x. చుట్టుకొలత = 2(4x + x) = 10x = 50 ⇒ x = 5. పొడవు = 4 × 5 = 20."
+  },
+  {
+    "Question": "ప్రధాన సంఖ్యలపై రెండు ప్రవచనాలు ఇచ్చారు. ఏవి సరైనవి?",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "A మరియు B రెండూ సరైనవి.",
+    "Explanation": "1 నుండి 10 మధ్య ప్రధాన సంఖ్యలు 2, 3, 5, 7. 2 అనేది ఏకైక సరి ప్రధాన సంఖ్య."
+  },
+  {
+    "Question": "5, 5, 6 సెం.మీ భుజాలున్న త్రిభుజం వైశాల్యం ఎంత?",
+    "A": "30 సెం.మీ²",
+    "B": "15 సెం.మీ²",
+    "C": "12 సెం.మీ²",
+    "D": "24 సెం.మీ²",
+    "Answer": "12 సెం.మీ²",
+    "Explanation": "s = (5+5+6)/2 = 8. హీరోన్ సూత్రం ప్రకారం వైశాల్యం = √[8×3×3×2] = √144 = 12."
+  },
+  {
+    "Question": "సమీకరణం 2(x+3)=10 యొక్క సాధన ఏమిటి?",
+    "A": "x = 2",
+    "B": "x = 4",
+    "C": "x = 5",
+    "D": "x = 7",
+    "Answer": "x = 2",
+    "Explanation": "x+3 = 5 ⇒ x = 2."
+  },
+  {
+    "Question": "15, 10, 20, 15, 20, 15 అనే విలువల్లో బాహుళకం ఎంత?",
+    "A": "10",
+    "B": "15",
+    "C": "20",
+    "D": "5",
+    "Answer": "15",
+    "Explanation": "15 విలువ మూడుసార్లు వచ్చింది. అదే బాహుళకం."
+  },
+  {
+    "Question": "π అకరణీయమా? 0.1010010001... ఏ రకం సంఖ్య?",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "రెండూ సరైనవి.",
+    "D": "రెండూ తప్పు.",
+    "Answer": "B సరైనది, A తప్పు.",
+    "Explanation": "π అంతం కాని, పునరావృతం కాని దశాంశం కాబట్టి కరణీయ సంఖ్య. 0.1010010001… లో కూడా పునరావృతం లేదు కాబట్టి ఇది కూడా కరణీయ సంఖ్య."
+  },
+  {
+    "Question": "CP = రూ.200. 10% లాభం కావాలంటే అమ్మకపు ధర ఎంత?",
+    "A": "210",
+    "B": "220",
+    "C": "180",
+    "D": "200",
+    "Answer": "220",
+    "Explanation": "లాభం = 200 యొక్క 10% = 20. SP = 200 + 20 = 220."
+  },
+  {
+    "Question": "సమాంతర రేఖలలో అనురూప కోణాల మధ్య సంబంధం ఏమిటి?",
+    "A": "పూరక కోణాలు",
+    "B": "సంపూరక కోణాలు",
+    "C": "సమాన కోణాలు",
+    "D": "ఎప్పుడూ సమానం కావు",
+    "Answer": "సమాన కోణాలు",
+    "Explanation": "అనురూప కోణాలు ఎల్లప్పుడూ సమానం."
+  },
+  {
+    "Question": "రూ.500 పై 4 సంవత్సరాలకు 10% వడ్డీ రేటు. సాధారణ వడ్డీ ఎంత?",
+    "A": "50",
+    "B": "100",
+    "C": "200",
+    "D": "150",
+    "Answer": "200",
+    "Explanation": "I = PTR/100 = 500×4×10/100 = 200."
+  },
+  {
+    "Question": "హ్యూరిస్టిక్ పద్ధతి ప్రయోజనం ఏమిటి?",
+    "A": "కంఠస్థం చేయించడం",
+    "B": "స్వయం అన్వేషణను ప్రోత్సహించడం",
+    "C": "బోధన త్వరగా పూర్తి",
+    "D": "కేవలం ఉపన్యాసం",
+    "Answer": "స్వయం అన్వేషణను ప్రోత్సహించడం",
+    "Explanation": "హ్యూరిస్టిక్ = ‘నేనే కనుగొంటాను’. విద్యార్థి స్వయంగా పరిశోధిస్తాడు."
+  },
+  {
+    "Question": "క్రింది వాటిలో 3D ఆకారం కానిది ఏది?",
+    "A": "శంఖువు",
+    "B": "స్థూపం",
+    "C": "వృత్తం",
+    "D": "గోళం",
+    "Answer": "వృత్తం",
+    "Explanation": "వృత్తం 2D ఆకారం. మిగిలినవి 3D ఆకారాలు."
+  },
+  {
+    "Question": "విశ్లేషణ, సంశ్లేషణపై ప్రవచనాలు. ఏవి సరైనవి?",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "రెండూ సరైనవి.",
+    "D": "రెండూ తప్పు.",
+    "Answer": "A సరైనది, B తప్పు.",
+    "Explanation": "విశ్లేషణలో సమస్యను భాగాలుగా విడదీస్తాము. సంశ్లేషణలో తెలిసిన వాటి నుండి పరిష్కారం చేస్తాము."
+  },
+  {
+    "Question": "మౌఖిక పరీక్ష ఏ సామర్థ్యాన్ని కొలుస్తుంది?",
+    "A": "చేతిరాత",
+    "B": "తార్కిక ఆలోచన మరియు మానసిక గణన వేగం",
+    "C": "జ్యామితి గుర్తులు",
+    "D": "చరిత్ర కంఠస్థం",
+    "Answer": "తార్కిక ఆలోచన మరియు మానసిక గణన వేగం",
+    "Explanation": "మౌఖిక పరీక్షలో వేగవంతమైన స్పందన మరియు భావనల అవగాహనను కొలుస్తారు."
+  },
+  {
+    "Question": "ఒక సంఖ్య 20% = 40 అయితే, ఆ సంఖ్య ఎంత?",
+    "A": "80",
+    "B": "100",
+    "C": "200",
+    "D": "400",
+    "Answer": "200",
+    "Explanation": "20% అంటే 40 ⇒ సంఖ్య = 40 × 100/20 = 200."
+  },
+  {
+    "Question": "నివారణ బోధన ఉద్దేశం ఏమిటి?",
+    "A": "అదనపు సమాచారం ఇవ్వడం",
+    "B": "విద్యార్థి లోపాలను సరిదిద్దడం",
+    "C": "పాఠం వేగంగా పూర్తి",
+    "D": "శిక్ష ఇవ్వడం",
+    "Answer": "విద్యార్థి లోపాలను సరిదిద్దడం",
+    "Explanation": "Diagnostic Test లో కనిపించే లోపాలను సరిచేయడమే నివారణ బోధన."
+  },
+  {
+    "Question": "LCM=40, HCF=5. ఒక సంఖ్య 10 అయితే రెండవ సంఖ్య ఎంత?",
+    "A": "10",
+    "B": "20",
+    "C": "40",
+    "D": "30",
+    "Answer": "20",
+    "Explanation": "LCM × HCF = a × b ⇒ 40×5 = 10×x ⇒ x = 20."
+  },
+  {
+    "Question": "E-L-P-S సూత్రం దేనికి సంబంధించినది?",
+    "A": "లక్ష్యాలు",
+    "B": "మూర్తం నుండి అమూర్తానికి భావన అభివృద్ధి",
+    "C": "సమస్య దశలు",
+    "D": "మూల్యాంకనం",
+    "Answer": "మూర్తం నుండి అమూర్తానికి భావన అభివృద్ధి",
+    "Explanation": "Experience → Language → Picture → Symbol అనే అభ్యసన క్రమం."
+  },
+  {
+    "Question": "ఒక త్రిభుజంలో రెండు భుజాలు 4, 5. మూడో భుజం ఎంత కావచ్చు?",
+    "A": "9",
+    "B": "1",
+    "C": "8",
+    "D": "10",
+    "Answer": "8",
+    "Explanation": "త్రిభుజ నియమం: 1 < x < 9. 8 మాత్రమే ఈ పరిధిలో ఉంది."
+  },
+  {
+    "Question": "నిర్మాణాత్మక మూల్యాంకనం (FA) ఏ లక్ష్యాలను అంచనా వేస్తుంది?",
+    "A": "జ్ఞానం, అవగాహన",
+    "B": "అన్వయం, విశ్లేషణ",
+    "C": "జ్ఞాపకశక్తి",
+    "D": "A మరియు B రెండూ",
+    "Answer": "A మరియు B రెండూ",
+    "Explanation": "FA మొత్తం అభ్యసన ప్రక్రియలో అన్ని నైపుణ్యాలను అంచనా వేస్తుంది."
+  },
+  {
+    "Question": "ఒక కోణం తన సంపూరక కోణం కంటే 40° ఎక్కువ. ఆ కోణం ఎంత?",
+    "A": "70°",
+    "B": "110°",
+    "C": "140°",
+    "D": "90°",
+    "Answer": "110°",
+    "Explanation": "x = (180 − x) + 40 ⇒ 2x = 220 ⇒ x = 110°."
+  },
+  {
+    "Question": "బోధనోపకరణాల ప్రధాన ఉద్దేశం ఏమిటి?",
+    "A": "వినోదం",
+    "B": "అమూర్త భావనలను మూర్తంగా చూపించడం",
+    "C": "ఉపాధ్యాయ ప్రదర్శన",
+    "D": "అధిక పనులు ఇవ్వడం",
+    "Answer": "అమూర్త భావనలను మూర్తంగా చూపించడం",
+    "Explanation": "చిత్రాలు, మోడెళ్లు భావనలను సులభంగా అర్థం అయ్యేలా చేస్తాయి."
+  },
+  {
+    "Question": "గణిత క్లబ్‌లు మరియు గణిత భయం పై ప్రవచనాలు. ఏవి సరైనవి?",
+    "A": "A సరైనది, B తప్పు",
+    "B": "B సరైనది, A తప్పు",
+    "C": "రెండూ సరైనవి",
+    "D": "రెండూ తప్పు",
+    "Answer": "రెండూ సరైనవి",
+    "Explanation": "గణిత క్లబ్‌లు ఆసక్తి పెంచుతాయి. భయం ఎక్కువగా వైఫల్య అనుభవాల వలన వస్తుంది."
+  },
+  {
+    "Question": "800 రూపాయలను 3:1 నిష్పత్తిలో పంచితే చిన్న భాగం ఎంత?",
+    "A": "600",
+    "B": "200",
+    "C": "400",
+    "D": "500",
+    "Answer": "200",
+    "Explanation": "మొత్తం భాగాలు = 4. చిన్న భాగం = 1/4 × 800 = 200."
+  },
+  {
+    "Question": "నిర్ధారణ పరీక్ష (Diagnostic Test) యొక్క లక్ష్యం ఏమిటి?",
+    "A": "నివారణ బోధనను ప్రణాళిక చేయడం",
+    "B": "ఉపాధ్యాయ ప్రదర్శన",
+    "C": "సాధన పరీక్ష",
+    "D": "పాఠ్యం పూర్తి",
+    "Answer": "నివారణ బోధనను ప్రణాళిక చేయడం",
+    "Explanation": "నిర్ధారణ పరీక్ష లోపాలను గుర్తించి, వాటిని సరిచేయడానికి ఉపయోగపడుతుంది."
+  },
+  {
+    "Question": "భారత రాజ్యాంగంలో 'ఆదేశిక సూత్రాలు' (Directive Principles of State Policy - DPSP) ఏ భాగంలో పొందుపరచబడ్డాయి?",
+    "A": "పార్ట్ III",
+    "B": "పార్ట్ IV",
+    "C": "పార్ట్ IVA",
+    "D": "పార్ట్ V",
+    "Answer": "పార్ట్ IV",
+    "Explanation": "DPSP లు ఐర్లాండ్ రాజ్యాంగం నుండి స్వీకరించబడ్డాయి మరియు భారత రాజ్యాంగంలోని పార్ట్ IV (ఆర్టికల్స్ 36-51) లో పొందుపరచబడ్డాయి. ఇవి దేశ పాలనలో ప్రాథమిక సూత్రాలు."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'గ్లోబల్ వార్మింగ్' (Global Warming) కు ప్రధానంగా కారణమయ్యే వాయువు ఏది?",
+    "A": "నైట్రోజన్",
+    "B": "ఆక్సిజన్",
+    "C": "కార్బన్ డయాక్సైడ్ (CO2)",
+    "D": "ఆర్గాన్",
+    "Answer": "కార్బన్ డయాక్సైడ్ (CO2)",
+    "Explanation": "CO2 ప్రధాన గ్రీన్ హౌస్ వాయువు. శిలాజ ఇంధనాలను మండించడం వల్ల వాతావరణంలో దీని సాంద్రత పెరిగి, భూమి యొక్క ఉష్ణోగ్రత పెరుగుతుంది."
+  },
+  {
+    "Question": "ప్రవచనం A: తెలంగాణలో 'నల్లరేగడి మృత్తికలు' (Black Soils) పత్తి (Cotton) సాగుకు అనుకూలం.\nప్రవచనం B: 'వరంగల్ కోట' కాకతీయ రాజులచే నిర్మించబడింది.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "C: A మరియు B రెండూ సరైనవి.",
+    "Explanation": "నల్లరేగడి నేలలు తేమను నిలుపుకోగలవు, ఇది పత్తికి అనుకూలం. వరంగల్ కోటను కాకతీయ రాజులు పరిపాలించారు."
+  },
+  {
+    "Question": "మానవ శరీరంలో 'విటమిన్ D' లోపం వల్ల వచ్చే ప్రధాన వ్యాధి ఏది?",
+    "A": "స్కర్వీ (Scurvy)",
+    "B": "పెళుసైన ఎముకలు/రికెట్స్ (Rickets)",
+    "C": "రక్తహీనత (Anemia)",
+    "D": "గాయిటర్ (Goitre)",
+    "Answer": "పెళుసైన ఎముకలు/రికెట్స్ (Rickets)",
+    "Explanation": "విటమిన్ D కాల్షియం శోషణకు సహాయపడుతుంది. దీని లోపం పిల్లలలో ఎముకలు బలహీనపడటానికి (రికెట్స్) కారణమవుతుంది."
+  },
+  {
+    "Question": "EVS లో 'సమగ్ర విధానం' (Integrated Approach) యొక్క ముఖ్య ఉద్దేశం ఏమిటి?",
+    "A": "శాస్త్రం మరియు సాంఘిక శాస్త్రాన్ని వేరు చేసి బోధించడం.",
+    "B": "విజ్ఞానం, సామాజికం మరియు పర్యావరణ అంశాలను కలిపి ఒకే సబ్జెక్టుగా బోధించడం.",
+    "C": "పాఠ్యాంశాన్ని త్వరగా పూర్తి చేయడం.",
+    "D": "కేవలం సాంఘిక అంశాలపై దృష్టి పెట్టడం.",
+    "Answer": "విజ్ఞానం, సామాజికం మరియు పర్యావరణ అంశాలను కలిపి ఒకే సబ్జెక్టుగా బోధించడం.",
+    "Explanation": "ప్రాథమిక స్థాయిలో EVS అనేది విజ్ఞానం, సాంఘిక శాస్త్రం మరియు పర్యావరణ విద్యను కలిపి, ఇతివృత్తాల ద్వారా బోధించే సమగ్ర విధానం."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'పునరుత్పాదక శక్తి వనరు' (Renewable Energy Source) కానిది ఏది?",
+    "A": "గాలి శక్తి (Wind Energy)",
+    "B": "సౌరశక్తి (Solar Energy)",
+    "C": "అణు శక్తి (Nuclear Energy)",
+    "D": "జలశక్తి (Hydro Power)",
+    "Answer": "అణు శక్తి (Nuclear Energy)",
+    "Explanation": "అణు శక్తిని ఉత్పత్తి చేయడానికి ఉపయోగించే యురేనియం వంటి ముడి పదార్థాలు పరిమితం మరియు అణు వ్యర్థాలను ఉత్పత్తి చేస్తాయి, కాబట్టి ఇది పునరుత్పాదక శక్తి వనరు కాదు."
+  },
+  {
+    "Question": "EVS లో 'నిర్మాణాత్మక మూల్యాంకనం' (FA) ద్వారా అంచనా వేయబడే అంశం ఏది?",
+    "A": "వార్షిక పరీక్షల మార్కులు.",
+    "B": "విద్యార్థి యొక్క సహకారం, విమర్శనాత్మక ఆలోచన మరియు అన్వేషణ నైపుణ్యాలు.",
+    "C": "కేవలం కంఠస్థం చేసే సామర్థ్యం.",
+    "D": "హాజరు శాతం.",
+    "Answer": "విద్యార్థి యొక్క సహకారం, విమర్శనాత్మక ఆలోచన మరియు అన్వేషణ నైపుణ్యాలు.",
+    "Explanation": "FA అనేది అభ్యసన ప్రక్రియలో విద్యార్థి యొక్క చురుకైన భాగస్వామ్యం, విశ్లేషణ మరియు సహకారం వంటి నైపుణ్యాలపై దృష్టి పెడుతుంది."
+  },
+  {
+    "Question": "తెలంగాణలో ఉన్న ఏ జాతీయ ఉద్యానవనం హైదరాబాద్ నగరానికి దగ్గరగా ఉండి, చిరుతపులులు మరియు జింకలకు నిలయం?",
+    "A": "కవ్వాల్ (Kawwal)",
+    "B": "మహవీర్ హరిణ వనస్థలి (Mahavir Harina Vanasthali)",
+    "C": "పాల్మూరు",
+    "D": "మృగవాణి",
+    "Answer": "మహవీర్ హరిణ వనస్థలి (Mahavir Harina Vanasthali)",
+    "Explanation": "మహవీర్ హరిణ వనస్థలి జాతీయ ఉద్యానవనం హైదరాబాద్ శివార్లలో ఉంది మరియు ముఖ్యంగా చిరుతపులులు, జింకలు మరియు బ్లాక్‌బక్స్ (నల్ల దుప్పి) కోసం ప్రసిద్ధి చెందింది."
+  },
+  {
+    "Question": "ప్రవచనం A: 'ఆవరణ వ్యవస్థ' (Ecosystem) లో జీవ (Biotic) మరియు నిర్జీవ (Abiotic) అంశాలు ఉంటాయి.\nప్రవచనం B: ఆహార గొలుసులో శక్తి ప్రవాహం ఏకదిశ (Unidirectional) లో ఉంటుంది.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "C: A మరియు B రెండూ సరైనవి.",
+    "Explanation": "ఆవరణ వ్యవస్థ జీవులు (Biotic) మరియు భౌతిక అంశాలు (Abiotic) రెండింటినీ కలిగి ఉంటుంది. శక్తి ఉత్పత్తిదారుల నుండి వినియోగదారులకు ఏకదిశలో ప్రవహిస్తుంది."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిని జతపరచండి (EVS అంశాలు - రకాలు):\nI. శిలాజ ఇంధనాలు\t 1. అంటువ్యాధులు (Communicable)\nII. నీటి కాలుష్యం\t 2. అంటువ్యాధి కానివి (Non-Communicable)\nIII. మధుమేహం\t 3. పునరుత్పాదక వనరులు కానివి (Non-Renewable)",
+    "A": "I-3, II-1, III-2",
+    "B": "I-1, II-3, III-2",
+    "C": "I-3, II-2, III-1",
+    "D": "I-2, II-1, III-3",
+    "Answer": "I-3, II-1, III-2",
+    "Explanation": "శిలాజ ఇంధనాలు పునరుత్పాదకం కానివి. నీటి కాలుష్యం కలరా, టైఫాయిడ్ వంటి అంటువ్యాధులకు కారణమవుతుంది. మధుమేహం అంటువ్యాధి కానిది."
+  },
+  {
+    "Question": "EVS బోధనలో 'డెమోన్‌స్ట్రేషన్ పద్ధతి' (Demonstration Method) యొక్క ప్రధాన పరిమితి ఏమిటి?",
+    "A": "విద్యార్థి క్రియాశీలకంగా పాల్గొంటాడు.",
+    "B": "విద్యార్థి కేవలం పరిశీలకుడిగా (Spectator) ఉండటం వల్ల 'చేయడం ద్వారా అభ్యసనం' తక్కువగా ఉంటుంది.",
+    "C": "సమయాన్ని ఆదా చేస్తుంది.",
+    "D": "క్లిష్టమైన భావనలను సులభంగా వివరిస్తుంది.",
+    "Answer": "విద్యార్థి కేవలం పరిశీలకుడిగా (Spectator) ఉండటం వల్ల 'చేయడం ద్వారా అభ్యసనం' తక్కువగా ఉంటుంది.",
+    "Explanation": "డెమోన్‌స్ట్రేషన్ పద్ధతిలో ఉపాధ్యాయుడు ప్రయోగాన్ని చేస్తారు, విద్యార్థులు చూస్తారు. దీనివల్ల విద్యార్థికి స్వయంగా అన్వేషణకు అవకాశం లభించదు."
+  },
+  {
+    "Question": "EVS లో 'మ్యాప్స్' ఉపయోగించడం ద్వారా విద్యార్థులలో అభివృద్ధి చెందే 'మానసిక చలనాత్మక నైపుణ్యం' (Psychomotor Skill) ఏది?",
+    "A": "విమర్శనాత్మక ఆలోచన.",
+    "B": "పటంలో గుర్తులను గీయడం మరియు కొలతలను తీసుకోవడం.",
+    "C": "జ్ఞానాన్ని కంఠస్థం చేయడం.",
+    "D": "సమాచారాన్ని వర్గీకరించడం.",
+    "Answer": "పటంలో గుర్తులను గీయడం మరియు కొలతలను తీసుకోవడం.",
+    "Explanation": "పటాలు గీయడం (Drawing), కొలతలు తీసుకోవడం (Measuring) మరియు దిశలను గుర్తించడానికి అవసరమైన శారీరక కదలికలు మానసిక చలనాత్మక నైపుణ్యాలలోకి వస్తాయి."
+  },
+  {
+    "Question": "భారత రాజ్యాంగంలోని ఏ ఆర్టికల్ 'ప్రాథమిక విద్య హక్కును' (Right to Education) తెలియజేస్తుంది?",
+    "A": "ఆర్టికల్ 14",
+    "B": "ఆర్టికల్ 21",
+    "C": "ఆర్టికల్ 21A",
+    "D": "ఆర్టికల్ 32",
+    "Answer": "ఆర్టికల్ 21A",
+    "Explanation": "ఆర్టికల్ 21A $6$ నుండి $14$ సంవత్సరాల పిల్లలకు విద్యను ప్రాథమిక హక్కుగా చేసింది. ఆర్టికల్ 21 జీవించే హక్కును తెలుపుతుంది."
+  },
+  {
+    "Question": "ప్రవచనం A: 'ఆవరణ వ్యవస్థ' లోని జీవ అంశాలలో ఉత్పత్తిదారులు, వినియోగదారులు మరియు విచ్ఛిన్నకారులు (Decomposers) ఉంటారు.\nప్రవచనం B: విచ్ఛిన్నకారులు ఆహార గొలుసులో శక్తిని ఉత్పత్తి చేస్తారు.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "A సరైనది, B తప్పు.",
+    "Explanation": "విచ్ఛిన్నకారులు చనిపోయిన జీవులను కుళ్ళిపోయేలా చేసి, పోషకాలను నేలలోకి విడుదల చేస్తారు. శక్తిని ఉత్పత్తి చేసేవి ఉత్పత్తిదారులు (మొక్కలు)."
+  },
+  {
+    "Question": "EVS లో 'మండలి' (Community) పాత్ర యొక్క ప్రధాన లక్ష్యం ఏమిటి?",
+    "A": "కేవలం పాఠశాలకు నిధులు అందించడం.",
+    "B": "స్థానిక జ్ఞానాన్ని, అనుభవాలను మరియు వనరులను విద్యార్థులకు అందించడానికి సహకరించడం.",
+    "C": "ఉపాధ్యాయుడి ప్రదర్శనను మాత్రమే అంచనా వేయడం.",
+    "D": "పాఠ్యాంశాన్ని కేవలం విమర్శించడం.",
+    "Answer": "స్థానిక జ్ఞానాన్ని, అనుభవాలను మరియు వనరులను విద్యార్థులకు అందించడానికి సహకరించడం.",
+    "Explanation": "సమాజం అనేది ఒక జీవన అభ్యసన వనరు. స్థానిక వృత్తులు, సంస్కృతి మరియు పర్యావరణ సమస్యల గురించి తెలుసుకోవడానికి ఇది సహాయపడుతుంది."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'శీతోష్ణస్థితి' (Climate) గురించి సరైన ప్రవచనం ఏది?",
+    "A": "ఒక నిర్దిష్ట రోజులోని వాతావరణ పరిస్థితి.",
+    "B": "ఒక ప్రాంతంలో దీర్ఘకాలికంగా (25-30 సం॥) ఉండే సగటు వాతావరణ నమూనా.",
+    "C": "రోజువారీ ఉష్ణోగ్రత మాత్రమే.",
+    "D": "కేవలం వర్షపాతం యొక్క కొలత.",
+    "Answer": "ఒక ప్రాంతంలో దీర్ఘకాలికంగా (25-30 సం॥) ఉండే సగటు వాతావరణ నమూనా.",
+    "Explanation": "శీతోష్ణస్థితి అనేది ఒక ప్రాంతం యొక్క దీర్ఘకాలిక వాతావరణ ధోరణి. వాతావరణం అనేది స్వల్పకాలిక పరిస్థితి."
+  },
+  {
+    "Question": "EVS లో 'సమస్య పరిష్కార పద్ధతి' ద్వారా అభివృద్ధి చెందే ముఖ్యమైన నైపుణ్యం ఏది?",
+    "A": "కంఠస్థం.",
+    "B": "సమాచారాన్ని సేకరించడం, విశ్లేషించడం మరియు నిర్ణయం తీసుకోవడం.",
+    "C": "నకలు చేయడం.",
+    "D": "నిశ్శబ్ద పఠనం.",
+    "Answer": "సమాచారాన్ని సేకరించడం, విశ్లేషించడం మరియు నిర్ణయం తీసుకోవడం.",
+    "Explanation": "సమస్య పరిష్కార పద్ధతి విద్యార్థులను విమర్శనాత్మక ఆలోచనను ఉపయోగించి, సమాచారాన్ని సమన్వయం చేసి, పరిష్కారాన్ని కనుగొనడానికి ప్రోత్సహిస్తుంది."
+  },
+  {
+    "Question": "ప్రాథమిక స్థాయిలో EVS బోధనలో 'అనుభవం → భాష → చిత్రం → చిహ్నం' (E-L-P-S) సూత్రం యొక్క ప్రాముఖ్యత ఏమిటి?",
+    "A": "అమూర్త భావనలను సులభంగా బోధించడం.",
+    "B": "విద్యార్థి యొక్క అభ్యసనం మూర్త అనుభవం నుండి ప్రారంభం కావాలని సూచించడం.",
+    "C": "కేవలం భాషా వికాసానికి ఉపయోగపడటం.",
+    "D": "B మరియు C రెండూ.",
+    "Answer": "విద్యార్థి యొక్క అభ్యసనం మూర్త అనుభవం నుండి ప్రారంభం కావాలని సూచించడం.",
+    "Explanation": "E-L-P-S సూత్రం (Dienes) ప్రకారం, అభ్యసనం ముందుగా ప్రత్యక్ష అనుభవం (E) నుండి ప్రారంభమై, తర్వాత భాష (L), చిత్రాలు (P) మరియు చివరకు చిహ్నాలు (S) ద్వారా సంపూర్ణమవుతుంది."
+  },
+  {
+    "Question": "EVS లో 'మౌఖిక ప్రశ్నలు' (Oral Questions) ద్వారా అంచనా వేయబడే సామర్థ్యం ఏది?",
+    "A": "చేతిరాత నాణ్యత.",
+    "B": "విమర్శనాత్మక ఆలోచన మరియు తక్షణ ప్రతిస్పందన సామర్థ్యం.",
+    "C": "వ్యాస రచన సామర్థ్యం.",
+    "D": "పటాలు గీయడం.",
+    "Answer": "విమర్శనాత్మక ఆలోచన మరియు తక్షణ ప్రతిస్పందన సామర్థ్యం.",
+    "Explanation": "మౌఖిక ప్రశ్నలు విద్యార్థి యొక్క జ్ఞానాన్ని మరియు ఆలోచనా ప్రక్రియను తక్షణమే వ్యక్తం చేయగల సామర్థ్యాన్ని కొలుస్తాయి."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'అంటువ్యాధి' (Communicable Disease) కానిది ఏది?",
+    "A": "టైఫాయిడ్",
+    "B": "మలేరియా",
+    "C": "క్షయ (TB)",
+    "D": "క్యాన్సర్ (Cancer)",
+    "Answer": "క్యాన్సర్ (Cancer)",
+    "Explanation": "క్యాన్సర్ అనేది జన్యు మరియు జీవనశైలి కారకాల వల్ల వచ్చే అంటువ్యాధి కాని (Non-communicable) వ్యాధి. మిగిలినవి బ్యాక్టీరియా/ప్రోటోజోవా ద్వారా వ్యాపించే అంటువ్యాధులు."
+  }
+]
