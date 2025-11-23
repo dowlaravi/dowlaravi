@@ -1,0 +1,1289 @@
+[  
+  {  
+    "Question": "వికాస సూత్రాలకు సంబంధించిన సరైన ప్రవచనాన్ని గుర్తించండి. ప్రవచనం A: వికాసం వైయక్తికమైనప్పటికీ, ఒకే నమూనాను అనుసరిస్తుంది. ప్రవచనం B: వికాసం, పెరుగుదల రెండూ జీవితాంతం కొనసాగుతాయి.",  
+    "A": "A మాత్రమే సరైనది.",  
+    "B": "B మాత్రమే సరైనది.",  
+    "C": "A మరియు B రెండూ సరైనవి.",  
+    "D": "A మరియు B రెండూ సరైనవి కావు.",  
+    "Answer": "A మాత్రమే సరైనది.",  
+    "Explanation": "వికాసం ఒక నిర్దిష్ట నమూనాను అనుసరిస్తుంది కానీ వ్యక్తులలో వికాసం జరిగే వేగం వేరుగా ఉంటుంది. పెరుగుదల ఒక దశ తర్వాత ఆగిపోతుంది కానీ వికాసం జీవితాంతం కొనసాగుతుంది."  
+  },  
+  {  
+    "Question": "పిల్లలు కేంద్రీకరణం నుండి వికేంద్రీకరణానికి మారే దశ ఏది?",  
+    "A": "ఇంద్రియ చాలక దశ",  
+    "B": "పూర్వ ప్రచాలక దశ",  
+    "C": "మూర్త ప్రచాలక దశ",  
+    "D": "అమూర్త ప్రచాలక దశ",  
+    "Answer": "మూర్త ప్రచాలక దశ",  
+    "Explanation": "ఈ దశలో పిల్లలు ఒకటి కంటే ఎక్కువ లక్షణాలను గ్రహించగలుగుతారు మరియు పరిరక్షణ భావనను అర్థం చేసుకుంటారు."  
+  },  
+  {  
+    "Question": "గంట శబ్దానికి లాలాజలం స్రవించడం ఏ రకమైన ప్రతిస్పందన?",  
+    "A": "సహజ ప్రతిస్పందన",  
+    "B": "నిబంధిత ప్రతిస్పందన",  
+    "C": "సహజ ఉద్దీపన",  
+    "D": "తటస్థ ఉద్దీపన",  
+    "Answer": "నిబంధిత ప్రతిస్పందన",  
+    "Explanation": "గంట శబ్దం ఆహారంతో సంబంధం ఏర్పడిన తర్వాత ఆహారం లేకున్నా లాలాజలం స్రవించడం నిబంధిత ప్రతిస్పందన."  
+  },  
+  {  
+    "Question": "శిక్ష నుండి తప్పించుకోవడానికి చట్టాన్ని పాటించడం ఏ దశకు చెందుతుంది?",  
+    "A": "సామాజిక ఒప్పంద ధోరణి",  
+    "B": "విధేయత మరియు శిక్షా ధోరణి",  
+    "C": "మంచి బాల/బాలిక ధోరణి",  
+    "D": "సార్వత్రిక నైతిక సూత్రాల ధోరణి",  
+    "Answer": "విధేయత మరియు శిక్షా ధోరణి",  
+    "Explanation": "ఇది పూర్వ సాంప్రదాయ స్థాయిలోని మొదటి దశ."  
+  },  
+  {  
+    "Question": "అభ్యసనం మరియు పరిపక్వత వికాసానికి సంబంధించిన పరస్పర ప్రక్రియలు. కానీ వికాసం యొక్క అన్ని రంగాలు ఒకే వేగంతో పెరుగుతాయని చెప్పడం సరైందా?",  
+    "A": "A సరైనది, B తప్పు.",  
+    "B": "B సరైనది, A తప్పు.",  
+    "C": "A మరియు B రెండూ సరైనవి.",  
+    "D": "A మరియు B రెండూ తప్పు.",  
+    "Answer": "A సరైనది, B తప్పు.",  
+    "Explanation": "వికాసంలోని రంగాలు వేర్వేరు సమయాల్లో వేర్వేరు వేగంతో అభివృద్ధి చెందుతాయి."  
+  },  
+  {  
+    "Question": "అభ్యసనానికి అత్యంత ముఖ్యమైన కారకం ఏమిటి?",  
+    "A": "జీవసంబంధ కారకాలు",  
+    "B": "సామాజిక పరస్పర చర్య మరియు సంస్కృతి",  
+    "C": "వ్యక్తిగత అన్వేషణ",  
+    "D": "పునర్బలనం",  
+    "Answer": "సామాజిక పరస్పర చర్య మరియు సంస్కృతి",  
+    "Explanation": "వైగాట్‌స్కీ ప్రకారం సంభాషణ, పరస్పర చర్యల ద్వారా అభ్యసనం జరుగుతుంది."  
+  },  
+  {  
+    "Question": "కౌమార దశలోని విద్యార్థుల మానసిక లక్షణం ఏది?",  
+    "A": "ఆత్మ కేంద్రితం",  
+    "B": "ఆదర్శీకరణ మరియు భావి వృత్తి ఆలోచన",  
+    "C": "వస్తు స్థిరత్వం అవగాహన",  
+    "D": "తార్కిక ఆలోచన లేకపోవడం",  
+    "Answer": "ఆదర్శీకరణ మరియు భావి వృత్తి ఆలోచన",  
+    "Explanation": "ఈ దశలో గుర్తింపు అన్వేషణ, భావి ప్రణాళికలు ప్రధానంగా ఉంటాయి."  
+  },  
+  {  
+    "Question": "తన బలాలు, బలహీనతలపై అవగాహన కలిగి ఉండే బుద్ధి ఏది?",  
+    "A": "వ్యక్తుల మధ్య బుద్ధి",  
+    "B": "అంతర్గత వ్యక్తుల బుద్ధి",  
+    "C": "సంగీత బుద్ధి",  
+    "D": "భాషా బుద్ధి",  
+    "Answer": "అంతర్గత వ్యక్తుల బుద్ధి",  
+    "Explanation": "తన భావాలను అర్థం చేసుకోవడం, నియంత్రించడం ఈ బుద్ధికి సంబంధించినవి."  
+  },  
+  {  
+    "Question": "సృజనాత్మకతను పెంచడానికి ఏ రకమైన ప్రశ్నలు సరైనవి?",  
+    "A": "ఒకే సమాధానం ఉన్న ప్రశ్నలు",  
+    "B": "కేంద్రీకృత ఆలోచన ప్రశ్నలు",  
+    "C": "విభిన్న ఆలోచన ప్రశ్నలు",  
+    "D": "క్లోజ్ ఎండ్ ప్రశ్నలు",  
+    "Answer": "విభిన్న ఆలోచన ప్రశ్నలు",  
+    "Explanation": "విభిన్న ఆలోచన అనేక పరిష్కారాలను అన్వేషించడానికి సహాయపడుతుంది."  
+  },  
+  {  
+    "Question": "పునరావృతం మరియు పద్ధతి అత్యంత సంబంధం కలిగిన సిద్ధాంతం ఏది?",  
+    "A": "గెస్టాల్ట్ సిద్ధాంతం",  
+    "B": "చర్యానియంత్రిత నిబంధన",  
+    "C": "అంతర్దృష్టి అభ్యసనం",  
+    "D": "సామాజిక అభ్యసనం",  
+    "Answer": "చర్యానియంత్రిత నిబంధన",  
+    "Explanation": "పునర్బలనం ద్వారా ఆచరణ పటిష్టం అవుతుంది."  
+  },  
+  {  
+    "Question": "నిరంతర సమగ్ర మూల్యాంకనం ఏ దానిపై దృష్టి పెడుతుంది?",  
+    "A": "కేవలం కొలత",  
+    "B": "సమగ్ర వికాసం",  
+    "C": "శిక్షణ",  
+    "D": "పాఠ్యభారం పెంపు",  
+    "Answer": "సమగ్ర వికాసం",  
+    "Explanation": "CCE జ్ఞానాత్మక, శారీరక, సామాజిక రంగాలను అంచనా వేస్తుంది."  
+  },  
+  {  
+    "Question": "డిస్‌గ్రాఫియా అనే వైకల్యం దేనికి సంబంధించినది?",  
+    "A": "మాట్లాడటం",  
+    "B": "చదవడం",  
+    "C": "రాయడం (చేతిరాత, పద నిర్మాణం)",  
+    "D": "సమన్వయం",  
+    "Answer": "రాయడం (చేతిరాత, పద నిర్మాణం)",  
+    "Explanation": "డిస్‌గ్రాఫియా రాత నైపుణ్యానికి సంబంధించిన అభ్యసన వైకల్యం."  
+  },  
+  {  
+    "Question": "సామాన్య నుండి నిర్దిష్టానికి వికాసం జరుగుతుందని ఏ నియమం చెప్పుతుంది?",  
+    "A": "సమీపదూర నియమం",  
+    "B": "సామాన్య నుండి నిర్దిష్టం",  
+    "C": "మస్త్కపాదాభిముఖ నియమం",  
+    "D": "పునరావృత నియమం",  
+    "Answer": "సామాన్య నుండి నిర్దిష్టం",  
+    "Explanation": "మొదట మొత్తం శరీరం కదలిక, తర్వాత చేతులు, చివరికి వేళ్లు నియంత్రణలోకి వస్తాయి."  
+  },  
+  {  
+    "Question": "జతపరచండి: I. ఆత్మకేంద్రితం - 1. నిబంధన II. స్కఫోల్డింగ్ - 2. పూర్వ ప్రచాలక దశ III. అనుసంధానం - 3. సన్నిహిత వికాస మండలం IV. విలుప్తం - 4. జ్ఞానాత్మక వికాసం",  
+    "A": "I-2, II-3, III-4, IV-1",  
+    "B": "I-3, II-2, III-1, IV-4",  
+    "C": "I-2, II-4, III-3, IV-1",  
+    "D": "I-4, II-1, III-2, IV-3",  
+    "Answer": "I-2, II-3, III-4, IV-1",  
+    "Explanation": "ఆత్మకేంద్రితం పూర్వ ప్రచాలక దశలో కనిపిస్తుంది. స్కఫోల్డింగ్ సన్నిహిత వికాస మండలం భావన. అనుసంధానం పియాజే భావన. విలుప్తం నిబంధనలో ఉద్దీపన లేకపోవడం."  
+  },  
+  {  
+    "Question": "ఫలిత నియమం ప్రకారం విద్యాపరమైన సూచన ఏది?",  
+    "A": "శిక్ష ఇవ్వడం",  
+    "B": "సరైన సమాధానాలకు బహుమతులు ఇవ్వడం",  
+    "C": "డ్రిల్ ప్రాక్టీస్",  
+    "D": "మానసిక సిద్ధత",  
+    "Answer": "సరైన సమాధానాలకు బహుమతులు ఇవ్వడం",  
+    "Explanation": "సంతృప్తి కలిగించే చర్య పునరావృతమవుతుంది."  
+  },  
+  {  
+    "Question": "బుద్ధి యొక్క సరైన నిర్వచనం ఏది?",  
+    "A": "జ్ఞాపకశక్తి",  
+    "B": "కొత్త పరిస్థితులకు అనుగుణంగా సర్దుబాటు చేసుకునే సామర్థ్యం",  
+    "C": "ఒక నైపుణ్యంలో ప్రావీణ్యం",  
+    "D": "సృజనాత్మకత",  
+    "Answer": "కొత్త పరిస్థితులకు అనుగుణంగా సర్దుబాటు చేసుకునే సామర్థ్యం",  
+    "Explanation": "బుద్ధి అనేది అనుభవం ఆధారంగా సమస్య పరిష్కారం చేయగల సామర్థ్యం."  
+  },  
+  {  
+    "Question": "ప్రాజెక్ట్ పద్ధతి ఏ సిద్ధాంతాన్ని అనుసరిస్తుంది?",  
+    "A": "చర్యానియంత్రిత సిద్ధాంతం",  
+    "B": "నిర్మాణవాద సిద్ధాంతం",  
+    "C": "మనోవిశ్లేషణ సిద్ధాంతం",  
+    "D": "మానవతా సిద్ధాంతం",  
+    "Answer": "నిర్మాణవాద సిద్ధాంతం",  
+    "Explanation": "విద్యార్థి స్వయంగా అనుభవించి జ్ఞానాన్ని నిర్మించుకుంటాడు."  
+  },  
+  {  
+    "Question": "మస్త్కపాదాభిముఖ నియమం ప్రకారం వికాసం శరీరం మధ్య నుంచి పరిధికి జరుగుతుందని చెప్పడం సరైనదా?",  
+    "A": "A సరైనది, B తప్పు.",  
+    "B": "B సరైనది, A తప్పు.",  
+    "C": "A మరియు B రెండూ సరైనవి.",  
+    "D": "A మరియు B రెండూ తప్పు.",  
+    "Answer": "A మరియు B రెండూ తప్పు.",  
+    "Explanation": "మస్త్కపాదాభిముఖం తల నుంచి పాదాల వరకూ వికాసం. మధ్య నుంచి పరిధికి సమీపదూర నియమం."  
+  },  
+  {  
+    "Question": "కనిపించే రికార్డు ఎందుకు నిర్వహిస్తారు?",  
+    "A": "మార్కులు నమోదు చేయడానికి",  
+    "B": "విద్యార్థి ప్రవర్తన సంఘటనలను నమోదు చేయడానికి",  
+    "C": "క్రమశిక్షణ కోసం",  
+    "D": "ఉపాధ్యాయుడి మూల్యాంకనం కోసం",  
+    "Answer": "విద్యార్థి ప్రవర్తన సంఘటనలను నమోదు చేయడానికి",  
+    "Explanation": "ఇది విద్యార్థి ప్రవర్తనను 객관ంగా నమోదు చేసే పద్ధతి."  
+  },  
+  {
+    "Question": "అభిరుచి దేనిని సూచిస్తుంది?",
+    "A": "ఇష్టపడటం",
+    "B": "ప్రస్తుత సామర్థ్యం",
+    "C": "భవిష్యత్ సంభావ్యత",
+    "D": "వైఖరి",
+    "Answer": "భవిష్యత్ సంభావ్యత",
+    "Explanation": "అభిరుచి అనేది శిక్షణ అందితే ఒక రంగంలో రాణించే సహజ సామర్థ్యం."
+  },
+  {
+    "Question": "పరిసరవాదులు ప్రధానంగా ఏమి వాదిస్తారు?",
+    "A": "వారసత్వం మాత్రమే ప్రభావితం చేస్తుంది",
+    "B": "పరిసరాలు అత్యంత ప్రభావితం చేస్తాయి",
+    "C": "పరిపక్వత ప్రభావం లేదు",
+    "D": "వికాసం రెండు అంశాల లబ్ధం",
+    "Answer": "పరిసరాలు అత్యంత ప్రభావితం చేస్తాయి",
+    "Explanation": "పరిసరవాదులు వికాసంలో పర్యావరణపు పాత్రను ప్రధానంగా గుర్తిస్తారు."
+  },
+  {
+    "Question": "చైతన్యవాదానికి అనుగుణమైన బోధనా పద్ధతి ఏది?",
+    "A": "ఉపన్యాస పద్ధతి",
+    "B": "హ్యూరిస్టిక్ పద్ధతి",
+    "C": "నిగమనం పద్ధతి",
+    "D": "కంఠస్థం",
+    "Answer": "హ్యూరిస్టిక్ పద్ధతి",
+    "Explanation": "ఈ పద్ధతి విద్యార్థిని స్వయంగా అన్వేషించేలా చేస్తుంది."
+  },
+  {
+    "Question": "విద్యార్థి కేంద్రిత బోధనలో ఉపాధ్యాయుడి పాత్ర ఏమిటి?",
+    "A": "ఆజ్ఞాపకుడు",
+    "B": "జ్ఞానదాత",
+    "C": "మార్గదర్శకుడు",
+    "D": "పరిశీలకుడు",
+    "Answer": "మార్గదర్శకుడు",
+    "Explanation": "విద్యార్థి కేంద్రిత బోధనలో ఉపాధ్యాయుడు సులభతరం చేసే వ్యక్తి."
+  },
+  {
+    "Question": "పరీక్షల ఒత్తిడి తగ్గించడానికి ఉత్తమ పద్ధతి ఏది?",
+    "A": "పరీక్షలు పెంచడం",
+    "B": "అంచనాలు పెంచడం",
+    "C": "నిరంతర సమగ్ర మూల్యాంకనం",
+    "D": "ఒకే పద్ధతి బోధించడం",
+    "Answer": "నిరంతర సమగ్ర మూల్యాంకనం",
+    "Explanation": "CCE విద్యార్థులపై పరీక్షల భారాన్ని తగ్గిస్తుంది."
+  },
+  {
+    "Question": "భాషా వికాసంలో పరిసరాల ప్రభావం పెద్దదని చెప్పిన సిద్ధాంతకర్త ఎవరు?",
+    "A": "చోమ్స్కీ",
+    "B": "స్కిన్నర్",
+    "C": "పియాజే",
+    "D": "ఎరిక్సన్",
+    "Answer": "స్కిన్నర్",
+    "Explanation": "స్కిన్నర్ ప్రకారం భాషా వికాసం పునర్బలనం ద్వారా జరుగుతుంది."
+  },
+  {
+    "Question": "ఒక చేతితో నేర్చుకున్న నైపుణ్యం మరో చేతికి బదిలీ కావడం ఏ బదిలీ?",
+    "A": "అనుకూల బదిలీ",
+    "B": "ప్రతికూల బదిలీ",
+    "C": "ద్విపార్శ్వ బదిలీ",
+    "D": "శూన్య బదిలీ",
+    "Answer": "ద్విపార్శ్వ బదిలీ",
+    "Explanation": "ఒక వైపు నేర్చుకున్నది అవతలి వైపుకు మారడం ద్విపార్శ్వ బదిలీ."
+  },
+  {
+    "Question": "RTE చట్టం ప్రకారం 1–5 తరగతులకు ఉపాధ్యాయుడు-విద్యార్థి నిష్పత్తి ఎంత?",
+    "A": "1:30",
+    "B": "1:35",
+    "C": "1:40",
+    "D": "1:25",
+    "Answer": "1:30",
+    "Explanation": "ప్రాథమిక తరగతుల్లో 30 మంది విద్యార్థులకు ఒక ఉపాధ్యాయుడు ఉండాలి."
+  },
+  {
+    "Question": "మానసిక వికాసం మరియు ఉద్వేగ వికాసానికి సంబంధించిన ప్రవచనాలు రెండూ సరైనవా?",
+    "A": "A సరైనది, B తప్పు",
+    "B": "B సరైనది, A తప్పు",
+    "C": "రెండూ సరైనవి",
+    "D": "రెండూ తప్పు",
+    "Answer": "రెండూ సరైనవి",
+    "Explanation": "మానసిక వికాసం తార్కిక ఆలోచన, ఉద్వేగ వికాసం సానుభూతితో సంబంధం కలిగి ఉంటాయి."
+  },
+  {
+    "Question": "ప్రతిపుష్టి ప్రధాన పాత్ర ఏమిటి?",
+    "A": "మార్కులు ఇవ్వడం",
+    "B": "లోపాలను సరిచేసే దిశానిర్దేశం ఇవ్వడం",
+    "C": "ఉపాధ్యాయుడిని విమర్శించడం",
+    "D": "పాఠ్యాంశాన్ని వేగంగా పూర్తి చేయడం",
+    "Answer": "లోపాలను సరిచేసే దిశానిర్దేశం ఇవ్వడం",
+    "Explanation": "ప్రతిపుష్టి విద్యార్థి అభ్యసనాన్ని మెరుగుపరచడానికి సహాయపడుతుంది."
+  },
+  {
+    "Question": "పాత్రధారణ ఏ వికాసానికి ఎక్కువ తోడ్పడుతుంది?",
+    "A": "శారీరక వికాసం",
+    "B": "సాంఘిక మరియు ఉద్వేగ వికాసం",
+    "C": "గణిత వికాసం",
+    "D": "జ్ఞాపకశక్తి",
+    "Answer": "సాంఘిక మరియు ఉద్వేగ వికాసం",
+    "Explanation": "పాత్రధారణ సానుభూతి, సహకారం, ఉద్వేగాల వ్యక్తీకరణను పెంచుతుంది."
+  },
+  {
+    "Question": "తెలుగు సాహిత్యంలో 'ఆంధ్ర మహాభారతం' లోని పర్వాలను పూర్తి చేసిన కవులు ఎవరు?",
+    "A": "పోతన, నన్నయ, తిక్కన",
+    "B": "నన్నయ, తిక్కన, శ్రీనాథుడు",
+    "C": "నన్నయ, తిక్కన, ఎఱ్ఱన",
+    "D": "తిక్కన, ఎఱ్ఱన, పోతన",
+    "Answer": "నన్నయ, తిక్కన, ఎఱ్ఱన",
+    "Explanation": "వీరిని 'కవిత్రయం' అని అంటారు. నన్నయ ఆది సభ పర్వాలు, తిక్కన విరాటం నుండి స్వర్గారోహణ వరకు, ఎఱ్ఱన అరణ్య పర్వంలో మిగిలిన భాగాన్ని పూర్తి చేశారు."
+  },
+  {
+    "Question": "'కలిమి గల లోబి కంటెను, విలసితముగ లేమి గల మేలు వివేకికిన్' అనే పద్యపాదము దేనిని సూచిస్తుంది?",
+    "A": "ధనము కంటే విద్య గొప్పది.",
+    "B": "పేదవాడైనా దాతృత్వం కలవాడు, ధనవంతుడైనా లోభి కంటే గొప్పవాడు.",
+    "C": "దాన ధర్మాలకు డబ్బు అవసరం లేదు.",
+    "D": "లోభికి ధనం అవసరం లేదు.",
+    "Answer": "పేదవాడైనా దాతృత్వం కలవాడు, ధనవంతుడైనా లోభి కంటే గొప్పవాడు.",
+    "Explanation": "ధనం ఉన్న లోభి కంటే, ధనం లేకపోయినా ఇతరులకు సహాయం చేయాలనే కోరిక ఉన్న వివేకవంతుడే గొప్పవాడు అని భావం."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'తత్పురుష సమాసం' (Tatpurusha Samasam) కు ఉదాహరణ కానిది ఏది?",
+    "A": "రామబాణం",
+    "B": "దేవాలయం",
+    "C": "పాలు పెరుగు",
+    "D": "జలము చేత పవిత్రం",
+    "Answer": "పాలు పెరుగు",
+    "Explanation": "పాలు పెరుగు = పాలును, పెరుగును (ద్వంద్వ సమాసం). మిగిలినవి విభక్తి ప్రత్యయాలను అనుసరించి తత్పురుష సమాసానికి చెందుతాయి."
+  },
+  {
+    "Question": "'నగము' అనే పదానికి సరైన నానార్థాలు ఏవి?",
+    "A": "చెట్టు, మేఘం, పర్వతం",
+    "B": "పర్వతం, సూర్యుడు, సముద్రం",
+    "C": "పర్వతం, వృక్షం, పాము",
+    "D": "పర్వతం, వృక్షం, కదలనిది",
+    "Answer": "పర్వతం, వృక్షం, కదలనిది",
+    "Explanation": "'నగము' అంటే కదలనిది. కాబట్టి పర్వతం, వృక్షం, కదలనిది నానార్థాలుగా ఉపయోగించబడతాయి."
+  },
+  {
+    "Question": "'మహర్షి' అనే పదానికి సరైన సంధి (Sandhi) మరియు రకాన్ని గుర్తించండి.",
+    "A": "మహ + ఋషి; యణాదేశ సంధి",
+    "B": "మహా + ఋషి; గుణ సంధి",
+    "C": "మహా + రిషి; వృద్ధి సంధి",
+    "D": "మహత్ + ఋషి; జస్త్వ సంధి",
+    "Answer": "మహా + ఋషి; గుణ సంధి",
+    "Explanation": "గుణ సంధి నియమం: అకారానికి 'ఋ' కారం పరమైనప్పుడు 'అర్' వస్తుంది. (అ + ఋ = అర్). మహా + ఋషి = మహర్షి."
+  },
+  {
+    "Question": "'కోకిల కంఠం లాంటి కంఠం' - ఈ వాక్యంలో ఉన్న అలంకారం (Alankaram) ఏది?",
+    "A": "ఉపమాలంకారం",
+    "B": "రూపకాలంకారం",
+    "C": "అతిశయోక్తి అలంకారం",
+    "D": "స్వభావోక్తి అలంకారం",
+    "Answer": "ఉపమాలంకారం",
+    "Explanation": "'లాంటి' అనే పోలిక పదాన్ని ఉపయోగించడం జరిగింది. ఇక్కడ కంఠాన్ని కోకిల కంఠంతో పోల్చడం జరిగింది (ఉపమేయం – కంఠం, ఉపమానం – కోకిల కంఠం)."
+  },
+  {
+    "Question": "ప్రవచనం A: 'అర్థానుప్రాసాలంకారంలో' కేవలం అచ్చులు మాత్రమే పునరావృతమవుతాయి.\nప్రవచనం B: 'ఉత్ప్రేక్షాలంకారంలో' ఉపమేయాన్ని ఉపమానంగా ఊహిస్తారు.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "B సరైనది, A తప్పు.",
+    "Explanation": "వృత్యానుప్రాసాలంకారంలో హల్లు పునరావృతమవుతుంది. ఉత్ప్రేక్షాలంకారంలో పోలికను ఊహించడం జరుగుతుంది (ఉదా: ఆ ఏనుగు ఆకాశం నుండి దిగి వచ్చినట్లు ఉంది)."
+  },
+  {
+    "Question": "'ఆంధ్ర భాషా సేవక పితామహుడిగా' ప్రసిద్ధి చెందిన వ్యక్తి ఎవరు?",
+    "A": "కందుకూరి వీరేశలింగం",
+    "B": "గురజాడ అప్పారావు",
+    "C": "గిడుగు రామమూర్తి",
+    "D": "చిన్నయసూరి",
+    "Answer": "గిడుగు రామమూర్తి",
+    "Explanation": "గిడుగు రామమూర్తి పంతులు గారు వ్యవహారిక భాషా ఉద్యమానికి నాయకత్వం వహించి, తెలుగు భాషా సేవక పితామహుడిగా గుర్తింపు పొందారు."
+  },
+  {
+    "Question": "ఒక విద్యార్థి అక్షరాలను సరైన క్రమంలో రాయడంలో ఇబ్బంది పడుతున్నాడు. ఇది ఏ భాషా నైపుణ్యంలో లోపాన్ని సూచిస్తుంది?",
+    "A": "శ్రవణం (Listening)",
+    "B": "పఠనం (Reading)",
+    "C": "రచన (Writing)",
+    "D": "అభివ్యక్తి (Speaking)",
+    "Answer": "రచన (Writing)",
+    "Explanation": "అక్షరాలను క్రమంలో కూర్చి, సరైన స్పెల్లింగ్ మరియు వ్యాకరణంతో రాసే సామర్థ్యం రచన నైపుణ్యానికి సంబంధించినది."
+  },
+  {
+    "Question": "ప్రాథమిక స్థాయి తెలుగు బోధనలో 'సంభాషణ పద్ధతి' (Conversational Method) యొక్క ప్రధాన ఉద్దేశం ఏమిటి?",
+    "A": "వ్యాకరణ నియమాలను నేర్పించడం.",
+    "B": "విద్యార్థులలో మాట్లాడే (అభివ్యక్తి) మరియు శ్రవణ నైపుణ్యాలను అభివృద్ధి చేయడం.",
+    "C": "మంచి చేతిరాతను మెరుగుపరచడం.",
+    "D": "సాహిత్యాన్ని పరిచయం చేయడం.",
+    "Answer": "విద్యార్థులలో మాట్లాడే (అభివ్యక్తి) మరియు శ్రవణ నైపుణ్యాలను అభివృద్ధి చేయడం.",
+    "Explanation": "సంభాషణ పద్ధతిలో విద్యార్థులు పరస్పరం మాట్లాడుకోవడం ద్వారా, సహజ వాతావరణంలో భాషను వినడం, మాట్లాడటం అభ్యసిస్తారు."
+  },
+  {
+    "Question": "'కందము' పద్య లక్షణాలకు సంబంధించి సరికాని ప్రవచనం ఏది?",
+    "A": "దీనిలో ప్రతి పాదంలో జగణం తప్పనిసరిగా ఉండాలి.",
+    "B": "ఇది ద్విపద ఛందస్సుకు చెందదు.",
+    "C": "దీనిలో బేసి గణాలన్నీ సరి గణాలుగా ఉండాలి.",
+    "D": "రెండు, నాలుగు పాదాల చివరి గణం గురువుగా ఉండాలి.",
+    "Answer": "దీనిలో ప్రతి పాదంలో జగణం తప్పనిసరిగా ఉండాలి.",
+    "Explanation": "కంద పద్యంలో జగణం రాకూడదు (జగణ నిషేధం). మిగిలినవన్నీ కంద పద్య లక్షణాలే."
+  },
+  {
+    "Question": "'నేను పాఠశాలకు వెళ్ళి, ఆ తర్వాత గ్రంథాలయానికి వెళ్ళాను' - ఇది ఏ రకమైన వాక్యం?",
+    "A": "సామాన్య వాక్యం",
+    "B": "సంక్లిష్ట వాక్యం",
+    "C": "సంయుక్త వాక్యం",
+    "D": "ప్రశ్నార్థక వాక్యం",
+    "Answer": "సంయుక్త వాక్యం",
+    "Explanation": "సంయుక్త వాక్యంలో ఒకటి కంటే ఎక్కువ స్వతంత్ర వాక్యాలు అనుసంధాన పదాల (మరియు, ఆ తర్వాత, కానీ) ద్వారా కలుపబడతాయి. (వెళ్ళాను) అనేది సమాపక క్రియ."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'వాయువు' అనే పదానికి పర్యాయపదాలు (Synonyms) ఏవి?",
+    "A": "అనిలము, సమీరము, గగనం",
+    "B": "పవనం, సమీరము, గాలి",
+    "C": "గాలి, అగ్ని, వరుణుడు",
+    "D": "అగ్ని, వరుణుడు, సమీరము",
+    "Answer": "పవనం, సమీరము, గాలి",
+    "Explanation": "వాయువుకు పవనం, సమీరము, గాలి, అనిలము పర్యాయపదాలు. 'గగనం' అంటే ఆకాశం, 'అగ్ని' అంటే నిప్పు."
+  },
+  {
+    "Question": "ప్రవచనం A: 'ఆగమ సంధిలో' రెండు స్వరాల మధ్య కొత్తగా హల్లు వచ్చి చేరుతుంది.\nప్రవచనం B: 'తద్భవం' అంటే సంస్కృత భాష నుండి వచ్చి, తెలుగులో మార్పు చెందిన పదం.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "C: A మరియు B రెండూ సరైనవి.",
+    "Explanation": "ఆగమ సంధిలో 'య్' (యడాగమం) లేదా 'వ్' (వగాగమం) వస్తుంది. తద్భవాలు సంస్కృతం నుండి వచ్చి మార్పు చెందుతాయి (ఉదా: ఆకాశం → ఆకసం)."
+  },
+  {
+    "Question": "తెలుగు బోధనలో 'గ్రంథాలయం' (Library) యొక్క ప్రధాన ఉద్దేశం ఏమిటి?",
+    "A": "తరగతి గదిలో బోధనకు మాత్రమే సహాయపడటం.",
+    "B": "విద్యార్థులకు విభిన్న విషయాలపై పఠనాసక్తి మరియు స్వేచ్ఛా పఠనాన్ని పెంపొందించడం.",
+    "C": "కేవలం వార్తాపత్రికలు చదవడానికి ఉపయోగించడం.",
+    "D": "ఉపాధ్యాయులు సమావేశమవడానికి.",
+    "Answer": "విద్యార్థులకు విభిన్న విషయాలపై పఠనాసక్తి మరియు స్వేచ్ఛా పఠనాన్ని పెంపొందించడం.",
+    "Explanation": "గ్రంథాలయం విస్తృత పఠనం (Extensive Reading), అన్వేషణ మరియు స్వయం అభ్యసనాన్ని ప్రోత్సహిస్తుంది."
+  },
+  {
+    "Question": "భాషా బోధనలో 'అక్షరాభ్యాస పద్ధతి' (Alphabet Method) యొక్క ప్రధాన లోపం ఏమిటి?",
+    "A": "ఇది శ్రవణ నైపుణ్యాన్ని పెంచుతుంది.",
+    "B": "ఇది పఠనంలో వేగాన్ని తగ్గిస్తుంది మరియు కంఠస్థం చేయడాన్ని ప్రోత్సహిస్తుంది.",
+    "C": "ఇది సహజమైన పద్ధతి.",
+    "D": "ఇది రచన నైపుణ్యాన్ని అభివృద్ధి చేస్తుంది.",
+    "Answer": "ఇది పఠనంలో వేగాన్ని తగ్గిస్తుంది మరియు కంఠస్థం చేయడాన్ని ప్రోత్సహిస్తుంది.",
+    "Explanation": "అక్షరాభ్యాస పద్ధతిలో ముందు అక్షరాలను, తర్వాత పదాలను, తర్వాత వాక్యాలను నేర్పిస్తారు. ఇది సహజ భాషా అభ్యసన క్రమాన్ని అనుసరించదు మరియు పఠన వేగాన్ని తగ్గించవచ్చు."
+  },
+  {
+    "Question": "తెలుగు బోధనలో 'బోధనోపకరణాలు' (Teaching Aids) ఉపయోగించడం వల్ల కలిగే ప్రధాన ప్రయోజనం ఏమిటి?",
+    "A": "బోధనను కేవలం వినోదభరితంగా మారుస్తుంది.",
+    "B": "అభ్యసనాన్ని మూర్తం నుండి అమూర్తానికి (Concrete to Abstract) తీసుకువెళ్లడానికి సహాయపడుతుంది.",
+    "C": "తరగతి గదిలో క్రమశిక్షణను పెంచుతుంది.",
+    "D": "ఉపాధ్యాయుడి యొక్క సమయాన్ని ఆదా చేస్తుంది.",
+    "Answer": "అభ్యసనాన్ని మూర్తం నుండి అమూర్తానికి (Concrete to Abstract) తీసుకువెళ్లడానికి సహాయపడుతుంది.",
+    "Explanation": "ఉపకరణాలు మూర్త అనుభవాలను (చూడటం, తాకడం) అందించి, క్లిష్టమైన భావనలను సులభంగా అర్థం చేసుకోవడానికి సహాయపడతాయి."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'పద్య బోధన'లో ముఖ్యంగా పరిగణించవలసిన అంశం ఏది?",
+    "A": "వ్యాకరణ నియమాలను వివరంగా వివరించడం.",
+    "B": "కవి యొక్క జీవిత చరిత్రను వివరంగా చెప్పడం.",
+    "C": "రాగం, భావం మరియు రసానుభూతిని కలిగించడం.",
+    "D": "రచన నైపుణ్యాన్ని మాత్రమే పెంచడం.",
+    "Answer": "రాగం, భావం మరియు రసానుభూతిని కలిగించడం.",
+    "Explanation": "పద్యం యొక్క లక్ష్యం రసం (Emotional Experience) మరియు భావాన్ని అందించడం. కాబట్టి, రాగయుక్తంగా పాడటం మరియు భావాన్ని వివరించడం ముఖ్యం."
+  },
+  {
+    "Question": "తెలుగు భాషా బోధనలో 'నిర్ధారణ పరీక్ష' (Diagnostic Test) యొక్క ముఖ్య ఫలితం ఏమిటి?",
+    "A": "విద్యార్థులకు మార్కులను కేటాయించడం.",
+    "B": "అభ్యసనలో విద్యార్థి యొక్క లోపాలు మరియు వాటి మూల కారణాలను గుర్తించడం.",
+    "C": "పాఠ్యాంశం పూర్తయ్యిందో లేదో తెలుసుకోవడం.",
+    "D": "ఉపాధ్యాయుడి బోధన సరిగ్గా ఉందో లేదో తెలుసుకోవడం.",
+    "Answer": "అభ్యసనలో విద్యార్థి యొక్క లోపాలు మరియు వాటి మూల కారణాలను గుర్తించడం.",
+    "Explanation": "నిర్ధారణ పరీక్ష లోపాలను గుర్తించడానికి (Diagnosis) ఉద్దేశించబడింది, దీని తర్వాత నివారణ బోధన అందించవచ్చు."
+  },
+  {
+    "Question": "ప్రవచనం A: 'సాహితీ విమర్శ' (Literary Criticism) అనేది రచన నైపుణ్యంతో ముడిపడి ఉంటుంది.\nప్రవచనం B: 'మౌఖిక పరీక్ష' (Oral Test) ద్వారా శ్రవణ నైపుణ్యాన్ని పరీక్షించవచ్చు.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "A మరియు B రెండూ సరైనవి.",
+    "Explanation": "సాహితీ విమర్శ అనేది విశ్లేషణాత్మక రచనలో భాగం. మౌఖిక పరీక్షలో చెప్పిన విషయాలను అర్థం చేసుకోవడం ద్వారా శ్రవణ నైపుణ్యాన్ని పరీక్షించవచ్చు."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'పోతన' (Potana) యొక్క ప్రధాన రచన ఏది?",
+    "A": "ఆంధ్ర మహాభారతం",
+    "B": "శ్రీమదాంధ్ర మహాభాగవతం",
+    "C": "మనుచరిత్ర",
+    "D": "కన్యాశుల్కం",
+    "Answer": "శ్రీమదాంధ్ర మహాభాగవతం",
+    "Explanation": "పోతన శ్రీమద్భాగవతాన్ని తెలుగులో రాశారు. దీనిని 'భక్తి రస గ్రంథం' అని కూడా అంటారు."
+  },
+  {
+    "Question": "తెలుగు భాషా నైపుణ్యాలలో 'అభివ్యక్తి నైపుణ్యం' (Expressive Skill) దేనిని సూచిస్తుంది?",
+    "A": "శ్రవణం మరియు పఠనం",
+    "B": "పఠనం మరియు రచన",
+    "C": "మాట్లాడటం మరియు రాయడం (Speaking and Writing)",
+    "D": "వ్యాకరణం మరియు పదజాలం",
+    "Answer": "మాట్లాడటం మరియు రాయడం (Speaking and Writing)",
+    "Explanation": "భాషను ఉత్పత్తి చేయడానికి, భావాలను వ్యక్తీకరించడానికి ఉపయోగపడే నైపుణ్యాలు అభివ్యక్తి (ఉత్పాదక) నైపుణ్యాలు (Productive Skills). శ్రవణం మరియు పఠనం గ్రహణ (Receptive) నైపుణ్యాలు."
+  },
+  {
+    "Question": "ప్రాథమిక స్థాయి విద్యార్థులకు 'చేతిరాత' (Handwriting) ను మెరుగుపరచడానికి అనువైన పద్ధతి ఏది?",
+    "A": "నమూనా (Copying) పద్ధతి మరియు సరైన కూర్చునే భంగిమను నేర్పించడం.",
+    "B": "కేవలం వేగంగా రాయమని ప్రోత్సహించడం.",
+    "C": "నల్లబల్లపై చూడకుండా రాయమని చెప్పడం.",
+    "D": "వ్రాత పరీక్షలను మాత్రమే నిర్వహించడం.",
+    "Answer": "నమూనా (Copying) పద్ధతి మరియు సరైన కూర్చునే భంగిమను నేర్పించడం.",
+    "Explanation": "ఆదర్శవంతమైన నమూనాను చూసి రాయడం మరియు సరైన భంగిమ (Posture) చేతిరాతను మెరుగుపరచడానికి ప్రాథమిక అంశాలు."
+  },
+  {
+    "Question": "ప్రవచనం A: 'విలీన పద్ధతి' (Eclectic Method) లో అన్ని మంచి బోధనా పద్ధతులను సందర్భానుసారంగా ఉపయోగిస్తారు.\nప్రవచనం B: 'మాతృభాషా పద్ధతి'లో కేవలం మాతృభాషను మాత్రమే ఉపయోగిస్తారు.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "A సరైనది, B తప్పు.",
+    "Explanation": "విలీన పద్ధతిని 'కలగూరగంప పద్ధతి' అంటారు. మాతృభాషా పద్ధతిలో మాతృభాషను ఉపయోగించి లక్ష్య భాషను బోధిస్తారు, కేవలం మాతృభాషను మాత్రమే ఉపయోగించరు."
+  },
+  {
+    "Question": "'కార్యకారణ సంబంధం' (Cause and Effect) గురించి ఆలోచించే సామర్థ్యాన్ని పెంపొందించడానికి అనువైన తెలుగు బోధనా పద్ధతి ఏది?",
+    "A": "ఉపన్యాస పద్ధతి",
+    "B": "విశ్లేషణ పద్ధతి (Analysis Method)",
+    "C": "కథా కథన పద్ధతి",
+    "D": "డ్రిల్ పద్ధతి",
+    "Answer": "విశ్లేషణ పద్ధతి (Analysis Method)",
+    "Explanation": "విశ్లేషణ పద్ధతిలో, సమస్య యొక్క కారణాలు మరియు దాని ప్రభావాలను విడగొట్టి, తార్కికంగా విశ్లేషించడం జరుగుతుంది."
+  },
+  {
+    "Question": "'నేను టీ తాగుతాను' - దీనిని నిషేధార్థక వాక్యంగా (Negative Sentence) మార్చండి.",
+    "A": "నేను టీ త్రాగడానికి ఇష్టపడను.",
+    "B": "నేను టీ తాగుతాను కదా.",
+    "C": "నేను టీ తాగను.",
+    "D": "నేను టీ తాగితే ఎలా ఉంటుంది?",
+    "Answer": "నేను టీ తాగను.",
+    "Explanation": "నిషేధార్థక వాక్యం అంటే వ్యతిరేక అర్థాన్నిచ్చే వాక్యం. 'తాను' క్రియకు వ్యతిరేక క్రియ 'తాగను'."
+  },
+  {
+    "Question": "'ఉభయ కవి మిత్రుడు' అనే బిరుదు ఎవరికి ఉంది?",
+    "A": "నన్నయ",
+    "B": "ఎఱ్ఱన",
+    "C": "తిక్కన",
+    "D": "శ్రీనాథుడు",
+    "Answer": "తిక్కన",
+    "Explanation": "తిక్కన కవిత్వం సంస్కృతం మరియు తెలుగు భాషా పద్ధతులు రెండింటిలోనూ ప్రావీణ్యం ఉన్న కారణంగా 'ఉభయ కవి మిత్రుడు' అనే బిరుదు పొందారు."
+  },
+  {
+    "Question": "'నిర్మాణాత్మక మూల్యాంకనం' (Formative Assessment) యొక్క ముఖ్య ఉద్దేశం ఏమిటి?",
+    "A": "బోధన ముగింపులో మార్కులు ఇవ్వడం.",
+    "B": "బోధన జరుగుతున్నప్పుడు అభ్యసనాన్ని మెరుగుపరచడం.",
+    "C": "ఒక కోర్సు యొక్క ప్రభావాన్ని అంచనా వేయడం.",
+    "D": "విద్యార్థుల మధ్య ర్యాంకులను నిర్ణయించడం.",
+    "Answer": "బోధన జరుగుతున్నప్పుడు అభ్యసనాన్ని మెరుగుపరచడం.",
+    "Explanation": "FA అనేది అభ్యసనం యొక్క ప్రక్రియను మెరుగుపరచడానికి ఉద్దేశించబడింది (Assessment for Learning)."
+  },
+  {
+    "Question": "Identify the **Adjective Clause** in the sentence:\nThe man **who lives next door** is a famous writer.",
+    "A": "The man",
+    "B": "is a famous writer",
+    "C": "who lives next door",
+    "D": "lives next door",
+    "Answer": "who lives next door",
+    "Explanation": "An Adjective Clause modifies a noun (the man). It begins with a relative pronoun (who) and contains a subject and a verb."
+  },
+  {
+    "Question": "Choose the correct question tag for the sentence:\nLet's go to the beach, **___**?",
+    "A": "should we",
+    "B": "shall we",
+    "C": "do we",
+    "D": "don't we",
+    "Answer": "shall we",
+    "Explanation": "The question tag for sentences beginning with 'Let's' (or 'Let us') is always 'shall we'."
+  },
+  {
+    "Question": "Fill in the blank with the appropriate **Article**:\nShe is **___** honest woman.",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "No Article",
+    "Answer": "an",
+    "Explanation": "The word 'honest' starts with a vowel sound (the 'h' is silent, sounding like 'o-nest'), thus requiring 'an'."
+  },
+  {
+    "Question": "Identify the figure of speech in the sentence:\nMy alarm clock screams at me every morning.",
+    "A": "Simile",
+    "B": "Metaphor",
+    "C": "Personification",
+    "D": "Onomatopoeia",
+    "Answer": "Personification",
+    "Explanation": "Personification is giving human qualities (screaming) to inanimate objects (alarm clock)."
+  },
+  {
+    "Question": "The word that is the **Antonym** (Opposite) of 'Exaggerate' is:",
+    "A": "Overstate",
+    "B": "Understate",
+    "C": "Amplify",
+    "D": "Magnify",
+    "Answer": "Understate",
+    "Explanation": "'Exaggerate' means to overstate or magnify something beyond the truth. The opposite is 'understate' (to represent something as less important than it is)."
+  },
+  {
+    "Question": "Statement A: The phrase 'the tall building' is a **Noun Phrase**.\nStatement B: A **Homograph** is a word spelled the same but having different meanings (e.g., Lead - metal vs. Lead - guide).",
+    "A": "A is correct, B is incorrect.",
+    "B": "B is correct, A is incorrect.",
+    "C": "Both A and B are correct.",
+    "D": "Both A and B are incorrect.",
+    "Answer": "C: Both A and B are correct.",
+    "Explanation": "A Noun Phrase acts as a noun. A Homograph has the same spelling but different pronunciation and meaning. (Lead /lɛd/ vs /liːd/)."
+  },
+  {
+    "Question": "Choose the correct **Tense** for the blank:\nBy next year, I **___** (complete) my degree.",
+    "A": "will complete",
+    "B": "am completing",
+    "C": "will have completed",
+    "D": "complete",
+    "Answer": "will have completed",
+    "Explanation": "The phrase 'By next year' indicates an action that will be completed *before* a specific time in the future, requiring the Future Perfect Tense."
+  },
+  {
+    "Question": "Identify the type of sentence based on the clause structure:\nThough she was tired, she continued to work.",
+    "A": "Simple Sentence",
+    "B": "Compound Sentence",
+    "C": "Complex Sentence",
+    "D": "Compound-Complex Sentence",
+    "Answer": "Complex Sentence",
+    "Explanation": "A Complex Sentence contains one independent clause ('she continued to work') and one or more dependent (subordinate) clauses ('Though she was tired')."
+  },
+  {
+    "Question": "Fill in the blank with the appropriate **Preposition**:\nHe is good **___** Math.",
+    "A": "in",
+    "B": "at",
+    "C": "with",
+    "D": "on",
+    "Answer": "at",
+    "Explanation": "The correct idiomatic expression is 'good at' or 'bad at' when referring to a skill or subject."
+  },
+  {
+    "Question": "The primary objective of teaching **Phonics** in the early stages of English language learning is to:",
+    "A": "Improve writing speed.",
+    "B": "Develop the ability to decode words and improve pronunciation.",
+    "C": "Enhance grammar knowledge.",
+    "D": "Teach complex sentence structures.",
+    "Answer": "Develop the ability to decode words and improve pronunciation.",
+    "Explanation": "Phonics links sounds (phonemes) to letters (graphemes), which is essential for decoding and sounding out words correctly."
+  },
+  {
+    "Question": "Which of the following describes the role of the **Teacher** in the **Silent Way** teaching method?",
+    "A": "To lecture extensively.",
+    "B": "To be completely silent and let students discover.",
+    "C": "To act as a facilitator, guide, and motivator, speaking as little as possible.",
+    "D": "To translate everything into the mother tongue.",
+    "Answer": "To act as a facilitator, guide, and motivator, speaking as little as possible.",
+    "Explanation": "In the Silent Way (Gattegno), the teacher uses Cuisenaire rods and charts, remaining quiet to force students to produce and correct their own language, acting as a technical guide."
+  },
+  {
+    "Question": "Statement A: **Speaking** and **Writing** are considered **Productive** skills.\nStatement B: **Listening** and **Reading** are considered **Receptive** skills.",
+    "A": "A is correct, B is incorrect.",
+    "B": "B is correct, A is incorrect.",
+    "C": "Both A and B are correct.",
+    "D": "Both A and B are incorrect.",
+    "Answer": "C: Both A and B are correct.",
+    "Explanation": "Productive skills (Speaking, Writing) involve producing language. Receptive skills (Listening, Reading) involve understanding/receiving language."
+  },
+  {
+    "Question": "In language teaching, the main goal of using **Authentic Materials** (e.g., real menus, tickets, newspaper ads) is to:",
+    "A": "Make the class look professional.",
+    "B": "Expose students to real-life language use and bridge the gap between classroom and the real world.",
+    "C": "Reduce the teacher's preparation time.",
+    "D": "Test the students' ability to recognize pictures.",
+    "Answer": "Expose students to real-life language use and bridge the gap between classroom and the real world.",
+    "Explanation": "Authentic materials provide genuine examples of how the language is used in context, improving communicative competence."
+  },
+  {
+    "Question": "Match the methods with their key features:\nI. Direct Method\t 1. Focus on Grammar rules and Translation\nII. GTM\t 2. Target language only, Oral emphasis\nIII. CLT\t 3. Meaningful interaction and Communication",
+    "A": "I-2, II-1, III-3",
+    "B": "I-1, II-2, III-3",
+    "C": "I-3, II-1, III-2",
+    "D": "I-2, II-3, III-1",
+    "Answer": "I-2, II-1, III-3",
+    "Explanation": "Direct Method uses only the target language. GTM relies on translation and explicit grammar. CLT prioritizes real-life communication."
+  },
+  {
+    "Question": "The best way to assess a student's **Speaking Fluency** is through:",
+    "A": "A written test on grammar.",
+    "B": "Reading a text out loud perfectly.",
+    "C": "Role-playing, presentations, and spontaneous conversation tasks.",
+    "D": "A test on vocabulary usage.",
+    "Answer": "Role-playing, presentations, and spontaneous conversation tasks.",
+    "Explanation": "Fluency means speaking smoothly and quickly, which is best assessed in dynamic, real-time communication activities like role-plays and conversations."
+  },
+  {
+    "Question": "Which of the following is a drawback of using a dedicated **Language Laboratory**?",
+    "A": "It isolates students and offers limited interaction with peers.",
+    "B": "It is excellent for pronunciation and listening practice.",
+    "C": "It provides individualized instruction.",
+    "D": "It offers immediate self-correction opportunity.",
+    "Answer": "It isolates students and offers limited interaction with peers.",
+    "Explanation": "While excellent for auditory practice, the isolation of the booths can limit group work and spontaneous peer interaction necessary for communicative competence."
+  },
+  {
+    "Question": "Choose the correct **Passive Voice** form for: \n'The children are making a lot of noise.'",
+    "A": "A lot of noise is made by the children.",
+    "B": "A lot of noise is being made by the children.",
+    "C": "A lot of noise was made by the children.",
+    "D": "The children are being made a lot of noise.",
+    "Answer": "A lot of noise is being made by the children.",
+    "Explanation": "The structure for Present Continuous Passive is: Object + is/am/are + being + Past Participle (made) + by + Subject."
+  },
+  {
+    "Question": "Statement A: **Skimming** is useful for getting the gist (general idea) of a news article.\nStatement B: **Scanning** is useful for quickly finding a phone number in a directory.",
+    "A": "A is correct, B is incorrect.",
+    "B": "B is correct, A is incorrect.",
+    "C": "Both A and B are correct.",
+    "D": "Both A and B are incorrect.",
+    "Answer": "C: Both A and B are correct.",
+    "Explanation": "Skimming (A) is rapid reading for the main idea. Scanning (B) is rapid searching for specific details."
+  },
+  {
+    "Question": "The correct **Reported Speech** (Indirect Speech) for: \nHe said, \"Do not open the window.\"",
+    "A": "He advised me do not open the window.",
+    "B": "He forbade me to open the window.",
+    "C": "He asked me if I would open the window.",
+    "D": "He told me not open the window.",
+    "Answer": "He forbade me to open the window.",
+    "Explanation": "Imperative sentences (commands/requests) in reported speech use an infinitive phrase. 'Do not open' is a negative command, which can be expressed strongly using 'forbade... to open' (forbade already includes the negative sense)."
+  },
+  {
+    "Question": "Which quality of a good test ensures that it measures what it intends to measure?",
+    "A": "Reliability",
+    "B": "Practicality",
+    "C": "Validity",
+    "D": "Objectivity",
+    "Answer": "Validity",
+    "Explanation": "Validity (or Content Validity) ensures that the test questions are relevant and accurately measure the skills or knowledge they are supposed to assess."
+  },
+  {
+    "Question": "The use of the **Cuisenaire Rods** is a hallmark of which language teaching method?",
+    "A": "Total Physical Response (TPR)",
+    "B": "Silent Way",
+    "C": "Suggestopedia",
+    "D": "Communicative Language Teaching (CLT)",
+    "Answer": "Silent Way",
+    "Explanation": "Cuisenaire rods (coloured rods of varying lengths) are used in the Silent Way to teach grammatical structures and pronunciation without the teacher speaking much."
+  },
+  {
+    "Question": "Identify the **Transitive Verb** in the sentence:\nThe boy **kicked** the ball.",
+    "A": "The",
+    "B": "boy",
+    "C": "kicked",
+    "D": "ball",
+    "Answer": "kicked",
+    "Explanation": "A Transitive Verb takes a direct object ('the ball'). An Intransitive Verb does not take a direct object (e.g., 'He slept')."
+  },
+  {
+    "Question": "Choose the sentence with the correct **Subject-Verb Agreement**.",
+    "A": "The cat and the dog is chasing the mouse.",
+    "B": "Neither the students nor the teacher are happy.",
+    "C": "Economics are my favorite subject.",
+    "D": "Each of the boys was given a prize.",
+    "Answer": "Each of the boys was given a prize.",
+    "Explanation": "D is correct. 'Each' is a singular indefinite pronoun, requiring a singular verb ('was'). A: Use 'are' (compound subject). B: Agree with the nearer subject 'teacher', use 'is'. C: 'Economics' (subject name) is singular, use 'is'."
+  },
+  {
+    "Question": "What is the primary function of **Stress** and **Intonation** in spoken English?",
+    "A": "To follow strict grammar rules.",
+    "B": "To distinguish between nouns and verbs.",
+    "C": "To convey meaning, attitude, and emphasis.",
+    "D": "To ensure correct spelling.",
+    "Answer": "To convey meaning, attitude, and emphasis.",
+    "Explanation": "Stress (emphasis on syllables) and Intonation (rise/fall of pitch) are prosodic features that significantly affect the interpretation and meaning of spoken language (e.g., distinguishing between a question and a statement)."
+  },
+  {
+    "Question": "Fill in the blank with the appropriate **Modal Verb**:\nShe **___** (be) an excellent student; she always gets A grades.",
+    "A": "could",
+    "B": "might",
+    "C": "must",
+    "D": "should",
+    "Answer": "must",
+    "Explanation": "'Must' is used here to express a strong deduction or logical certainty based on the evidence ('always gets A grades')."
+  },
+  {
+    "Question": "The term for a teaching approach where the lesson content revolves around central themes (like 'Family' or 'Food') rather than separate subjects is:",
+    "A": "Structural Approach",
+    "B": "Situational Approach",
+    "C": "Thematic/Integrated Approach",
+    "D": "Bi-lingual Method",
+    "Answer": "Thematic/Integrated Approach",
+    "Explanation": "The Thematic/Integrated Approach connects language learning with content knowledge (often used in primary EVS/English) by organizing lessons around real-world topics."
+  },
+  {
+    "Question": "What is the main advantage of the **Total Physical Response (TPR)** method?",
+    "A": "It develops advanced grammar skills.",
+    "B": "It links language learning with physical action, reducing anxiety and aiding comprehension.",
+    "C": "It is highly effective for large classes only.",
+    "D": "It completely ignores the mother tongue.",
+    "Answer": "It links language learning with physical action, reducing anxiety and aiding comprehension.",
+    "Explanation": "TPR (Asher) is based on the idea that language learning mirrors child development (listening before speaking), using commands and physical responses to build comprehension quickly."
+  },
+  {
+    "Question": "Statement A: **Remedial Teaching** should focus on general review of the whole curriculum.\nStatement B: Remedial teaching follows a diagnostic test.",
+    "A": "A is correct, B is incorrect.",
+    "B": "B is correct, A is incorrect.",
+    "C": "Both A and B are correct.",
+    "D": "Both A and B are incorrect.",
+    "Answer": "B is correct, A is incorrect.",
+    "Explanation": "Remedial teaching must be specific, addressing the precise difficulties (gaps) identified by the diagnostic test, not a general review."
+  },
+  {
+    "Question": "An example of a **Prefix** is:",
+    "A": "-ness (happiness)",
+    "B": "un- (unhappy)",
+    "C": "-ed (walked)",
+    "D": "cat (cat)",
+    "Answer": "un- (unhappy)",
+    "Explanation": "A Prefix is an affix placed at the beginning of a word to modify its meaning ('un-' means 'not'). A Suffix is placed at the end (e.g., '-ness')."
+  },
+  {
+    "Question": "Which of the following is an effective way to encourage **Creative Writing** in primary students?",
+    "A": "Dictating essays for students to copy.",
+    "B": "Providing detailed outlines and story starters (prompts) to spark imagination.",
+    "C": "Giving strict rules on grammar and spelling correction first.",
+    "D": "Asking them to memorize poems.",
+    "Answer": "Providing detailed outlines and story starters (prompts) to spark imagination.",
+    "Explanation": "Creative writing needs freedom, but prompts and outlines provide the necessary structure to inspire divergent thinking without excessive pressure on form."
+  },
+  {
+    "Question": "ఒక సంఖ్యను 7 తో గుణించి 3 కలిపితే 38 వస్తుంది. ఆ సంఖ్య ఎంత?",
+    "A": "3",
+    "B": "5",
+    "C": "6",
+    "D": "8",
+    "Answer": "5",
+    "Explanation": "7x + 3 = 38 ⇒ 7x = 35 ⇒ x = 5."
+  },
+  {
+    "Question": "ఒక దీర్ఘ చతురస్రం చుట్టుకొలత 36 సెం.మీ, వెడల్పు 8 సెం.మీ అయితే పొడవు ఎంత?",
+    "A": "10 సెం.మీ",
+    "B": "12 సెం.మీ",
+    "C": "9 సెం.మీ",
+    "D": "14 సెం.మీ",
+    "Answer": "10 సెం.మీ",
+    "Explanation": "2(l + b) = 36 ⇒ l + 8 = 18 ⇒ l = 10."
+  },
+  {
+    "Question": "సరి సంఖ్యలు అన్ని సంయుక్త సంఖ్యలేనా? రెండు ప్రధాన సంఖ్యల LCM వాటి గుణకం అవుతుందా?",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "B సరైనది, A తప్పు.",
+    "Explanation": "2 సరి సంఖ్య అయినా ప్రధాన సంఖ్య. ప్రధాన సంఖ్యల LCM = వారి గుణకం."
+  },
+  {
+    "Question": "6 సెం.మీ, 8 సెం.మీ, 10 సెం.మీ భుజాలు గల త్రిభుజం వైశాల్యం ఎంత?",
+    "A": "24 సెం.మీ²",
+    "B": "48 సెం.మీ²",
+    "C": "30 సెం.మీ²",
+    "D": "12 సెం.మీ²",
+    "Answer": "24 సెం.మీ²",
+    "Explanation": "లంబకోణ త్రిభుజం. Area = 1/2 × 6 × 8 = 24."
+  },
+  {
+    "Question": "భాగహారం పరంగా క్లోజర్ ధర్మం పాటించే సమితి ఏది?",
+    "A": "సహజ సంఖ్యలు",
+    "B": "పూర్ణాంకాలు",
+    "C": "పూర్ణ సంఖ్యలు",
+    "D": "అకరణీయ సంఖ్యలు",
+    "Answer": "అకరణీయ సంఖ్యలు",
+    "Explanation": "Rational numbers p/q రూపంలో ఉంటాయి; భాగహారం (zero 제외) చేస్తే కూడా అకరణీయలోనే ఉంటుంది."
+  },
+  {
+    "Question": "మొదటి 5 బేసి సంఖ్యల సగటు ఎంత?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "Answer": "5",
+    "Explanation": "1+3+5+7+9 = 25 ⇒ Average = 25/5 = 5."
+  },
+  {
+    "Question": "అంకగణిత సగటు (Arithmetic Mean) అంటే ఏమిటి?",
+    "A": "బాహుళకం",
+    "B": "మధ్యగతం",
+    "C": "అంకగణిత సగటు",
+    "D": "వ్యాప్తి",
+    "Answer": "అంకగణిత సగటు",
+    "Explanation": "Mean = (Sum of values)/(Number of values)."
+  },
+  {
+    "Question": "గుణకార విలోమం × సంఖ్య = 1? పంపిణీ ధర్మం a(b+c) = ab+ac?",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B సరైనవి.",
+    "D": "A మరియు B తప్పు.",
+    "Answer": "A మరియు B సరైనవి.",
+    "Explanation": "Inverse × Number = 1; distributive property holds."
+  },
+  {
+    "Question": "వృత్తం వ్యాసం 20 సెం.మీ అయితే వ్యాసార్థం ఎంత?",
+    "A": "40 సెం.మీ",
+    "B": "10 సెం.మీ",
+    "C": "5 సెం.మీ",
+    "D": "20 సెం.మీ",
+    "Answer": "10 సెం.మీ",
+    "Explanation": "r = d/2 = 20/2."
+  },
+  {
+    "Question": "రూ.400 కు కొనిన వస్తువును 360 కు అమ్మితే నష్టం శాతం ఎంత?",
+    "A": "40%",
+    "B": "10%",
+    "C": "15%",
+    "D": "20%",
+    "Answer": "10%",
+    "Explanation": "Loss = 40 ⇒ % = 40/400 × 100 = 10%."
+  },
+  {
+    "Question": "సమాంతర రేఖలను ఖండించే రేఖ పేరు?",
+    "A": "లంబ రేఖ",
+    "B": "ఛేదక రేఖ",
+    "C": "సమద్విఖండన రేఖ",
+    "D": "వక్ర రేఖ",
+    "Answer": "ఛేదక రేఖ",
+    "Explanation": "Parallel lines ను intersect చేసే రేఖ = Transversal."
+  },
+  {
+    "Question": "బీజగణితంలో పదాలు–కారకాలు వివరించడానికి ఏ చిత్రం ఉత్తమం?",
+    "A": "Pie Chart",
+    "B": "Tree Diagram",
+    "C": "Graph Paper",
+    "D": "Bar Graph",
+    "Answer": "Tree Diagram",
+    "Explanation": "Terms & Factors ను hierarchical గా చూపిస్తుంది."
+  },
+  {
+    "Question": "15 పెన్నుల్లో 5 ఎరుపు, 5 నీలం, 5 ఆకుపచ్చ. నీలం కాని పెన్ను వచ్చే సంభావ్యత?",
+    "A": "1/3",
+    "B": "2/3",
+    "C": "1/2",
+    "D": "1/5",
+    "Answer": "2/3",
+    "Explanation": "Non-blue = 10 ⇒ 10/15 = 2/3."
+  },
+  {
+    "Question": "చతురస్రం కర్ణాలు? దీర్ఘచతురస్రం కర్ణాలు లంబమా?",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "రెండూ సరైనవి.",
+    "D": "రెండూ తప్పు.",
+    "Answer": "A సరైనది, B తప్పు.",
+    "Explanation": "Square diagonals equal & perpendicular; rectangle diagonals are equal but not perpendicular."
+  },
+  {
+    "Question": "1 గ్రాము = ఎన్ని మిల్లీగ్రాములు?",
+    "A": "10 mg",
+    "B": "100 mg",
+    "C": "1000 mg",
+    "D": "10000 mg",
+    "Answer": "1000 mg",
+    "Explanation": "1 g = 1000 mg."
+  },
+  {
+    "Question": "నిగమన పద్ధతి లక్షణం?",
+    "A": "ఉదాహరణల నుంచి సూత్రం",
+    "B": "తెలియని → తెలిసిన",
+    "C": "సూత్రం నుంచి ఉదాహరణ",
+    "D": "పరిశోధన",
+    "Answer": "సూత్రం నుంచి ఉదాహరణ",
+    "Explanation": "Deductive = Rule → Example."
+  },
+  {
+    "Question": "Discovery Method పితామహుడు ఎవరు?",
+    "A": "Armstrong",
+    "B": "Kilpatrick",
+    "C": "Jerome Bruner",
+    "D": "Herbart",
+    "Answer": "Jerome Bruner",
+    "Explanation": "Bruner = Discovery Learning."
+  },
+  {
+    "Question": "అబకస్ ద్వారా పొందే ప్రయోజనం?",
+    "A": "జ్యామితి",
+    "B": "స్థాన విలువ & సంకలనం",
+    "C": "బీజగణితం",
+    "D": "సంభావ్యత",
+    "Answer": "స్థాన విలువ & సంకలనం",
+    "Explanation": "Abacus helps concrete arithmetic."
+  },
+  {
+    "Question": "గణితం లక్ష్యం కేవలం Cognitive మాత్రమేనా? FA నిత్యజీవిత సమస్యలను అంచనా వేసేదనా?",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "రెండూ సరైనవి.",
+    "D": "రెండూ తప్పు.",
+    "Answer": "B సరైనది, A తప్పు.",
+    "Explanation": "Math = Cognitive + Affective + Psychomotor."
+  },
+  {
+    "Question": "గణిత భయం తగ్గించడంలో ఉత్తమ పద్ధతి?",
+    "A": "అదనపు పని",
+    "B": "మూర్త అనుభవాలు & ఆటలు",
+    "C": "మార్కులు ప్రకటించడం",
+    "D": "కంఠస్థం",
+    "Answer": "మూర్త అనుభవాలు & ఆటలు",
+    "Explanation": "Concrete learning reduces fear."
+  },
+  {
+    "Question": "x = 3 అయితే 2x² + 5 విలువ ఎంత?",
+    "A": "11",
+    "B": "23",
+    "C": "17",
+    "D": "21",
+    "Answer": "23",
+    "Explanation": "2(9) + 5 = 23."
+  },
+  {
+    "Question": "ఒక సమఘనం అంచులు ఎన్ని?",
+    "A": "6",
+    "B": "8",
+    "C": "12",
+    "D": "4",
+    "Answer": "12",
+    "Explanation": "Cube = 12 edges."
+  },
+  {
+    "Question": "LCM=60, HCF=5, ఒక సంఖ్య=20 అయితే మరొకటి?",
+    "A": "15",
+    "B": "30",
+    "C": "12",
+    "D": "50",
+    "Answer": "15",
+    "Explanation": "LCM × HCF = a × b ⇒ 300 = 20x ⇒ x = 15."
+  },
+  {
+    "Question": "అన్వయం లక్ష్యం ఏ స్థాయి?",
+    "A": "జ్ఞానం",
+    "B": "అవగాహన",
+    "C": "అన్వయం",
+    "D": "నైపుణ్యం",
+    "Answer": "అన్వయం",
+    "Explanation": "Bloom's taxonomy."
+  },
+  {
+    "Question": "సమస్య పరిష్కార పద్ధతి యొక్క లక్ష్యం?",
+    "A": "సూత్రాలు నేర్పడం",
+    "B": "వేగంగా పూర్తి చేయడం",
+    "C": "తార్కిక ఆలోచన & స్వయం సామర్థ్యం",
+    "D": "ఉపాధ్యాయ ప్రదర్శన",
+    "Answer": "తార్కిక ఆలోచన & స్వయం సామర్థ్యం",
+    "Explanation": "Problem-solving builds reasoning."
+  },
+  {
+    "Question": "10 నిమిషాల్లో 100 మీటర్లు నడిస్తే సగటు వేగం?",
+    "A": "10 మీ/నిమి",
+    "B": "1 మీ/నిమి",
+    "C": "0.1 మీ/నిమి",
+    "D": "100 మీ/నిమి",
+    "Answer": "10 మీ/నిమి",
+    "Explanation": "Speed = 100/10."
+  },
+  {
+    "Question": "విశ్లేషణ పద్ధతి vs సంశ్లేషణ పద్ధతి?",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "రెండూ సరైనవి.",
+    "D": "రెండూ తప్పు.",
+    "Answer": "రెండూ సరైనవి.",
+    "Explanation": "Analysis = parts; Synthesis = whole."
+  },
+  {
+    "Question": "నివారణ బోధన అవసరమయ్యేది ఎవరికి?",
+    "A": "ప్రతిభావంతులకు",
+    "B": "లోపాలు ఉన్న వారికి",
+    "C": "హాజరు కాని వారికి",
+    "D": "క్రమశిక్షణ లేనివారికి",
+    "Answer": "లోపాలు ఉన్న వారికి",
+    "Explanation": "For learning gaps."
+  },
+  {
+    "Question": "రెండు కోణాలు సమానమైన త్రిభుజం ఏది?",
+    "A": "సమబాహు",
+    "B": "సమద్విబాహు",
+    "C": "విషమబాహు",
+    "D": "లంబకోణ",
+    "Answer": "సమద్విబాహు",
+    "Explanation": "Two equal angles ⇒ Isosceles."
+  },
+  {
+    "Question": "ప్రాథమిక స్థాయిలో 'పర్యావరణ అధ్యయనం' (EVS) యొక్క స్వభావం ఏమిటి?",
+    "A": "కేవలం సామాజిక శాస్త్రాన్ని బోధించడం.",
+    "B": "విజ్ఞాన శాస్త్రాన్ని మాత్రమే బోధించడం.",
+    "C": "సమగ్ర (Integrated) మరియు ఇతివృత్తాత్మక (Thematic) విధానంలో బోధించడం.",
+    "D": "సమగ్రమైన అధ్యయనం యొక్క అవసరం లేదు.",
+    "Answer": "సమగ్ర (Integrated) మరియు ఇతివృత్తాత్మక (Thematic) విధానంలో బోధించడం.",
+    "Explanation": "NCF 2005 ప్రకారం, 3 నుండి 5 తరగతులలో EVS అనేది పర్యావరణం, విజ్ఞాన శాస్త్రం మరియు సామాజిక శాస్త్రం యొక్క భావనలను కలిపి, ఇతివృత్తాల ద్వారా బోధించే సమగ్ర విధానం."
+  },
+  {
+    "Question": "'ఓడలు నదిలో తేలుతాయి' - దీనికి కారణం ఏమిటి?",
+    "A": "ఓడ తయారు చేయబడిన పదార్థం.",
+    "B": "ఓడ బరువు తక్కువగా ఉండటం.",
+    "C": "ఆర్కిమెడిస్ సూత్రం (Archimedes Principle) ప్రకారం, ఓడ స్థానభ్రంశం చేసే నీటి బరువు, ఓడ బరువు కంటే ఎక్కువగా ఉండటం.",
+    "D": "నీటి సాంద్రత తక్కువగా ఉండటం.",
+    "Answer": "ఆర్కిమెడిస్ సూత్రం (Archimedes Principle) ప్రకారం, ఓడ స్థానభ్రంశం చేసే నీటి బరువు, ఓడ బరువు కంటే ఎక్కువగా ఉండటం.",
+    "Explanation": "వస్తువు తేలడానికి, అది స్థానభ్రంశం చేసే ద్రవం యొక్క బరువు ఆ వస్తువు బరువు కంటే ఎక్కువై, పైకి నెట్టే బలం (ఉపరితల బలం) ఎక్కువ ఉండాలి."
+  },
+  {
+    "Question": "ప్రవచనం A: తెలంగాణలో 'పీచు పదార్థాలు' (Fibre) ఎక్కువగా పండించే పంట పత్తి.\nప్రవచనం B: భారతదేశంలో అత్యధిక వరి (Paddy) ఉత్పత్తి చేసే రాష్ట్రం పశ్చిమ బెంగాల్.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "C: A మరియు B రెండూ సరైనవి.",
+    "Explanation": "తెలంగాణలో పత్తి ముఖ్యమైన పీచు పంట. పశ్చిమ బెంగాల్ భారతదేశంలో అత్యధిక వరిని ఉత్పత్తి చేస్తుంది."
+  },
+  {
+    "Question": "మనిషి ఆహారం జీర్ణం కావడానికి (Digestion) సహాయపడే ఆమ్లం (Acid) ఏది?",
+    "A": "సల్ఫ్యూరిక్ ఆమ్లం",
+    "B": "నైట్రిక్ ఆమ్లం",
+    "C": "హైడ్రోక్లోరిక్ ఆమ్లం (Hydrochloric Acid)",
+    "D": "ఎసిటిక్ ఆమ్లం",
+    "Answer": "హైడ్రోక్లోరిక్ ఆమ్లం (Hydrochloric Acid)",
+    "Explanation": "హైడ్రోక్లోరిక్ ఆమ్లం కడుపులో ఉత్పత్తి అవుతుంది. ఇది ఆహారంలో ఉన్న బ్యాక్టీరియాను చంపడానికి మరియు ఎంజైములు పనిచేయడానికి సరైన pH ను అందించడానికి సహాయపడుతుంది."
+  },
+  {
+    "Question": "EVS బోధనలో 'ప్రాజెక్ట్ పద్ధతి' (Project Method) ద్వారా అభివృద్ధి చెందే నైపుణ్యం కానిది ఏది?",
+    "A": "సమస్య పరిష్కారం (Problem Solving)",
+    "B": "కంఠస్థం చేసే సామర్థ్యం (Rote Memorization)",
+    "C": "సహకారం మరియు బృంద స్ఫూర్తి (Team Spirit)",
+    "D": "విమర్శనాత్మక ఆలోచన (Critical Thinking)",
+    "Answer": "కంఠస్థం చేసే సామర్థ్యం (Rote Memorization)",
+    "Explanation": "ప్రాజెక్ట్ పద్ధతి అన్వేషణ, విశ్లేషణ మరియు అనువర్తనంపై దృష్టి పెడుతుంది, కంఠస్థం చేయడంపై కాదు."
+  },
+  {
+    "Question": "భారతదేశంలో 'గ్రీన్ విప్లవం' (Green Revolution) యొక్క పితామహుడిగా ఎవరిని పిలుస్తారు?",
+    "A": "వర్గీస్ కురియన్ (Verghese Kurien)",
+    "B": "ఎం.ఎస్. స్వామినాథన్ (M.S. Swaminathan)",
+    "C": "హెచ్.జి. ఖోరానా (H.G. Khorana)",
+    "D": "సత్యేంద్రనాథ్ బోస్ (S.N. Bose)",
+    "Answer": "ఎం.ఎస్. స్వామినాథన్ (M.S. Swaminathan)",
+    "Explanation": "ఎం.ఎస్. స్వామినాథన్ గోధుమ మరియు వరి అధిక దిగుబడి రకాలను అభివృద్ధి చేయడంలో కీలక పాత్ర పోషించారు, భారతదేశంలో ఆహార భద్రతకు దోహదపడ్డారు."
+  },
+  {
+    "Question": "వాతావరణంలోని 'ట్రోపో ఆవరణం' (Troposphere) లో జరిగే ప్రధాన వాతావరణ సంఘటనలు ఏవి?",
+    "A": "విమానాలు ఎగరడం.",
+    "B": "వర్షం, మేఘాలు, గాలి మరియు తుఫానులు ఏర్పడటం.",
+    "C": "రేడియో తరంగాలు ప్రతిబింబించడం.",
+    "D": "ఓజోన్ పొర ఏర్పడటం.",
+    "Answer": "వర్షం, మేఘాలు, గాలి మరియు తుఫానులు ఏర్పడటం.",
+    "Explanation": "ట్రోపో ఆవరణం భూమికి అత్యంత దగ్గరగా ఉన్న పొర. ఇక్కడే అన్ని ముఖ్యమైన వాతావరణ సంఘటనలు జరుగుతాయి."
+  },
+  {
+    "Question": "'నాణెం తయారుచేయడానికి' ఉపయోగించే పద్ధతి దేనికి ఉదాహరణ?",
+    "A": "సామాజిక శాస్త్రం",
+    "B": "అర్థశాస్త్రం (Economics)",
+    "C": "పౌరశాస్త్రం (Civics)",
+    "D": "చరిత్ర",
+    "Answer": "అర్థశాస్త్రం (Economics)",
+    "Explanation": "నాణేలు, వాటి విలువ, ఉత్పత్తి మరియు ఆర్థిక వ్యవస్థ పనితీరు అర్థశాస్త్రం యొక్క అధ్యయనంలో భాగం."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిని జతపరచండి (చారిత్రక కట్టడాలు - రాష్ట్రం):\nI. గోల్కొండ కోట\t 1. తెలంగాణ\nII. తాజ్ మహల్\t 2. ఉత్తరప్రదేశ్\nIII. హంపి శిథిలాలు\t 3. కర్ణాటక",
+    "A": "I-1, II-2, III-3",
+    "B": "I-2, II-1, III-3",
+    "C": "I-3, II-2, III-1",
+    "D": "I-1, II-3, III-2",
+    "Answer": "I-1, II-2, III-3",
+    "Explanation": "గోల్కొండ కోట హైదరాబాద్ (తెలంగాణ), తాజ్ మహల్ ఆగ్రా (ఉత్తరప్రదేశ్), హంపి (విజయనగర సామ్రాజ్యం రాజధాని) కర్ణాటకలో ఉన్నాయి."
+  },
+  {
+    "Question": "ప్రవచనం A: 'అంతరిక్ష ప్రయాణం' అనేది EVS లోని విజ్ఞాన శాస్త్రానికి సంబంధించిన అంశం.\nప్రవచనం B: 'గ్రామ పంచాయతీ' నిర్మాణం EVS లోని సామాజిక శాస్త్రానికి సంబంధించిన అంశం.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "C: A మరియు B రెండూ సరైనవి.",
+    "Explanation": "అంతరిక్షం విజ్ఞానం (సైన్స్) కి, పంచాయతీ నిర్మాణం పౌరశాస్త్రం/సామాజిక శాస్త్రానికి సంబంధించిన అంశాలు. EVS ఈ రెండింటినీ సమగ్రం చేస్తుంది."
+  },
+  {
+    "Question": "EVS లో 'మ్యాప్స్' ఉపయోగించడం ద్వారా విద్యార్థులలో అభివృద్ధి చెందే నైపుణ్యం ఏది?",
+    "A": "భాషా నైపుణ్యం",
+    "B": "గాయక నైపుణ్యం",
+    "C": "ప్రాదేశిక ఆలోచన (Spatial Thinking) మరియు దిశ (Direction) భావన.",
+    "D": "కంఠస్థం చేసే సామర్థ్యం.",
+    "Answer": "ప్రాదేశిక ఆలోచన (Spatial Thinking) మరియు దిశ (Direction) భావన.",
+    "Explanation": "మ్యాప్‌లు భూభాగాలను మరియు వాటిని సూచించే చిత్రాలను అర్థం చేసుకోవడానికి, దిశలను తెలుసుకోవడానికి సహాయపడతాయి."
+  },
+  {
+    "Question": "'కన్జర్వేషన్' (Conservation) అంటే ఏమిటి?",
+    "A": "నీరు మరియు ఇతర వనరులను వృధా చేయడం.",
+    "B": "వనరులను జాగ్రత్తగా ఉపయోగించడం మరియు భవిష్యత్తు కోసం వాటిని రక్షించడం.",
+    "C": "కేవలం చెట్లను మాత్రమే నరకడం.",
+    "D": "పర్యావరణాన్ని పట్టించుకోకపోవడం.",
+    "Answer": "వనరులను జాగ్రత్తగా ఉపయోగించడం మరియు భవిష్యత్తు కోసం వాటిని రక్షించడం.",
+    "Explanation": "కన్జర్వేషన్ అనేది సహజ వనరులు మరియు పర్యావరణ వ్యవస్థలను వాటి విలువను గుర్తించి, స్థిరంగా (Sustainably) నిర్వహించడం మరియు రక్షించడం."
+  },
+  {
+    "Question": "తెలంగాణలో ఉన్న ఏ జాతీయ ఉద్యానవనం (National Park) 'పులుల సంరక్షణ' (Tiger Reserve) కు ప్రసిద్ధి చెందింది?",
+    "A": "మహవీర్ హరిణ వనస్థలి",
+    "B": "కవ్వాల్ (Kawwal)",
+    "C": "నెహ్రూ జూలాజికల్ పార్క్",
+    "D": "మృగవాణి",
+    "Answer": "కవ్వాల్ (Kawwal)",
+    "Explanation": "కవ్వాల్ వన్యప్రాణుల అభయారణ్యం (జయశంకర్ భూపాలపల్లి, మంచిర్యాల జిల్లాలు) పులుల సంరక్షణ కేంద్రంగా ప్రకటించబడింది."
+  },
+  {
+    "Question": "EVS బోధనలో 'డెమోన్‌స్ట్రేషన్ పద్ధతి' (Demonstration Method) యొక్క ప్రధాన ప్రయోజనం ఏమిటి?",
+    "A": "విద్యార్థి ప్రయోగాన్ని స్వయంగా చేయడం.",
+    "B": "క్లిష్టమైన ప్రయోగాత్మక భావనలను దృశ్యరూపంలో స్పష్టంగా వివరించడం.",
+    "C": "విద్యార్థులలో చేతిరాతను మెరుగుపరచడం.",
+    "D": "తరగతి గదిలో చర్చలను మాత్రమే ప్రోత్సహించడం.",
+    "Answer": "క్లిష్టమైన ప్రయోగాత్మక భావనలను దృశ్యరూపంలో స్పష్టంగా వివరించడం.",
+    "Explanation": "ఉపాధ్యాయుడు ప్రయోగాన్ని ప్రదర్శించడం ద్వారా విద్యార్థులు విషయాలను దృశ్యపరంగా అర్థం చేసుకుంటారు, ఇది క్లిష్టమైన భావనలకు అనుకూలం."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'కమ్యూనిటీ వనరు' (Community Resource) కానిది ఏది?",
+    "A": "పోస్ట్ ఆఫీస్ (Post Office)",
+    "B": "మురుగునీటి శుద్ధి కేంద్రం",
+    "C": "పాఠ్యపుస్తకం",
+    "D": "స్థానిక మార్కెట్",
+    "Answer": "పాఠ్యపుస్తకం",
+    "Explanation": "పాఠ్యపుస్తకం అనేది పాఠశాల వనరు (School Resource). మిగిలినవి విద్యార్థులు తమ అభ్యసనాన్ని నిజ జీవితంతో అనుసంధానించడానికి ఉపయోగపడే సామాజిక వనరులు."
+  },
+  {
+    "Question": "EVS లో 'నిరంతర సమగ్ర మూల్యాంకనం' (CCE) యొక్క ఉద్దేశ్యం ఏమిటి?",
+    "A": "కేవలం విద్యా రంగంలో మార్కులు ఇవ్వడం.",
+    "B": "విద్యార్థి యొక్క సమగ్ర వికాసం (Cognitive, Affective, Psychomotor) పై దృష్టి పెట్టడం.",
+    "C": "ప్రతి తరగతిలో కేవలం ఒకే పరీక్షను నిర్వహించడం.",
+    "D": "ఉపాధ్యాయుడి యొక్క పనిభారాన్ని తగ్గించడం.",
+    "Answer": "విద్యార్థి యొక్క సమగ్ర వికాసం (Cognitive, Affective, Psychomotor) పై దృష్టి పెట్టడం.",
+    "Explanation": "CCE అనేది నిరంతరంగా, శైలి మరియు శైలేతర రంగాలలో విద్యార్థి యొక్క సమగ్ర అభివృద్ధిని అంచనా వేస్తుంది."
+  },
+  {
+    "Question": "'పల్స్ పోలియో' కార్యక్రమం ఏ వ్యాధిని నిర్మూలించడానికి ఉద్దేశించబడింది?",
+    "A": "క్షయ (Tuberculosis)",
+    "B": "పోలియో (Polio)",
+    "C": "డయేరియా (Diarrhoea)",
+    "D": "మలేరియా (Malaria)",
+    "Answer": "పోలియో (Polio)",
+    "Explanation": "పల్స్ పోలియో అనేది దేశవ్యాప్తంగా పిల్లలకు పోలియో వ్యాధిని నివారించడానికి నిర్వహించబడిన టీకాల కార్యక్రమం."
+  },
+  {
+    "Question": "ప్రవచనం A: 'ఆహార గొలుసు' (Food Chain) లో శక్తి ప్రవాహం ఏకదిశ (Unidirectional) లో ఉంటుంది.\nప్రవచనం B: ఆహార గొలుసులో అత్యధిక శక్తి ఉత్పత్తిదారుల (Producers) వద్ద ఉంటుంది.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "C: A మరియు B రెండూ సరైనవి.",
+    "Explanation": "ఆహార గొలుసులో శక్తి ఎల్లప్పుడూ ఉత్పత్తిదారుల నుండి వినియోగదారులకు ఏకదిశలో ప్రవహిస్తుంది. ఉత్పత్తిదారులు సూర్యకాంతిని ఉపయోగించి ఆహారాన్ని తయారు చేస్తారు కాబట్టి, వారి వద్ద అత్యధిక శక్తి ఉంటుంది."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'అంటువ్యాధి' (Communicable Disease) కానిది ఏది?",
+    "A": "జలుబు (Common Cold)",
+    "B": "మధుమేహం (Diabetes)",
+    "C": "చికెన్ పాక్స్ (Chicken Pox)",
+    "D": "క్షయ (Tuberculosis)",
+    "Answer": "మధుమేహం (Diabetes)",
+    "Explanation": "మధుమేహం అనేది శరీరం ఇన్సులిన్‌ను సరిగ్గా ఉత్పత్తి చేయకపోవడం లేదా ఉపయోగించకపోవడం వల్ల వచ్చే అంటువ్యాధి కాని (Non-communicable) వ్యాధి."
+  },
+  {
+    "Question": "EVS లో 'కేస్ స్టడీ' (Case Study) యొక్క ముఖ్య లక్ష్యం ఏమిటి?",
+    "A": "కేవలం సాధారణీకరణలను (Generalizations) రూపొందించడం.",
+    "B": "ఒక నిర్దిష్ట వ్యక్తి, సంఘటన లేదా ప్రాంతం గురించి లోతైన, సమగ్ర జ్ఞానాన్ని పొందడం.",
+    "C": "త్వరగా పరీక్షలను నిర్వహించడం.",
+    "D": "ఉపాధ్యాయుడి ప్రదర్శనను పెంచడం.",
+    "Answer": "ఒక నిర్దిష్ట వ్యక్తి, సంఘటన లేదా ప్రాంతం గురించి లోతైన, సమగ్ర జ్ఞానాన్ని పొందడం.",
+    "Explanation": "కేస్ స్టడీ ఒక నిర్దిష్ట పరిస్థితిని క్షుణ్ణంగా పరిశోధించడానికి సహాయపడుతుంది, ఇది లోతైన విశ్లేషణ మరియు అవగాహనను అందిస్తుంది."
+  },
+  {
+    "Question": "భారత రాజ్యాంగంలో 'ప్రాథమిక హక్కులు' (Fundamental Rights) ఏ భాగంలో పొందుపరచబడ్డాయి?",
+    "A": "పార్ట్ I",
+    "B": "పార్ట్ II",
+    "C": "పార్ట్ III",
+    "D": "పార్ట్ IV",
+    "Answer": "పార్ట్ III",
+    "Explanation": "ప్రాథమిక హక్కులు (ఆర్టికల్స్ 12-35) రాజ్యాంగం యొక్క పార్ట్ III లో ఉన్నాయి, వీటిని 'భారత రాజ్యాంగపు మాగ్నా కార్టా' అని కూడా పిలుస్తారు."
+  },
+  {
+    "Question": "EVS పాఠ్యాంశంలో 'శిశువు తన కుటుంబం నుండి ప్రారంభించి, క్రమంగా ప్రపంచం వైపు విస్తరించాలి' అనే సూత్రం దేనిని సూచిస్తుంది?",
+    "A": "తెలిసిన దాని నుండి తెలియని దానికి (Known to Unknown).",
+    "B": "సామాన్య నుండి నిర్దిష్టం.",
+    "C": "మూర్తం నుండి అమూర్తం.",
+    "D": "సరళత నుండి సంక్లిష్టత.",
+    "Answer": "తెలిసిన దాని నుండి తెలియని దానికి (Known to Unknown).",
+    "Explanation": "పిల్లలకు కుటుంబం, పరిసరాలు తెలిసినవి. ప్రపంచం తెలియనిది. EVS బోధన తెలిసిన వాటితో ప్రారంభమై, కొత్త విషయాలకు విస్తరించాలి."
+  },
+  {
+    "Question": "ఈ క్రింది వాటిలో 'EVS బోధన'కు సంబంధించిన 'శైలేతర మూల్యాంకన సాధనం' (Non-Scholastic Assessment Tool) ఏది?",
+    "A": "రాత పరీక్ష",
+    "B": "క్విజ్",
+    "C": "వైఖరి మరియు విలువ మాపకాలు (Attitude and Value Scales)",
+    "D": "ప్రాజెక్ట్ పనులు",
+    "Answer": "వైఖరి మరియు విలువ మాపకాలు (Attitude and Value Scales)",
+    "Explanation": "వైఖరులు, విలువలు, సహకారం, క్రమశిక్షణ వంటివి శైలేతర రంగాలకు చెందుతాయి. వీటిని రేటింగ్ స్కేల్, చెక్‌లిస్ట్ వంటి వాటి ద్వారా మాపనం చేయవచ్చు."
+  },
+  {
+    "Question": "EVS లో 'విద్యార్థి పర్యావరణ పరిరక్షణ వైఖరి'ని పెంచడానికి ఉత్తమమైన కార్యకలాపం ఏది?",
+    "A": "పర్యావరణం గురించి పుస్తకాలు చదవడం.",
+    "B": "పర్యావరణ పరిరక్షణపై ఉపన్యాసం వినడం.",
+    "C": "పాఠశాల తోటలో మొక్కలు నాటడం మరియు వాటిని సంరక్షించడం.",
+    "D": "పర్యావరణం గురించి పరీక్షలు రాయడం.",
+    "Answer": "పాఠశాల తోటలో మొక్కలు నాటడం మరియు వాటిని సంరక్షించడం.",
+    "Explanation": "చేయడం ద్వారా అభ్యసనం (Learning by doing) విద్యార్థులలో ప్రత్యక్ష అనుభవాన్ని మరియు పర్యావరణం పట్ల బాధ్యతాయుతమైన వైఖరిని పెంచుతుంది."
+  },
+  {
+    "Question": "ప్రవచనం A: 'ఆహారం' అనేది EVS యొక్క ప్రధాన ఇతివృత్తాలలో ఒకటి.\nప్రవచనం B: EVS లో 'సాంకేతిక పరిజ్ఞానం' (Technology) బోధనకు అవకాశం లేదు.",
+    "A": "A సరైనది, B తప్పు.",
+    "B": "B సరైనది, A తప్పు.",
+    "C": "A మరియు B రెండూ సరైనవి.",
+    "D": "A మరియు B రెండూ తప్పు.",
+    "Answer": "A సరైనది, B తప్పు.",
+    "Explanation": "EVS లో 'కుటుంబం & స్నేహితులు', 'ఆహారం', 'నీరు', 'ఆశ్రయం', 'ప్రయాణం', 'మనం చేసే పనులు' అనే ఆరు ఇతివృత్తాలు ఉన్నాయి. సాంకేతిక పరిజ్ఞానం (ఉదా: వ్యవసాయంలో టెక్నాలజీ) EVS బోధనలో ఒక భాగంగా ఉంటుంది."
+  },
+  {
+    "Question": "EVS బోధనలో 'ప్రాదేశిక జ్ఞానం' (Locality/Regional Knowledge) యొక్క ప్రాముఖ్యత ఏమిటి?",
+    "A": "కేవలం స్థానిక చరిత్రను మాత్రమే నేర్పడం.",
+    "B": "విద్యార్థులకు స్థానిక సమస్యలను గుర్తించి, వాటిని పరిష్కరించడానికి సహాయపడటం.",
+    "C": "ఇతర ప్రాంతాల గురించి చదవకుండా నిరోధించడం.",
+    "D": "ఉపాధ్యాయుడికి బోధించడానికి సులభతరం చేయడం.",
+    "Answer": "విద్యార్థులకు స్థానిక సమస్యలను గుర్తించి, వాటిని పరిష్కరించడానికి సహాయపడటం.",
+    "Explanation": "స్థానిక జ్ఞానం నిజ జీవిత అనుభవాలను అందిస్తుంది, ఇది విద్యార్థులు తమ పరిసరాల సమస్యలను విశ్లేషించడానికి మరియు పరిష్కరించడానికి ప్రేరేపిస్తుంది."
+  }
+]
