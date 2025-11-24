@@ -1,1 +1,272 @@
-2
+[
+  {
+    "Question": "Identify the word that is an Adjective of Quantity:",
+    "A": "Fifth",
+    "B": "Enough",
+    "C": "Indian",
+    "D": "Several",
+    "Answer": "Enough",
+    "Explanation": "Adjectives of Quantity (or Quantitative Adjectives) answer the question 'How much?' (e.g., much, little, enough, all, half). 'Several' is an Adjective of Number. 'Fifth' is a Numeral Adjective (Ordinal). 'Indian' is a Proper Adjective."
+  },
+  {
+    "Question": "Choose the correctly punctuated sentence from the options below:",
+    "A": "He asked, 'Where are you going?'",
+    "B": "He asked 'where are you going?'",
+    "C": "He asked, 'Where are you going'?",
+    "D": "He asked where are you going.",
+    "Answer": "He asked, 'Where are you going?'",
+    "Explanation": "The reporting verb is followed by a comma. The direct speech is enclosed in double quotation marks, and the question mark is placed inside the closing quotation mark because it belongs to the quoted text."
+  },
+  {
+    "Question": "Fill in the blank with the appropriate form of the verb: 'Neither the students nor the teacher __________ aware of the schedule change.'",
+    "A": "were",
+    "B": "are",
+    "C": "was",
+    "D": "have been",
+    "Answer": "was",
+    "Explanation": "When two subjects are joined by 'neither... nor', the verb agrees with the subject nearest to it. Here, 'the teacher' (singular) is nearest to the blank, so the singular verb 'was' is used."
+  },
+  {
+    "Question": "Statement A: The sentence 'The news is true' is grammatically correct. Statement B: 'News' is an uncountable noun and always takes a singular verb. Choose the correct option:",
+    "A": "A is true, but B is false.",
+    "B": "A is false, but B is true.",
+    "C": "Both A and B are true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "'News' looks plural because it ends in 's', but it is an uncountable noun (like information, advice) and requires a singular verb (is, was, etc.)."
+  },
+  {
+    "Question": "Identify the type of clause: 'He works hard **so that he can succeed**.'",
+    "A": "Adjective Clause",
+    "B": "Adverb Clause of Manner",
+    "C": "Noun Clause",
+    "D": "Adverb Clause of Purpose",
+    "Answer": "Adverb Clause of Purpose",
+    "Explanation": "The clause 'so that he can succeed' modifies the verb 'works hard' and answers the question 'Why does he work hard?', indicating the purpose of the action. It is introduced by the conjunction 'so that'."
+  },
+  {
+    "Question": "Choose the synonym for the word **'Prudent'**.",
+    "A": "Reckless",
+    "B": "Careless",
+    "C": "Wise",
+    "D": "Impulsive",
+    "Answer": "Wise",
+    "Explanation": "'Prudent' means acting with or showing care and thought for the future; wise or sensible."
+  },
+  {
+    "Question": "Identify the incorrect pair of figure of speech and example:",
+    "A": "Metaphor: The world is a stage.",
+    "B": "Simile: The boxer fought like a lion.",
+    "C": "Oxymoron: Deafening silence.",
+    "D": "Alliteration: The hills are calling.",
+    "Answer": "Alliteration: The hills are calling.",
+    "Explanation": "Alliteration is the repetition of the same sound or letter at the beginning of adjacent or closely connected words (e.g., Peter Piper picked...). 'The hills are calling' does not exhibit alliteration."
+  },
+  {
+    "Question": "Change the sentence to Active Voice: 'The results will be declared by the board next month.'",
+    "A": "The board will be declaring the results next month.",
+    "B": "The board will declare the results next month.",
+    "C": "The board would declare the results next month.",
+    "D": "The board is declaring the results next month.",
+    "Answer": "The board will declare the results next month.",
+    "Explanation": "The Passive Voice structure (will be declared) is Future Simple Tense. The corresponding Active Voice structure is Subject (The board) + will + V1 (declare) + Object (the results)."
+  },
+  {
+    "Question": "Fill in the blank with the correct Phrasal Verb: 'Due to the heavy rain, the football match was __________.'",
+    "A": "put out",
+    "B": "put off",
+    "C": "put up",
+    "D": "put down",
+    "Answer": "put off",
+    "Explanation": "'Put off' means to postpone or delay. 'Put out' means to extinguish (a fire). 'Put up' means to tolerate or accommodate. 'Put down' means to insult or record."
+  },
+  {
+    "Question": "Identify the word that has a silent letter:",
+    "A": "Listen",
+    "B": "School",
+    "C": "Water",
+    "D": "Street",
+    "Answer": "Listen",
+    "Explanation": "In the word 'Listen' /'lɪs(ə)n/, the letter **'t'** is usually silent."
+  },
+  {
+    "Question": "Choose the correct Determiner: 'I have spent __________ money I had on this new gadget.'",
+    "A": "a little",
+    "B": "little",
+    "C": "the little",
+    "D": "few",
+    "Answer": "the little",
+    "Explanation": "'The little' means 'not much, but all there is'. The phrase 'I had' limits the money to a specific, small quantity that was spent entirely."
+  },
+  {
+    "Question": "Statement A: The suffix '-tion' is added to the verb 'educate' to form the noun 'education'.\nStatement B: The word 'undernourished' is formed using only a prefix and a root word. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "A is true, but B is false.",
+    "Explanation": "Statement A is correct. Statement B is false because 'undernourished' has a prefix (**under-**), a root word (**nourish**), and a suffix (**-ed**)."
+  },
+  {
+    "Question": "Which of the following is an example of a **Demonstrative Pronoun**?",
+    "A": "We",
+    "B": "Whose",
+    "C": "This",
+    "D": "Everyone",
+    "Answer": "This",
+    "Explanation": "Demonstrative Pronouns (this, that, these, those) are used to point out specific things. 'We' is Personal, 'Whose' is Interrogative/Relative, and 'Everyone' is Indefinite."
+  },
+  {
+    "Question": "Identify the word that can function as both a Noun and a Verb without any change in form.",
+    "A": "Government",
+    "B": "Beautiful",
+    "C": "Water",
+    "D": "Quickly",
+    "Answer": "Water",
+    "Explanation": "Water (Noun: 'We drink water'; Verb: 'Please water the plants'). 'Government' (Noun only), 'Beautiful' (Adjective only), 'Quickly' (Adverb only)."
+  },
+  {
+    "Question": "Choose the correct form of the compound adjective: 'He is a __________ speaker.'",
+    "A": "well-known",
+    "B": "well known",
+    "C": "wellknowed",
+    "D": "well knowned",
+    "Answer": "well-known",
+    "Explanation": "When an adverb (well) and a past participle (known) are combined to modify a noun (speaker), they form a compound adjective and are hyphenated."
+  },
+  {
+    "Question": "Fill in the blanks with the appropriate prepositions: 'The patient is suffering __________ fever __________ last week.'",
+    "A": "from, for",
+    "B": "of, since",
+    "C": "from, since",
+    "D": "of, for",
+    "Answer": "from, since",
+    "Explanation": "'Suffering' is typically followed by 'from' when stating an illness. 'Since' is used to indicate a starting point in time for an action that continues up to the present."
+  },
+  {
+    "Question": "Statement A: The word 'complement' means to complete or enhance something.\nStatement B: The word 'compliment' means to express praise or admiration.\nChoose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "This distinguishes between two common homophones: 'Complement' (to complete/go well with) and 'Compliment' (to praise/flatter)."
+  },
+  {
+    "Question": "Which of the following sentences uses a **Participle Adjective**?",
+    "A": "He is a driving force behind the project.",
+    "B": "He drives a fast car every day.",
+    "C": "He is driving home right now.",
+    "D": "He drives the project forward.",
+    "Answer": "He is a driving force behind the project.",
+    "Explanation": "'Driving' is a present participle (verb+ing) used as an adjective to describe the noun 'force'. In C, 'driving' is part of the continuous verb tense."
+  },
+  {
+    "Question": "Which method of teaching poetry involves the teacher reading the poem aloud with expression first, followed by explanation and literary appreciation?",
+    "A": "Reference Method",
+    "B": "Inductive Method",
+    "C": "Recitation-cum-Explanation Method",
+    "D": "Structural Method",
+    "Answer": "Recitation-cum-Explanation Method",
+    "Explanation": "This method starts with the teacher reciting the poem for enjoyment and rhythmic sense, followed by line-by-line explanation and discussion of literary aspects."
+  },
+  {
+    "Question": "Which of the following is a drawback of the **Grammar Translation Method (GTM)**?",
+    "A": "It promotes excessive oral practice and fluency.",
+    "B": "It neglects the development of listening and speaking skills.",
+    "C": "It focuses primarily on the target language and culture.",
+    "D": "It encourages learners to think directly in English.",
+    "Answer": "It neglects the development of listening and speaking skills.",
+    "Explanation": "GTM focuses heavily on reading, writing, and the explicit teaching of grammar rules through the mother tongue, neglecting the practical, oral aspects of language (Listening and Speaking)."
+  },
+  {
+    "Question": "Match the term with its definition in ELT: (I) Phoneme (P) The smallest unit of meaning (II) Morpheme (Q) The study of sentence structure (III) Syntax (R) The smallest unit of sound",
+    "A": "I-R, II-P, III-Q",
+    "B": "I-Q, II-R, III-P",
+    "C": "I-P, II-Q, III-R",
+    "D": "I-R, II-Q, III-P",
+    "Answer": "I-R, II-P, III-Q",
+    "Explanation": "Phoneme is the basic sound unit. Morpheme is the basic unit of meaning. Syntax is the rule governing sentence structure."
+  },
+  {
+    "Question": "The **Structural Approach** to English teaching emphasizes:",
+    "A": "Teaching grammar rules deductively.",
+    "B": "Mastery of sentence patterns (structures).",
+    "C": "Learning through translation and rote memorization.",
+    "D": "Focusing solely on literature and poetry.",
+    "Answer": "Mastery of sentence patterns (structures).",
+    "Explanation": "The Structural Approach stresses the selection and gradation of language structures and the learning of these structures through pattern practice/drills."
+  },
+  {
+    "Question": "Which skill is considered a **Graphic Productive Skill** in the sequence of language skills (LSRW)?",
+    "A": "Listening",
+    "B": "Speaking",
+    "C": "Reading",
+    "D": "Writing",
+    "Answer": "Writing",
+    "Explanation": "Writing is a productive skill (producing language) that uses graphic (written/printed) symbols. Speaking is oral productive; Listening is aural receptive; Reading is graphic receptive."
+  },
+  {
+    "Question": "The objective of teaching **Prose** (textbook lessons) at the primary level is primarily to develop:",
+    "A": "Poetic appreciation and literary criticism.",
+    "B": "Reading comprehension and vocabulary acquisition.",
+    "C": "Ability to write complex novels.",
+    "D": "Mastery of formal grammar rules.",
+    "Answer": "Reading comprehension and vocabulary acquisition.",
+    "Explanation": "Prose aims to develop the ability to read, understand, and extract meaning from the text, thereby enriching vocabulary in a contextualized manner."
+  },
+  {
+    "Question": "Statement A: **Diagnostic Testing** helps in identifying the specific difficulties or weak areas of a learner.\nStatement B: Diagnostic testing should ideally be followed by **Remedial Teaching**.\nChoose the correct option:",
+    "A": "A is true, but B is false.",
+    "B": "Both A and B are true.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "Diagnostic tests pinpoint learning problems (A), and remedial teaching is the specific instruction designed to overcome those identified problems (B)."
+  },
+  {
+    "Question": "In language teaching, the term **'Audio-Visual Aids'** refers to materials that:",
+    "A": "Only involve listening and speaking.",
+    "B": "Can be seen but not heard.",
+    "C": "Use both the sense of hearing and the sense of sight.",
+    "D": "Are expensive and not easily accessible.",
+    "Answer": "Use both the sense of hearing and the sense of sight.",
+    "Explanation": "Audio-Visual aids (like smart boards, videos, language labs) are teaching tools that stimulate both auditory and visual senses, making learning more effective."
+  },
+  {
+    "Question": "What is the crucial role of **Motivation** in the process of language acquisition?",
+    "A": "It ensures the student always gets high scores.",
+    "B": "It is the driving force that determines a student's commitment and long-term success.",
+    "C": "It replaces the need for grammar instruction.",
+    "D": "It must always be extrinsic (rewards and fear).",
+    "Answer": "It is the driving force that determines a student's commitment and long-term success.",
+    "Explanation": "Motivation (both intrinsic and extrinsic) is vital, as it energizes and directs behavior, influencing the learner's effort, persistence, and ultimate achievement in language learning."
+  },
+  {
+    "Question": "The concept of **'Gradation of Materials'** in curriculum design primarily means:",
+    "A": "Arranging the teaching materials according to the price.",
+    "B": "Arranging the difficulty of language items from simple to complex.",
+    "C": "Dividing the syllabus into ten equal units.",
+    "D": "Using only high-level vocabulary in all classes.",
+    "Answer": "Arranging the difficulty of language items from simple to complex.",
+    "Explanation": "Gradation ensures that the language items (vocabulary, structures) are introduced systematically in order of increasing difficulty, making the learning process manageable and progressive."
+  },
+  {
+    "Question": "If a teacher asks students to write a friendly letter or a short dialogue, they are primarily assessing the students' ability in:",
+    "A": "Intensive reading.",
+    "B": "Creative and functional writing.",
+    "C": "Accurate pronunciation.",
+    "D": "Understanding the history of English.",
+    "Answer": "Creative and functional writing.",
+    "Explanation": "Writing a letter or dialogue falls under functional writing tasks, which require students to produce written language for real-world purposes."
+  },
+  {
+    "Question": "Which characteristic makes a good **Test Item** (question) in an English examination?",
+    "A": "Ambiguity and multiple correct answers.",
+    "B": "Reliability and Validity.",
+    "C": "Extreme difficulty to fail most students.",
+    "D": "Testing only rote memory.",
+    "Answer": "Reliability and Validity.",
+    "Explanation": "A good test item must be **Reliable** (consistent results) and **Valid** (measures what it is intended to measure). Ambiguity, extreme difficulty, and memory testing are usually undesirable."
+  }
+]
