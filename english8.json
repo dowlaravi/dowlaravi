@@ -1,1 +1,272 @@
-8
+[
+  {
+    "Question": "Identify the type of verb: 'He **seems** happy with the results.'",
+    "A": "Transitive Verb",
+    "B": "Auxiliary Verb",
+    "C": "Intransitive Verb",
+    "D": "Linking Verb",
+    "Answer": "Linking Verb",
+    "Explanation": "A Linking Verb connects the subject ('He') to a word or phrase that describes or identifies the subject ('happy with the results'). Other examples are 'is', 'feel', 'become', 'appear'."
+  },
+  {
+    "Question": "Choose the correctly punctuated sentence:",
+    "A": "The capital of Telangana is, Hyderabad.",
+    "B": "The capital of Telangana is Hyderabad.",
+    "C": "The capital, of Telangana, is Hyderabad.",
+    "D": "The capital of Telangana is Hyderabad!",
+    "Answer": "The capital of Telangana is Hyderabad.",
+    "Explanation": "No comma is needed between the subject ('The capital of Telangana') and the verb ('is') or between the verb and the complement ('Hyderabad'). It is a simple declarative statement."
+  },
+  {
+    "Question": "Statement A: The phrase **'a great deal of'** is used with uncountable nouns.\nStatement B: The phrase **'a great number of'** is used with countable nouns.\nChoose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "'A great deal of time/effort' (uncountable). 'A great number of students/books' (countable)."
+  },
+  {
+    "Question": "Identify the type of clause: 'He will join the team **wherever they decide to meet**.'",
+    "A": "Noun Clause",
+    "B": "Adjective Clause",
+    "C": "Adverb Clause of Place",
+    "D": "Adverb Clause of Condition",
+    "Answer": "Adverb Clause of Place",
+    "Explanation": "The clause 'wherever they decide to meet' modifies the verb 'will join' by specifying the location (where the joining will take place). It is introduced by the subordinating conjunction 'wherever'."
+  },
+  {
+    "Question": "Choose the most appropriate synonym for the word **'Plausible'**.",
+    "A": "Impossible",
+    "B": "Believable",
+    "C": "Doubtful",
+    "D": "Absurd",
+    "Answer": "Believable",
+    "Explanation": "'Plausible' means (of an argument or statement) seeming reasonable or probable; believable."
+  },
+  {
+    "Question": "Match the word with its Pronunciation feature: (I) Ship (P) Voiced Dental Fricative (II) Vision (Q) Voiceless Palato-alveolar Fricative (III) Measure (R) Voiced Palato-alveolar Fricative (IV) That (S) Voiceless Bilabial Stop",
+    "A": "I-Q, II-R, III-P, IV-S",
+    "B": "I-Q, II-R, III-R, IV-P",
+    "C": "I-S, II-Q, III-R, IV-P",
+    "D": "I-Q, II-R, III-S, IV-P",
+    "Answer": "I-Q, II-R, III-R, IV-P",
+    "Explanation": "Ship /ʃɪp/: /ʃ/ is Voiceless Palato-alveolar Fricative (Q). Vision /'vɪʒən/ and Measure /'meʒə/: /ʒ/ is Voiced Palato-alveolar Fricative (R). That /ðæt/: /ð/ is Voiced Dental Fricative (P)."
+  },
+  {
+    "Question": "Identify the word that can function as a **Coordinating Conjunction**:",
+    "A": "Although",
+    "B": "Because",
+    "C": "Nor",
+    "D": "Unless",
+    "Answer": "Nor",
+    "Explanation": "'Nor' is one of the FANBOYS (For, And, Nor, But, Or, Yet, So), which are the coordinating conjunctions used to join elements of equal grammatical rank (e.g., clauses, phrases, words). The others are subordinating conjunctions."
+  },
+  {
+    "Question": "Choose the correct phrase to complete the sentence: 'The criminal was caught **__________** handed.'",
+    "A": "red",
+    "B": "green",
+    "C": "black",
+    "D": "blue",
+    "Answer": "red",
+    "Explanation": "'Caught red-handed' is an idiom meaning caught in the act of committing a crime or wrongdoing."
+  },
+  {
+    "Question": "Change the following sentence into Reported Speech: The teacher said, 'The Earth revolves around the Sun.'",
+    "A": "The teacher said that the Earth revolved around the Sun.",
+    "B": "The teacher said that the Earth revolves around the Sun.",
+    "C": "The teacher asked if the Earth revolves around the Sun.",
+    "D": "The teacher said that the Earth has revolved around the Sun.",
+    "Answer": "The teacher said that the Earth revolves around the Sun.",
+    "Explanation": "Universal truths, scientific facts, and habitual actions generally do not change tense when converted to Reported Speech, so the Present Simple Tense ('revolves') is retained."
+  },
+  {
+    "Question": "Identify the type of sentence structure: 'I wanted to apologize, but I did not get a chance.'",
+    "A": "Simple",
+    "B": "Complex",
+    "C": "Compound",
+    "D": "Compound-Complex",
+    "Answer": "Compound",
+    "Explanation": "The sentence contains two independent clauses ('I wanted to apologize' and 'I did not get a chance') joined by a coordinating conjunction ('but'), making it a Compound Sentence."
+  },
+  {
+    "Question": "Identify the sentence that uses a **Dangling Modifier**:",
+    "A": "While driving to work, the accident occurred.",
+    "B": "Tired and hungry, I quickly made dinner.",
+    "C": "The book, written in 1980, is a classic.",
+    "D": "After finishing the essay, the student rested.",
+    "Answer": "While driving to work, the accident occurred.",
+    "Explanation": "A dangling modifier modifies a word that is not clearly stated or is logically incorrect. In this case, 'the accident' was not 'driving to work'. The subject of the modifier should be 'I' or 'he/she', etc."
+  },
+  {
+    "Question": "Which of the following is an example of an **Interrogative Adjective**?",
+    "A": "Whom",
+    "B": "What",
+    "C": "Who",
+    "D": "Whose",
+    "Answer": "Whose",
+    "Explanation": "Interrogative Adjectives (what, which, whose) are followed immediately by a noun they modify (e.g., **Whose** book is this?). If used alone (e.g., Whose is this?), they are Pronouns."
+  },
+  {
+    "Question": "The main principle of the **Grammar Translation Method (GTM)** is to view language learning as:",
+    "A": "A skill acquired through natural interaction.",
+    "B": "An intellectual exercise and analysis of rules.",
+    "C": "A process of habit formation through drills.",
+    "D": "A task-based problem-solving activity.",
+    "Answer": "An intellectual exercise and analysis of rules.",
+    "Explanation": "GTM focuses on the explicit teaching and memorization of grammar rules and vocabulary, treating language as an academic subject for mental discipline."
+  },
+  {
+    "Question": "Statement A: **Norm-Referenced Tests (NRT)** are useful for selection and placement purposes.\nStatement B: NRTs compare the performance of a student against a set of standards or criteria.\nChoose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "B is incorrect. A is true, but B is false.",
+    "Explanation": "A is true: NRTs compare students to each other (e.g., percentile ranks). B is false: Comparing against standards/criteria is the definition of a **Criterion-Referenced Test**."
+  },
+  {
+    "Question": "The technique of using the Mother Tongue (L1) briefly and strategically by the teacher to establish meaning is the core feature of the:",
+    "A": "Direct Method",
+    "B": "Audio-Lingual Method",
+    "C": "Bilingual Method",
+    "D": "Structural Approach",
+    "Answer": "Bilingual Method",
+    "Explanation": "The Bilingual Method advocates for controlled, strategic use of L1 by the teacher to quickly explain complex items, thus avoiding time-consuming direct demonstrations."
+  },
+  {
+    "Question": "Match the term with the element of spoken language: (I) Stress (P) Rise and fall of pitch (II) Intonation  (Q) Speed of speaking (III) Rhythm (R) Emphasis on a syllable or word (IV) Pace (S) Pattern of strong and weak beats",
+    "A": "I-R, II-P, III-S, IV-Q",
+    "B": "I-P, II-R, III-S, IV-Q",
+    "C": "I-R, II-S, III-P, IV-Q",
+    "D": "I-S, II-Q, III-R, IV-P",
+    "Answer": "I-R, II-P, III-S, IV-Q",
+    "Explanation": "Stress: Emphasis (R). Intonation: Pitch change (P). Rhythm: Beat pattern (S). Pace: Speed (Q)."
+  },
+  {
+    "Question": "What is the primary purpose of conducting a **Diagnostic Test** in an English class?",
+    "A": "To assign final grades for the term.",
+    "B": "To measure the overall achievement of the class.",
+    "C": "To identify the specific causes and nature of a student's learning difficulties.",
+    "D": "To place the students into different proficiency groups.",
+    "Answer": "To identify the specific causes and nature of a student's learning difficulties.",
+    "Explanation": "Diagnosis is about finding the root cause of the error or learning gap, which directly informs the content of the follow-up remedial instruction."
+  },
+  {
+    "Question": "Statement A: The **'LSRW'** skills should be taught in isolation and separately. Statement B: Language skills are interconnected and should be integrated during teaching for meaningful learning. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "C is incorrect. A is false, but B is true.",
+    "Explanation": "A is false: Isolation is an outdated approach. B is true: Integration (e.g., listening to a text and then summarizing it in writing) reflects real-life language use and enhances learning."
+  },
+  {
+    "Question": "Which text type's primary function is to create and entertain with characters, setting, and plot, often featuring complex past tenses?",
+    "A": "Exposition/Report",
+    "B": "Recount",
+    "C": "Narrative",
+    "D": "Procedure",
+    "Answer": "Narrative",
+    "Explanation": "A Narrative (e.g., story, novel, fable) is characterized by a chronological sequence of events, setting, and characters, primarily for entertainment."
+  },
+  {
+    "Question": "The principle of teaching from 'Known to Unknown' is essential because it:",
+    "A": "Allows the teacher to skip over basic concepts.",
+    "B": "Builds confidence and creates a foundation for new knowledge.",
+    "C": "Forces students to rely entirely on the dictionary.",
+    "D": "Prevents the use of any teaching aids.",
+    "Answer": "Builds confidence and creates a foundation for new knowledge.",
+    "Explanation": "Connecting new material (unknown) to what the student already knows (known) makes the learning process smoother, increases comprehension, and boosts the learner's confidence."
+  },
+  {
+    "Question": "What does **'Accuracy'** in language teaching primarily refer to?",
+    "A": "Speaking quickly without pauses.",
+    "B": "The correct use of grammar, vocabulary, and pronunciation.",
+    "C": "The ability to speak for a long time.",
+    "D": "The capacity to memorize long dialogues.",
+    "Answer": "The correct use of grammar, vocabulary, and pronunciation.",
+    "Explanation": "Accuracy focuses on the correctness of the language produced (form), ensuring it conforms to the established rules of grammar, phonology, and lexis."
+  },
+  {
+    "Question": "The main drawback of the **Direct Method** is its difficulty in teaching:",
+    "A": "Basic vocabulary to beginners.",
+    "B": "Abstract words and complex grammar rules.",
+    "C": "Pronunciation and intonation.",
+    "D": "Simple narrative texts.",
+    "Answer": "Abstract words and complex grammar rules.",
+    "Explanation": "Since the Direct Method prohibits the use of the mother tongue, explaining abstract concepts (e.g., honesty, freedom) or complex grammar without recourse to L1 translation or rule-giving can be very time-consuming and challenging."
+  },
+  {
+    "Question": "Statement A: **Comprehension Questions** should test both 'local' (surface) and 'global' (main idea) understanding of the text. Statement B: The questions should be written in English only, regardless of the student's proficiency level. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "B is incorrect. A is true, but B is false.",
+    "Explanation": "A is true: Comprehension must cover both details and main themes. B is false: While the aim is English, using L1 briefly for questions may be necessary at very low proficiency levels, as per pedagogical flexibility."
+  },
+  {
+    "Question": "Which aid is most effective for demonstrating the concept of a volcano or a historical battleground?",
+    "A": "Flashcards",
+    "B": "Realia (real objects)",
+    "C": "Models or 3D representations",
+    "D": "Blackboard",
+    "Answer": "Models or 3D representations",
+    "Explanation": "Models provide a scaled, three-dimensional representation, which is superior to flat pictures/charts for visualizing geographical or complex physical concepts."
+  },
+  {
+    "Question": "The **Structural Approach** to English teaching relies heavily on the principle of:",
+    "A": "Translation",
+    "B": "Language Habit Formation (Drills)",
+    "C": "Free Communication",
+    "D": "Grammar Deduction",
+    "Answer": "Language Habit Formation (Drills)",
+    "Explanation": "The structural method uses systematic presentation of structures and repeated practice (drills/pattern practice) to enable students to master these structures as habits."
+  },
+  {
+    "Question": "In the CCE system, which type of assessment contributes to the continuous, daily feedback process?",
+    "A": "Summative Assessment (SA)",
+    "B": "Formative Assessment (FA)",
+    "C": "Achievement Test",
+    "D": "Proficiency Test",
+    "Answer": "Formative Assessment (FA)",
+    "Explanation": "FA is the continuous, in-process assessment (quizzes, observations, homework) designed to provide ongoing feedback and monitor progress."
+  },
+  {
+    "Question": "The best way to teach the meaning of a complex word like **'Democracy'** to primary students would be through:",
+    "A": "Giving a complex, dictionary-style definition.",
+    "B": "Translation into the mother tongue only.",
+    "C": "Connecting it to real-life examples and simplified situations (Contextualization).",
+    "D": "Asking them to spell it repeatedly.",
+    "Answer": "Connecting it to real-life examples and simplified situations (Contextualization).",
+    "Explanation": "Abstract concepts are best taught by making them concrete through relatable examples, simplified stories, or real-life connections (Contextualization)."
+  },
+  {
+    "Question": "Which part of the writing process should focus on correcting spelling, punctuation, and grammar mistakes?",
+    "A": "Pre-writing",
+    "B": "Drafting",
+    "C": "Revising",
+    "D": "Editing",
+    "Answer": "Editing",
+    "Explanation": "Editing (or Proofreading) is the stage where the writer focuses on the surface mechanics of the text (grammar, capitalization, punctuation, spelling, word choice)."
+  },
+  {
+    "Question": "The term **'Interlanguage'** in language acquisition refers to:",
+    "A": "The language spoken by native speakers only.",
+    "B": "The learner's developing, non-native linguistic system that falls between L1 and L2.",
+    "C": "The use of L1 during L2 communication.",
+    "D": "A universal grammar shared by all languages.",
+    "Answer": "The learner's developing, non-native linguistic system that falls between L1 and L2.",
+    "Explanation": "Interlanguage is the idiosyncratic system a learner develops, incorporating features from the target language (L2), their native language (L1), and universal learning strategies. Errors are seen as natural evidence of this developing system."
+  },
+  {
+    "Question": "In ELT, the term **'Eclecticism'** suggests:",
+    "A": "Using only one specific teaching method (e.g., Direct Method).",
+    "B": "Selecting and combining techniques from various methods as appropriate.",
+    "C": "Relying entirely on the teacher's intuition.",
+    "D": "Focusing solely on the mother tongue.",
+    "Answer": "Selecting and combining techniques from various methods as appropriate.",
+    "Explanation": "Eclecticism is a flexible approach where the teacher chooses the best features and techniques from different methods (GTM, ALM, CLT, etc.) based on the specific lesson objectives, content, and learners' needs."
+  }
+]
