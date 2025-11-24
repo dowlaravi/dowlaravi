@@ -27,7 +27,7 @@
     "Explanation": "The Subjunctive Mood is used to express wishes, recommendations, demands, or hypothetical/unreal situations. 'If I were...' (instead of 'If I was...') is the classic form of the past subjunctive expressing an unreal condition."
   },
   {
-    "Question": "Statement A: The word 'accommodation' is commonly misspelled with a single 'c' and/or a single 'm'. Statement B: The root word is 'accommodate' and it requires both double 'c' and double 'm'.Choose the correct option:",
+    "Question": "Statement A: The word 'accommodation' is commonly misspelled with a single 'c' and/or a single 'm'.\nStatement B: The root word is 'accommodate' and it requires both double 'c' and double 'm'.\nChoose the correct option:",
     "A": "A is true, but B is false.",
     "B": "Both A and B are true.",
     "C": "A is false, but B is true.",
@@ -54,7 +54,7 @@
     "Explanation": "Adverbs of Degree (or Intensity) express the intensity or extent of an action, adjective, or another adverb (e.g., quite, very, extremely, almost). 'Yesterday' is Time. 'Abroad' is Place. 'Carefully' is Manner."
   },
   {
-    "Question": "Match the word with its Part of Speech in the given sentence: 'The train arrived **just** as I reached the station.'(I) Arrived\t(P) Conjunction(II) Just\t(Q) Verb(III) As(R) Adverb",
+    "Question": "Match the word with its Part of Speech in the given sentence: 'The train arrived **just** as I reached the station.'\n(I) Arrived\t(P) Conjunction\n(II) Just\t(Q) Verb\n(III) As\t(R) Adverb",
     "A": "I-Q, II-R, III-P",
     "B": "I-R, II-P, III-Q",
     "C": "I-Q, II-P, III-R",
@@ -99,7 +99,7 @@
     "Explanation": "The question is a Yes/No type, so 'if' or 'whether' is used. The Tense changes from Simple Present ('do you know') to Simple Past ('knew'), and 'this' changes to 'that'."
   },
   {
-    "Question": "Statement A: **'Many a man'** is grammatically correct and takes a singular verb. Statement B: The phrase **'a number of'** takes a plural verb. Choose the correct option:",
+    "Question": "Statement A: **'Many a man'** is grammatically correct and takes a singular verb.\nStatement B: The phrase **'a number of'** takes a plural verb.\nChoose the correct option:",
     "A": "A is true, but B is false.",
     "B": "A is false, but B is true.",
     "C": "Both A and B are true.",
@@ -171,7 +171,7 @@
     "Explanation": "Objective tests have a single, fixed, correct answer that eliminates subjective judgment in scoring (e.g., multiple-choice, true/false, fill-in-the-blanks). Essay questions are subjective."
   },
   {
-    "Question": "Statement A: **Speaking** is a skill that is best learned through meaningful interaction and purposeful communication.Statement B: **Accuracy** (correct grammar and pronunciation) should be prioritized over **Fluency** (smooth, rapid speech) at all stages of learning.Choose the correct option:",
+    "Question": "Statement A: **Speaking** is a skill that is best learned through meaningful interaction and purposeful communication.\nStatement B: **Accuracy** (correct grammar and pronunciation) should be prioritized over **Fluency** (smooth, rapid speech) at all stages of learning.\nChoose the correct option:",
     "A": "Both A and B are true.",
     "B": "A is true, but B is false.",
     "C": "A is false, but B is true.",
@@ -189,7 +189,7 @@
     "Explanation": "The Inductive Method is a discovery approach where the learner observes examples and patterns first and then generalizes or derives the underlying rule. (Also Known to Unknown, and Simple to Complex, but Example to Rule is the most specific definition)."
   },
   {
-    "Question": "Match the Language Tool/Resource with its primary function:(I) Dictionary(P) Provides synonyms and antonyms(II) Thesaurus(Q) Provides word pronunciation and meaning(III) Encyclopedia(R) Provides comprehensive subject information",
+    "Question": "Match the Language Tool/Resource with its primary function:\n(I) Dictionary\t(P) Provides synonyms and antonyms\n(II) Thesaurus\t(Q) Provides word pronunciation and meaning\n(III) Encyclopedia\t(R) Provides comprehensive subject information",
     "A": "I-Q, II-P, III-R",
     "B": "I-P, II-Q, III-R",
     "C": "I-R, II-P, III-Q",
@@ -234,7 +234,7 @@
     "Explanation": "Prosodic features like stress, rhythm, and intonation are auditory aspects of speech, best taught and practiced using audio equipment or a dedicated language lab."
   },
   {
-    "Question": "Statement A: **Vocabulary** should be taught in isolation through long lists for better retention.\nStatement B: Teaching vocabulary in a meaningful context (through sentence or text) promotes better understanding and use. Choose the correct option:",
+    "Question": "Statement A: **Vocabulary** should be taught in isolation through long lists for better retention.\nStatement B: Teaching vocabulary in a meaningful context (through sentence or text) promotes better understanding and use.\nChoose the correct option:",
     "A": "Both A and B are true.",
     "B": "A is true, but B is false.",
     "C": "A is false, but B is true.",
