@@ -1,1 +1,272 @@
-5
+[
+  {
+    "Question": "Choose the most appropriate Determiner: 'Could you give me **__________** sugar? I need to bake a cake.'",
+    "A": "many",
+    "B": "a few",
+    "C": "some",
+    "D": "either",
+    "Answer": "some",
+    "Explanation": "'Sugar' is an uncountable noun. 'Some' is used for uncountable nouns and plural countable nouns in offers, requests, and positive statements. 'Many' and 'a few' are used with countable nouns."
+  },
+  {
+    "Question": "Identify the word that is an Abstract Noun:",
+    "A": "Team",
+    "B": "Iron",
+    "C": "Courage",
+    "D": "City",
+    "Answer": "Courage",
+    "Explanation": "An Abstract Noun names a quality, idea, concept, or feeling that cannot be perceived by the five senses. 'Courage' is a quality."
+  },
+  {
+    "Question": "Statement A: The conjunction **'yet'** can be used to join two clauses showing a contrast.\nStatement B: 'Yet' is a coordinating conjunction, similar to 'but' or 'so'.\nChoose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "'Yet' (meaning 'but' or 'nevertheless') is a coordinating conjunction used to show contrast between two independent clauses (e.g., 'He ran fast, yet he missed the train')."
+  },
+  {
+    "Question": "Identify the sentence that uses the correct tense:",
+    "A": "I am working here since 2010.",
+    "B": "I have been working here since 2010.",
+    "C": "I work here since 2010.",
+    "D": "I worked here since 2010.",
+    "Answer": "I have been working here since 2010.",
+    "Explanation": "The phrase 'since 2010' indicates an action that started in the past and continues up to the present, which requires the Present Perfect Continuous Tense ('have been working')."
+  },
+  {
+    "Question": "Choose the correct spelling:",
+    "A": "Concious",
+    "B": "Conscience",
+    "C": "Consciencee",
+    "D": "Consciouse",
+    "Answer": "Conscience",
+    "Explanation": "The correct spelling for the noun meaning an inner sense of right and wrong is 'Conscience'."
+  },
+  {
+    "Question": "Match the word with its Pronunciation feature: (I) Cat (P) Voiceless Dental Fricative (II) Church (Q) Voiced Bilabial Stop (III) Bribe (R) Voiceless Palato-alveolar Affricate (IV) Thin (S) Voiceless Velar Stop",
+    "A": "I-S, II-R, III-Q, IV-P",
+    "B": "I-Q, II-R, III-S, IV-P",
+    "C": "I-S, II-P, III-Q, IV-R",
+    "D": "I-P, II-R, III-Q, IV-S",
+    "Answer": "I-S, II-R, III-Q, IV-P",
+    "Explanation": "Cat /kæt/: /k/ is Voiceless Velar Stop (S). Church /tʃɜːtʃ/: /tʃ/ is Voiceless Palato-alveolar Affricate (R). Bribe /braɪb/: /b/ is Voiced Bilabial Stop (Q). Thin /θɪn/: /θ/ is Voiceless Dental Fricative (P)."
+  },
+  {
+    "Question": "Identify the type of sentence: 'You must either apologize or face the consequences.'",
+    "A": "Simple Sentence",
+    "B": "Complex Sentence",
+    "C": "Compound Sentence",
+    "D": "Compound-Complex Sentence",
+    "Answer": "Compound Sentence",
+    "Explanation": "This sentence consists of two independent clauses ('You must apologize' and 'face the consequences' [implied 'you must face...']) joined by a correlative coordinating conjunction ('either... or'), making it a Compound Sentence."
+  },
+  {
+    "Question": "Change the sentence to Reported Speech: The officer commanded, 'Halt! Do not move!'",
+    "A": "The officer commanded them that they should halt and not move.",
+    "B": "The officer commanded them to halt and not to move.",
+    "C": "The officer told them to halt and not move.",
+    "D": "The officer commanded them halt and not move.",
+    "Answer": "The officer commanded them to halt and not to move.",
+    "Explanation": "Commands in Reported Speech use an appropriate reporting verb (commanded, ordered, requested) followed by the infinitive (to + V1). The negative command uses 'not to' + V1."
+  },
+  {
+    "Question": "Choose the antonym for the word **'Malicious'**.",
+    "A": "Spiteful",
+    "B": "Benevolent",
+    "C": "Wicked",
+    "D": "Vindictive",
+    "Answer": "Benevolent",
+    "Explanation": "'Malicious' means intending or intended to do harm (spiteful/wicked). 'Benevolent' means well-meaning and kind."
+  },
+  {
+    "Question": "Identify the word that has a different stress pattern:",
+    "A": "PHOto",
+    "B": "TElephone",
+    "C": "PHOtograph",
+    "D": "COMputer",
+    "Answer": "COMputer",
+    "Explanation": "In 'PHOto', 'TElephone', and 'PHOtograph', the primary stress falls on the **first syllable**. In 'COMputer', the primary stress falls on the **second syllable**."
+  },
+  {
+    "Question": "Fill in the blank with the appropriate preposition: 'The politician was charged __________ corruption.'",
+    "A": "with",
+    "B": "for",
+    "C": "of",
+    "D": "on",
+    "Answer": "with",
+    "Explanation": "The verb 'charged' (meaning formally accused) is conventionally followed by the preposition 'with' when stating the crime."
+  },
+  {
+    "Question": "Which part of speech is the word 'since' in the sentence: 'She has been absent **since** Monday'?",
+    "A": "Adverb",
+    "B": "Conjunction",
+    "C": "Preposition",
+    "D": "Adjective",
+    "Answer": "Preposition",
+    "Explanation": "Here, 'since' connects the verb ('has been absent') to a single noun phrase ('Monday'), functioning as a Preposition indicating the starting point of the time period."
+  },
+  {
+    "Question": "Statement A: **Extensive Reading** is crucial for developing reading speed and general vocabulary.\nStatement B: Books and materials for Extensive Reading should be slightly above the learner's current level (i+1).\nChoose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "A is true, but B is false.",
+    "Explanation": "A is true: Extensive reading is for fluency and general knowledge. B is false: Materials for extensive reading should generally be at or **below** the learner's current level (i-1) to ensure ease, flow, and enjoyment, reducing the need for constant dictionary reference."
+  },
+  {
+    "Question": "The principle of teaching from 'Concrete to Abstract' suggests:",
+    "A": "Starting with ideas and concepts before physical objects.",
+    "B": "Using real objects and pictures before moving to theoretical concepts.",
+    "C": "Using the mother tongue first and then English.",
+    "D": "Teaching rules first, then examples.",
+    "Answer": "Using real objects and pictures before moving to theoretical concepts.",
+    "Explanation": "Concrete things are physical and visible (real objects, aids). Abstract things are concepts, ideas, or theories. The principle suggests that learning is easier when starting with what can be seen and touched."
+  },
+  {
+    "Question": "Which approach emphasizes the importance of language habits and views errors as bad habits that need to be prevented through pattern practice?",
+    "A": "Communicative Language Teaching (CLT)",
+    "B": "Audio-Lingual Method (ALM)",
+    "C": "Task-Based Language Teaching (TBLT)",
+    "D": "The Silent Way",
+    "Answer": "Audio-Lingual Method (ALM)",
+    "Explanation": "ALM (and the Structural Approach) is heavily influenced by behaviorism, focusing on habit formation through drills and immediate error correction, viewing language as a set of structured habits."
+  },
+  {
+    "Question": "Match the term with its corresponding focus: (I) Morphology (P) Word meaning (II) Semantics (Q) Word formation (III) Pragmatics (R) Language use in context",
+    "A": "I-Q, II-P, III-R",
+    "B": "I-P, II-Q, III-R",
+    "C": "I-R, II-P, III-Q",
+    "D": "I-Q, II-R, III-P",
+    "Answer": "I-Q, II-P, III-R",
+    "Explanation": "Morphology: Study of word structure and formation (prefixes, suffixes). Semantics: Study of meaning in language. Pragmatics: Study of language use in a social/situational context."
+  },
+  {
+    "Question": "Which of the following activities best promotes the **Listening** skill?",
+    "A": "Writing a summary of a lecture.",
+    "B": "Taking dictation from a short passage.",
+    "C": "Silent reading of a newspaper article.",
+    "D": "Participating in a group discussion.",
+    "Answer": "Taking dictation from a short passage.",
+    "Explanation": "Dictation directly assesses the ability to accurately perceive, comprehend, and recall spoken language, making it a focused listening skill activity."
+  },
+  {
+    "Question": "Statement A: **Remedial Teaching** is always required for all language skills (LSRW). Statement B: Remedial teaching should be specific and tailored to the learner's diagnosed weakness. Choose the correct option:",
+    "A": "A is true, but B is false.",
+    "B": "Both A and B are true.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "C is incorrect. A is false, but B is true.",
+    "Explanation": "A is false: Remedial teaching is required only for the skills/areas where the learner is lagging, not necessarily all skills. B is true: It must be specific, addressing the individual learning gap identified by the diagnostic test."
+  },
+  {
+    "Question": "The major function of the **Recount** text type (as per SCERT syllabus) is to:",
+    "A": "Persuade the reader to agree with a point of view.",
+    "B": "Describe the characteristics of a person or place.",
+    "C": "Retell a sequence of events for the purpose of informing or entertaining.",
+    "D": "Give instructions on how to do something.",
+    "Answer": "Retell a sequence of events for the purpose of informing or entertaining.",
+    "Explanation": "A Recount text (e.g., diary entry, newspaper report, biography) is used to tell what happened by recounting a series of past events in chronological order."
+  },
+  {
+    "Question": "What does a **Rubric** provide in the context of writing assessment?",
+    "A": "Only the final grade for the assignment.",
+    "B": "A list of grammar rules to be checked.",
+    "C": "Clear criteria and standards for evaluating the quality of student work.",
+    "D": "The maximum word count for the essay.",
+    "Answer": "Clear criteria and standards for evaluating the quality of student work.",
+    "Explanation": "A rubric is a scoring guide that specifies expectations for an assignment, detailing criteria (e.g., organization, content, language use) and performance levels."
+  },
+  {
+    "Question": "Which approach is most closely linked with the concept of using 'real-world tasks' as the central activity for learning?",
+    "A": "Grammar Translation Method (GTM)",
+    "B": "Structural Approach",
+    "C": "Task-Based Language Teaching (TBLT)",
+    "D": "Silent Way",
+    "Answer": "Task-Based Language Teaching (TBLT)",
+    "Explanation": "TBLT (e.g., planning a trip, solving a mystery) involves learners completing a communicative task using any language they have, with the focus on meaning rather than form."
+  },
+  {
+    "Question": "The objective of teaching **Drama/Dialogue** is to improve students':",
+    "A": "Memorization skills only.",
+    "B": "Fluency, intonation, and practical use of conversational English.",
+    "C": "Ability to write long passages of descriptive text.",
+    "D": "Knowledge of the history of theatre.",
+    "Answer": "Fluency, intonation, and practical use of conversational English.",
+    "Explanation": "Drama and dialogues provide authentic material for practicing spoken language, improving pronunciation, intonation, and conversational skills in a fun, contextualized manner."
+  },
+  {
+    "Question": "Statement A: **Intrinsic Motivation** comes from within the student (e.g., enjoyment, interest).\nStatement B: Intrinsic motivation is generally more powerful and enduring than Extrinsic Motivation.\nChoose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "Intrinsic motivation (internal desire) is a key factor in sustained learning, usually leading to deeper engagement and better long-term outcomes than extrinsic motivation (rewards, grades)."
+  },
+  {
+    "Question": "The principle of **'Selection'** in organizing the English syllabus involves choosing language items (words, structures) based on:",
+    "A": "Teachability and Utility (usefulness).",
+    "B": "Random arrangement and complexity.",
+    "C": "The teacher's personal favorite items.",
+    "D": "Exclusively literary merit.",
+    "Answer": "Teachability and Utility (usefulness).",
+    "Explanation": "Selection involves choosing items that are highly frequent (utility), easy to learn (teachability), and relevant to the learners' needs."
+  },
+  {
+    "Question": "Which of the following is considered a **Projective Aid** in teaching-learning material?",
+    "A": "Blackboard",
+    "B": "Chart/Poster",
+    "C": "Overhead Projector (OHP) or Multimedia Projector",
+    "D": "Flashcards",
+    "Answer": "Overhead Projector (OHP) or Multimedia Projector",
+    "Explanation": "Projective aids (like OHP, slide projectors, multimedia projectors) are those that project or throw an enlarged image onto a screen or wall."
+  },
+  {
+    "Question": "What is the primary objective of teaching **Grammar Inductively**?",
+    "A": "To provide all rules upfront for memorization.",
+    "B": "To encourage students to discover the rules themselves through observation and analysis.",
+    "C": "To translate all the grammar rules into the mother tongue.",
+    "D": "To avoid teaching grammar altogether.",
+    "Answer": "To encourage students to discover the rules themselves through observation and analysis.",
+    "Explanation": "The inductive method fosters critical thinking by guiding students to analyze examples and deduce the underlying grammatical principles, promoting deeper understanding and retention."
+  },
+  {
+    "Question": "The use of **'Minimal Pairs'** (e.g., ship/sheep, bat/vat) as a teaching aid is primarily for improving:",
+    "A": "Reading speed.",
+    "B": "Vocabulary size.",
+    "C": "Pronunciation and auditory discrimination.",
+    "D": "Writing accuracy.",
+    "Answer": "Pronunciation and auditory discrimination.",
+    "Explanation": "Minimal pairs are words that differ by only one phoneme (sound). They are used to help learners distinguish between and correctly pronounce confusing sounds in the target language."
+  },
+  {
+    "Question": "A **Cloze Test** is a type of test item that primarily measures:",
+    "A": "Spoken fluency.",
+    "B": "Handwriting speed.",
+    "C": "Reading comprehension and vocabulary in context.",
+    "D": "Ability to write essays.",
+    "Answer": "Reading comprehension and vocabulary in context.",
+    "Explanation": "A Cloze Test requires the student to fill in missing words in a passage, assessing their ability to understand context, structure, and lexis (vocabulary) to correctly predict the obscured words."
+  },
+  {
+    "Question": "The term **'Error Analysis'** in ELT refers to:",
+    "A": "Counting the total number of errors made by a student.",
+    "B": "Identifying, classifying, and explaining the causes of errors to understand the learning process.",
+    "C": "Punishing students for making repeated mistakes.",
+    "D": "Comparing the student's errors with the teacher's language.",
+    "Answer": "Identifying, classifying, and explaining the causes of errors to understand the learning process.",
+    "Explanation": "Error analysis is a systematic study that treats errors not as failures, but as evidence of a learner's current understanding (interlanguage) and helps the teacher plan appropriate intervention."
+  },
+  {
+    "Question": "In the context of the syllabus, the text type that aims to provide facts and information about a subject is called:",
+    "A": "Narrative",
+    "B": "Exposition/Information Report",
+    "C": "Persuasion",
+    "D": "Recount",
+    "Answer": "Exposition/Information Report",
+    "Explanation": "Expository or Informational texts (like reports, articles) have the primary function of presenting factual information, describing, explaining, or classifying a subject."
+  }
+]
