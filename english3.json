@@ -1,1 +1,272 @@
-3
+[
+  {
+    "Question": "Identify the type of sentence: 'To err is human, to forgive, divine.'",
+    "A": "Simple Sentence",
+    "B": "Complex Sentence",
+    "C": "Compound Sentence",
+    "D": "Compound-Complex Sentence",
+    "Answer": "Simple Sentence",
+    "Explanation": "This sentence contains two principal clauses ('To err is human,' and 'to forgive, divine'), but they are often treated as a single compound idea or an instance of elliptical structure in this form, containing one main thought. However, the most accurate structural classification is that of two coordinate clauses, hence **Compound Sentence** if interpreted strictly with an implied 'it is'. Since 'to err' and 'to forgive' are non-finite verbs (infinitives), they don't form finite clauses. The sentence is actually a single simple sentence with two infinitival phrases acting as subjects, making **Simple Sentence** the acceptable answer in this context."
+  },
+  {
+    "Question": "Choose the correct relative pronoun to complete the sentence: 'This is the book, the author __________ is famous worldwide.'",
+    "A": "who",
+    "B": "which",
+    "C": "whom",
+    "D": "whose",
+    "Answer": "whose",
+    "Explanation": "The relative pronoun 'whose' is used to show possession. Here it indicates that the author **belongs** to the book (the author of the book)."
+  },
+  {
+    "Question": "Identify the mood of the verb in the sentence: 'If I were a bird, I would fly to you.'",
+    "A": "Indicative Mood",
+    "B": "Imperative Mood",
+    "C": "Subjunctive Mood",
+    "D": "Infinitive Mood",
+    "Answer": "Subjunctive Mood",
+    "Explanation": "The Subjunctive Mood is used to express wishes, recommendations, demands, or hypothetical/unreal situations. 'If I were...' (instead of 'If I was...') is the classic form of the past subjunctive expressing an unreal condition."
+  },
+  {
+    "Question": "Statement A: The word 'accommodation' is commonly misspelled with a single 'c' and/or a single 'm'. Statement B: The root word is 'accommodate' and it requires both double 'c' and double 'm'.Choose the correct option:",
+    "A": "A is true, but B is false.",
+    "B": "Both A and B are true.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "The spelling 'accommodation' (with double C and double M) is often a source of error. The base word 'accommodate' also follows this pattern."
+  },
+  {
+    "Question": "Choose the correct meaning of the Idiom: 'To bite the bullet.'",
+    "A": "To be extremely angry.",
+    "B": "To face a difficult or unpleasant situation with courage.",
+    "C": "To avoid conflict at all costs.",
+    "D": "To give up easily.",
+    "Answer": "To face a difficult or unpleasant situation with courage.",
+    "Explanation": "The idiom means to brace oneself for and endure a painful or unpleasant situation without flinching, derived from the historical practice of giving wounded soldiers a bullet to bite during surgery without anesthesia."
+  },
+  {
+    "Question": "Which of the following is an example of an **Adverb of Degree**?",
+    "A": "Yesterday",
+    "B": "Quite",
+    "C": "Abroad",
+    "D": "Carefully",
+    "Answer": "Quite",
+    "Explanation": "Adverbs of Degree (or Intensity) express the intensity or extent of an action, adjective, or another adverb (e.g., quite, very, extremely, almost). 'Yesterday' is Time. 'Abroad' is Place. 'Carefully' is Manner."
+  },
+  {
+    "Question": "Match the word with its Part of Speech in the given sentence: 'The train arrived **just** as I reached the station.'(I) Arrived\t(P) Conjunction(II) Just\t(Q) Verb(III) As(R) Adverb",
+    "A": "I-Q, II-R, III-P",
+    "B": "I-R, II-P, III-Q",
+    "C": "I-Q, II-P, III-R",
+    "D": "I-P, II-Q, III-R",
+    "Answer": "I-Q, II-R, III-P",
+    "Explanation": "'Arrived' is the main action (Verb). 'Just' modifies the conjunction 'as' (Adverb). 'As' introduces the subordinate clause (Conjunction)."
+  },
+  {
+    "Question": "Fill in the blank with the appropriate preposition: 'The student was scolded __________ his insolent behavior.'",
+    "A": "for",
+    "B": "on",
+    "C": "of",
+    "D": "with",
+    "Answer": "for",
+    "Explanation": "When scolding is done because of a reason or cause, the preposition 'for' is used."
+  },
+  {
+    "Question": "Choose the antonym for the word **'Ephemeral'**.",
+    "A": "Short-lived",
+    "B": "Transient",
+    "C": "Permanent",
+    "D": "Momentary",
+    "Answer": "Permanent",
+    "Explanation": "'Ephemeral' means lasting for a very short time. 'Permanent' is the opposite, meaning lasting forever or a very long time."
+  },
+  {
+    "Question": "Identify the correct transcription for the word **'Sight'**.",
+    "A": "/siːt/",
+    "B": "/saɪt/",
+    "C": "/sɪt/",
+    "D": "/ʃaɪt/",
+    "Answer": "/saɪt/",
+    "Explanation": "The word 'Sight' is pronounced with the long 'i' sound /aɪ/, followed by the final consonant /t/."
+  },
+  {
+    "Question": "Change the following into Indirect Speech: She asked, 'Do you know how to operate this machine?'",
+    "A": "She asked if he knew how to operate that machine.",
+    "B": "She asked whether he knew how to operate this machine.",
+    "C": "She asked that he knew how to operate the machine.",
+    "D": "She asked if he knows how to operate the machine.",
+    "Answer": "She asked if he knew how to operate that machine.",
+    "Explanation": "The question is a Yes/No type, so 'if' or 'whether' is used. The Tense changes from Simple Present ('do you know') to Simple Past ('knew'), and 'this' changes to 'that'."
+  },
+  {
+    "Question": "Statement A: **'Many a man'** is grammatically correct and takes a singular verb. Statement B: The phrase **'a number of'** takes a plural verb. Choose the correct option:",
+    "A": "A is true, but B is false.",
+    "B": "A is false, but B is true.",
+    "C": "Both A and B are true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "A is correct: 'Many a man is...' (singular verb). B is correct: 'A number of students are...' (plural verb). Note that 'The number of' takes a singular verb."
+  },
+  {
+    "Question": "Identify the error in the sentence: 'It is I who **is** responsible for the mistake.'",
+    "A": "It is I",
+    "B": "who is",
+    "C": "responsible",
+    "D": "for the mistake",
+    "Answer": "who is",
+    "Explanation": "In this type of construction, the verb in the relative clause must agree with the antecedent (the word the relative pronoun refers to). 'Who' refers to 'I', so the verb should be 'am'. Correct sentence: 'It is I who **am** responsible...'"
+  },
+  {
+    "Question": "Choose the correct phrase to complete the sentence: 'If I __________ rich, I would travel the world.'",
+    "A": "am",
+    "B": "was",
+    "C": "were",
+    "D": "had been",
+    "Answer": "were",
+    "Explanation": "This is a Second Conditional sentence expressing an unreal or hypothetical situation in the present. The Subjunctive form 'were' is used for all subjects in the 'if' clause for this conditional type."
+  },
+  {
+    "Question": "Identify the noun derived from the verb **'Justify'**.",
+    "A": "Justice",
+    "B": "Justification",
+    "C": "Justifiable",
+    "D": "Justly",
+    "Answer": "Justification",
+    "Explanation": "The noun form, meaning 'the action of showing something to be right or reasonable', is 'Justification'."
+  },
+  {
+    "Question": "Which of the following sentences uses the Gerund?",
+    "A": "He is **running** on the track.",
+    "B": "**Running** is a great form of exercise.",
+    "C": "He saw the boy **running** away.",
+    "D": "The **running** water was clear.",
+    "Answer": "**Running** is a great form of exercise.",
+    "Explanation": "A Gerund is the 'ing' form of a verb used as a noun. In this sentence, 'Running' is the subject of the sentence. In A and C, it is part of a verb phrase or a present participle, and in D, it's a participle adjective."
+  },
+  {
+    "Question": "Identify the Figure of Speech: 'Life, like a dome of many-colored glass, stains the white radiance of Eternity.'",
+    "A": "Metaphor",
+    "B": "Simile",
+    "C": "Hyperbole",
+    "D": "Apostrophe",
+    "Answer": "Simile",
+    "Explanation": "A Simile is a comparison between two unlike things using 'like' or 'as'. Here, 'Life' is compared to 'a dome of many-colored glass' using the word 'like'."
+  },
+  {
+    "Question": "The main focus of a teacher during the **Pre-reading** activity of a lesson should be to:",
+    "A": "Ask students to write down all the difficult words.",
+    "B": "Explain the entire story/poem in the mother tongue.",
+    "C": "Activate the learners' prior knowledge and motivate them.",
+    "D": "Directly start testing their comprehension.",
+    "Answer": "Activate the learners' prior knowledge and motivate them.",
+    "Explanation": "Pre-reading activities (like brainstorming, discussion, predicting) aim to build background knowledge, generate interest, and activate schemata relevant to the text, preparing students for effective reading."
+  },
+  {
+    "Question": "Which of the following is an example of an **'Objective Type'** test item?",
+    "A": "Write a short essay on climate change.",
+    "B": "Fill in the blanks with appropriate prepositions.",
+    "C": "Describe the main character of the story.",
+    "D": "Summarize the key themes of the poem.",
+    "Answer": "Fill in the blanks with appropriate prepositions.",
+    "Explanation": "Objective tests have a single, fixed, correct answer that eliminates subjective judgment in scoring (e.g., multiple-choice, true/false, fill-in-the-blanks). Essay questions are subjective."
+  },
+  {
+    "Question": "Statement A: **Speaking** is a skill that is best learned through meaningful interaction and purposeful communication.Statement B: **Accuracy** (correct grammar and pronunciation) should be prioritized over **Fluency** (smooth, rapid speech) at all stages of learning.Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "A is true, but B is false.",
+    "Explanation": "Speaking is a communicative skill that thrives on interaction (A is true). B is false: While accuracy is important, modern approaches prioritize fluency, especially in early stages, to build confidence and facilitate communication. Both are balanced."
+  },
+  {
+    "Question": "The **Inductive Method** of teaching grammar proceeds from:",
+    "A": "Rule to Example",
+    "B": "Known to Unknown",
+    "C": "Simple to Complex",
+    "D": "Example to Rule",
+    "Answer": "Example to Rule",
+    "Explanation": "The Inductive Method is a discovery approach where the learner observes examples and patterns first and then generalizes or derives the underlying rule. (Also Known to Unknown, and Simple to Complex, but Example to Rule is the most specific definition)."
+  },
+  {
+    "Question": "Match the Language Tool/Resource with its primary function:(I) Dictionary(P) Provides synonyms and antonyms(II) Thesaurus(Q) Provides word pronunciation and meaning(III) Encyclopedia(R) Provides comprehensive subject information",
+    "A": "I-Q, II-P, III-R",
+    "B": "I-P, II-Q, III-R",
+    "C": "I-R, II-P, III-Q",
+    "D": "I-Q, II-R, III-P",
+    "Answer": "I-Q, II-P, III-R",
+    "Explanation": "Dictionary: Meaning, Spelling, Pronunciation. Thesaurus: Synonyms, Antonyms. Encyclopedia: Detailed knowledge on broad subjects."
+  },
+  {
+    "Question": "A communicative activity like **'Role Play'** primarily helps students to:",
+    "A": "Improve their handwriting.",
+    "B": "Practice language functions and social interactions in a simulated environment.",
+    "C": "Memorize vocabulary lists.",
+    "D": "Master complex grammatical transformations.",
+    "Answer": "Practice language functions and social interactions in a simulated environment.",
+    "Explanation": "Role Play is a communicative technique that puts language into a real-life context, focusing on using language appropriately for different functions (e.g., requesting, apologizing, persuading)."
+  },
+  {
+    "Question": "What is the primary characteristic of the **Bilingual Method** of teaching English?",
+    "A": "Exclusive use of the target language (English).",
+    "B": "Use of the mother tongue only by the teacher to explain difficult words/rules.",
+    "C": "Continuous translation of every sentence.",
+    "D": "Teaching language through songs and games only.",
+    "Answer": "Use of the mother tongue only by the teacher to explain difficult words/rules.",
+    "Explanation": "The Bilingual Method, proposed by C.J. Dodson, advocates for the use of the mother tongue (L1) selectively and briefly by the teacher (not the students) to explain meanings and grammar, saving time and clarifying concepts."
+  },
+  {
+    "Question": "In the context of the CCE, what does the term **'Formative Assessment' (FA)** refer to?",
+    "A": "A single test conducted at the end of the academic year.",
+    "B": "Assessment done during the course of instruction for feedback and improvement.",
+    "C": "The final cumulative judgment of a student's performance.",
+    "D": "Assessment of only co-scholastic areas.",
+    "Answer": "Assessment done during the course of instruction for feedback and improvement.",
+    "Explanation": "FA is a continuous assessment (e.g., quizzes, observations, assignments) aimed at providing timely feedback to students and teachers to adjust teaching and learning strategies."
+  },
+  {
+    "Question": "Which teaching aid is most effective for demonstrating the stress and intonation patterns of English speech?",
+    "A": "Blackboard",
+    "B": "Flashcards",
+    "C": "Language Laboratory / Audio recordings",
+    "D": "Textbook charts",
+    "Answer": "Language Laboratory / Audio recordings",
+    "Explanation": "Prosodic features like stress, rhythm, and intonation are auditory aspects of speech, best taught and practiced using audio equipment or a dedicated language lab."
+  },
+  {
+    "Question": "Statement A: **Vocabulary** should be taught in isolation through long lists for better retention.\nStatement B: Teaching vocabulary in a meaningful context (through sentence or text) promotes better understanding and use. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "A is false, but B is true.",
+    "Explanation": "A is false: Learning vocabulary in isolation is difficult and often leads to poor retention. B is true: Contextual teaching ensures students understand both the meaning and appropriate usage of the new word."
+  },
+  {
+    "Question": "The approach that focuses on the basic building blocks of language—phonemes, morphemes, and syntactic patterns—is known as the:",
+    "A": "Communicative Approach",
+    "B": "Situational Approach",
+    "C": "Structural Approach",
+    "D": "Constructivist Approach",
+    "Answer": "Structural Approach",
+    "Explanation": "The Structural Approach is language-centred, focusing on the systematic teaching of the essential 'structures' or patterns (including sound and word formation) that make up the language."
+  },
+  {
+    "Question": "Which stage of the Writing Process involves improving organization, clarity, and tone, often with peer or teacher feedback?",
+    "A": "Pre-writing",
+    "B": "Drafting",
+    "C": "Revising",
+    "D": "Editing",
+    "Answer": "Revising",
+    "Explanation": "Revising is the stage where the writer focuses on 'content'—making changes to improve the overall message, structure, argument, and style. Editing focuses on 'mechanics' (grammar, spelling, punctuation)."
+  },
+  {
+    "Question": "The concept of 'Learning by Doing' in language teaching is most closely associated with the principles of:",
+    "A": "The Grammar Translation Method.",
+    "B": "The Direct Method and Communicative Language Teaching (CLT).",
+    "C": "The Deductive Method of teaching grammar.",
+    "D": "The practice of only listening and repetition.",
+    "Answer": "The Direct Method and Communicative Language Teaching (CLT).",
+    "Explanation": "Learning by Doing, or active involvement of the learner, is a cornerstone of methods like the Direct Method and CLT, which stress practical use and communication over passive learning."
+  }
+]
