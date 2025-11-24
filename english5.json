@@ -45,7 +45,7 @@
     "Explanation": "The correct spelling for the noun meaning an inner sense of right and wrong is 'Conscience'."
   },
   {
-    "Question": "Match the word with its Pronunciation feature: (I) Cat (P) Voiceless Dental Fricative (II) Church (Q) Voiced Bilabial Stop (III) Bribe (R) Voiceless Palato-alveolar Affricate (IV) Thin (S) Voiceless Velar Stop",
+    "Question": "Match the word with its Pronunciation feature:\n(I) Cat\t(P) Voiceless Dental Fricative\n(II) Church\t(Q) Voiced Bilabial Stop\n(III) Bribe\t(R) Voiceless Palato-alveolar Affricate\n(IV) Thin\t(S) Voiceless Velar Stop",
     "A": "I-S, II-R, III-Q, IV-P",
     "B": "I-Q, II-R, III-S, IV-P",
     "C": "I-S, II-P, III-Q, IV-R",
@@ -135,7 +135,7 @@
     "Explanation": "ALM (and the Structural Approach) is heavily influenced by behaviorism, focusing on habit formation through drills and immediate error correction, viewing language as a set of structured habits."
   },
   {
-    "Question": "Match the term with its corresponding focus: (I) Morphology (P) Word meaning (II) Semantics (Q) Word formation (III) Pragmatics (R) Language use in context",
+    "Question": "Match the term with its corresponding focus:\n(I) Morphology\t(P) Word meaning\n(II) Semantics\t(Q) Word formation\n(III) Pragmatics\t(R) Language use in context",
     "A": "I-Q, II-P, III-R",
     "B": "I-P, II-Q, III-R",
     "C": "I-R, II-P, III-Q",
@@ -153,7 +153,7 @@
     "Explanation": "Dictation directly assesses the ability to accurately perceive, comprehend, and recall spoken language, making it a focused listening skill activity."
   },
   {
-    "Question": "Statement A: **Remedial Teaching** is always required for all language skills (LSRW). Statement B: Remedial teaching should be specific and tailored to the learner's diagnosed weakness. Choose the correct option:",
+    "Question": "Statement A: **Remedial Teaching** is always required for all language skills (LSRW).\nStatement B: Remedial teaching should be specific and tailored to the learner's diagnosed weakness.\nChoose the correct option:",
     "A": "A is true, but B is false.",
     "B": "Both A and B are true.",
     "C": "A is false, but B is true.",
