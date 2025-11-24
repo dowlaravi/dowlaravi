@@ -1,1 +1,272 @@
-6
+[
+  {
+    "Question": "Identify the type of sentence: 'The audience clapped, and the musician bowed, but the concert was over.'",
+    "A": "Simple Sentence",
+    "B": "Complex Sentence",
+    "C": "Compound Sentence",
+    "D": "Compound-Complex Sentence",
+    "Answer": "Compound Sentence",
+    "Explanation": "The sentence contains three independent clauses (main clauses) joined by coordinating conjunctions ('and', 'but'), making it a Compound Sentence."
+  },
+  {
+    "Question": "Choose the correct phrase to complete the sentence: 'She behaved **__________** she were the queen of the party.'",
+    "A": "as",
+    "B": "like",
+    "C": "as if",
+    "D": "though",
+    "Answer": "as if",
+    "Explanation": "The phrase 'as if' or 'as though' is used to introduce an unreal or highly improbable comparison, often followed by the subjunctive form 'were'."
+  },
+  {
+    "Question": "Identify the word that is an example of a **Proper Adjective**:",
+    "A": "Small",
+    "B": "Golden",
+    "C": "Indian",
+    "D": "Enough",
+    "Answer": "Indian",
+    "Explanation": "Proper Adjectives are formed from Proper Nouns (India -> Indian, America -> American) and are always capitalized."
+  },
+  {
+    "Question": "Statement A: The plural of **'analysis'** is 'analyses'. Statement B: This plural formation is typical of Greek loanwords ending in '-is'. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "The plural of 'analysis' is 'analyses'. Other examples of this pattern include 'crisis'/'crises' and 'thesis'/'theses'."
+  },
+  {
+    "Question": "Choose the meaning of the Phrasal Verb: 'Break down'.",
+    "A": "To repair quickly.",
+    "B": "To fail emotionally or mentally.",
+    "C": "To postpone an event.",
+    "D": "To look for information.",
+    "Answer": "To fail emotionally or mentally.",
+    "Explanation": "While 'break down' can also mean 'stop functioning' (for a machine) or 'analyze', the common human context meaning is to lose control of one's emotions or suffer a mental collapse."
+  },
+  {
+    "Question": "Identify the figure of speech in the line: 'O, pardon me, thou bleeding piece of earth!' (Addressing Caesar's body).",
+    "A": "Simile",
+    "B": "Irony",
+    "C": "Apostrophe",
+    "D": "Hyperbole",
+    "Answer": "Apostrophe",
+    "Explanation": "Apostrophe is a figure of speech in which a speaker directly addresses a person (alive or dead), an inanimate object, or an abstract idea, which is not present or cannot respond."
+  },
+  {
+    "Question": "Fill in the blank with the appropriate preposition: 'I prefer coffee **__________** tea.'",
+    "A": "than",
+    "B": "to",
+    "C": "over",
+    "D": "from",
+    "Answer": "to",
+    "Explanation": "The verb 'prefer' is followed by the preposition 'to' when making a comparison of preference."
+  },
+  {
+    "Question": "Identify the word that has a silent letter:",
+    "A": "Castle",
+    "B": "Bottle",
+    "C": "Model",
+    "D": "Total",
+    "Answer": "Castle",
+    "Explanation": "In the word 'Castle' /'kɑːs(ə)l/, the letter **'t'** is silent."
+  },
+  {
+    "Question": "Choose the synonym for the word **'Alacrity'**.",
+    "A": "Lethargy",
+    "B": "Eagerness",
+    "C": "Slowness",
+    "D": "Reluctance",
+    "Answer": "Eagerness",
+    "Explanation": "'Alacrity' means brisk and cheerful readiness or enthusiasm; eagerness."
+  },
+  {
+    "Question": "Which of the following sentences correctly uses the comma for separating coordinate adjectives?",
+    "A": "She wore a bright, new, expensive saree.",
+    "B": "She wore a bright, new expensive saree.",
+    "C": "She wore a bright new expensive saree.",
+    "D": "She wore a bright and new and expensive saree.",
+    "Answer": "She wore a bright, new, expensive saree.",
+    "Explanation": "Coordinate adjectives (adjectives that separately modify the noun and can be joined by 'and') must be separated by commas. 'Bright', 'new', and 'expensive' all modify 'saree' individually."
+  },
+  {
+    "Question": "Identify the clause: 'I know **when he will arrive**.'",
+    "A": "Adjective Clause",
+    "B": "Adverb Clause of Time",
+    "C": "Noun Clause",
+    "D": "Main Clause",
+    "Answer": "Noun Clause",
+    "Explanation": "The clause 'when he will arrive' functions as the **direct object** of the verb 'know', thus acting as a Noun Clause."
+  },
+  {
+    "Question": "Change the sentence to Active Voice: 'A poem was recited by the girl beautifully.'",
+    "A": "The girl recited a poem beautifully.",
+    "B": "The girl was reciting a poem beautifully.",
+    "C": "A poem is recited by the girl beautifully.",
+    "D": "The girl has recited a poem beautifully.",
+    "Answer": "The girl recited a poem beautifully.",
+    "Explanation": "The Passive Voice structure ('was recited') is Simple Past Tense. The corresponding Active Voice structure is Subject (The girl) + V2 (recited) + Object (a poem)."
+  },
+  {
+    "Question": "The main goal of teaching **Spoken English** is to achieve:",
+    "A": "Native-like perfect accent and grammar.",
+    "B": "Intelligibility and fluency.",
+    "C": "Mastery of the written form of the language.",
+    "D": "Knowledge of complex linguistic terms.",
+    "Answer": "Intelligibility and fluency.",
+    "Explanation": "The practical goal of spoken language instruction is the ability to communicate effectively, ensuring that speech is understood (intelligibility) and flows naturally (fluency)."
+  },
+  {
+    "Question": "Statement A: **The principle of Habit Formation** suggests that language is learned through imitation, repetition, and practice. Statement B: This principle is a cornerstone of the **Grammar-Translation Method**. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "B is incorrect. A is true, but B is false.",
+    "Explanation": "A is true: Habit formation is key to acquiring fluency. B is false: The principle of habit formation, especially through drills and repetition, is central to the **Audio-Lingual Method (ALM)**, not the Grammar-Translation Method (GTM), which relies more on intellectual analysis."
+  },
+  {
+    "Question": "Which method of teaching English is primarily word-centered, focusing on teaching the meaning of words, phrases, and sentences through direct association and visualization?",
+    "A": "The Direct Method",
+    "B": "The Structural Approach",
+    "C": "The Reading Method",
+    "D": "The Communicative Language Teaching (CLT)",
+    "Answer": "The Direct Method",
+    "Explanation": "The Direct Method focuses on associating words and meanings directly, often using realia and pictures, banning the use of the mother tongue to ensure direct thought in English."
+  },
+  {
+    "Question": "Match the Language Skill with the relevant assessment activity:(I) Reading (P) Role-play/Conversation (II) Speaking (Q) Summarizing a text (III) Writing (R) Note-making from a lecture (IV) Listening (S) Essay/Letter writing",
+    "A": "I-Q, II-P, III-S, IV-R",
+    "B": "I-P, II-Q, III-R, IV-S",
+    "C": "I-Q, II-S, III-P, IV-R",
+    "D": "I-R, II-P, III-S, IV-Q",
+    "Answer": "I-Q, II-P, III-S, IV-R",
+    "Explanation": "Reading (Q) requires summarizing, indicating comprehension. Speaking (P) is assessed through oral interaction. Writing (S) involves producing structured text. Listening (R) involves capturing spoken information."
+  },
+  {
+    "Question": "The objective of teaching **Prose** is NOT to develop:",
+    "A": "Silent reading for speed and comprehension.",
+    "B": "Appreciation of literary style.",
+    "C": "The ability to reproduce text from memory.",
+    "D": "Vocabulary and context-based meaning.",
+    "Answer": "The ability to reproduce text from memory.",
+    "Explanation": "Modern language teaching focuses on understanding and application, not rote memorization (reproduction) of text. All other options are valid prose objectives."
+  },
+  {
+    "Question": "Statement A: **Formative Assessment (FA)** results are used for promotion to the next class. Statement B: FA is a continuous process that provides specific feedback to both students and teachers. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "C is incorrect. A is false, but B is true.",
+    "Explanation": "A is false: Promotion is based on **Summative Assessment (SA)** results. B is true: FA is done during instruction to improve learning and teaching."
+  },
+  {
+    "Question": "A student struggling with the comprehension of idioms and figurative language would require remedial teaching primarily focusing on:",
+    "A": "Phonology and articulation.",
+    "B": "Lexical competence and semantics (meaning).",
+    "C": "Syntax and sentence structure.",
+    "D": "Handwriting and spelling.",
+    "Answer": "Lexical competence and semantics (meaning).",
+    "Explanation": "Idioms and figurative language relate to the complex, non-literal meaning of words and phrases, which falls under lexical (vocabulary) and semantic (meaning) competence."
+  },
+  {
+    "Question": "Which teaching aid is most effective for visualizing the geographical/cultural background of a text?",
+    "A": "Flashcards of vocabulary.",
+    "B": "Map or Globe and relevant photographs.",
+    "C": "Language lab audio drills.",
+    "D": "Blackboard writing.",
+    "Answer": "Map or Globe and relevant photographs.",
+    "Explanation": "To provide context and visualize settings like countries, regions, or historical places mentioned in a text, maps, globes, and pictures are the most direct and effective visual aids."
+  },
+  {
+    "Question": "The **Deductive Method** of teaching grammar proceeds from:",
+    "A": "Rule to Example",
+    "B": "Specific to General",
+    "C": "Unseen to Seen",
+    "D": "Analysis to Synthesis",
+    "Answer": "Rule to Example",
+    "Explanation": "In the Deductive Method, the rule or definition is given first by the teacher, and then examples are used to illustrate the rule."
+  },
+  {
+    "Question": "Statement A: The aim of **Silent Reading** is to develop speed and comprehension. Statement B: Silent Reading is generally introduced earlier than Loud Reading in the curriculum. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "B is incorrect. A is true, but B is false.",
+    "Explanation": "A is true: Silent reading is for deep, rapid understanding. B is false: Loud/Oral reading is typically introduced first to help with pronunciation and word recognition; silent reading is introduced later, usually after primary grades, once basic word recognition is established."
+  },
+  {
+    "Question": "The text type that aims to convince the reader to take a particular action or adopt a specific viewpoint is:",
+    "A": "Narrative",
+    "B": "Recount",
+    "C": "Procedure",
+    "D": "Persuasion/Argumentative",
+    "Answer": "Persuasion/Argumentative",
+    "Explanation": "Persuasive texts (e.g., advertisements, debates, editorials) use arguments and evidence to influence the reader's opinion or action."
+  },
+  {
+    "Question": "In the four-fold classification of language skills (LSRW), **Speaking** is a:",
+    "A": "Receptive, Graphic Skill",
+    "B": "Receptive, Aural Skill",
+    "C": "Productive, Oral Skill",
+    "D": "Productive, Graphic Skill",
+    "Answer": "Productive, Oral Skill",
+    "Explanation": "Speaking involves producing (Productive) language using sound/speech (Oral/Aural), while writing is Productive/Graphic."
+  },
+  {
+    "Question": "The use of the Mother Tongue (L1) in the classroom is strictly prohibited in which method of teaching English?",
+    "A": "Grammar Translation Method",
+    "B": "Bilingual Method",
+    "C": "Direct Method",
+    "D": "Structural Approach",
+    "Answer": "Direct Method",
+    "Explanation": "The Direct Method (Natural Method) aims for a direct link between thought and the target language (English), forbidding the use of the mother tongue by both teacher and students."
+  },
+  {
+    "Question": "The term **'Lexis'** in language teaching refers to:",
+    "A": "The system of sounds in a language.",
+    "B": "The vocabulary or word stock of a language.",
+    "C": "The grammatical rules and structures.",
+    "D": "The social appropriateness of language.",
+    "Answer": "The vocabulary or word stock of a language.",
+    "Explanation": "Lexis is synonymous with vocabulary, encompassing individual words and phrases (lexical units)."
+  },
+  {
+    "Question": "Which characteristic best describes a **Criterion-Referenced Test** in ELT?",
+    "A": "It compares a student's performance with other students.",
+    "B": "It measures a student's mastery of specific, pre-determined learning objectives.",
+    "C": "It is always a multiple-choice question format.",
+    "D": "It is used only for placement purposes.",
+    "Answer": "It measures a student's mastery of specific, pre-determined learning objectives.",
+    "Explanation": "Criterion-referenced tests evaluate performance against a fixed set of criteria or standards (e.g., Can the student correctly use the simple past tense?), not against other students (Norm-Referenced Test)."
+  },
+  {
+    "Question": "What is the key benefit of providing **Contextual Clues** when introducing new vocabulary?",
+    "A": "It guarantees that the student will use the word correctly in all situations.",
+    "B": "It allows students to guess the meaning of a word from the surrounding text.",
+    "C": "It replaces the need for using a dictionary completely.",
+    "D": "It forces the student to memorize the word list.",
+    "Answer": "It allows students to guess the meaning of a word from the surrounding text.",
+    "Explanation": "Contextual clues (words, phrases, punctuation, structure) help learners infer or deduce the meaning of an unfamiliar word, promoting independent learning."
+  },
+  {
+    "Question": "The teaching of **Composition** (Writing) should ideally follow a process involving:",
+    "A": "Writing, Revising, Editing, Publishing (The Writing Process).",
+    "B": "Only copying from the textbook and memorization.",
+    "C": "Only focusing on perfect grammar from the first draft.",
+    "D": "Writing a single draft and submitting it.",
+    "Answer": "Writing, Revising, Editing, Publishing (The Writing Process).",
+    "Explanation": "The Writing Process (Pre-writing, Drafting, Revising, Editing, Publishing) is the widely accepted model for teaching effective composition."
+  },
+  {
+    "Question": "In a communicative classroom, **Error Correction** should ideally be:",
+    "A": "Done immediately and mechanically for all errors.",
+    "B": "Delayed and focused only on errors that impede comprehension (meaning).",
+    "C": "Done only by the student's peers.",
+    "D": "Ignored completely to promote fluency.",
+    "Answer": "Delayed and focused only on errors that impede comprehension (meaning).",
+    "Explanation": "In CLT, the focus is on meaningful communication. Correction should be selective (focusing on global errors that confuse meaning) and often delayed or handled indirectly to avoid disrupting fluency and confidence."
+  }
+]
