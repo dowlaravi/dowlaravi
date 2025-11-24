@@ -27,7 +27,7 @@
     "Explanation": "When two subjects are joined by 'neither... nor', the verb agrees with the subject nearest to it. Here, 'the teacher' (singular) is nearest to the blank, so the singular verb 'was' is used."
   },
   {
-    "Question": "Statement A: The sentence 'The news is true' is grammatically correct. Statement B: 'News' is an uncountable noun and always takes a singular verb. Choose the correct option:",
+    "Question": "Statement A: The sentence 'The news is true' is grammatically correct.\nStatement B: 'News' is an uncountable noun and always takes a singular verb.\nChoose the correct option:",
     "A": "A is true, but B is false.",
     "B": "A is false, but B is true.",
     "C": "Both A and B are true.",
@@ -99,7 +99,7 @@
     "Explanation": "'The little' means 'not much, but all there is'. The phrase 'I had' limits the money to a specific, small quantity that was spent entirely."
   },
   {
-    "Question": "Statement A: The suffix '-tion' is added to the verb 'educate' to form the noun 'education'.\nStatement B: The word 'undernourished' is formed using only a prefix and a root word. Choose the correct option:",
+    "Question": "Statement A: The suffix '-tion' is added to the verb 'educate' to form the noun 'education'.\nStatement B: The word 'undernourished' is formed using only a prefix and a root word.\nChoose the correct option:",
     "A": "Both A and B are true.",
     "B": "A is true, but B is false.",
     "C": "A is false, but B is true.",
@@ -180,7 +180,7 @@
     "Explanation": "GTM focuses heavily on reading, writing, and the explicit teaching of grammar rules through the mother tongue, neglecting the practical, oral aspects of language (Listening and Speaking)."
   },
   {
-    "Question": "Match the term with its definition in ELT: (I) Phoneme (P) The smallest unit of meaning (II) Morpheme (Q) The study of sentence structure (III) Syntax (R) The smallest unit of sound",
+    "Question": "Match the term with its definition in ELT:\n(I) Phoneme\t(P) The smallest unit of meaning\n(II) Morpheme\t(Q) The study of sentence structure\n(III) Syntax\t(R) The smallest unit of sound",
     "A": "I-R, II-P, III-Q",
     "B": "I-Q, II-R, III-P",
     "C": "I-P, II-Q, III-R",
