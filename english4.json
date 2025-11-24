@@ -1,1 +1,272 @@
-4
+[
+  {
+    "Question": "Identify the word that can function as an **Adverb of Frequency**:",
+    "A": "Today",
+    "B": "Almost",
+    "C": "Seldom",
+    "D": "There",
+    "Answer": "Seldom",
+    "Explanation": "Adverbs of Frequency (e.g., always, often, sometimes, seldom, never) answer the question 'How often?'. 'Today' is Time. 'Almost' is Degree. 'There' is Place."
+  },
+  {
+    "Question": "Choose the sentence where the definite article **'the'** is correctly used:",
+    "A": "The man is mortal.",
+    "B": "The gold is a precious metal.",
+    "C": "He plays the cricket every evening.",
+    "D": "The Sun rises in the East.",
+    "Answer": "The Sun rises in the East.",
+    "Explanation": "The definite article 'the' is used before unique objects (Sun, Moon, Earth), before the names of directions (East, West, when following a verb of motion or used in a fixed phrase), and before superlative degrees. It is generally not used before proper nouns, abstract nouns, or names of games."
+  },
+  {
+    "Question": "Statement A: 'Everyone' is an **Indefinite Pronoun** and is always singular.Statement B: The sentence 'Everyone have submitted their assignments' is correct.\nChoose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "A is true, but B is false.",
+    "Explanation": "A is true ('Everyone' is singular). B is false because a singular subject ('Everyone') requires a singular verb ('has'). The sentence should be: 'Everyone **has** submitted their assignments.'"
+  },
+  {
+    "Question": "Identify the function of the phrase: 'He lost his phone, **which was brand new**.'",
+    "A": "Adverb Clause",
+    "B": "Noun Clause",
+    "C": "Adjective Clause",
+    "D": "Main Clause",
+    "Answer": "Adjective Clause",
+    "Explanation": "The clause 'which was brand new' modifies the noun 'phone' by providing descriptive information. It is introduced by the relative pronoun 'which', hence it is an Adjective (or Relative) Clause."
+  },
+  {
+    "Question": "Choose the correct spelling:",
+    "A": "Seperate",
+    "B": "Sepperate",
+    "C": "Separate",
+    "D": "Seperatte",
+    "Answer": "Separate",
+    "Explanation": "The correct spelling is 'Separate' (A-R-A-T-E), often misspelled with an 'e' in the middle."
+  },
+  {
+    "Question": "Identify the Figure of Speech: 'Death lays his icy hand on kings.'",
+    "A": "Metaphor",
+    "B": "Apostrophe",
+    "C": "Alliteration",
+    "D": "Personification",
+    "Answer": "Personification",
+    "Explanation": "Death is an abstract concept given the human action of 'laying his icy hand' and the human attribute of 'his hand'."
+  },
+  {
+    "Question": "Change the sentence to Passive Voice: 'Who wrote this amazing book?'",
+    "A": "By whom was this amazing book written?",
+    "B": "By whom is this amazing book written?",
+    "C": "Who was this amazing book written by?",
+    "D": "This amazing book was written by whom?",
+    "Answer": "By whom was this amazing book written?",
+    "Explanation": "A question starting with 'Who' changes to 'By whom' in the Passive Voice. The tense is Simple Past, so the structure is 'By whom + was/were + Object + Past Participle (written)?'"
+  },
+  {
+    "Question": "Match the word with its Suffix: (I) Kindness (P) -ment (II) Argument (Q) -full (III) Beautiful (R) -ness",
+    "A": "I-Q, II-P, III-R",
+    "B": "I-R, II-P, III-Q",
+    "C": "I-P, II-R, III-Q",
+    "D": "I-R, II-Q, III-P",
+    "Answer": "I-R, II-P, III-Q",
+    "Explanation": "Kind + **ness** (R), Argu + **ment** (P), Beauty + **ful** (Q)."
+  },
+  {
+    "Question": "Choose the most appropriate synonym for the word **'Diligent'**.",
+    "A": "Lazy",
+    "B": "Industrious",
+    "C": "Sloppy",
+    "D": "Careless",
+    "Answer": "Industrious",
+    "Explanation": "'Diligent' means having or showing care and conscientiousness in one's work or duties; hardworking or industrious."
+  },
+  {
+    "Question": "Fill in the blank with the correct Phrasal Verb: 'The manager decided to **look __________** the complaints immediately.'",
+    "A": "into",
+    "B": "up",
+    "C": "after",
+    "D": "out",
+    "Answer": "into",
+    "Explanation": "'Look into' means to investigate or examine. 'Look up' means to search for (information). 'Look after' means to take care of. 'Look out' means to be careful."
+  },
+  {
+    "Question": "Identify the sentence that uses a **Transitive Verb**:",
+    "A": "The baby slept soundly.",
+    "B": "The sun rises in the east.",
+    "C": "The chef prepared a delicious meal.",
+    "D": "The birds fly high.",
+    "Answer": "The chef prepared a delicious meal.",
+    "Explanation": "A Transitive Verb is one that requires a direct object to complete its meaning. 'Prepared' takes the object 'a delicious meal'. The verbs in A, B, and D are Intransitive (do not take a direct object)."
+  },
+  {
+    "Question": "Choose the correct modal auxiliary to express strong obligation/necessity: 'You **__________** submit your project report by Friday, or you will fail the course.'",
+    "A": "might",
+    "B": "should",
+    "C": "must",
+    "D": "can",
+    "Answer": "must",
+    "Explanation": "'Must' is used to express strong obligation, duty, or necessity, especially when failure to comply has serious consequences."
+  },
+  {
+    "Question": "The main component of the **Communicative Language Teaching (CLT)** approach is:",
+    "A": "Focusing on error correction in every sentence.",
+    "B": "Developing the learner’s communicative competence.",
+    "C": "Memorizing dialogues and translation practice.",
+    "D": "Strict adherence to the mother tongue.",
+    "Answer": "Developing the learner’s communicative competence.",
+    "Explanation": "CLT’s central tenet is to enable learners to use language appropriately in real-life social contexts (communicative competence), prioritizing meaning and function over just grammatical form."
+  },
+  {
+    "Question": "Statement A: **Scanning** involves rapid eye movement to get a general overview of the text. Statement B: **Skimming** involves quickly searching for a specific piece of information (e.g., a date, a name, a number).Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "D is incorrect. A is false, but B is true is also incorrect. The correct reversal is: **A is false, but B is true.** is incorrect. Let's re-evaluate: Scanning is for specific information. Skimming is for general overview. Therefore, both statements are swapped. The correct logic is that **Both A and B are false** because the definitions are reversed. A is describing Skimming, and B is describing Scanning.",
+    "Explanation": "Statement A describes **Skimming**. Statement B describes **Scanning**. Since the terms are swapped, both individual statements are factually incorrect based on the provided definition."
+  },
+  {
+    "Question": "The primary aim of teaching **Poetry** at the school level is:",
+    "A": "To explain the historical background of the poet.",
+    "B": "To develop aesthetic sense and emotional appreciation.",
+    "C": "To use it as a tool for teaching complex grammar structures.",
+    "D": "To force students to memorize the lines.",
+    "Answer": "To develop aesthetic sense and emotional appreciation.",
+    "Explanation": "Poetry is taught primarily for enjoyment, development of imagination, and appreciation of rhythm, emotion, and beauty of language (aesthetic appreciation)."
+  },
+  {
+    "Question": "Match the Language Skill with its corresponding medium:(I) Listening (P) Visual/Graphic (II) Speaking (Q) Aural/Oral (III) Reading (R) Oral/Productive (IV) Writing(S) Visual/Receptive",
+    "A": "I-Q, II-R, III-S, IV-P",
+    "B": "I-R, II-Q, III-P, IV-S",
+    "C": "I-Q, II-P, III-R, IV-S",
+    "D": "I-R, II-S, III-Q, IV-P",
+    "Answer": "I-Q, II-R, III-S, IV-P",
+    "Explanation": "Listening is Aural/Oral Receptive (Q). Speaking is Oral/Productive (R). Reading is Visual/Graphic Receptive (S). Writing is Visual/Graphic Productive (P)."
+  },
+  {
+    "Question": "In language teaching, the term **'Micro-Teaching'** refers to:",
+    "A": "Teaching a small, isolated grammatical topic for a whole period.",
+    "B": "A training technique focusing on practicing specific teaching skills with a small group of students for a short duration.",
+    "C": "Teaching students who have very small learning gaps.",
+    "D": "Using microscopic tools to examine language structures.",
+    "Answer": "A training technique focusing on practicing specific teaching skills with a small group of students for a short duration.",
+    "Explanation": "Micro-teaching is a teacher training method that simplifies the complexities of the normal teaching process by reducing the class size, lesson duration, and focusing on one specific skill (e.g., skill of questioning or illustration)."
+  },
+  {
+    "Question": "The process of evaluating a student's learning gaps after instruction is part of:",
+    "A": "Placement Test",
+    "B": "Summative Evaluation",
+    "C": "Diagnostic Test",
+    "D": "Prognostic Test",
+    "Answer": "Diagnostic Test",
+    "Explanation": "Diagnostic tests are designed to identify specific areas of strength and weakness, often after initial instruction, which then informs the subsequent remedial teaching strategy."
+  },
+  {
+    "Question": "Which activity is central to the **Situational Language Teaching (SLT)** method?",
+    "A": "Explaining rules through the mother tongue.",
+    "B": "Memorizing long lists of vocabulary.",
+    "C": "Presenting new language items in realistic contexts/situations.",
+    "D": "Translating complex texts.",
+    "Answer": "Presenting new language items in realistic contexts/situations.",
+    "Explanation": "SLT (or Oral Approach) emphasizes that language should be taught through realistic, contextualized situations (e.g., at a shop, at a bus stop) to give the words and structures meaning."
+  },
+  {
+    "Question": "A learner's ability to interpret and produce spoken sounds correctly is called:",
+    "A": "Morphology",
+    "B": "Semantics",
+    "C": "Phonology",
+    "D": "Syntax",
+    "Answer": "Phonology",
+    "Explanation": "Phonology is the study of the organization and system of speech sounds (phonemes) in a specific language, including stress, intonation, and articulation."
+  },
+  {
+    "Question": "Statement A: **Assessment of Learning (AoL)** is typically summative. Statement B: **Assessment for Learning (AfL)** is typically formative and provides feedback to guide instruction. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "AoL (Summative) measures what has been learned at the end of a unit/course. AfL (Formative) is continuous, guiding the teaching/learning process."
+  },
+  {
+    "Question": "The principle of teaching from 'Simple to Complex' is known as the principle of:",
+    "A": "Concreteness",
+    "B": "Selection",
+    "C": "Gradation",
+    "D": "Motivation",
+    "Answer": "Gradation",
+    "Explanation": "The Principle of Gradation (or Sequencing) involves systematically arranging the teaching material (structures, vocabulary) in order of difficulty, proceeding from the simpler to the more complex."
+  },
+  {
+    "Question": "When designing a lesson plan for English, the term **'TLM'** stands for:",
+    "A": "Teaching, Learning, and Methodology",
+    "B": "Teaching-Learning Material",
+    "C": "Textbook and Lesson Management",
+    "D": "Telugu Language Medium",
+    "Answer": "Teaching-Learning Material",
+    "Explanation": "TLM refers to all the resources (aids, apparatus, books, charts) used by the teacher to facilitate the teaching and learning process."
+  },
+  {
+    "Question": "The main goal of teaching **Spoken English** in school is to achieve:",
+    "A": "Native-like perfect pronunciation and accent.",
+    "B": "Intelligibility and fluency in communication.",
+    "C": "The ability to lecture on abstract topics.",
+    "D": "Complete mastery of all grammatical rules.",
+    "Answer": "Intelligibility and fluency in communication.",
+    "Explanation": "The practical goal is not native perfection but the ability to speak clearly (intelligibly) and smoothly (fluently) enough to be understood in everyday interactions."
+  },
+  {
+    "Question": "Which part of a reading lesson focuses on checking the students' grasp of the content and ideas presented in the text?",
+    "A": "Model Reading by the teacher.",
+    "B": "Loud Reading by the student.",
+    "C": "Comprehension Questions.",
+    "D": "Silent Reading practice.",
+    "Answer": "Comprehension Questions.",
+    "Explanation": "Comprehension questions are specifically designed to test whether the students have understood the meaning and main ideas of the text."
+  },
+  {
+    "Question": "Statement A: The **Language Game** technique should only be used as a time-filler at the end of the class. Statement B: Language games provide a motivational and non-threatening way to practice language skills.Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "A is false, but B is true.",
+    "Explanation": "Language games are a valuable pedagogical tool (not just time-fillers) because they lower the affective filter (fear of making mistakes) and provide enjoyable practice of structures and vocabulary in a natural setting."
+  },
+  {
+    "Question": "The skill of making accurate and appropriate sounds in English is called:",
+    "A": "Prosody",
+    "B": "Pronunciation",
+    "C": "Intonation",
+    "D": "Accent",
+    "Answer": "Pronunciation",
+    "Explanation": "Pronunciation refers to the way a word or a language is spoken, focusing on the accuracy of the individual sounds (phonemes)."
+  },
+  {
+    "Question": "What is the primary purpose of using a **Blackboard/Whiteboard** as a teaching aid in an English class?",
+    "A": "To display ready-made charts and posters.",
+    "B": "To write down key vocabulary, structural patterns, and summaries for all students to see.",
+    "C": "To play audio recordings and videos.",
+    "D": "To conduct oral comprehension checks.",
+    "Answer": "To write down key vocabulary, structural patterns, and summaries for all students to see.",
+    "Explanation": "The board is a fundamental visual aid for presenting new information, writing clear examples, correcting errors, and outlining the lesson structure."
+  },
+  {
+    "Question": "In language testing, **'Validity'** refers to the extent to which a test:",
+    "A": "Can be administered and scored consistently.",
+    "B": "Measures what it is supposed to measure.",
+    "C": "Covers all the content taught in the syllabus.",
+    "D": "Is affordable and easy to conduct.",
+    "Answer": "Measures what it is supposed to measure.",
+    "Explanation": "Validity is the most important quality of a test; if a grammar test measures only vocabulary, it is not valid. **Reliability** refers to consistency (A), and **Content Validity** refers to syllabus coverage (C)."
+  },
+  {
+    "Question": "Which of the following is a characteristic of the **'Drill'** technique?",
+    "A": "Focus on creative, free-flowing communication.",
+    "B": "Repetitive, mechanical practice of a language pattern.",
+    "C": "Student-led discussion and debate.",
+    "D": "Analyzing literary texts deeply.",
+    "Answer": "Repetitive, mechanical practice of a language pattern.",
+    "Explanation": "Drills (or pattern practice) involve the controlled, repeated practice of a specific structure or pattern until it becomes automatic, a hallmark of methods like the Structural and Audio-Lingual Approaches."
+  }
+]
