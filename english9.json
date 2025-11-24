@@ -1,1 +1,272 @@
-9
+[
+  {
+    "Question": "Identify the type of sentence: 'She studies not only for her own growth but also for her family's future.'",
+    "A": "Simple Sentence",
+    "B": "Complex Sentence",
+    "C": "Compound Sentence",
+    "D": "Compound-Complex Sentence",
+    "Answer": "Simple Sentence",
+    "Explanation": "The sentence contains one independent clause ('She studies...') with a compound element ('not only... but also') modifying the reason, but it does not contain a second independent clause or a dependent clause, so it is a Simple Sentence."
+  },
+  {
+    "Question": "Choose the correct phrase to complete the sentence: 'It's time you **__________** a new job.'",
+    "A": "find",
+    "B": "found",
+    "C": "will find",
+    "D": "are finding",
+    "Answer": "found",
+    "Explanation": "The phrase 'It's time' (or 'It's high time') is an idiomatic construction used to express that something should have been done already. It is followed by the Past Simple Tense ('found'), even though it refers to a present or future action."
+  },
+  {
+    "Question": "Identify the word that is an example of a **Possessive Adjective**:",
+    "A": "Theirs",
+    "B": "Mine",
+    "C": "Her",
+    "D": "Which",
+    "Answer": "Her",
+    "Explanation": "Possessive Adjectives (my, your, his, her, its, our, their) precede a noun to show ownership (e.g., **Her** book). 'Theirs' and 'Mine' are Possessive Pronouns."
+  },
+  {
+    "Question": "Statement A: The word 'curriculum' is derived from a Latin word meaning 'a course'. Statement B: The curriculum encompasses only the academic subjects taught in the classroom. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "B is incorrect. A is true, but B is false.",
+    "Explanation": "A is true (curriculum means 'a course to run'). B is false: The curriculum includes all experiences, both academic and co-curricular, that a student receives under the guidance of the school."
+  },
+  {
+    "Question": "Choose the most appropriate preposition: 'The government has imposed a ban **__________** the sale of firecrackers.'",
+    "A": "at",
+    "B": "on",
+    "C": "with",
+    "D": "for",
+    "Answer": "on",
+    "Explanation": "The noun 'ban' is typically followed by the preposition 'on' when specifying the subject of the prohibition."
+  },
+  {
+    "Question": "Identify the Figure of Speech: 'He is the shining star of our football team.'",
+    "A": "Simile",
+    "B": "Metaphor",
+    "C": "Alliteration",
+    "D": "Personification",
+    "Answer": "Metaphor",
+    "Explanation": "A Metaphor is a direct comparison between two unlike things without using 'like' or 'as'. Here, 'He' is directly compared to 'the shining star'."
+  },
+  {
+    "Question": "Change the following into Passive Voice: 'We are making the final preparations for the event.'",
+    "A": "The final preparations are being made for the event.",
+    "B": "The final preparations have been made for the event.",
+    "C": "The final preparations are made for the event.",
+    "D": "The final preparations were being made for the event.",
+    "Answer": "The final preparations are being made for the event.",
+    "Explanation": "The Active Voice is Present Continuous Tense ('are making'). The Passive Voice structure for this tense is: Object + is/am/are + being + Past Participle (made)."
+  },
+  {
+    "Question": "Match the word parts with their classification:\n(I) Inter\t(P) Suffix\n(II) Vision\t(Q) Prefix\n(III) Ible\t(R) Root Word",
+    "A": "I-Q, II-R, III-P",
+    "B": "I-R, II-Q, III-P",
+    "C": "I-Q, II-P, III-R",
+    "D": "I-P, II-R, III-Q",
+    "Answer": "I-Q, II-R, III-P",
+    "Explanation": "Inter (between) is a Prefix (Q). Vision (sight) is a Root Word (R). -ible (capable of) is a Suffix (P)."
+  },
+  {
+    "Question": "Choose the antonym for the word **'Obsolete'**.",
+    "A": "Ancient",
+    "B": "Dated",
+    "C": "Modern",
+    "D": "Forgotten",
+    "Answer": "Modern",
+    "Explanation": "'Obsolete' means no longer produced or used; out of date (ancient, dated, forgotten are synonyms). 'Modern' is the opposite."
+  },
+  {
+    "Question": "Identify the word that has a different sound for the underlined letter:",
+    "A": "C**ea**se",
+    "B": "Gr**ea**t",
+    "C": "P**ea**ce",
+    "D": "L**ea**ve",
+    "Answer": "Gr**ea**t",
+    "Explanation": "In 'Cease', 'Peace', and 'Leave', 'ea' is pronounced with the long 'e' sound /iː/. In 'Great', 'ea' is pronounced with the long 'a' sound /eɪ/."
+  },
+  {
+    "Question": "Identify the type of verb: 'She **laughed** loudly at the joke.'",
+    "A": "Transitive Verb",
+    "B": "Auxiliary Verb",
+    "C": "Intransitive Verb",
+    "D": "Linking Verb",
+    "Answer": "Intransitive Verb",
+    "Explanation": "An Intransitive Verb does not take a direct object. The action ('laughed') is complete in itself; 'loudly' is an adverb of manner, not an object."
+  },
+  {
+    "Question": "Choose the sentence with the correct use of the definite article:",
+    "A": "The poverty is widespread in many areas.",
+    "B": "The French is a difficult language to master.",
+    "C": "The Himalayas are located in Asia.",
+    "D": "He went to the college to meet the principal.",
+    "Answer": "The Himalayas are located in Asia.",
+    "Explanation": "The definite article 'the' is correctly used before names of mountain ranges (Himalayas). It is generally not used before abstract nouns (poverty) or names of languages (French)."
+  },
+  {
+    "Question": "The main goal of the **Structural Approach** is:",
+    "A": "Development of literary appreciation.",
+    "B": "Accurate mastery of 200-300 graded sentence patterns.",
+    "C": "Fluency and communication only.",
+    "D": "Translation of texts into the mother tongue.",
+    "Answer": "Accurate mastery of 200-300 graded sentence patterns.",
+    "Explanation": "The Structural Approach is focused on the systematic, accurate teaching of the fundamental structures/patterns of the language through a graded syllabus, often aiming for a set number of mastered structures."
+  },
+  {
+    "Question": "Statement A: **Speaking** and **Writing** are considered Productive Skills. Statement B: **Listening** is an Aural-Oral skill, and **Reading** is a Graphic-Visual skill.  Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "A is incorrect. Both A and B are true.",
+    "Explanation": "A is true: Speaking/Writing produce language. B is true: Listening/Speaking are Aural-Oral; Reading/Writing are Graphic-Visual. The skills are categorized by their nature (receptive/productive) and medium (aural/graphic)."
+  },
+  {
+    "Question": "Which method of teaching English focuses on making the students learn vocabulary and structures through songs, games, and physical activities (Total Physical Response)?",
+    "A": "Grammar Translation Method",
+    "B": "Audio-Lingual Method",
+    "C": "Direct Method",
+    "D": "Suggestopedia and TPR",
+    "Answer": "Suggestopedia and TPR",
+    "Explanation": "Suggestopedia uses relaxation and music, while Total Physical Response (TPR) uses bodily movement (commands) to link language to action, making the learning process engaging and less stressful."
+  },
+  {
+    "Question": "Match the Test Type with its primary purpose: (I) Diagnostic Test (P) Measures overall achievement at the end (II) Proficiency Test (Q) Determines current general language ability (III) Achievement Test (R) Identifies specific learning difficulties",
+    "A": "I-R, II-Q, III-P",
+    "B": "I-Q, II-R, III-P",
+    "C": "I-P, II-Q, III-R",
+    "D": "I-R, II-P, III-Q",
+    "Answer": "I-R, II-Q, III-P",
+    "Explanation": "Diagnostic (R) finds weaknesses. Proficiency (Q) measures general skill level. Achievement (P) measures learning of taught material."
+  },
+  {
+    "Question": "The principle of teaching from 'Simple to Complex' is applied during the stage of:",
+    "A": "Correction of student errors.",
+    "B": "Selection and Gradation of the syllabus material.",
+    "C": "Teacher training and recruitment.",
+    "D": "Conducting the final examination.",
+    "Answer": "Selection and Gradation of the syllabus material.",
+    "Explanation": "This principle (Gradation) is fundamental to curriculum design, ensuring that the content is logically structured for efficient learning."
+  },
+  {
+    "Question": "Statement A: **Remedial Teaching** is required for slow learners to cope with the average pace of the class. Statement B: The content of remedial teaching should be generic and not related to the diagnostic test findings. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "B is incorrect. A is true, but B is false.",
+    "Explanation": "A is true (Remedial teaching's goal). B is false: Remedial content must be **specific** and directly follow the weaknesses identified by the diagnostic test."
+  },
+  {
+    "Question": "Which activity is best suited for developing **Intensive Reading** skill?",
+    "A": "Reading a full novel for pleasure.",
+    "B": "Answering specific, detailed questions about a short paragraph.",
+    "C": "Skimming a newspaper for headlines.",
+    "D": "Looking up a phone number in a directory.",
+    "Answer": "Answering specific, detailed questions about a short paragraph.",
+    "Explanation": "Intensive reading involves careful, detailed, and analytical reading of a short text for complete comprehension of its grammatical and lexical features."
+  },
+  {
+    "Question": "The term **'Realia'** in ELT refers to:",
+    "A": "Fictional stories and poems.",
+    "B": "Real objects, concrete things, and artifacts brought into the classroom.",
+    "C": "The virtual reality used in language labs.",
+    "D": "The teacher's personal experience.",
+    "Answer": "Real objects, concrete things, and artifacts brought into the classroom.",
+    "Explanation": "Realia (e.g., actual food items, coins, clothes, maps, tickets) are used to establish a direct link between the word/concept and the real object, eliminating the need for translation."
+  },
+  {
+    "Question": "The most effective method for teaching **Pronunciation** and **Intonation** is the:",
+    "A": "Grammar Translation Method.",
+    "B": "Direct Method/Audio-Lingual Method (through imitation and drilling).",
+    "C": "Deductive Method of Grammar.",
+    "D": "Reading Method.",
+    "Answer": "Direct Method/Audio-Lingual Method (through imitation and drilling).",
+    "Explanation": "Since these are oral skills, they require direct listening, imitation, and repeated practice (drills), which are central to the Direct and Audio-Lingual methods."
+  },
+  {
+    "Question": "What is the primary objective of teaching the **'Recount'** text type?",
+    "A": "To persuade the reader using arguments.",
+    "B": "To retell a past event in chronological order.",
+    "C": "To describe a character's features.",
+    "D": "To give a command or instruction.",
+    "Answer": "To retell a past event in chronological order.",
+    "Explanation": "The function of a recount is to reconstruct an experience or sequence of events (e.g., diary entry, autobiography, news report)."
+  },
+  {
+    "Question": "Statement A: **Peer Assessment** helps students develop a critical perspective on writing. Statement B: Peer assessment should be guided by a clear rubric to ensure fairness and focus. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "Peer assessment improves critical judgment (A). It requires clear guidelines (a rubric) to prevent it from becoming subjective or non-constructive (B)."
+  },
+  {
+    "Question": "The type of error correction where the teacher repeats the student's incorrect utterance with rising intonation, prompting the student to correct themselves, is called:",
+    "A": "Explicit Correction",
+    "B": "Recast",
+    "C": "Clarification Request",
+    "D": "Metalinguistic Feedback",
+    "Answer": "Clarification Request",
+    "Explanation": "A Clarification Request is an indirect correction technique where the teacher signals that the utterance was incorrect or unclear, without providing the correct form, forcing the student to rephrase."
+  },
+  {
+    "Question": "The concept of 'Learning in Context' suggests that new vocabulary and grammar should be taught:",
+    "A": "Through isolated lists and rules.",
+    "B": "Within meaningful sentences and situations.",
+    "C": "Only through translation into L1.",
+    "D": "By rote memorization of definitions.",
+    "Answer": "Within meaningful sentences and situations.",
+    "Explanation": "Contextualization ensures that students understand not just the meaning (semantics) but also the appropriate usage (pragmatics) of the new language item."
+  },
+  {
+    "Question": "Which principle suggests that the teaching material should be sufficient for the duration of the course and appropriate for the age and level of the students?",
+    "A": "Principle of Motivation",
+    "B": "Principle of Utility",
+    "C": "Principle of Selection",
+    "D": "Principle of Gradation",
+    "Answer": "Principle of Selection",
+    "Explanation": "The Principle of Selection (choosing which items to teach) includes the criteria of Coverage (sufficient material) and Teachability/Utility (appropriateness and usefulness)."
+  },
+  {
+    "Question": "The primary disadvantage of the **Grammar Translation Method (GTM)** is its failure to develop:",
+    "A": "Reading and writing skills.",
+    "B": "Explicit knowledge of grammar rules.",
+    "C": "Communicative competence (L and S skills).",
+    "D": "Vocabulary acquisition.",
+    "Answer": "Communicative competence (L and S skills).",
+    "Explanation": "GTM focuses on written language and grammar analysis, leading to a neglect of the aural/oral skills (Listening and Speaking) required for real-time communication."
+  },
+  {
+    "Question": "The use of an **'Analogy'** in teaching a new concept falls under which teaching maxim?",
+    "A": "Known to Unknown",
+    "B": "Concrete to Abstract",
+    "C": "Analysis to Synthesis",
+    "D": "Simple to Complex",
+    "Answer": "Known to Unknown",
+    "Explanation": "An analogy explains an unfamiliar concept (unknown) by comparing it to a familiar concept (known), thus bridging the knowledge gap using the Principle of Known to Unknown."
+  },
+  {
+    "Question": "What is the key feature of a **Norm-Referenced Test (NRT)**?",
+    "A": "It assesses mastery of specific criteria.",
+    "B": "It compares a student's score to the average performance of a standardization group.",
+    "C": "It is used only for remedial teaching.",
+    "D": "It is typically an informal, classroom quiz.",
+    "Answer": "It compares a student's score to the average performance of a standardization group.",
+    "Explanation": "NRTs are competitive, showing where a student ranks compared to their peers (the norm), often resulting in percentile scores or ranking."
+  },
+  {
+    "Question": "The stage of the writing process where the teacher helps students organize their ideas, brainstorm, and create an outline is called:",
+    "A": "Editing",
+    "B": "Drafting",
+    "C": "Pre-writing",
+    "D": "Revising",
+    "Answer": "Pre-writing",
+    "Explanation": "Pre-writing is the planning stage that occurs before the first draft, focusing on generating and organizing ideas, purpose, audience, and scope."
+  }
+]
