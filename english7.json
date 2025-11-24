@@ -1,1 +1,272 @@
-7
+[
+  {
+    "Question": "Identify the word that is an example of an **Intensifier**:",
+    "A": "However",
+    "B": "Yesterday",
+    "C": "Extremely",
+    "D": "Unless",
+    "Answer": "Extremely",
+    "Explanation": "Intensifiers are adverbs that increase the intensity or degree of an adjective or another adverb (e.g., extremely, very, absolutely, quite). 'However' is a transition word/adverb. 'Yesterday' is an Adverb of Time. 'Unless' is a subordinating conjunction."
+  },
+  {
+    "Question": "Choose the correct phrase to complete the sentence: 'If he **__________** harder, he would have passed the exam.'",
+    "A": "studied",
+    "B": "had studied",
+    "C": "has studied",
+    "D": "would study",
+    "Answer": "had studied",
+    "Explanation": "This is a Third Conditional sentence (expressing an impossible condition in the past). The 'if' clause requires the Past Perfect Tense ('had studied')."
+  },
+  {
+    "Question": "Identify the punctuation mark that is used to indicate possession or the omission of letters (contraction):",
+    "A": "Hyphen (-)",
+    "B": "Semicolon (;)",
+    "C": "Apostrophe (')",
+    "D": "Colon (:)",
+    "Answer": "Apostrophe (')",
+    "Explanation": "The apostrophe is used for possession (e.g., 'the boy's book') and contraction (e.g., 'don't' for 'do not')."
+  },
+  {
+    "Question": "Statement A: The word 'phenomenon' is the singular form.\nStatement B: The plural form of 'phenomenon' is 'phenomena'.\nChoose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "This illustrates a Greek plural form, where '-on' in the singular becomes '-a' in the plural (e.g., criterion/criteria, phenomenon/phenomena)."
+  },
+  {
+    "Question": "Identify the type of clause: 'He spoke with such force **that everyone listened**.'",
+    "A": "Adjective Clause",
+    "B": "Adverb Clause of Result",
+    "C": "Noun Clause",
+    "D": "Adverb Clause of Time",
+    "Answer": "Adverb Clause of Result",
+    "Explanation": "The clause 'that everyone listened' follows the main clause ('He spoke with such force') and shows the consequence or result of the action, often introduced by 'so...that' or 'such...that'."
+  },
+  {
+    "Question": "Match the word with its Antonym: (I) Vague  (P) Temporary (II) Permanent (Q) Clear (III) Mandatory (R) Discretionary",
+    "A": "I-Q, II-P, III-R",
+    "B": "I-P, II-Q, III-R",
+    "C": "I-R, II-P, III-Q",
+    "D": "I-Q, II-R, III-P",
+    "Answer": "I-Q, II-P, III-R",
+    "Explanation": "Vague (unclear) $\leftrightarrow$ Clear. Permanent $\leftrightarrow$ Temporary. Mandatory (required) $\leftrightarrow$ Discretionary (optional)."
+  },
+  {
+    "Question": "Change the sentence to Passive Voice: 'You should respect your elders.'",
+    "A": "Your elders should be respected by you.",
+    "B": "Your elders should respect you.",
+    "C": "Your elders must be respected by you.",
+    "D": "Your elders would be respected by you.",
+    "Answer": "Your elders should be respected by you.",
+    "Explanation": "The Passive Voice for modal verbs is: Object + Modal + be + Past Participle (respected) + (by Subject)."
+  },
+  {
+    "Question": "Identify the word that is an example of a **Demonstrative Adjective**:",
+    "A": "Ours",
+    "B": "Those",
+    "C": "Whose",
+    "D": "Mine",
+    "Answer": "Those",
+    "Explanation": "Demonstrative Adjectives (this, that, these, those) are followed by a noun that they modify (e.g., **Those** books are mine). If used alone (e.g., Those are mine), they are Pronouns. Since 'Those' is the only option that can function as a Determiner/Adjective, it is the correct choice."
+  },
+  {
+    "Question": "Choose the synonym for the word **'Obscure'**.",
+    "A": "Clear",
+    "B": "Prominent",
+    "C": "Vague",
+    "D": "Obvious",
+    "Answer": "Vague",
+    "Explanation": "'Obscure' means not discovered or known about; uncertain or vague."
+  },
+  {
+    "Question": "Fill in the blank with the correct Phrasal Verb: 'The old building was finally **__________** to make way for the new mall.'",
+    "A": "put up",
+    "B": "pulled down",
+    "C": "made out",
+    "D": "taken off",
+    "Answer": "pulled down",
+    "Explanation": "'Pulled down' means demolished or torn down. 'Put up' means constructed. 'Made out' means distinguished or understood. 'Taken off' means removed or departed."
+  },
+  {
+    "Question": "Identify the Figure of Speech: 'The entire city came out to welcome the champion.'",
+    "A": "Metaphor",
+    "B": "Synecdoche",
+    "C": "Hyperbole",
+    "D": "Alliteration",
+    "Answer": "Hyperbole",
+    "Explanation": "Hyperbole is the use of exaggerated terms for the purpose of emphasis or effect. The statement is an exaggeration (not the literal entire city came out)."
+  },
+  {
+    "Question": "Which of the following is an example of an **Auxiliary Verb**?",
+    "A": "Read",
+    "B": "Walk",
+    "C": "Must",
+    "D": "Believe",
+    "Answer": "Must",
+    "Explanation": "Auxiliary verbs (or helping verbs) are used with main verbs to form tense, voice, or mood. 'Must' is a modal auxiliary verb. 'Read', 'Walk', and 'Believe' are main verbs."
+  },
+  {
+    "Question": "The main emphasis of the **Communicative Language Teaching (CLT)** approach is on:",
+    "A": "Grammatical accuracy.",
+    "B": "Memorization of vocabulary.",
+    "C": "Meaningful interaction and function.",
+    "D": "Translation into the mother tongue.",
+    "Answer": "Meaningful interaction and function.",
+    "Explanation": "CLT prioritizes effective communication, focusing on the social function and meaning of language over purely structural correctness."
+  },
+  {
+    "Question": "Statement A: **Extensive Reading** is beneficial for integrating reading with other skills (writing/speaking).\nStatement B: Students should choose their own reading material in an extensive reading program.\nChoose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "A is true: Extensive reading provides input that can be integrated into other skills. B is true: Learner choice is crucial for motivation in extensive reading."
+  },
+  {
+    "Question": "Which of the following is a step in the **Inductive Method** of teaching grammar?",
+    "A": "Teacher states the rule.",
+    "B": "Students observe examples.",
+    "C": "Students are tested on the rule immediately.",
+    "D": "The rule is translated into L1.",
+    "Answer": "Students observe examples.",
+    "Explanation": "The inductive process starts with observing specific examples, followed by analysis, generalization (rule formation), and then practice."
+  },
+  {
+    "Question": "Match the Text Type with its primary function:(I) Narrative,(P) Telling a sequence of events (story),(II) Descriptive,(Q) Giving instructions (how to do),(III) Procedural,(R) Creating a mental image (details)",
+    "A": "I-R, II-P, III-Q",
+    "B": "I-P, II-R, III-Q",
+    "C": "I-Q, II-R, III-P",
+    "D": "I-P, II-Q, III-R",
+    "Answer": "I-P, II-R, III-Q",
+    "Explanation": "Narrative (storytelling) is about events. Descriptive is about sensory details. Procedural is about steps/instructions."
+  },
+  {
+    "Question": "The principle of teaching from 'Simple to Complex' is applied to the arrangement of:",
+    "A": "Teacher's seating arrangement.",
+    "B": "Language structures and vocabulary.",
+    "C": "Student discipline rules.",
+    "D": "The teacher's daily routine.",
+    "Answer": "Language structures and vocabulary.",
+    "Explanation": "This is the Principle of Gradation/Sequencing, crucial for organizing the content (structures and words) of the syllabus in a logical, learnable order."
+  },
+  {
+    "Question": "Statement A: **Micro-teaching** is a process that reduces the scale of teaching for practice. Statement B: The cycle of Micro-teaching includes Plan, Teach, Feedback, Re-plan, Re-teach, and Re-feedback. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "A is correct: Micro-teaching is a scaled-down training technique. B is correct: This is the standard micro-teaching cycle (Plan, Teach Feedback  ,Re-Plan ,Re-Teach , Re-Feedback)."
+  },
+  {
+    "Question": "Which part of a reading lesson aims to check the students' ability to read the text correctly with appropriate rhythm and pronunciation?",
+    "A": "Silent Reading",
+    "B": "Intensive Reading",
+    "C": "Loud/Oral Reading",
+    "D": "Extensive Reading",
+    "Answer": "Loud/Oral Reading",
+    "Explanation": "Loud or Oral Reading requires students to vocalize the text, allowing the teacher to assess and correct pronunciation, stress, and intonation."
+  },
+  {
+    "Question": "In ELT, the term **'Morpheme'** refers to:",
+    "A": "The smallest unit of sound.",
+    "B": "The smallest unit of meaning.",
+    "C": "The study of sentence structure.",
+    "D": "The stress pattern of a word.",
+    "Answer": "The smallest unit of meaning.",
+    "Explanation": "A morpheme is the minimal meaningful unit in a language (e.g., 'un-', 'teach', '-er', '-s' in 'un-teach-er-s'). 'Phoneme' is the smallest unit of sound."
+  },
+  {
+    "Question": "What is the primary objective of teaching **Drama/Dialogue** in the English class?",
+    "A": "To promote rote memorization of scripts.",
+    "B": "To develop conversational fluency and social skills.",
+    "C": "To teach complex rhetorical devices.",
+    "D": "To substitute for the textbook lessons.",
+    "Answer": "To develop conversational fluency and social skills.",
+    "Explanation": "Drama provides a realistic context for practicing spoken interaction, improving confidence, fluency, and the appropriate use of language in social settings."
+  },
+  {
+    "Question": "The use of **'Flashcards'** as a teaching aid is best suited for introducing or reviewing:",
+    "A": "Complex grammar rules.",
+    "B": "New vocabulary and visual associations.",
+    "C": "Long literary passages.",
+    "D": "Detailed historical facts.",
+    "Answer": "New vocabulary and visual associations.",
+    "Explanation": "Flashcards are quick, visual, and effective for presenting single words, pictures, or short phrases, aiding in vocabulary memorization and concept recall."
+  },
+  {
+    "Question": "Statement A: A good test should have **'Objectivity'**, meaning the scoring should not be influenced by the assessor's personal bias. Statement B: Multiple-choice questions (MCQs) are generally highly objective. Choose the correct option:",
+    "A": "Both A and B are true.",
+    "B": "A is true, but B is false.",
+    "C": "A is false, but B is true.",
+    "D": "Both A and B are false.",
+    "Answer": "Both A and B are true.",
+    "Explanation": "Objectivity ensures that different assessors score the same answer identically. MCQs, with only one correct option, are a highly objective test format."
+  },
+  {
+    "Question": "The purpose of a **Placement Test** in an English program is to:",
+    "A": "Assess what the student has learned at the end of the course.",
+    "B": "Identify the student's current proficiency level for group assignment.",
+    "C": "Diagnose the student's specific learning difficulties.",
+    "D": "Measure the effectiveness of the curriculum.",
+    "Answer": "Identify the student's current proficiency level for group assignment.",
+    "Explanation": "Placement tests are given before instruction begins to determine the most appropriate course or level for the learner."
+  },
+  {
+    "Question": "The concept that the teacher should connect the new English lesson to the students' previous knowledge and real-life experience is known as the principle of:",
+    "A": "Correlation with life",
+    "B": "Selection",
+    "C": "Gradation",
+    "D": "Motivation",
+    "Answer": "Correlation with life",
+    "Explanation": "The Principle of Correlation with Life (and Experience) suggests that learning is more meaningful and effective when connected to the student's existing knowledge, environment, and life outside the classroom."
+  },
+  {
+    "Question": "Which approach treats language primarily as a set of rules (grammar) that can be explicitly taught and memorized?",
+    "A": "Direct Method",
+    "B": "Audio-Lingual Method",
+    "C": "Grammar Translation Method (GTM)",
+    "D": "Communicative Language Teaching (CLT)",
+    "Answer": "Grammar Translation Method (GTM)",
+    "Explanation": "GTM focuses on teaching the rules of grammar, often deductively, and using translation between the mother tongue and the target language as the main medium."
+  },
+  {
+    "Question": "The ability to produce grammatically correct sentences is referred to as **'Grammatical Competence'**. Which approach prioritizes this heavily?",
+    "A": "Communicative Language Teaching (CLT)",
+    "B": "Structural Approach",
+    "C": "Task-Based Language Teaching (TBLT)",
+    "D": "The Silent Way",
+    "Answer": "Structural Approach",
+    "Explanation": "The Structural Approach aims for mastery of sentence patterns (structures), leading directly to a focus on grammatical accuracy and correctness."
+  },
+  {
+    "Question": "What is the primary benefit of encouraging students to engage in **'Peer Correction'**?",
+    "A": "It saves the teacher time by not having to mark assignments.",
+    "B": "It promotes collaborative learning, critical thinking, and self-awareness of errors.",
+    "C": "It ensures that only major errors are corrected.",
+    "D": "It guarantees perfect accuracy in the final output.",
+    "Answer": "It promotes collaborative learning, critical thinking, and self-awareness of errors.",
+    "Explanation": "Peer correction fosters a supportive learning environment, encourages students to analyze language use critically, and helps them recognize and fix their own potential mistakes."
+  },
+  {
+    "Question": "The text type that sets out a series of steps to achieve a goal (e.g., a recipe or a science experiment guide) is known as:",
+    "A": "Narrative",
+    "B": "Procedure",
+    "C": "Exposition",
+    "D": "Recount",
+    "Answer": "Procedure",
+    "Explanation": "Procedural texts are designed to instruct the reader on how to do or make something, characterized by a goal, a list of materials, and sequential steps."
+  },
+  {
+    "Question": "What does the term **'Intonation'** refer to in spoken English?",
+    "A": "The speed at which a person speaks.",
+    "B": "The loudness or softness of the voice.",
+    "C": "The rise and fall of the voice pitch in speaking.",
+    "D": "The individual sounds (phonemes) of a word.",
+    "Answer": "The rise and fall of the voice pitch in speaking.",
+    "Explanation": "Intonation is the pattern of pitch changes (rising, falling, or level tone) that convey meaning, emotion, and grammatical function (e.g., distinguishing a question from a statement)."
+  }
+]
