@@ -45,7 +45,7 @@
     "Explanation": "'Plausible' means (of an argument or statement) seeming reasonable or probable; believable."
   },
   {
-    "Question": "Match the word with its Pronunciation feature: (I) Ship (P) Voiced Dental Fricative (II) Vision (Q) Voiceless Palato-alveolar Fricative (III) Measure (R) Voiced Palato-alveolar Fricative (IV) That (S) Voiceless Bilabial Stop",
+    "Question": "Match the word with its Pronunciation feature:\n(I) Ship\t(P) Voiced Dental Fricative\n(II) Vision\t(Q) Voiceless Palato-alveolar Fricative\n(III) Measure\t(R) Voiced Palato-alveolar Fricative\n(IV) That\t(S) Voiceless Bilabial Stop",
     "A": "I-Q, II-R, III-P, IV-S",
     "B": "I-Q, II-R, III-R, IV-P",
     "C": "I-S, II-Q, III-R, IV-P",
@@ -135,7 +135,7 @@
     "Explanation": "The Bilingual Method advocates for controlled, strategic use of L1 by the teacher to quickly explain complex items, thus avoiding time-consuming direct demonstrations."
   },
   {
-    "Question": "Match the term with the element of spoken language: (I) Stress (P) Rise and fall of pitch (II) Intonation  (Q) Speed of speaking (III) Rhythm (R) Emphasis on a syllable or word (IV) Pace (S) Pattern of strong and weak beats",
+    "Question": "Match the term with the element of spoken language:\n(I) Stress\t(P) Rise and fall of pitch\n(II) Intonation\t(Q) Speed of speaking\n(III) Rhythm\t(R) Emphasis on a syllable or word\n(IV) Pace\t(S) Pattern of strong and weak beats",
     "A": "I-R, II-P, III-S, IV-Q",
     "B": "I-P, II-R, III-S, IV-Q",
     "C": "I-R, II-S, III-P, IV-Q",
@@ -153,7 +153,7 @@
     "Explanation": "Diagnosis is about finding the root cause of the error or learning gap, which directly informs the content of the follow-up remedial instruction."
   },
   {
-    "Question": "Statement A: The **'LSRW'** skills should be taught in isolation and separately. Statement B: Language skills are interconnected and should be integrated during teaching for meaningful learning. Choose the correct option:",
+    "Question": "Statement A: The **'LSRW'** skills should be taught in isolation and separately.\nStatement B: Language skills are interconnected and should be integrated during teaching for meaningful learning.\nChoose the correct option:",
     "A": "Both A and B are true.",
     "B": "A is true, but B is false.",
     "C": "A is false, but B is true.",
@@ -198,7 +198,7 @@
     "Explanation": "Since the Direct Method prohibits the use of the mother tongue, explaining abstract concepts (e.g., honesty, freedom) or complex grammar without recourse to L1 translation or rule-giving can be very time-consuming and challenging."
   },
   {
-    "Question": "Statement A: **Comprehension Questions** should test both 'local' (surface) and 'global' (main idea) understanding of the text. Statement B: The questions should be written in English only, regardless of the student's proficiency level. Choose the correct option:",
+    "Question": "Statement A: **Comprehension Questions** should test both 'local' (surface) and 'global' (main idea) understanding of the text.\nStatement B: The questions should be written in English only, regardless of the student's proficiency level.\nChoose the correct option:",
     "A": "Both A and B are true.",
     "B": "A is true, but B is false.",
     "C": "A is false, but B is true.",
